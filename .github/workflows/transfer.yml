@@ -1,0 +1,42 @@
+name: apply-transfer
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+jobs:
+  apply:
+    if: contains(github.event.issue.title, 'bytte') || contains(github.event.issue.title, 'Bytte')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: skriv issue-body til fil
+        env:
+          BODY: ${{ github.event.issue.body }}
+        run: printf '%s' "$BODY" > /tmp/issue_body.txt
+      - name: parse og oppdater team.json
+        id: apply
+        run: |
+          set +e
+          python apply_transfer_issue.py /tmp/issue_body.txt
+          echo "ok=$?" >> "$GITHUB_OUTPUT"
+      - name: commit ved suksess
+        if: steps.apply.outputs.ok == '0'
+        run: |
+          git config user.name "transfer-bot"
+          git config user.email "actions@github.com"
+          git add team.json
+          git commit -m "bytte via issue #${{ github.event.issue.number }}"
+          git push
+      - name: kvitter på issuen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} --body-file result.md
+          if [ "${{ steps.apply.outputs.ok }}" = "0" ]; then
+            gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
+          fi
