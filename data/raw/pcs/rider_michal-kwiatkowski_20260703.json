@@ -1,0 +1,535 @@
+{
+ "birthdate": "1990-6-2",
+ "height": 1.76,
+ "image_url": "images/riders/ge/dq/michal-kwiatkowski-2026-n2-n3.png",
+ "name": "Michał Kwiatkowski",
+ "nationality": "PL",
+ "place_of_birth": "Poland",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 55,
+   "rank": 584
+  },
+  {
+   "season": 2025,
+   "points": 221,
+   "rank": 296
+  },
+  {
+   "season": 2024,
+   "points": 157,
+   "rank": 395
+  },
+  {
+   "season": 2023,
+   "points": 485,
+   "rank": 122
+  },
+  {
+   "season": 2022,
+   "points": 273,
+   "rank": 224
+  },
+  {
+   "season": 2021,
+   "points": 562,
+   "rank": 82
+  },
+  {
+   "season": 2020,
+   "points": 632,
+   "rank": 50
+  },
+  {
+   "season": 2019,
+   "points": 635,
+   "rank": 87
+  },
+  {
+   "season": 2018,
+   "points": 1465,
+   "rank": 14
+  },
+  {
+   "season": 2017,
+   "points": 1638,
+   "rank": 10
+  },
+  {
+   "season": 2016,
+   "points": 623,
+   "rank": 73
+  },
+  {
+   "season": 2015,
+   "points": 1053,
+   "rank": 25
+  },
+  {
+   "season": 2014,
+   "points": 1840,
+   "rank": 5
+  },
+  {
+   "season": 2013,
+   "points": 1122,
+   "rank": 21
+  },
+  {
+   "season": 2012,
+   "points": 437,
+   "rank": 126
+  },
+  {
+   "season": 2011,
+   "points": 283,
+   "rank": 209
+  },
+  {
+   "season": 2010,
+   "points": 71,
+   "rank": 670
+  },
+  {
+   "season": 2009,
+   "points": 13,
+   "rank": 1535
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 4752,
+  "gc": 3750,
+  "time_trial": 3605,
+  "sprint": 702,
+  "climber": 3410,
+  "hills": 3612
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-poland/2026/result",
+   "stage_name": "National Championships Poland ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 32,
+   "gc_position": null,
+   "distance": 159.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-poland-itt/2026/result",
+   "stage_name": "National Championships Poland ME - ITT (NC)",
+   "date": "2026-06-25",
+   "result": 1,
+   "gc_position": null,
+   "distance": 39.8,
+   "pcs_points": 15.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 65,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 64,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 20,
+   "gc_position": 66,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 64,
+   "gc_position": 71,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 90,
+   "gc_position": 87,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 57,
+   "gc_position": 58,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": null,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": null,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 105,
+   "gc_position": 74,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 83,
+   "gc_position": 67,
+   "distance": 179.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 46,
+   "gc_position": 71,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 79,
+   "gc_position": 70,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 1,
+   "gc_position": 66,
+   "distance": 23.5,
+   "pcs_points": 20.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 82,
+   "gc_position": 83,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 98,
+   "gc_position": 94,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 75,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 55,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 5.0,
+   "uci_points": 4.0
+  },
+  {
+   "stage_url": "national-race/cadels-criterium/2026/result",
+   "stage_name": "Cadel's Criterium (NAT)",
+   "date": "2026-01-29",
+   "result": 15,
+   "gc_position": null,
+   "distance": 50.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 47,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 42,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 83,
+   "gc_position": 57,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 28,
+   "gc_position": 56,
+   "distance": 140.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 67,
+   "gc_position": 65,
+   "distance": 148.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 99,
+   "gc_position": 34,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 36,
+   "gc_position": 36,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "Netcompany INEOS",
+   "team_url": "team/netcompany-ineos-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "Netcompany INEOS",
+   "team_url": "team/netcompany-ineos-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Netcompany INEOS",
+   "team_url": "team/netcompany-ineos-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team INEOS",
+   "team_url": "team/team-ineos-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Sky",
+   "team_url": "team/team-sky-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Team Sky",
+   "team_url": "team/team-sky-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Sky",
+   "team_url": "team/team-sky-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Etixx - Quick Step",
+   "team_url": "team/etixx-quick-step-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Omega Pharma - Quick-Step",
+   "team_url": "team/omega-pharma-quick-step-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Omega Pharma - Quick-Step",
+   "team_url": "team/omega-pharma-quick-step-2013",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Omega Pharma - Quick-Step",
+   "team_url": "team/omega-pharma-quick-step-2012",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "RadioShack",
+   "team_url": "team/radioshack-2011",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Caja Rural",
+   "team_url": "team/caja-rural-2010",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 68.0
+}

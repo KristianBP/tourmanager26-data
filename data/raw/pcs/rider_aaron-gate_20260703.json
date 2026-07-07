@@ -1,0 +1,553 @@
+{
+ "birthdate": "1990-11-26",
+ "height": 1.81,
+ "image_url": "images/riders/di/dq/aaron-gate-2026.jpeg",
+ "name": "Aaron Gate",
+ "nationality": "NZ",
+ "place_of_birth": "New Zealand",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 110,
+   "rank": 351
+  },
+  {
+   "season": 2025,
+   "points": 629,
+   "rank": 79
+  },
+  {
+   "season": 2024,
+   "points": 534,
+   "rank": 109
+  },
+  {
+   "season": 2023,
+   "points": 151,
+   "rank": 402
+  },
+  {
+   "season": 2022,
+   "points": 384,
+   "rank": 157
+  },
+  {
+   "season": 2021,
+   "points": 83,
+   "rank": 514
+  },
+  {
+   "season": 2020,
+   "points": 29,
+   "rank": 741
+  },
+  {
+   "season": 2019,
+   "points": 105,
+   "rank": 592
+  },
+  {
+   "season": 2018,
+   "points": 53,
+   "rank": 910
+  },
+  {
+   "season": 2017,
+   "points": 69,
+   "rank": 791
+  },
+  {
+   "season": 2016,
+   "points": 14,
+   "rank": 1575
+  },
+  {
+   "season": 2015,
+   "points": 29,
+   "rank": 1171
+  },
+  {
+   "season": 2014,
+   "points": 2,
+   "rank": 2309
+  },
+  {
+   "season": 2013,
+   "points": 16,
+   "rank": 1417
+  },
+  {
+   "season": 2012,
+   "points": 10,
+   "rank": 1665
+  },
+  {
+   "season": 2011,
+   "points": 6,
+   "rank": 2017
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 605,
+  "gc": 958,
+  "time_trial": 649,
+  "sprint": 692,
+  "climber": 167,
+  "hills": 909
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 36,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 35,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 35,
+   "gc_position": 40,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 42,
+   "gc_position": 42,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 67,
+   "gc_position": 43,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 30,
+   "gc_position": 32,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 86,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 15,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 6.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/stage-5",
+   "stage_name": "S5Stage 5 - Tartar › Khankendi",
+   "date": "2026-05-14",
+   "result": 15,
+   "gc_position": null,
+   "distance": 181.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/stage-4",
+   "stage_name": "S4Stage 4 - Ganja › Naftalan",
+   "date": "2026-05-13",
+   "result": 17,
+   "gc_position": 5,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/stage-3",
+   "stage_name": "S3Stage 3 - Gabala › Mingachevir",
+   "date": "2026-05-12",
+   "result": 11,
+   "gc_position": 5,
+   "distance": 162.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/stage-2",
+   "stage_name": "S2Stage 2 - Baku › İsmayıllı",
+   "date": "2026-05-11",
+   "result": 5,
+   "gc_position": 5,
+   "distance": 193.3,
+   "pcs_points": 4.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/baku-khankendi-azerbaijan-cycling-race/2026/stage-1",
+   "stage_name": "S1Stage 1 - Baku › Sumqayıt",
+   "date": "2026-05-10",
+   "result": 19,
+   "gc_position": 22,
+   "distance": 160.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 96,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": null,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": null,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 79,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classic-brugge-de-panne/2026/result",
+   "stage_name": "Ronde Van Brugge - Tour of Bruges ME (1.UWT)",
+   "date": "2026-03-25",
+   "result": 22,
+   "gc_position": null,
+   "distance": 202.9,
+   "pcs_points": 13.0,
+   "uci_points": 16.0
+  },
+  {
+   "stage_url": "race/gp-de-denain/2026/result",
+   "stage_name": "Grand Prix de Denain - Porte du Hainaut (1.Pro)",
+   "date": "2026-03-19",
+   "result": null,
+   "gc_position": null,
+   "distance": 200.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nokere-koerse/2026/result",
+   "stage_name": "Danilith Nokere Koerse (1.Pro)",
+   "date": "2026-03-18",
+   "result": 72,
+   "gc_position": null,
+   "distance": 186.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 118,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 121,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 10,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 42.0,
+   "uci_points": 68.0
+  },
+  {
+   "stage_url": "national-race/cadels-criterium/2026/result",
+   "stage_name": "Cadel's Criterium (NAT)",
+   "date": "2026-01-29",
+   "result": 24,
+   "gc_position": null,
+   "distance": 50.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 7,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 41,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 20,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 5,
+   "gc_position": 50,
+   "distance": 130.8,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 5,
+   "gc_position": 55,
+   "distance": 140.8,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 69,
+   "gc_position": 62,
+   "distance": 148.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 15,
+   "gc_position": 27,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 25,
+   "gc_position": 25,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Burgos - BH",
+   "team_url": "team/burgos-bh-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Bolton Equities Black Spoke",
+   "team_url": "team/bolton-equities-black-spoke-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Bolton Equities Black Spoke Pro Cycling",
+   "team_url": "team/bolton-equities-black-spoke-pro-cycling-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Black Spoke Pro Cycling Academy",
+   "team_url": "team/black-spoke-pro-cycling-academy-2021",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Black Spoke Pro Cycling Academy",
+   "team_url": "team/black-spoke-pro-cycling-academy-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "EvoPro Racing",
+   "team_url": "team/evopro-racing-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Aqua Blue Sport",
+   "team_url": "team/aqua-blue-sport-2018",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Aqua Blue Sport",
+   "team_url": "team/aqua-blue-sport-2017",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "An Post Chain Reaction",
+   "team_url": "team/an-post-chain-reaction-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "An Post - Chain Reaction",
+   "team_url": "team/an-post-chain-reaction-2015",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "An Post - Chain Reaction",
+   "team_url": "team/an-post-chain-reaction-2014",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "An Post - Chain Reaction",
+   "team_url": "team/an-post-chain-reaction-2013",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 71.0
+}

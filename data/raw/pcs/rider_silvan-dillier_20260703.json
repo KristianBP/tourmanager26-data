@@ -1,0 +1,562 @@
+{
+ "birthdate": "1990-8-3",
+ "height": 1.83,
+ "image_url": "images/riders/iq/dq/silvan-dillier-2026.jpg",
+ "name": "Silvan Dillier",
+ "nationality": "CH",
+ "place_of_birth": "Switzerland",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 35,
+   "rank": 773
+  },
+  {
+   "season": 2025,
+   "points": 55,
+   "rank": 769
+  },
+  {
+   "season": 2024,
+   "points": 65,
+   "rank": 685
+  },
+  {
+   "season": 2023,
+   "points": 78,
+   "rank": 657
+  },
+  {
+   "season": 2022,
+   "points": 76,
+   "rank": 584
+  },
+  {
+   "season": 2021,
+   "points": 118,
+   "rank": 416
+  },
+  {
+   "season": 2020,
+   "points": 87,
+   "rank": 358
+  },
+  {
+   "season": 2019,
+   "points": 112,
+   "rank": 559
+  },
+  {
+   "season": 2018,
+   "points": 464,
+   "rank": 124
+  },
+  {
+   "season": 2017,
+   "points": 617,
+   "rank": 78
+  },
+  {
+   "season": 2016,
+   "points": 207,
+   "rank": 305
+  },
+  {
+   "season": 2015,
+   "points": 400,
+   "rank": 141
+  },
+  {
+   "season": 2014,
+   "points": 484,
+   "rank": 101
+  },
+  {
+   "season": 2013,
+   "points": 80,
+   "rank": 642
+  },
+  {
+   "season": 2012,
+   "points": 14,
+   "rank": 1533
+  },
+  {
+   "season": 2011,
+   "points": 19,
+   "rank": 1407
+  },
+  {
+   "season": 2010,
+   "points": 3,
+   "rank": 2225
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1261,
+  "gc": 997,
+  "time_trial": 526,
+  "sprint": 432,
+  "climber": 296,
+  "hills": 530
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 79,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 68,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 60,
+   "gc_position": 99,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 115,
+   "gc_position": 101,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 78,
+   "gc_position": 83,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 97,
+   "gc_position": 98,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-du-canton-d-argovie/2026/result",
+   "stage_name": "GP Gippingen (1.1)",
+   "date": "2026-06-14",
+   "result": 61,
+   "gc_position": null,
+   "distance": 173.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 135,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 116,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 113,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": null,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 154,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 139,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 139,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 102,
+   "gc_position": 137,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 96,
+   "gc_position": 152,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 150,
+   "gc_position": 162,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 161,
+   "gc_position": 161,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 156,
+   "gc_position": 158,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 139,
+   "gc_position": 139,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-samyn/2026/result",
+   "stage_name": "Ename Samyn Classic (1.1)",
+   "date": "2026-03-03",
+   "result": 102,
+   "gc_position": null,
+   "distance": 203.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": null,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 121,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 97,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 89,
+   "gc_position": 123,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 114,
+   "gc_position": 137,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 79,
+   "gc_position": 139,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 126,
+   "gc_position": 142,
+   "distance": 183.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 134,
+   "gc_position": 143,
+   "distance": 12.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 134,
+   "gc_position": 142,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Alpecin - Premier Tech",
+   "team_url": "team/alpecin-premier-tech-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Alpecin - Premier Tech",
+   "team_url": "team/alpecin-premier-tech-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Alpecin - Fenix",
+   "team_url": "team/alpecin-fenix-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "AG2R La Mondiale",
+   "team_url": "team/ag2r-la-mondiale-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "AG2R La Mondiale",
+   "team_url": "team/ag2r-la-mondiale-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "AG2R La Mondiale",
+   "team_url": "team/ag2r-la-mondiale-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "BMC Racing Team",
+   "team_url": "team/bmc-racing-team-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "BMC Racing Team",
+   "team_url": "team/bmc-racing-team-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "BMC Racing Team",
+   "team_url": "team/bmc-racing-team-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "BMC Racing Team",
+   "team_url": "team/bmc-racing-team-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "BMC Racing Team",
+   "team_url": "team/bmc-racing-team-2013",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "BMC Development Team ",
+   "team_url": "team/bmc-development-team-2013",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Team Vorarlberg",
+   "team_url": "team/team-vorarlberg-2011",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Chambéry Cyclisme Formation",
+   "team_url": "team/chambery-cyclisme-formation-2010",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 75.0
+}

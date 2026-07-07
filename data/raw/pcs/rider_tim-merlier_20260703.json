@@ -1,0 +1,481 @@
+{
+ "birthdate": "1992-10-30",
+ "height": 1.88,
+ "image_url": "images/riders/vg/dq/tim-merlier-2026.jpg",
+ "name": "Tim Merlier",
+ "nationality": "BE",
+ "place_of_birth": "Belgium",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 413,
+   "rank": 62
+  },
+  {
+   "season": 2025,
+   "points": 1275,
+   "rank": 17
+  },
+  {
+   "season": 2024,
+   "points": 1485,
+   "rank": 10
+  },
+  {
+   "season": 2023,
+   "points": 900,
+   "rank": 41
+  },
+  {
+   "season": 2022,
+   "points": 986,
+   "rank": 33
+  },
+  {
+   "season": 2021,
+   "points": 1164,
+   "rank": 20
+  },
+  {
+   "season": 2020,
+   "points": 488,
+   "rank": 65
+  },
+  {
+   "season": 2019,
+   "points": 380,
+   "rank": 169
+  },
+  {
+   "season": 2018,
+   "points": 170,
+   "rank": 374
+  },
+  {
+   "season": 2017,
+   "points": 94,
+   "rank": 646
+  },
+  {
+   "season": 2016,
+   "points": 120,
+   "rank": 509
+  },
+  {
+   "season": 2015,
+   "points": 54,
+   "rank": 859
+  },
+  {
+   "season": 2014,
+   "points": 4,
+   "rank": 2042
+  },
+  {
+   "season": 2012,
+   "points": 4,
+   "rank": 2164
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 4562,
+  "gc": 144,
+  "time_trial": 3,
+  "sprint": 6208,
+  "climber": 4,
+  "hills": 561
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-belgium/2026/result",
+   "stage_name": "National Championships Belgium ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 99,
+   "gc_position": null,
+   "distance": 236.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 76,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 68,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 2,
+   "gc_position": 81,
+   "distance": 183.4,
+   "pcs_points": 18.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 109,
+   "gc_position": 86,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 197.6,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 2,
+   "gc_position": 4,
+   "distance": 188.3,
+   "pcs_points": 18.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 129,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/antwerp-port-epic/2026/result",
+   "stage_name": "Antwerp Port Epic / Sels Trophy (1.1)",
+   "date": "2026-05-25",
+   "result": 10,
+   "gc_position": null,
+   "distance": 192.4,
+   "pcs_points": 14.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/grand-prix-criquielion/2026/result",
+   "stage_name": "Grand Prix Criquielion (1.1)",
+   "date": "2026-05-24",
+   "result": 5,
+   "gc_position": null,
+   "distance": 205.0,
+   "pcs_points": 28.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 60,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Balatonalmádi › Veszprém",
+   "date": "2026-05-17",
+   "result": 1,
+   "gc_position": null,
+   "distance": 147.1,
+   "pcs_points": 30.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mohács › Pécs",
+   "date": "2026-05-16",
+   "result": 95,
+   "gc_position": 73,
+   "distance": 124.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Kaposvár › Szekszárd",
+   "date": "2026-05-15",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 152.3,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Szarvas › Paks",
+   "date": "2026-05-14",
+   "result": 6,
+   "gc_position": 3,
+   "distance": 205.8,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Gyula › Békéscsaba",
+   "date": "2026-05-13",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 143.1,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-limburg/2026/result",
+   "stage_name": "Ronde van Limburg (1.1)",
+   "date": "2026-04-15",
+   "result": 1,
+   "gc_position": null,
+   "distance": 178.4,
+   "pcs_points": 75.0,
+   "uci_points": 125.0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 45,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 5.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/scheldeprijs/2026/result",
+   "stage_name": "Scheldeprijs (1.Pro)",
+   "date": "2026-04-08",
+   "result": 1,
+   "gc_position": null,
+   "distance": 205.2,
+   "pcs_points": 125.0,
+   "uci_points": 250.0
+  },
+  {
+   "stage_url": "race/grote-prijs-jean-pierre-monsere/2026/result",
+   "stage_name": "Grote prijs Jean-Pierre Monseré (1.1)",
+   "date": "2026-03-22",
+   "result": 19,
+   "gc_position": null,
+   "distance": 202.5,
+   "pcs_points": 2.0,
+   "uci_points": 3.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Alpecin - Fenix",
+   "team_url": "team/alpecin-fenix-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Alpecin - Fenix",
+   "team_url": "team/alpecin-fenix-2020",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Corendon - Circus",
+   "team_url": "team/corendon-circus-2019",
+   "class": "PCT",
+   "since": "05-16",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Pauwels sauzen - Vastgoedservice Continental Team",
+   "team_url": "team/pauwels-sauzen-vastgoedservice-ct-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "05-15"
+  },
+  {
+   "season": 2018,
+   "team_name": "Vérandas Willems-Crelan ",
+   "team_url": "team/verandas-willems-crelan-2018",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Vérandas Willems-Crelan ",
+   "team_url": "team/verandas-willems-crelan-2017",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Crelan - Vastgoedservice",
+   "team_url": "team/crelan-vastgoedservice-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Pauwels - Vastgoedservice",
+   "team_url": "team/pauwels-vastgoedservice-2015",
+   "class": "CT",
+   "since": "06-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Sunweb - Napoleon Games Cycling Team",
+   "team_url": "team/sunweb-napoleon-games-cycling-team-2015",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Sunweb - Napoleon Games Cycling Team",
+   "team_url": "team/sunweb-napoleon-games-cycling-team-2014",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Sunweb - Napoleon Games Cycling Team",
+   "team_url": "team/sunweb-napoleon-games-cycling-team-2013",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Sunweb - Revor",
+   "team_url": "team/sunweb-revor-2012",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Sunweb - Revor",
+   "team_url": "team/sunweb-revor-2011",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "CT DJ Matic Kortrijk VZW",
+   "team_url": "team/ct-dj-matic-kortrijk-vzw-2010",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 76.0
+}

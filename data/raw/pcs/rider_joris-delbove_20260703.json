@@ -1,0 +1,437 @@
+{
+ "name": "Joris Delbove",
+ "birthdate": "2000-7-15",
+ "nationality": "FR",
+ "points_per_speciality": {
+  "one_day_races": 212,
+  "gc": 363,
+  "time_trial": 44,
+  "sprint": 36,
+  "climber": 159,
+  "hills": 180
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-france/2026/result",
+   "stage_name": "National Championships France ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 3,
+   "gc_position": null,
+   "distance": 225.5,
+   "pcs_points": 7.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/andorra-morabanc-classica/2026/result",
+   "stage_name": "Andorra MoraBanc Clàssica (1.1)",
+   "date": "2026-06-21",
+   "result": 41,
+   "gc_position": null,
+   "distance": 125.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-route-d-occitanie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-route-d-occitanie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 11,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-route-d-occitanie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 24.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/la-route-d-occitanie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Loures-Barousse › Loudenvielle",
+   "date": "2026-06-20",
+   "result": 6,
+   "gc_position": null,
+   "distance": 172.0,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-route-d-occitanie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Cordes-sur-Ciel › Saint-Gaudens",
+   "date": "2026-06-19",
+   "result": 31,
+   "gc_position": 15,
+   "distance": 200.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-route-d-occitanie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Bram › Saint-Paul-Cap-de-Joux",
+   "date": "2026-06-18",
+   "result": 8,
+   "gc_position": 9,
+   "distance": 171.5,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/circuit-franco-belge/2026/result",
+   "stage_name": "Circuit Franco-Belge (1.Pro)",
+   "date": "2026-06-10",
+   "result": 20,
+   "gc_position": null,
+   "distance": 195.6,
+   "pcs_points": 6.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 53,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 17,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 14.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cossé-le-Vivien › Laval",
+   "date": "2026-05-31",
+   "result": 39,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aron › Pré-en-Pail-Saint-Samson",
+   "date": "2026-05-30",
+   "result": 21,
+   "gc_position": 17,
+   "distance": 215.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-1",
+   "stage_name": "S1Stage 1 - Saint-Berthevin  › Château-Gontier-sur-Mayenne",
+   "date": "2026-05-29",
+   "result": 65,
+   "gc_position": 26,
+   "distance": 172.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/prologue",
+   "stage_name": "ProloguePrologue - Laval (Espace Mayenne) › Laval (Espace Mayenne)",
+   "date": "2026-05-28",
+   "result": 26,
+   "gc_position": 26,
+   "distance": 5.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 48,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 5.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 54,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 5.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 31,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 20,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 6.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/milano-torino/2026/result",
+   "stage_name": "Milano - Torino (1.Pro)",
+   "date": "2026-03-18",
+   "result": 58,
+   "gc_position": null,
+   "distance": 174.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 26,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 9.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": 43,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 61,
+   "gc_position": 20,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 43,
+   "gc_position": 20,
+   "distance": 179.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 33,
+   "gc_position": 23,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 49,
+   "gc_position": 35,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 21,
+   "gc_position": 54,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 89,
+   "gc_position": 69,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 70,
+   "gc_position": 70,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-des-alpes-maritimes/2026/result",
+   "stage_name": "Tour des Alpes-Maritimes (1.1)",
+   "date": "2026-02-22",
+   "result": 12,
+   "gc_position": null,
+   "distance": 154.0,
+   "pcs_points": 10.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/classic-var/2026/result",
+   "stage_name": "Classic Var (1.1)",
+   "date": "2026-02-21",
+   "result": 108,
+   "gc_position": null,
+   "distance": 176.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-ciclista-a-la-region-de-murcia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fortuna › Yecla",
+   "date": "2026-02-13",
+   "result": 15,
+   "gc_position": 15,
+   "distance": 89.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 67,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - AlUla Old Town › Skyviews of Harrat Uwayrid",
+   "date": "2026-01-31",
+   "result": 35,
+   "gc_position": null,
+   "distance": 163.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Winter Park › Hegra",
+   "date": "2026-01-30",
+   "result": 92,
+   "gc_position": 81,
+   "distance": 173.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Winter Park › Bir Jaydah Mountain Wirkah",
+   "date": "2026-01-29",
+   "result": 20,
+   "gc_position": 56,
+   "distance": 142.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-2",
+   "stage_name": "S2Stage 2 - AlManshiyah Train Station › AlManshiyah Train Station",
+   "date": "2026-01-28",
+   "result": 99,
+   "gc_position": 86,
+   "distance": 152.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - AlUla Camel Cup Track › AlUla Camel Cup Track",
+   "date": "2026-01-27",
+   "result": 61,
+   "gc_position": 60,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 90,
+   "rank": 410
+  },
+  {
+   "season": 2025,
+   "points": 314,
+   "rank": 199
+  },
+  {
+   "season": 2024,
+   "points": 116,
+   "rank": 499
+  },
+  {
+   "season": 2023,
+   "points": 74,
+   "rank": 688
+  },
+  {
+   "season": 2022,
+   "points": 51,
+   "rank": 742
+  },
+  {
+   "season": 2021,
+   "points": 1,
+   "rank": 2212
+  }
+ ]
+}

@@ -1,0 +1,548 @@
+{
+ "birthdate": "1989-8-2",
+ "height": 1.79,
+ "image_url": "images/riders/yu/dq/matteo-trentin-2026.jpg",
+ "name": "Matteo Trentin",
+ "nationality": "IT",
+ "place_of_birth": "Italy",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 296,
+   "rank": 110
+  },
+  {
+   "season": 2025,
+   "points": 512,
+   "rank": 110
+  },
+  {
+   "season": 2024,
+   "points": 731,
+   "rank": 61
+  },
+  {
+   "season": 2023,
+   "points": 571,
+   "rank": 98
+  },
+  {
+   "season": 2022,
+   "points": 775,
+   "rank": 52
+  },
+  {
+   "season": 2021,
+   "points": 951,
+   "rank": 28
+  },
+  {
+   "season": 2020,
+   "points": 414,
+   "rank": 80
+  },
+  {
+   "season": 2019,
+   "points": 1625,
+   "rank": 12
+  },
+  {
+   "season": 2018,
+   "points": 668,
+   "rank": 79
+  },
+  {
+   "season": 2017,
+   "points": 1292,
+   "rank": 26
+  },
+  {
+   "season": 2016,
+   "points": 663,
+   "rank": 65
+  },
+  {
+   "season": 2015,
+   "points": 603,
+   "rank": 73
+  },
+  {
+   "season": 2014,
+   "points": 429,
+   "rank": 122
+  },
+  {
+   "season": 2013,
+   "points": 285,
+   "rank": 209
+  },
+  {
+   "season": 2012,
+   "points": 136,
+   "rank": 445
+  },
+  {
+   "season": 2011,
+   "points": 85,
+   "rank": 638
+  },
+  {
+   "season": 2010,
+   "points": 29,
+   "rank": 1102
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 5956,
+  "gc": 1054,
+  "time_trial": 334,
+  "sprint": 3202,
+  "climber": 1090,
+  "hills": 4472
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-italy/2026/result",
+   "stage_name": "National Championships Italy ME - Road Race (NC)",
+   "date": "2026-06-27",
+   "result": 6,
+   "gc_position": null,
+   "distance": 225.0,
+   "pcs_points": 1.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 35,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 90,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 91,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 93,
+   "gc_position": 98,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 97,
+   "gc_position": 114,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 10,
+   "gc_position": 126,
+   "distance": 195.8,
+   "pcs_points": 1.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 20,
+   "gc_position": 130,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 18,
+   "gc_position": 137,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 116,
+   "gc_position": 132,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 128,
+   "gc_position": 128,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": null,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 6,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 70.0,
+   "uci_points": 175.0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": 10,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 42.0,
+   "uci_points": 68.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 9,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 60.0,
+   "uci_points": 160.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 37,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": 84,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 9,
+   "gc_position": 26,
+   "distance": 47.0,
+   "pcs_points": 2.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 5,
+   "gc_position": 26,
+   "distance": 179.3,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 45,
+   "gc_position": 31,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 37,
+   "gc_position": 31,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 12,
+   "gc_position": 51,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 29,
+   "gc_position": 16,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 12,
+   "gc_position": 13,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 3,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 60.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 15,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 22.0,
+   "uci_points": 28.0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 5,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 18.0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "CCC Team",
+   "team_url": "team/ccc-team-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Mitchelton-Scott",
+   "team_url": "team/mitchelton-scott-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Mitchelton-Scott",
+   "team_url": "team/mitchelton-scott-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Quick-Step Floors",
+   "team_url": "team/quick-step-floors-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Etixx - Quick Step",
+   "team_url": "team/etixx-quick-step-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Etixx - Quick Step",
+   "team_url": "team/etixx-quick-step-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Omega Pharma - Quick-Step",
+   "team_url": "team/omega-pharma-quick-step-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Omega Pharma - Quick-Step",
+   "team_url": "team/omega-pharma-quick-step-2013",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Omega Pharma - Quick-Step",
+   "team_url": "team/omega-pharma-quick-step-2012",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Quickstep Cycling Team",
+   "team_url": "team/quickstep-cycling-team-2011",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Team Brilla",
+   "team_url": "team/team-brilla-2011",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "07-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Marchiol - Pasta Montegrappa - Orogildo",
+   "team_url": "team/marchiol-pasta-montegrappa-site-liquigas-2010",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2009,
+   "team_name": "Industrial Forniture Moro-Viotto",
+   "team_url": "team/industrial-forniture-moro-trecieffe-2009",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2008,
+   "team_name": "Industrial Forniture Moro",
+   "team_url": "team/industrial-forniture-moro-trecieffe-2008",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 74.0
+}

@@ -1,0 +1,536 @@
+{
+ "birthdate": "1991-5-10",
+ "height": 1.82,
+ "image_url": "images/riders/oh/dq/tim-wellens-2026.jpg",
+ "name": "Tim Wellens",
+ "nationality": "BE",
+ "place_of_birth": "Sint-Truiden",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 155,
+   "rank": 266
+  },
+  {
+   "season": 2025,
+   "points": 675,
+   "rank": 70
+  },
+  {
+   "season": 2024,
+   "points": 1007,
+   "rank": 32
+  },
+  {
+   "season": 2023,
+   "points": 675,
+   "rank": 74
+  },
+  {
+   "season": 2022,
+   "points": 568,
+   "rank": 81
+  },
+  {
+   "season": 2021,
+   "points": 649,
+   "rank": 63
+  },
+  {
+   "season": 2020,
+   "points": 461,
+   "rank": 67
+  },
+  {
+   "season": 2019,
+   "points": 1206,
+   "rank": 25
+  },
+  {
+   "season": 2018,
+   "points": 1496,
+   "rank": 13
+  },
+  {
+   "season": 2017,
+   "points": 1213,
+   "rank": 31
+  },
+  {
+   "season": 2016,
+   "points": 676,
+   "rank": 61
+  },
+  {
+   "season": 2015,
+   "points": 814,
+   "rank": 44
+  },
+  {
+   "season": 2014,
+   "points": 759,
+   "rank": 46
+  },
+  {
+   "season": 2013,
+   "points": 129,
+   "rank": 434
+  },
+  {
+   "season": 2012,
+   "points": 102,
+   "rank": 567
+  },
+  {
+   "season": 2011,
+   "points": 8,
+   "rank": 1872
+  },
+  {
+   "season": 2010,
+   "points": 4,
+   "rank": 2160
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 4255,
+  "gc": 4543,
+  "time_trial": 1501,
+  "sprint": 312,
+  "climber": 2532,
+  "hills": 3134
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-belgium/2026/result",
+   "stage_name": "National Championships Belgium ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 236.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-belgium-itt/2026/result",
+   "stage_name": "National Championships Belgium ME - ITT (NC)",
+   "date": "2026-06-26",
+   "result": 2,
+   "gc_position": null,
+   "distance": 20.7,
+   "pcs_points": 7.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 19,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 20,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 55,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 49,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 5,
+   "gc_position": 65,
+   "distance": 23.7,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 63,
+   "gc_position": 76,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 117,
+   "gc_position": 93,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 32,
+   "gc_position": 32,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 52,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 5.0,
+   "uci_points": 4.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": null,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": null,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": null,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 71,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": null,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 45,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 19,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 45.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Roda de Andalucía › Lucena",
+   "date": "2026-02-22",
+   "result": 9,
+   "gc_position": null,
+   "distance": 167.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": 47,
+   "gc_position": 24,
+   "distance": 166.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 47,
+   "gc_position": 21,
+   "distance": 180.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 9,
+   "gc_position": 14,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 30,
+   "gc_position": 30,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/clasica-jaen-paraiso-interior/2026/result",
+   "stage_name": "Clásica Jaén (1.1)",
+   "date": "2026-02-16",
+   "result": 1,
+   "gc_position": null,
+   "distance": 154.2,
+   "pcs_points": 75.0,
+   "uci_points": 125.0
+  },
+  {
+   "stage_url": "race/vuelta-ciclista-a-la-region-de-murcia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fortuna › Yecla",
+   "date": "2026-02-13",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 89.3,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2018b",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Lotto Belisol ",
+   "team_url": "team/lotto-belisol-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Lotto Belisol Team",
+   "team_url": "team/lotto-belisol-team-2013",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Lotto Belisol Team",
+   "team_url": "team/lotto-belisol-team-2012",
+   "class": "WT",
+   "since": "07-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Lotto - Belisol U23",
+   "team_url": "team/lotto-belisol-u23-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Omega Pharma-Lotto Davo",
+   "team_url": "team/oemga-pharma-lotto-davo-2011",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Davo - Lotto - Davitamon",
+   "team_url": "team/davo-lotto-davitamon-2010",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2009,
+   "team_name": "AVIA Cycling Team",
+   "team_url": "team/avia-cycling-team-2009",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2008,
+   "team_name": "AVIA Cycling Team",
+   "team_url": "team/avia-cycling-team-2008",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 71.0
+}

@@ -1,0 +1,413 @@
+{
+ "birthdate": "1994-10-19",
+ "height": 1.86,
+ "image_url": "images/riders/ra/dq/matej-mohoric-2026.jpg",
+ "name": "Matej Mohorič",
+ "nationality": "SI",
+ "place_of_birth": "Slovenia",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 167,
+   "rank": 245
+  },
+  {
+   "season": 2025,
+   "points": 292,
+   "rank": 219
+  },
+  {
+   "season": 2024,
+   "points": 637,
+   "rank": 84
+  },
+  {
+   "season": 2023,
+   "points": 1275,
+   "rank": 19
+  },
+  {
+   "season": 2022,
+   "points": 931,
+   "rank": 39
+  },
+  {
+   "season": 2021,
+   "points": 1334,
+   "rank": 12
+  },
+  {
+   "season": 2020,
+   "points": 247,
+   "rank": 140
+  },
+  {
+   "season": 2019,
+   "points": 476,
+   "rank": 133
+  },
+  {
+   "season": 2018,
+   "points": 948,
+   "rank": 44
+  },
+  {
+   "season": 2017,
+   "points": 452,
+   "rank": 118
+  },
+  {
+   "season": 2016,
+   "points": 192,
+   "rank": 328
+  },
+  {
+   "season": 2015,
+   "points": 66,
+   "rank": 754
+  },
+  {
+   "season": 2014,
+   "points": 50,
+   "rank": 854
+  },
+  {
+   "season": 2013,
+   "points": 95,
+   "rank": 566
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 3238,
+  "gc": 2366,
+  "time_trial": 352,
+  "sprint": 624,
+  "climber": 1644,
+  "hills": 3004
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-slovenia/2026/result",
+   "stage_name": "National Championships Slovenia ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 165.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": null,
+   "gc_position": null,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 68,
+   "gc_position": 58,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 10,
+   "gc_position": 58,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 36,
+   "gc_position": 66,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 65,
+   "gc_position": 65,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 66,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 60,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 5.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": null,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 8,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 70.0,
+   "uci_points": 200.0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": 18,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 17.0,
+   "uci_points": 24.0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 32,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": 56,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 5.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 15,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 30.0,
+   "uci_points": 55.0
+  },
+  {
+   "stage_url": "race/strade-bianche/2026/result",
+   "stage_name": "Strade Bianche (1.UWT)",
+   "date": "2026-03-07",
+   "result": 24,
+   "gc_position": null,
+   "distance": 203.0,
+   "pcs_points": 11.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 27,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/clasica-jaen-paraiso-interior/2026/result",
+   "stage_name": "Clásica Jaén (1.1)",
+   "date": "2026-02-16",
+   "result": 8,
+   "gc_position": null,
+   "distance": 154.2,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/vuelta-ciclista-a-la-region-de-murcia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fortuna › Yecla",
+   "date": "2026-02-13",
+   "result": 8,
+   "gc_position": 8,
+   "distance": 89.3,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "national-race/al-salam-championship/2026/result",
+   "stage_name": "Al Salam Championship (NAT)",
+   "date": "2026-01-18",
+   "result": 9,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Bahrain - McLaren",
+   "team_url": "team/bahrain-mclaren-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Bahrain Merida",
+   "team_url": "team/bahrain-merida-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Bahrain Merida Pro Cycling Team",
+   "team_url": "team/bahrain-merida-pro-cycling-team-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Lampre - Merida",
+   "team_url": "team/lampre-merida-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Team Cannondale - Garmin ",
+   "team_url": "team/team-cannondale-garmin-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Cannondale ",
+   "team_url": "team/cannondale-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Sava",
+   "team_url": "team/sava-2013",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 71.0
+}

@@ -1,0 +1,570 @@
+{
+ "birthdate": "1997-10-11",
+ "height": 1.81,
+ "image_url": "images/riders/mj/dq/georg-zimmermann-2026.jpg",
+ "name": "Georg Zimmermann",
+ "nationality": "DE",
+ "place_of_birth": "Germany",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 302,
+   "rank": 107
+  },
+  {
+   "season": 2025,
+   "points": 254,
+   "rank": 252
+  },
+  {
+   "season": 2024,
+   "points": 386,
+   "rank": 168
+  },
+  {
+   "season": 2023,
+   "points": 530,
+   "rank": 106
+  },
+  {
+   "season": 2022,
+   "points": 336,
+   "rank": 183
+  },
+  {
+   "season": 2021,
+   "points": 257,
+   "rank": 214
+  },
+  {
+   "season": 2020,
+   "points": 122,
+   "rank": 283
+  },
+  {
+   "season": 2019,
+   "points": 75,
+   "rank": 765
+  },
+  {
+   "season": 2018,
+   "points": 23,
+   "rank": 1360
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1280,
+  "gc": 753,
+  "time_trial": 0,
+  "sprint": 63,
+  "climber": 758,
+  "hills": 842
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-germany/2026/result",
+   "stage_name": "National Championships Germany ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 5,
+   "gc_position": null,
+   "distance": 191.2,
+   "pcs_points": 2.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 31,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 39,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 62,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 53,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 83,
+   "gc_position": 72,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 71,
+   "gc_position": 78,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 52,
+   "gc_position": 88,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 53,
+   "gc_position": 91,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 20,
+   "gc_position": 92,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 132,
+   "gc_position": 95,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 86,
+   "gc_position": 86,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 1,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 225.0,
+   "uci_points": 400.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 26,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 14.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 84,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 29,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 6.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-3",
+   "stage_name": "S3Stage 3 - Basauri › Basauri",
+   "date": "2026-04-08",
+   "result": null,
+   "gc_position": null,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": 138,
+   "gc_position": 132,
+   "distance": 164.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 87,
+   "gc_position": 87,
+   "distance": 13.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 28,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 25,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 15.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 29,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 38,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 66,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 72,
+   "gc_position": 38,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 24,
+   "gc_position": 24,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 57,
+   "gc_position": 46,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 126,
+   "gc_position": 63,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 62,
+   "gc_position": 64,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 141,
+   "gc_position": 141,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": null,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 34,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 20,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 20.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 24,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 28,
+   "gc_position": 27,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 45,
+   "gc_position": 33,
+   "distance": 140.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 27,
+   "gc_position": 33,
+   "distance": 148.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 50,
+   "gc_position": 110,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 114,
+   "gc_position": 114,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Lotto Intermarché",
+   "team_url": "team/lotto-intermarche-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Intermarché - Wanty",
+   "team_url": "team/intermarche-wanty-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Intermarché - Wanty",
+   "team_url": "team/intermarche-wanty-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Intermarché - Circus - Wanty",
+   "team_url": "team/intermarche-circus-wanty-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Intermarché - Wanty - Gobert Matériaux",
+   "team_url": "team/intermarche-wanty-gobert-materiaux-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Intermarché - Wanty - Gobert Matériaux",
+   "team_url": "team/intermarche-wanty-gobert-materiaux-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "CCC Team",
+   "team_url": "team/ccc-team-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "CCC Team",
+   "team_url": "team/ccc-team-2019",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Tirol KTM Cycling Team",
+   "team_url": "team/tirol-ktm-cycling-team-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Tirol Cycling Team",
+   "team_url": "team/tirol-cycling-team-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Team Felbermayr - Simplon Wels ",
+   "team_url": "team/team-felbermayr-simplon-wels-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Felbermayr - Simplon Wels ",
+   "team_url": "team/team-felbermayr-simplon-wels-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Team Auto Eder Bayern ",
+   "team_url": "team/team-auto-eder-bayern-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Team Auto Eder Bayern ",
+   "team_url": "team/team-auto-eder-bayern-2014",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 70.0
+}

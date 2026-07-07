@@ -1,0 +1,648 @@
+{
+ "birthdate": "1994-3-6",
+ "height": 1.92,
+ "image_url": "images/riders/oh/dq/nils-politt-2026.jpg",
+ "name": "Nils Politt",
+ "nationality": "DE",
+ "place_of_birth": "Cologne",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 213,
+   "rank": 185
+  },
+  {
+   "season": 2025,
+   "points": 117,
+   "rank": 488
+  },
+  {
+   "season": 2024,
+   "points": 651,
+   "rank": 79
+  },
+  {
+   "season": 2023,
+   "points": 435,
+   "rank": 145
+  },
+  {
+   "season": 2022,
+   "points": 321,
+   "rank": 189
+  },
+  {
+   "season": 2021,
+   "points": 607,
+   "rank": 76
+  },
+  {
+   "season": 2020,
+   "points": 101,
+   "rank": 322
+  },
+  {
+   "season": 2019,
+   "points": 738,
+   "rank": 68
+  },
+  {
+   "season": 2018,
+   "points": 425,
+   "rank": 139
+  },
+  {
+   "season": 2017,
+   "points": 210,
+   "rank": 319
+  },
+  {
+   "season": 2016,
+   "points": 183,
+   "rank": 344
+  },
+  {
+   "season": 2015,
+   "points": 70,
+   "rank": 730
+  },
+  {
+   "season": 2014,
+   "points": 39,
+   "rank": 983
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 2419,
+  "gc": 1093,
+  "time_trial": 1404,
+  "sprint": 594,
+  "climber": 156,
+  "hills": 1481
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-germany/2026/result",
+   "stage_name": "National Championships Germany ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 4,
+   "gc_position": null,
+   "distance": 191.2,
+   "pcs_points": 4.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/nc-germany-itt/2026/result",
+   "stage_name": "National Championships Germany ME - ITT (NC)",
+   "date": "2026-06-26",
+   "result": 1,
+   "gc_position": null,
+   "distance": 41.0,
+   "pcs_points": 15.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 77,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 74,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 14,
+   "gc_position": 93,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 78,
+   "gc_position": 98,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 115,
+   "gc_position": 111,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 65,
+   "gc_position": 66,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/rund-um-koln/2026/result",
+   "stage_name": "Rund um Köln (1.1)",
+   "date": "2026-05-17",
+   "result": 54,
+   "gc_position": null,
+   "distance": 191.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 76,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 9,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 60.0,
+   "uci_points": 160.0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 34,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 6.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": 47,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 18,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 17.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": 22,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 13.0,
+   "uci_points": 16.0
+  },
+  {
+   "stage_url": "race/bredene-koksijde-classic/2026/result",
+   "stage_name": "Bredene Koksijde Classic (1.Pro)",
+   "date": "2026-03-20",
+   "result": 93,
+   "gc_position": null,
+   "distance": 203.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-de-denain/2026/result",
+   "stage_name": "Grand Prix de Denain - Porte du Hainaut (1.Pro)",
+   "date": "2026-03-19",
+   "result": 19,
+   "gc_position": null,
+   "distance": 200.4,
+   "pcs_points": 7.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 34,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": 39,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 52,
+   "gc_position": 24,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 55,
+   "gc_position": 24,
+   "distance": 179.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 31,
+   "gc_position": 26,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 59,
+   "gc_position": 51,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 8,
+   "gc_position": 102,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 97,
+   "gc_position": 100,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 101,
+   "gc_position": 101,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 39,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 14,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 26.0,
+   "uci_points": 32.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 69,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 79,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 83,
+   "gc_position": 70,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 62,
+   "gc_position": 67,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 91,
+   "gc_position": 69,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 67,
+   "gc_position": 70,
+   "distance": 183.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 64,
+   "gc_position": 61,
+   "distance": 12.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 86,
+   "gc_position": 87,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 72,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-pollenca-port-d-andratx/2026/result",
+   "stage_name": "Trofeo Andratx - Pollença (1.1)",
+   "date": "2026-01-31",
+   "result": 37,
+   "gc_position": null,
+   "distance": 121.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 4,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 22.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": 8,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2029,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2029",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2028,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Israel Start-Up Nation",
+   "team_url": "team/israel-start-up-nation-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Katusha Alpecin",
+   "team_url": "team/team-katusha-alpecin-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Katusha Alpecin",
+   "team_url": "team/team-katusha-alpecin-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Team Katusha Alpecin",
+   "team_url": "team/team-katusha-alpecin-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Katusha ",
+   "team_url": "team/team-katusha-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Team Katusha ",
+   "team_url": "team/team-katusha-2015",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Team Stölting ",
+   "team_url": "team/team-stolting-2015",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Team Stölting ",
+   "team_url": "team/team-stolting-2014",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Team Stölting ",
+   "team_url": "team/team-stolting-2013",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Team Rose NRW",
+   "team_url": "team/team-rose-nrw-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Team Rose NRW",
+   "team_url": "team/team-rose-nrw-2011",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 80.0
+}

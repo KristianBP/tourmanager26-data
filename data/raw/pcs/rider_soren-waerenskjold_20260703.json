@@ -1,0 +1,383 @@
+{
+ "birthdate": "2000-3-12",
+ "height": 1.95,
+ "image_url": "images/riders/dy/dq/soren-waerenskjold-2026.jpg",
+ "name": "Søren Wærenskjold",
+ "nationality": "NO",
+ "place_of_birth": "Mandal",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 270,
+   "rank": 126
+  },
+  {
+   "season": 2025,
+   "points": 844,
+   "rank": 44
+  },
+  {
+   "season": 2024,
+   "points": 678,
+   "rank": 73
+  },
+  {
+   "season": 2023,
+   "points": 699,
+   "rank": 67
+  },
+  {
+   "season": 2022,
+   "points": 141,
+   "rank": 366
+  },
+  {
+   "season": 2021,
+   "points": 92,
+   "rank": 487
+  },
+  {
+   "season": 2020,
+   "points": 38,
+   "rank": 634
+  },
+  {
+   "season": 2019,
+   "points": 8,
+   "rank": 1818
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1170,
+  "gc": 780,
+  "time_trial": 998,
+  "sprint": 1031,
+  "climber": 42,
+  "hills": 413
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 54,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 4,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 7,
+   "gc_position": 70,
+   "distance": 183.4,
+   "pcs_points": 2.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 82,
+   "gc_position": 74,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 10,
+   "gc_position": 12,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 5,
+   "gc_position": 8,
+   "distance": 188.3,
+   "pcs_points": 4.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 14,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 26.0,
+   "uci_points": 32.0
+  },
+  {
+   "stage_url": "race/brussels-cycling-classic/2026/result",
+   "stage_name": "Brussels Cycling Classic (1.Pro)",
+   "date": "2026-06-07",
+   "result": 29,
+   "gc_position": null,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/heist-op-den-berg/2026/result",
+   "stage_name": "Heylen Vastgoed Heistse Pijl (1.1)",
+   "date": "2026-06-06",
+   "result": 2,
+   "gc_position": null,
+   "distance": 187.5,
+   "pcs_points": 55.0,
+   "uci_points": 85.0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": null,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": null,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": 3,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 110.0,
+   "uci_points": 260.0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 45,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/classic-brugge-de-panne/2026/result",
+   "stage_name": "Ronde Van Brugge - Tour of Bruges ME (1.UWT)",
+   "date": "2026-03-25",
+   "result": 14,
+   "gc_position": null,
+   "distance": 202.9,
+   "pcs_points": 26.0,
+   "uci_points": 32.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 62,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 65,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 67,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Roda de Andalucía › Lucena",
+   "date": "2026-02-22",
+   "result": 82,
+   "gc_position": null,
+   "distance": 167.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": 2,
+   "gc_position": 67,
+   "distance": 166.0,
+   "pcs_points": 18.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 21,
+   "gc_position": 69,
+   "distance": 180.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 90,
+   "gc_position": 76,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 4,
+   "gc_position": 4,
+   "distance": 150.1,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Joker Fuel of Norway",
+   "team_url": "team/joker-fuel-of-norway-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Joker Fuel of Norway",
+   "team_url": "team/team-joker-bmi-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Ringerike SK",
+   "team_url": "team/ringerike-sk-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Ringerike SK",
+   "team_url": "team/ringerike-sk-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 92.0
+}

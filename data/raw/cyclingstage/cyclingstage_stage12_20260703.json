@@ -1,0 +1,65 @@
+{
+ "source": "cyclingstage",
+ "stage": 12,
+ "fetched": "2026-07-03",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-12-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Tim Merlier",
+   "stars": 4
+  },
+  {
+   "name": "Jasper Philipsen",
+   "stars": 4
+  },
+  {
+   "name": "Olav Kooij",
+   "stars": 4
+  },
+  {
+   "name": "Biniam Girmay",
+   "stars": 3
+  },
+  {
+   "name": "Arnaud De Lie",
+   "stars": 3
+  },
+  {
+   "name": "Max Kanter",
+   "stars": 3
+  },
+  {
+   "name": "Pascal Ackermann",
+   "stars": 2
+  },
+  {
+   "name": "Fernando Gaviria",
+   "stars": 2
+  },
+  {
+   "name": "Pavel Bittner",
+   "stars": 2
+  },
+  {
+   "name": "Arvid de Kleijn",
+   "stars": 2
+  },
+  {
+   "name": "Mads Pedersen",
+   "stars": 1
+  },
+  {
+   "name": "Milan Fretin",
+   "stars": 1
+  },
+  {
+   "name": "Søren Wærenskjold",
+   "stars": 1
+  },
+  {
+   "name": "Phil Bauhaus",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

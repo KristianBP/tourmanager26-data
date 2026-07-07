@@ -1,0 +1,65 @@
+{
+ "source": "cyclingstage",
+ "stage": 4,
+ "fetched": "2026-07-07",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-4-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Maxim Van Gils",
+   "stars": 3
+  },
+  {
+   "name": "Magnus Cort",
+   "stars": 3
+  },
+  {
+   "name": "Romain Grégoire",
+   "stars": 3
+  },
+  {
+   "name": "Mathias Vacek",
+   "stars": 3
+  },
+  {
+   "name": "Tim Wellens",
+   "stars": 2
+  },
+  {
+   "name": "Michael Matthews",
+   "stars": 2
+  },
+  {
+   "name": "Mads Pedersen",
+   "stars": 2
+  },
+  {
+   "name": "Filippo Ganna",
+   "stars": 2
+  },
+  {
+   "name": "Jasper Stuyven",
+   "stars": 2
+  },
+  {
+   "name": "Florian Vermeersch",
+   "stars": 1
+  },
+  {
+   "name": "Mathieu van der Poel",
+   "stars": 1
+  },
+  {
+   "name": "Quinn Simmons",
+   "stars": 1
+  },
+  {
+   "name": "Matteo Trentin",
+   "stars": 1
+  },
+  {
+   "name": "Jonas Abrahamsen",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

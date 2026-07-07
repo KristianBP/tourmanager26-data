@@ -1,0 +1,358 @@
+{
+ "birthdate": "1995-12-18",
+ "height": 1.8,
+ "image_url": "images/riders/my/dq/mads-pedersen-2026.jpg",
+ "name": "Mads Pedersen",
+ "nationality": "DK",
+ "place_of_birth": "Tølløse",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 490,
+   "rank": 42
+  },
+  {
+   "season": 2025,
+   "points": 2233,
+   "rank": 5
+  },
+  {
+   "season": 2024,
+   "points": 1467,
+   "rank": 11
+  },
+  {
+   "season": 2023,
+   "points": 2009,
+   "rank": 7
+  },
+  {
+   "season": 2022,
+   "points": 1514,
+   "rank": 6
+  },
+  {
+   "season": 2021,
+   "points": 645,
+   "rank": 64
+  },
+  {
+   "season": 2020,
+   "points": 775,
+   "rank": 28
+  },
+  {
+   "season": 2019,
+   "points": 534,
+   "rank": 110
+  },
+  {
+   "season": 2018,
+   "points": 642,
+   "rank": 81
+  },
+  {
+   "season": 2017,
+   "points": 404,
+   "rank": 136
+  },
+  {
+   "season": 2016,
+   "points": 155,
+   "rank": 413
+  },
+  {
+   "season": 2015,
+   "points": 120,
+   "rank": 535
+  },
+  {
+   "season": 2014,
+   "points": 15,
+   "rank": 1423
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 5072,
+  "gc": 1777,
+  "time_trial": 1929,
+  "sprint": 3201,
+  "climber": 487,
+  "hills": 3776
+ },
+ "season_results": [
+  {
+   "stage_url": "race/danish-championships/2026/result",
+   "stage_name": "National Championships Denmark ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 5,
+   "gc_position": null,
+   "distance": 218.6,
+   "pcs_points": 2.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/nc-denmark-itt/2026/result",
+   "stage_name": "National Championships Denmark ME - ITT (NC)",
+   "date": "2026-06-26",
+   "result": 7,
+   "gc_position": null,
+   "distance": 29.2,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 80.0,
+   "uci_points": 120.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cossé-le-Vivien › Laval",
+   "date": "2026-05-31",
+   "result": 2,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 18.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aron › Pré-en-Pail-Saint-Samson",
+   "date": "2026-05-30",
+   "result": 10,
+   "gc_position": 6,
+   "distance": 215.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-1",
+   "stage_name": "S1Stage 1 - Saint-Berthevin  › Château-Gontier-sur-Mayenne",
+   "date": "2026-05-29",
+   "result": 7,
+   "gc_position": 21,
+   "distance": 172.4,
+   "pcs_points": 2.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/prologue",
+   "stage_name": "ProloguePrologue - Laval (Espace Mayenne) › Laval (Espace Mayenne)",
+   "date": "2026-05-28",
+   "result": 20,
+   "gc_position": 20,
+   "distance": 5.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 7,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 80.0,
+   "uci_points": 240.0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 5,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 100.0,
+   "uci_points": 360.0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": 10,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 42.0,
+   "uci_points": 68.0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": 9,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 46.0,
+   "uci_points": 80.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 4,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 120.0,
+   "uci_points": 440.0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-1",
+   "stage_name": "S1Stage 1 - Segorbe › Torreblanca",
+   "date": "2026-02-04",
+   "result": null,
+   "gc_position": null,
+   "distance": 160.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Lidl - Trek",
+   "team_url": "team/lidl-trek-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Lidl - Trek",
+   "team_url": "team/lidl-trek-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Lidl - Trek",
+   "team_url": "team/lidl-trek-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Lidl - Trek",
+   "team_url": "team/lidl-trek-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Trek - Segafredo",
+   "team_url": "team/trek-segafredo-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Trek - Segafredo",
+   "team_url": "team/trek-segafredo-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Trek - Segafredo",
+   "team_url": "team/trek-segafredo-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Trek - Segafredo",
+   "team_url": "team/trek-segafredo-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Trek - Segafredo",
+   "team_url": "team/trek-segafredo-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Trek - Segafredo",
+   "team_url": "team/trek-segafredo-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Stölting Service Group",
+   "team_url": "team/stolting-service-group-2016",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Cult Energy Pro Cycling",
+   "team_url": "team/cult-energy-pro-cycling-2015",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Cult Energy Vital Water",
+   "team_url": "team/cult-energy-vital-water-2014",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Team Roskilde Junior",
+   "team_url": "team/team-roskilde-junior-2013",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Team Roskilde Junior",
+   "team_url": "team/team-roskilde-junior-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 76.0
+}

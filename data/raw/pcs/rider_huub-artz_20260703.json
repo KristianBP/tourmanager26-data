@@ -1,0 +1,426 @@
+{
+ "birthdate": "2002-5-14",
+ "height": 1.86,
+ "image_url": "images/riders/mj/dq/huub-artz-2026.jpg",
+ "name": "Huub Artz",
+ "nationality": "NL",
+ "place_of_birth": "Netherlands",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 81,
+   "rank": 440
+  },
+  {
+   "season": 2025,
+   "points": 153,
+   "rank": 400
+  },
+  {
+   "season": 2024,
+   "points": 124,
+   "rank": 472
+  },
+  {
+   "season": 2023,
+   "points": 32,
+   "rank": 1057
+  },
+  {
+   "season": 2022,
+   "points": 6,
+   "rank": 1830
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 171,
+  "gc": 133,
+  "time_trial": 280,
+  "sprint": 214,
+  "climber": 100,
+  "hills": 159
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-netherlands/2026/result",
+   "stage_name": "National Championships Netherlands ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 31,
+   "gc_position": null,
+   "distance": 160.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-netherlands-itt/2026/result",
+   "stage_name": "National Championships Netherlands ME - ITT (NC)",
+   "date": "2026-06-24",
+   "result": 1,
+   "gc_position": null,
+   "distance": 35.8,
+   "pcs_points": 15.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 35,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 58,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 25,
+   "gc_position": 28,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 29,
+   "gc_position": 28,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 14,
+   "gc_position": 35,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 62,
+   "gc_position": 62,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 133,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 86,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 32,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 8.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/volta-nxt-classic/2026/result",
+   "stage_name": "NXT Classic ME (1.1)",
+   "date": "2026-04-04",
+   "result": 5,
+   "gc_position": null,
+   "distance": 196.3,
+   "pcs_points": 28.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": null,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 44,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 133,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 30,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 114,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 113,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 159,
+   "gc_position": 120,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 160,
+   "gc_position": 103,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 63,
+   "gc_position": 76,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 70,
+   "gc_position": 124,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 141,
+   "gc_position": 127,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 17,
+   "gc_position": 17,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 117,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-5",
+   "stage_name": "S5Stage 5 - Faro › Malhão (Loulé)",
+   "date": "2026-02-22",
+   "result": 139,
+   "gc_position": null,
+   "distance": 148.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-4",
+   "stage_name": "S4Stage 4 - Albufeira › Lagos",
+   "date": "2026-02-21",
+   "result": 23,
+   "gc_position": 90,
+   "distance": 175.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-3",
+   "stage_name": "S3 (ITT)Stage 3 (ITT) - Vilamoura › Vilamoura",
+   "date": "2026-02-20",
+   "result": 14,
+   "gc_position": 92,
+   "distance": 19.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-2",
+   "stage_name": "S2Stage 2 - Portimão  › Fóia (Monchique)",
+   "date": "2026-02-19",
+   "result": 97,
+   "gc_position": 96,
+   "distance": 147.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vila Real de Santo António › Tavira",
+   "date": "2026-02-18",
+   "result": 101,
+   "gc_position": 102,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 129,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 7,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 10.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Lotto Intermarché",
+   "team_url": "team/lotto-intermarche-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Intermarché - Wanty",
+   "team_url": "team/intermarche-wanty-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Wanty - ReUz - Technord",
+   "team_url": "team/wanty-reuz-technord-2024",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Metec - SOLARWATT p/b Mantel",
+   "team_url": "team/metec-solarwatt-p-b-mantel-2023",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Metec - SOLARWATT p/b Mantel",
+   "team_url": "team/metec-solarwatt-p-b-mantel-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Metec - SOLARWATT p/b Mantel",
+   "team_url": "team/metec-solarwatt-p-b-mantel-2021",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 71.0
+}

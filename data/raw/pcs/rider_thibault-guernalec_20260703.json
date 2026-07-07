@@ -1,0 +1,386 @@
+{
+ "birthdate": "1997-7-31",
+ "height": 1.85,
+ "image_url": "images/riders/ux/dq/thibault-guernalec-2026.jpeg",
+ "name": "Thibault Guernalec",
+ "nationality": "FR",
+ "place_of_birth": "France",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 10,
+   "rank": 1348
+  },
+  {
+   "season": 2025,
+   "points": 134,
+   "rank": 441
+  },
+  {
+   "season": 2024,
+   "points": 118,
+   "rank": 491
+  },
+  {
+   "season": 2023,
+   "points": 158,
+   "rank": 380
+  },
+  {
+   "season": 2022,
+   "points": 112,
+   "rank": 435
+  },
+  {
+   "season": 2021,
+   "points": 97,
+   "rank": 475
+  },
+  {
+   "season": 2020,
+   "points": 90,
+   "rank": 344
+  },
+  {
+   "season": 2019,
+   "points": 61,
+   "rank": 849
+  },
+  {
+   "season": 2017,
+   "points": 3,
+   "rank": 2391
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 71,
+  "gc": 512,
+  "time_trial": 1081,
+  "sprint": 28,
+  "climber": 46,
+  "hills": 148
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-france/2026/result",
+   "stage_name": "National Championships France ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 225.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-france-itt/2026/result",
+   "stage_name": "National Championships France ME - ITT (NC)",
+   "date": "2026-06-25",
+   "result": 8,
+   "gc_position": null,
+   "distance": 29.7,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 81,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 63,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 90,
+   "gc_position": 95,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 114,
+   "gc_position": 113,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 137,
+   "gc_position": 111,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 34,
+   "gc_position": 110,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 16,
+   "gc_position": 115,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 102,
+   "gc_position": 110,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 106,
+   "gc_position": 106,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-l-aulne/2026/result",
+   "stage_name": "Boucles de l'Aulne - Châteaulin (1.1)",
+   "date": "2026-05-17",
+   "result": 46,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/famenne-ardenne-classic/2026/result",
+   "stage_name": "Lotto Famenne Ardenne Classic (1.1)",
+   "date": "2026-05-03",
+   "result": 51,
+   "gc_position": null,
+   "distance": 186.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 34,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": null,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": null,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-du-jura-cycliste/2026/result",
+   "stage_name": "Tour du Jura Cycliste (1.1)",
+   "date": "2026-04-18",
+   "result": null,
+   "gc_position": null,
+   "distance": 185.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classic-grand-besancon-doubs/2026/result",
+   "stage_name": "Classic Grand Besançon Doubs (1.1)",
+   "date": "2026-04-17",
+   "result": 89,
+   "gc_position": null,
+   "distance": 175.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 88,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brûlon › Le Mans",
+   "date": "2026-04-10",
+   "result": 82,
+   "gc_position": null,
+   "distance": 179.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-3",
+   "stage_name": "S3Stage 3 - Avrillé › Sainte-Suzanne-et-Chammes",
+   "date": "2026-04-09",
+   "result": 63,
+   "gc_position": 96,
+   "distance": 199.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-2",
+   "stage_name": "S2Stage 2 - La Garnache › Les Sables-d'Olonne",
+   "date": "2026-04-08",
+   "result": 109,
+   "gc_position": 110,
+   "distance": 153.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fontevraud-l'Abbaye › Vertou",
+   "date": "2026-04-07",
+   "result": 105,
+   "gc_position": 105,
+   "distance": 187.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "TotalEnergies",
+   "team_url": "team/totalenergies-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Arkéa - B&B Hotels",
+   "team_url": "team/arkea-b-b-hotels-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Arkéa - B&B Hotels",
+   "team_url": "team/arkea-b-b-hotels-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Team Arkéa Samsic",
+   "team_url": "team/team-arkea-samsic-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Team Arkéa Samsic",
+   "team_url": "team/team-arkea-samsic-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team Arkéa Samsic",
+   "team_url": "team/team-arkea-samsic-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Team Arkéa Samsic",
+   "team_url": "team/team-arkea-samsic-2020",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Arkéa Samsic",
+   "team_url": "team/team-arkea-samsic-2019",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Fortuneo - Samsic",
+   "team_url": "team/fortuneo-samsic-2018",
+   "class": "PCT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Fortuneo - Oscaro",
+   "team_url": "team/fortuneo-oscaro-2017",
+   "class": "PCT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "VC Châteaulinois",
+   "team_url": "team/vc-chateaulinois-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 71.0
+}

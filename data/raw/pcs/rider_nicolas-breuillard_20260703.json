@@ -1,0 +1,412 @@
+{
+ "name": "Nicolas Breuillard",
+ "birthdate": "2000-3-13",
+ "nationality": "FR",
+ "points_per_speciality": {
+  "one_day_races": 166,
+  "gc": 234,
+  "time_trial": 8,
+  "sprint": 4,
+  "climber": 150,
+  "hills": 171
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-france/2026/result",
+   "stage_name": "National Championships France ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 13,
+   "gc_position": null,
+   "distance": 225.5,
+   "pcs_points": 0,
+   "uci_points": 1.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 37,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 51,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 59,
+   "gc_position": 40,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 37,
+   "gc_position": 34,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 116,
+   "gc_position": 32,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 79,
+   "gc_position": 32,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 16,
+   "gc_position": 33,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 40,
+   "gc_position": 38,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 41,
+   "gc_position": 41,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/mercan-tour-classic-alpes-maritimes/2026/result",
+   "stage_name": "Mercan'Tour Classic Alpes-Maritimes (1.1)",
+   "date": "2026-06-03",
+   "result": 16,
+   "gc_position": null,
+   "distance": 152.0,
+   "pcs_points": 5.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 7,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 70.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-8",
+   "stage_name": "S8Stage 8 - Ankara › Ankara",
+   "date": "2026-05-03",
+   "result": 4,
+   "gc_position": null,
+   "distance": 105.2,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-7",
+   "stage_name": "S7Stage 7 - Antalya › Antalya",
+   "date": "2026-05-02",
+   "result": 54,
+   "gc_position": 5,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-6",
+   "stage_name": "S6Stage 6 - Antalya › Feslikan",
+   "date": "2026-05-01",
+   "result": 11,
+   "gc_position": 5,
+   "distance": 127.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-5",
+   "stage_name": "S5Stage 5 - Patara › Kemer",
+   "date": "2026-04-30",
+   "result": 33,
+   "gc_position": 3,
+   "distance": 180.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-4",
+   "stage_name": "S4Stage 4 - Marmaris › Fethiye",
+   "date": "2026-04-29",
+   "result": 45,
+   "gc_position": 3,
+   "distance": 130.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-3",
+   "stage_name": "S3Stage 3 - Marmaris › Kıran",
+   "date": "2026-04-28",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 132.7,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aydın › Marmaris",
+   "date": "2026-04-27",
+   "result": 21,
+   "gc_position": 40,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-1",
+   "stage_name": "S1Stage 1 - Çeşme › Selçuk",
+   "date": "2026-04-26",
+   "result": 95,
+   "gc_position": 96,
+   "distance": 148.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-du-jura-cycliste/2026/result",
+   "stage_name": "Tour du Jura Cycliste (1.1)",
+   "date": "2026-04-18",
+   "result": 19,
+   "gc_position": null,
+   "distance": 185.2,
+   "pcs_points": 2.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/classic-grand-besancon-doubs/2026/result",
+   "stage_name": "Classic Grand Besançon Doubs (1.1)",
+   "date": "2026-04-17",
+   "result": 36,
+   "gc_position": null,
+   "distance": 175.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": 23,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 3.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/tour-des-alpes-maritimes/2026/result",
+   "stage_name": "Tour des Alpes-Maritimes (1.1)",
+   "date": "2026-02-22",
+   "result": 8,
+   "gc_position": null,
+   "distance": 154.0,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-cycliste-international-la-provence/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 26,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-cycliste-international-la-provence/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-cycliste-international-la-provence/2026/stage-3",
+   "stage_name": "S3Stage 3 - Rognac › Arles",
+   "date": "2026-02-15",
+   "result": 24,
+   "gc_position": null,
+   "distance": 205.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-cycliste-international-la-provence/2026/stage-2",
+   "stage_name": "S2Stage 2 - Forcalquier › Montagne de Lure",
+   "date": "2026-02-14",
+   "result": 9,
+   "gc_position": 8,
+   "distance": 174.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-cycliste-international-la-provence/2026/stage-1",
+   "stage_name": "S1Stage 1 - Marseille › Saint-Victoret",
+   "date": "2026-02-13",
+   "result": 37,
+   "gc_position": 37,
+   "distance": 163.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 110,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-pollenca-port-d-andratx/2026/result",
+   "stage_name": "Trofeo Andratx - Pollença (1.1)",
+   "date": "2026-01-31",
+   "result": 56,
+   "gc_position": null,
+   "distance": 121.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/deia-trophy/2026/result",
+   "stage_name": "Trofeo Serra Tramuntana (1.1)",
+   "date": "2026-01-30",
+   "result": 89,
+   "gc_position": null,
+   "distance": 154.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 11,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": 46,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-de-la-ceramica-gran-premio-castellon/2026/result",
+   "stage_name": "Gran Premio Castellón - Ruta de la Cerámica (1.1)",
+   "date": "2026-01-24",
+   "result": 67,
+   "gc_position": null,
+   "distance": 171.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classica-camp-de-morvedre/2026/result",
+   "stage_name": "Classica Camp de Morvedre  (1.1)",
+   "date": "2026-01-23",
+   "result": 12,
+   "gc_position": null,
+   "distance": 163.4,
+   "pcs_points": 10.0,
+   "uci_points": 10.0
+  }
+ ],
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 150,
+   "rank": 272
+  },
+  {
+   "season": 2025,
+   "points": 201,
+   "rank": 316
+  },
+  {
+   "season": 2024,
+   "points": 92,
+   "rank": 569
+  }
+ ]
+}

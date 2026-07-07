@@ -1,0 +1,557 @@
+{
+ "name": "Anders Skaarseth",
+ "birthdate": "1995-5-7",
+ "nationality": "NO",
+ "points_per_speciality": {
+  "one_day_races": 309,
+  "gc": 188,
+  "time_trial": 29,
+  "sprint": 178,
+  "climber": 22,
+  "hills": 266
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-norway/2026/result",
+   "stage_name": "National Championships Norway ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 1,
+   "gc_position": null,
+   "distance": 182.6,
+   "pcs_points": 15.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 56,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 75,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 64,
+   "gc_position": 58,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 46,
+   "gc_position": 67,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 59,
+   "gc_position": 83,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 40,
+   "gc_position": 85,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 15,
+   "gc_position": 87,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 94,
+   "gc_position": 89,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 84,
+   "gc_position": 84,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 129,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 45,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 106,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-7",
+   "stage_name": "S7Stage 7 - Barcelona › Barcelona",
+   "date": "2026-03-29",
+   "result": 94,
+   "gc_position": null,
+   "distance": 95.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-6",
+   "stage_name": "S6Stage 6 - Berga › Queralt",
+   "date": "2026-03-28",
+   "result": 136,
+   "gc_position": 104,
+   "distance": 158.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Seu d'Urgell › La Molina/Coll de Pal",
+   "date": "2026-03-27",
+   "result": 64,
+   "gc_position": 98,
+   "distance": 153.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mataró › Camprodón",
+   "date": "2026-03-26",
+   "result": 40,
+   "gc_position": 118,
+   "distance": 151.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-3",
+   "stage_name": "S3Stage 3 - Mont-roig del Camp › Vila-seca",
+   "date": "2026-03-25",
+   "result": 129,
+   "gc_position": 124,
+   "distance": 159.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-2",
+   "stage_name": "S2Stage 2 - Figueres › Banyoles",
+   "date": "2026-03-24",
+   "result": 124,
+   "gc_position": 127,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
+   "date": "2026-03-23",
+   "result": 136,
+   "gc_position": 136,
+   "distance": 172.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 95,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/milano-torino/2026/result",
+   "stage_name": "Milano - Torino (1.Pro)",
+   "date": "2026-03-18",
+   "result": 117,
+   "gc_position": null,
+   "distance": 174.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 57,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 67,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 43,
+   "gc_position": 60,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 81,
+   "gc_position": 84,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 81,
+   "gc_position": 82,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 100,
+   "gc_position": 104,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 118,
+   "gc_position": 106,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 84,
+   "gc_position": 84,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/strade-bianche/2026/result",
+   "stage_name": "Strade Bianche (1.UWT)",
+   "date": "2026-03-07",
+   "result": 107,
+   "gc_position": null,
+   "distance": 203.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 54,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 105,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 55,
+   "gc_position": 56,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 105,
+   "gc_position": 59,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 101,
+   "gc_position": 60,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 60,
+   "gc_position": 61,
+   "distance": 183.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 124,
+   "gc_position": 119,
+   "distance": 12.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 114,
+   "gc_position": 115,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 50,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "national-race/cadels-criterium/2026/result",
+   "stage_name": "Cadel's Criterium (NAT)",
+   "date": "2026-01-29",
+   "result": 60,
+   "gc_position": null,
+   "distance": 50.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 51,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 63,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 68,
+   "gc_position": 56,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 93,
+   "gc_position": 61,
+   "distance": 140.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 65,
+   "gc_position": 67,
+   "distance": 148.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 125,
+   "gc_position": 116,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 120,
+   "gc_position": 120,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 60,
+   "rank": 546
+  },
+  {
+   "season": 2025,
+   "points": 53,
+   "rank": 790
+  },
+  {
+   "season": 2024,
+   "points": 31,
+   "rank": 978
+  },
+  {
+   "season": 2023,
+   "points": 15,
+   "rank": 1397
+  },
+  {
+   "season": 2022,
+   "points": 125,
+   "rank": 400
+  },
+  {
+   "season": 2021,
+   "points": 95,
+   "rank": 478
+  },
+  {
+   "season": 2020,
+   "points": 6,
+   "rank": 1291
+  },
+  {
+   "season": 2019,
+   "points": 97,
+   "rank": 640
+  },
+  {
+   "season": 2018,
+   "points": 22,
+   "rank": 1368
+  },
+  {
+   "season": 2017,
+   "points": 49,
+   "rank": 956
+  },
+  {
+   "season": 2016,
+   "points": 26,
+   "rank": 1231
+  },
+  {
+   "season": 2015,
+   "points": 4,
+   "rank": 2180
+  }
+ ]
+}

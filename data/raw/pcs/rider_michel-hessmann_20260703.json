@@ -1,0 +1,515 @@
+{
+ "birthdate": "2001-4-6",
+ "height": 1.91,
+ "image_url": "images/riders/kb/dq/michel-hessmann-2026.png",
+ "name": "Michel Hessmann",
+ "nationality": "DE",
+ "place_of_birth": "Germany",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 44,
+   "rank": 671
+  },
+  {
+   "season": 2025,
+   "points": 42,
+   "rank": 884
+  },
+  {
+   "season": 2023,
+   "points": 53,
+   "rank": 827
+  },
+  {
+   "season": 2022,
+   "points": 51,
+   "rank": 743
+  },
+  {
+   "season": 2021,
+   "points": 32,
+   "rank": 870
+  },
+  {
+   "season": 2020,
+   "points": 27,
+   "rank": 773
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 32,
+  "gc": 120,
+  "time_trial": 53,
+  "sprint": 14,
+  "climber": 58,
+  "hills": 149
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 25,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 61,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 58,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 41,
+   "gc_position": 65,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 73,
+   "gc_position": 97,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 50,
+   "gc_position": 121,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 45,
+   "gc_position": 124,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 7,
+   "gc_position": 131,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 144,
+   "gc_position": 127,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 126,
+   "gc_position": 126,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": null,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-6",
+   "stage_name": "S6Stage 6 - Berga › Queralt",
+   "date": "2026-03-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 158.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Seu d'Urgell › La Molina/Coll de Pal",
+   "date": "2026-03-27",
+   "result": 104,
+   "gc_position": 110,
+   "distance": 153.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mataró › Camprodón",
+   "date": "2026-03-26",
+   "result": 36,
+   "gc_position": 116,
+   "distance": 151.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-3",
+   "stage_name": "S3Stage 3 - Mont-roig del Camp › Vila-seca",
+   "date": "2026-03-25",
+   "result": 9,
+   "gc_position": 122,
+   "distance": 159.4,
+   "pcs_points": 2.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-2",
+   "stage_name": "S2Stage 2 - Figueres › Banyoles",
+   "date": "2026-03-24",
+   "result": 125,
+   "gc_position": 138,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
+   "date": "2026-03-23",
+   "result": 149,
+   "gc_position": 149,
+   "distance": 172.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 24,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 73,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": 59,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 103,
+   "gc_position": 87,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 107,
+   "gc_position": 83,
+   "distance": 179.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 107,
+   "gc_position": 74,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 55,
+   "gc_position": 61,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 7,
+   "gc_position": 136,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 141,
+   "gc_position": 117,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 106,
+   "gc_position": 106,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 58,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 15,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 41,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-5",
+   "stage_name": "S5Stage 5 - Bétera › Valencia",
+   "date": "2026-02-08",
+   "result": 17,
+   "gc_position": null,
+   "distance": 94.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-4",
+   "stage_name": "S4Stage 4 - La Nucía › Teulada Moraira",
+   "date": "2026-02-07",
+   "result": 23,
+   "gc_position": 42,
+   "distance": 172.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orihuela › San Vicente del Raspeig",
+   "date": "2026-02-06",
+   "result": 95,
+   "gc_position": 64,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Carlet › Alginet",
+   "date": "2026-02-05",
+   "result": 19,
+   "gc_position": 27,
+   "distance": 17.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-1",
+   "stage_name": "S1Stage 1 - Segorbe › Torreblanca",
+   "date": "2026-02-04",
+   "result": 23,
+   "gc_position": 27,
+   "distance": 160.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 92,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 2,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 32.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-de-la-ceramica-gran-premio-castellon/2026/result",
+   "stage_name": "Gran Premio Castellón - Ruta de la Cerámica (1.1)",
+   "date": "2026-01-24",
+   "result": 43,
+   "gc_position": null,
+   "distance": 171.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2025",
+   "class": "WT",
+   "since": "01-15",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team Visma | Lease a Bike",
+   "team_url": "team/team-visma-lease-a-bike-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Jumbo-Visma Development Team",
+   "team_url": "team/jumbo-visma-development-team-2021",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Jumbo-Visma Development Team",
+   "team_url": "team/team-jumbo-development-team-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Rose NRW",
+   "team_url": "team/team-rose-nrw-2019",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 78.0
+}

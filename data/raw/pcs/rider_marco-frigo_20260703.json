@@ -1,0 +1,513 @@
+{
+ "birthdate": "2000-3-2",
+ "height": 1.88,
+ "image_url": "images/riders/gu/dq/marco-frigo-2026.jpeg",
+ "name": "Marco Frigo",
+ "nationality": "IT",
+ "place_of_birth": "Bassano del Grappa ",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 90,
+   "rank": 409
+  },
+  {
+   "season": 2025,
+   "points": 424,
+   "rank": 147
+  },
+  {
+   "season": 2024,
+   "points": 133,
+   "rank": 452
+  },
+  {
+   "season": 2023,
+   "points": 108,
+   "rank": 523
+  },
+  {
+   "season": 2022,
+   "points": 29,
+   "rank": 1025
+  },
+  {
+   "season": 2021,
+   "points": 13,
+   "rank": 1280
+  },
+  {
+   "season": 2020,
+   "points": 7,
+   "rank": 1231
+  },
+  {
+   "season": 2019,
+   "points": 10,
+   "rank": 1723
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 121,
+  "gc": 370,
+  "time_trial": 228,
+  "sprint": 20,
+  "climber": 550,
+  "hills": 334
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-italy/2026/result",
+   "stage_name": "National Championships Italy ME - Road Race (NC)",
+   "date": "2026-06-27",
+   "result": 40,
+   "gc_position": null,
+   "distance": 225.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": null,
+   "gc_position": null,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 101,
+   "gc_position": 69,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 94,
+   "gc_position": 58,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 4,
+   "gc_position": 60,
+   "distance": 167.4,
+   "pcs_points": 13.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 19,
+   "gc_position": 61,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 67,
+   "gc_position": 59,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 63,
+   "gc_position": 63,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 28,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 42,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 22,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 16.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Lucens › Leysin",
+   "date": "2026-05-03",
+   "result": 31,
+   "gc_position": null,
+   "distance": 178.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Broc › Charmey",
+   "date": "2026-05-02",
+   "result": 24,
+   "gc_position": 23,
+   "distance": 149.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orbe › Orbe",
+   "date": "2026-05-01",
+   "result": 12,
+   "gc_position": 29,
+   "distance": 176.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": 25,
+   "gc_position": 30,
+   "distance": 173.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 35,
+   "gc_position": 33,
+   "distance": 171.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 38,
+   "gc_position": 38,
+   "distance": 3.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 33,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 62,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 10,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 42.0,
+   "uci_points": 85.0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 79,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 62,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 75,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 85,
+   "gc_position": 66,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 61,
+   "gc_position": 58,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 47,
+   "gc_position": 64,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 120,
+   "gc_position": 84,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 99,
+   "gc_position": 86,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 35,
+   "gc_position": 35,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": null,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 24,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 2.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-5",
+   "stage_name": "S5Stage 5 - Faro › Malhão (Loulé)",
+   "date": "2026-02-22",
+   "result": 26,
+   "gc_position": null,
+   "distance": 148.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-4",
+   "stage_name": "S4Stage 4 - Albufeira › Lagos",
+   "date": "2026-02-21",
+   "result": 47,
+   "gc_position": 37,
+   "distance": 175.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-3",
+   "stage_name": "S3 (ITT)Stage 3 (ITT) - Vilamoura › Vilamoura",
+   "date": "2026-02-20",
+   "result": 48,
+   "gc_position": 39,
+   "distance": 19.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-2",
+   "stage_name": "S2Stage 2 - Portimão  › Fóia (Monchique)",
+   "date": "2026-02-19",
+   "result": 41,
+   "gc_position": 41,
+   "distance": 147.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vila Real de Santo António › Tavira",
+   "date": "2026-02-18",
+   "result": 99,
+   "gc_position": 100,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/figueira-champions-classic/2026/result",
+   "stage_name": "Figueira Champions Classic (1.Pro)",
+   "date": "2026-02-14",
+   "result": 44,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "NSN Cycling Team",
+   "team_url": "team/nsn-cycling-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Israel - Premier Tech",
+   "team_url": "team/israel-premier-tech-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Israel - Premier Tech",
+   "team_url": "team/israel-premier-tech-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Israel - Premier Tech",
+   "team_url": "team/israel-premier-tech-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Israel Cycling Academy",
+   "team_url": "team/israel-cycling-academy-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "SEG Racing Academy",
+   "team_url": "team/seg-racing-academy-2021",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "SEG Racing Academy",
+   "team_url": "team/seg-racing-academy-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Zalf Euromobil Désirée Fior",
+   "team_url": "team/zalf-euromobil-desiree-fior-2019",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Danieli 1914 Cycling Team",
+   "team_url": "team/danieli-1914-cycling-team-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Danieli 1914 Cycling Team",
+   "team_url": "team/danieli-cycling-team-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 70.0
+}

@@ -1,0 +1,86 @@
+# Modellvekter for expected_points. Justerbare uten kodeendring.
+# Startverdier = antagelser; kalibreres mot faktiske player-points underveis.
+# NB: spillets posisjonsmultiplikatorer og poengtabeller ligger i
+# data/rules_2026.json (verifisert), IKKE her.
+
+form:
+  race_weights:
+    dauphine_2026: 1.0
+    tour_de_suisse_2026: 1.0
+    national_championships_2026: 0.9
+    romandie_2026: 0.7
+    itzulia_2026: 0.6
+    paris_nice_2026: 0.5
+    tirreno_adriatico_2026: 0.5
+
+favorites:
+  # forventede MÅLGANGSpoeng (spillets skala, før multiplikator) per stjernenivå
+  star_finish_points: {4: 55, 3: 35, 2: 22, 1: 13}
+  # blandingsvekt favoritt-prior vs kapabilitetsmodell når favorittliste finnes
+  blend_weight: 0.6
+
+capability:
+  # etappetype -> hvilke spesialitetsfelter som teller (PCS points_per_speciality)
+  stage_specialities:
+    flat: {sprint: 1.0}
+    hilly: {hills: 0.8, one_day: 0.4, climber: 0.2}
+    mountain: {climber: 1.0, gc: 0.4}
+    ITT: {time_trial: 1.0}
+    TTT: {time_trial: 0.7, gc: 0.4}
+  # total målgangspoeng-pool som fordeles på kapabilitetsmodellen (~631 er hele
+  # topp-20-poolen; modellen får (1-blend)-andelen der favoritter finnes)
+  finish_pool: 631
+  # konsentrasjon: score^gamma før normalisering (høyere = mer topptungt)
+  gamma: 2.0
+  # formkorreksjon: spesialitetspoeng er KARRIEREtall og overvurderer veteraner.
+  # score multipliseres med (form_2026/median_form)^form_exponent, klippet.
+  form_exponent: 0.6
+  form_factor_min: 0.15
+  form_factor_max: 2.5
+
+kom:
+  # andel av klatrepoeng som går til brudd vs favorittgruppe, etter klatreposisjon
+  break_share: {early: 0.85, mid: 0.75, late: 0.4, finish: 0.15}
+  # bruddscore: vekting av spesialiteter for bruddkandidater
+  breakaway_speciality: {climber: 1.0, hills: 0.6, one_day: 0.3}
+  # rolle-demping av bruddsannsynlighet (spillposisjon som proxy)
+  breakaway_role_factor:
+    CAPTAIN: 0.15        # GC-kapteiner sitter i feltet og tar late/finish-poeng i stedet
+    SPRINTER: 0.02
+    TIME_TRIALIST: 0.5
+    CLIMBER: 1.0
+    DOMESTIQUE: 1.0
+    YOUNG_RIDER: 0.9
+  gamma: 2.0
+  # stjernefavoritter på etappen får boostet bruddscore: ×(1 + boost×stjerner).
+  # cyclingstage-favorittene på brudd-/fjelletapper ER bruddprediksjoner.
+  favorite_break_boost: 0.8
+  # fallback-pool per etappetype når klatreinventar mangler (spillets skala)
+  fallback_pool: {flat: 3, hilly: 60, mountain: 320, ITT: 0, TTT: 0}
+
+sprint_class:
+  # spurterklassifisering ved mål (pool 131): andel av målgangsforventning
+  finish_fraction: {flat: 0.30, hilly: 0.20, mountain: 0.12, ITT: 0.0, TTT: 0.0}
+
+passing_point:
+  # 12 poeng pool: fordeles på spurtere (flat) / bruddkandidater (ellers)
+  pool: 12
+  sprinter_share_flat: 0.6
+
+sport_director:
+  # SD-pool per etappe = 160+100+60+40+20 = 380, IKKE multiplisert.
+  # Lagstyrke = sum av lagets rytteres forventede målgangspoeng, ^gamma
+  gamma: 1.5
+
+completion_risk:
+  # per-etappe overlevelsesrate (brukes for å diskontere senere etapper)
+  survival_per_stage: 0.995
+
+giro_fatigue:
+  # Giro-Tour-dobbelen: slitasjestraff som øker utover i touren (sprekker i uke 3).
+  # Full straff ved 17+ Giro-etapper, halv ved 10-16. Brukerinnsikt 2026-07-03.
+  full_threshold: 17
+  week1: 0.90   # etappe 1-9
+  week2: 0.80   # etappe 10-15
+  week3: 0.70   # etappe 16-21
+  partial_scale: 0.5  # straffandel for 10-16 etapper: 1-(1-w)*0.5

@@ -1,0 +1,676 @@
+{
+ "birthdate": "2000-12-25",
+ "height": 1.81,
+ "image_url": "images/riders/my/dq/luke-plapp-2026.jpeg",
+ "name": "Luke Plapp",
+ "nationality": "AU",
+ "place_of_birth": "Melbourne",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 530,
+   "rank": 35
+  },
+  {
+   "season": 2025,
+   "points": 516,
+   "rank": 107
+  },
+  {
+   "season": 2024,
+   "points": 334,
+   "rank": 202
+  },
+  {
+   "season": 2023,
+   "points": 277,
+   "rank": 236
+  },
+  {
+   "season": 2022,
+   "points": 383,
+   "rank": 158
+  },
+  {
+   "season": 2021,
+   "points": 29,
+   "rank": 920
+  },
+  {
+   "season": 2019,
+   "points": 7,
+   "rank": 1867
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 255,
+  "gc": 1090,
+  "time_trial": 897,
+  "sprint": 23,
+  "climber": 888,
+  "hills": 458
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": null,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 102,
+   "gc_position": 43,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 30,
+   "gc_position": 19,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 125,
+   "gc_position": 11,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 66,
+   "gc_position": 11,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 8,
+   "gc_position": 13,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 66,
+   "gc_position": 10,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 7,
+   "gc_position": 7,
+   "distance": 146.2,
+   "pcs_points": 4.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 11,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 90.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Balatonalmádi › Veszprém",
+   "date": "2026-05-17",
+   "result": 22,
+   "gc_position": null,
+   "distance": 147.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mohács › Pécs",
+   "date": "2026-05-16",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 124.3,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Kaposvár › Szekszárd",
+   "date": "2026-05-15",
+   "result": 37,
+   "gc_position": 40,
+   "distance": 152.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Szarvas › Paks",
+   "date": "2026-05-14",
+   "result": 26,
+   "gc_position": 39,
+   "distance": 205.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Gyula › Békéscsaba",
+   "date": "2026-05-13",
+   "result": 65,
+   "gc_position": 66,
+   "distance": 143.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 21,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 120.0,
+   "uci_points": 225.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Lucens › Leysin",
+   "date": "2026-05-03",
+   "result": 10,
+   "gc_position": null,
+   "distance": 178.2,
+   "pcs_points": 1.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Broc › Charmey",
+   "date": "2026-05-02",
+   "result": 12,
+   "gc_position": 5,
+   "distance": 149.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orbe › Orbe",
+   "date": "2026-05-01",
+   "result": 10,
+   "gc_position": 7,
+   "distance": 176.6,
+   "pcs_points": 1.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": 26,
+   "gc_position": 8,
+   "distance": 173.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 9,
+   "gc_position": 9,
+   "distance": 171.2,
+   "pcs_points": 2.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 26,
+   "gc_position": 26,
+   "distance": 3.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 160.0,
+   "uci_points": 325.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 35,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 2,
+   "gc_position": 3,
+   "distance": 168.0,
+   "pcs_points": 30.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 99,
+   "gc_position": 5,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 78,
+   "gc_position": 5,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 10,
+   "gc_position": 5,
+   "distance": 183.0,
+   "pcs_points": 1.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 12.2,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 48,
+   "gc_position": 49,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 45,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-5",
+   "stage_name": "S5Stage 5 - Nizwa › Jabal Al Akhdhar (Green Mountain)",
+   "date": "2026-02-11",
+   "result": 3,
+   "gc_position": null,
+   "distance": 155.9,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-4",
+   "stage_name": "S4Stage 4 - Al Sawadi Beach › Sohar",
+   "date": "2026-02-10",
+   "result": 100,
+   "gc_position": 74,
+   "distance": 146.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-3",
+   "stage_name": "S3Stage 3 - Samail \"Al Fayhaa Resthouse\" › Eastern Mountain",
+   "date": "2026-02-09",
+   "result": 89,
+   "gc_position": 75,
+   "distance": 191.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-2",
+   "stage_name": "S2Stage 2 - Al Rustaq Fort › Yitti Hills",
+   "date": "2026-02-08",
+   "result": 60,
+   "gc_position": 61,
+   "distance": 191.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-1",
+   "stage_name": "S1Stage 1 - Ministry of Tourism › Bimmah Sink Hole",
+   "date": "2026-02-07",
+   "result": 107,
+   "gc_position": 108,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/muscat-classic/2026/result",
+   "stage_name": "Muscat Classic (1.Pro)",
+   "date": "2026-02-06",
+   "result": 3,
+   "gc_position": null,
+   "distance": 176.2,
+   "pcs_points": 60.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 20,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 15.0,
+   "uci_points": 24.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 41,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 74,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 114,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 75,
+   "gc_position": 34,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 75,
+   "gc_position": 26,
+   "distance": 140.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 35,
+   "gc_position": 26,
+   "distance": 148.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 62,
+   "gc_position": 19,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 15,
+   "gc_position": 15,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-australia/2026/result",
+   "stage_name": "National Championships Australia ME - Road Race (NC)",
+   "date": "2026-01-11",
+   "result": 2,
+   "gc_position": null,
+   "distance": 176.0,
+   "pcs_points": 10.0,
+   "uci_points": 75.0
+  },
+  {
+   "stage_url": "race/nc-australia-itt/2026/result",
+   "stage_name": "National Championships Australia ME - ITT (NC)",
+   "date": "2026-01-08",
+   "result": 8,
+   "gc_position": null,
+   "distance": 39.1,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2021",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "InForm TMX MAKE",
+   "team_url": "team/inform-tmx-make-2021",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "InForm TM Insight Make",
+   "team_url": "team/inform-tmx-make-2020",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Brunswick CC",
+   "team_url": "team/brunswick-cc-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Brunswick CC",
+   "team_url": "team/brunswick-cc-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 72.0
+}

@@ -1,0 +1,474 @@
+{
+ "birthdate": "1999-7-30",
+ "height": 1.7,
+ "image_url": "images/riders/vo/dq/thomas-pidcock-2026.jpeg",
+ "name": "Tom Pidcock",
+ "nationality": "GB",
+ "place_of_birth": "Leeds",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 896,
+   "rank": 11
+  },
+  {
+   "season": 2025,
+   "points": 1855,
+   "rank": 7
+  },
+  {
+   "season": 2024,
+   "points": 1053,
+   "rank": 30
+  },
+  {
+   "season": 2023,
+   "points": 1046,
+   "rank": 23
+  },
+  {
+   "season": 2022,
+   "points": 718,
+   "rank": 59
+  },
+  {
+   "season": 2021,
+   "points": 695,
+   "rank": 59
+  },
+  {
+   "season": 2020,
+   "points": 67,
+   "rank": 439
+  },
+  {
+   "season": 2019,
+   "points": 117,
+   "rank": 534
+  },
+  {
+   "season": 2018,
+   "points": 41,
+   "rank": 1046
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 3664,
+  "gc": 1671,
+  "time_trial": 149,
+  "sprint": 394,
+  "climber": 2836,
+  "hills": 2394
+ },
+ "season_results": [
+  {
+   "stage_url": "race/andorra-morabanc-classica/2026/result",
+   "stage_name": "Andorra MoraBanc Clàssica (1.1)",
+   "date": "2026-06-21",
+   "result": 1,
+   "gc_position": null,
+   "distance": 125.0,
+   "pcs_points": 75.0,
+   "uci_points": 125.0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 2,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 150.0,
+   "uci_points": 320.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 101,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 7,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 28,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-5",
+   "stage_name": "S5Stage 5 - Trento › Bozen/Bolzano",
+   "date": "2026-04-24",
+   "result": 30,
+   "gc_position": null,
+   "distance": 128.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-4",
+   "stage_name": "S4Stage 4 - Arco › Trento",
+   "date": "2026-04-23",
+   "result": 7,
+   "gc_position": 34,
+   "distance": 167.8,
+   "pcs_points": 2.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-3",
+   "stage_name": "S3Stage 3 - Latsch/Laces › Arco",
+   "date": "2026-04-22",
+   "result": 1,
+   "gc_position": 42,
+   "distance": 174.5,
+   "pcs_points": 30.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-2",
+   "stage_name": "S2Stage 2 - Telfs › Martell/Val Martello",
+   "date": "2026-04-21",
+   "result": 74,
+   "gc_position": 60,
+   "distance": 147.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-1",
+   "stage_name": "S1Stage 1 - Innsbruck › Innsbruck",
+   "date": "2026-04-20",
+   "result": 2,
+   "gc_position": 2,
+   "distance": 144.3,
+   "pcs_points": 18.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-6",
+   "stage_name": "S6Stage 6 - Berga › Queralt",
+   "date": "2026-03-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 158.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Seu d'Urgell › La Molina/Coll de Pal",
+   "date": "2026-03-27",
+   "result": 116,
+   "gc_position": 74,
+   "distance": 153.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mataró › Camprodón",
+   "date": "2026-03-26",
+   "result": 3,
+   "gc_position": 2,
+   "distance": 151.0,
+   "pcs_points": 18.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-3",
+   "stage_name": "S3Stage 3 - Mont-roig del Camp › Vila-seca",
+   "date": "2026-03-25",
+   "result": 6,
+   "gc_position": 3,
+   "distance": 159.4,
+   "pcs_points": 7.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-2",
+   "stage_name": "S2Stage 2 - Figueres › Banyoles",
+   "date": "2026-03-24",
+   "result": 14,
+   "gc_position": 4,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
+   "date": "2026-03-23",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 172.8,
+   "pcs_points": 18.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 2,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 200.0,
+   "uci_points": 640.0
+  },
+  {
+   "stage_url": "race/milano-torino/2026/result",
+   "stage_name": "Milano - Torino (1.Pro)",
+   "date": "2026-03-18",
+   "result": 1,
+   "gc_position": null,
+   "distance": 174.0,
+   "pcs_points": 125.0,
+   "uci_points": 250.0
+  },
+  {
+   "stage_url": "race/strade-bianche/2026/result",
+   "stage_name": "Strade Bianche (1.UWT)",
+   "date": "2026-03-07",
+   "result": 7,
+   "gc_position": null,
+   "distance": 203.0,
+   "pcs_points": 60.0,
+   "uci_points": 150.0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 48,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 7,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 90.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Roda de Andalucía › Lucena",
+   "date": "2026-02-22",
+   "result": 1,
+   "gc_position": null,
+   "distance": 167.8,
+   "pcs_points": 30.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": 42,
+   "gc_position": 6,
+   "distance": 166.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 8,
+   "gc_position": 15,
+   "distance": 180.9,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 16,
+   "gc_position": 26,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 50,
+   "gc_position": 50,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/clasica-jaen-paraiso-interior/2026/result",
+   "stage_name": "Clásica Jaén (1.1)",
+   "date": "2026-02-16",
+   "result": 2,
+   "gc_position": null,
+   "distance": 154.2,
+   "pcs_points": 55.0,
+   "uci_points": 85.0
+  },
+  {
+   "stage_url": "race/vuelta-ciclista-a-la-region-de-murcia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fortuna › Yecla",
+   "date": "2026-02-13",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 89.3,
+   "pcs_points": 7.0,
+   "uci_points": 3.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Pinarello Q36.5 Pro Cycling Team",
+   "team_url": "team/pinarello-q365-pro-cycling-team-2027",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Pinarello Q36.5 Pro Cycling Team",
+   "team_url": "team/pinarello-q365-pro-cycling-team-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Q36.5 Pro Cycling Team",
+   "team_url": "team/q365-pro-cycling-team-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2021",
+   "class": "WT",
+   "since": "02-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Trinity Road Racing",
+   "team_url": "team/trinity-road-racing-2020",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Wiggins Le Col",
+   "team_url": "team/team-wiggins-le-col-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Wiggins ",
+   "team_url": "team/team-wiggins-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Zappi's Racing Team",
+   "team_url": "team/zappis-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "VCUK PH-Mas Cycling Team",
+   "team_url": "team/vcuk-ph-mas-cycling-team-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 58.0
+}

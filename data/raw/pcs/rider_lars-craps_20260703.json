@@ -1,0 +1,299 @@
+{
+ "birthdate": "2001-10-17",
+ "height": 1.85,
+ "image_url": "images/riders/mj/dq/lars-craps-2026.jpg",
+ "name": "Lars Craps",
+ "nationality": "BE",
+ "place_of_birth": "Belgium",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 56,
+   "rank": 583
+  },
+  {
+   "season": 2025,
+   "points": 74,
+   "rank": 643
+  },
+  {
+   "season": 2024,
+   "points": 115,
+   "rank": 503
+  },
+  {
+   "season": 2023,
+   "points": 4,
+   "rank": 2112
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 50,
+  "gc": 186,
+  "time_trial": 4,
+  "sprint": 26,
+  "climber": 128,
+  "hills": 119
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-belgium/2026/result",
+   "stage_name": "National Championships Belgium ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 107,
+   "gc_position": null,
+   "distance": 236.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 24,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 45.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 17,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 19,
+   "gc_position": 18,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 13,
+   "gc_position": 21,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 79,
+   "gc_position": 38,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 8,
+   "gc_position": 39,
+   "distance": 167.4,
+   "pcs_points": 3.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 20,
+   "gc_position": 40,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 20,
+   "gc_position": 33,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 34,
+   "gc_position": 34,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 20,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 8.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cossé-le-Vivien › Laval",
+   "date": "2026-05-31",
+   "result": 34,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aron › Pré-en-Pail-Saint-Samson",
+   "date": "2026-05-30",
+   "result": 23,
+   "gc_position": 20,
+   "distance": 215.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-1",
+   "stage_name": "S1Stage 1 - Saint-Berthevin  › Château-Gontier-sur-Mayenne",
+   "date": "2026-05-29",
+   "result": 78,
+   "gc_position": 40,
+   "distance": 172.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/prologue",
+   "stage_name": "ProloguePrologue - Laval (Espace Mayenne) › Laval (Espace Mayenne)",
+   "date": "2026-05-28",
+   "result": 42,
+   "gc_position": 42,
+   "distance": 5.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/grand-prix-criquielion/2026/result",
+   "stage_name": "Grand Prix Criquielion (1.1)",
+   "date": "2026-05-24",
+   "result": 51,
+   "gc_position": null,
+   "distance": 205.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/rund-um-koln/2026/result",
+   "stage_name": "Rund um Köln (1.1)",
+   "date": "2026-05-17",
+   "result": 59,
+   "gc_position": null,
+   "distance": 191.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/circuit-de-wallonie/2026/result",
+   "stage_name": "Lotto Circuit de Wallonie (1.1)",
+   "date": "2026-05-14",
+   "result": 52,
+   "gc_position": null,
+   "distance": 196.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Lotto Intermarché",
+   "team_url": "team/lotto-intermarche-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Lotto",
+   "team_url": "team/lotto-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team Flanders - Baloise",
+   "team_url": "team/team-flanders-baloise-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Soudal Quick-Step Devo Team",
+   "team_url": "team/soudal-quick-step-devo-2023",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Urbano - Vulsteke Cycling Team",
+   "team_url": "team/urbano-vulsteke-cycling-team-2022",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Brain² Olympia Tienen",
+   "team_url": "team/olympia-tienen-2019",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Wim Ruelens Olympia Tienen",
+   "team_url": "team/wim-ruelens-olympia-tienen-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 67.0
+}

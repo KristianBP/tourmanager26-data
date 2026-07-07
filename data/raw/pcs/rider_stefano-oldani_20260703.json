@@ -1,0 +1,593 @@
+{
+ "birthdate": "1998-1-10",
+ "height": 1.78,
+ "image_url": "images/riders/ra/dq/stefano-oldani-2026.jpg",
+ "name": "Stefano Oldani",
+ "nationality": "IT",
+ "place_of_birth": "Italy",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 123,
+   "rank": 319
+  },
+  {
+   "season": 2025,
+   "points": 157,
+   "rank": 390
+  },
+  {
+   "season": 2024,
+   "points": 241,
+   "rank": 267
+  },
+  {
+   "season": 2023,
+   "points": 160,
+   "rank": 375
+  },
+  {
+   "season": 2022,
+   "points": 438,
+   "rank": 135
+  },
+  {
+   "season": 2021,
+   "points": 243,
+   "rank": 227
+  },
+  {
+   "season": 2020,
+   "points": 78,
+   "rank": 393
+  },
+  {
+   "season": 2019,
+   "points": 62,
+   "rank": 844
+  },
+  {
+   "season": 2018,
+   "points": 2,
+   "rank": 2414
+  },
+  {
+   "season": 2017,
+   "points": 4,
+   "rank": 2234
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 797,
+  "gc": 324,
+  "time_trial": 36,
+  "sprint": 270,
+  "climber": 454,
+  "hills": 1398
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-slovenia/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 27,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-5",
+   "stage_name": "S5Stage 5 - Litija › Novo mesto",
+   "date": "2026-06-21",
+   "result": 19,
+   "gc_position": null,
+   "distance": 169.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-4",
+   "stage_name": "S4Stage 4 - Kranj › Kranjska Gora",
+   "date": "2026-06-20",
+   "result": 41,
+   "gc_position": 32,
+   "distance": 184.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-3",
+   "stage_name": "S3Stage 3 - Maribor › Celje",
+   "date": "2026-06-19",
+   "result": 3,
+   "gc_position": 4,
+   "distance": 133.5,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-2",
+   "stage_name": "S2Stage 2 - Radlje ob Dravi › Ormož",
+   "date": "2026-06-18",
+   "result": 10,
+   "gc_position": 8,
+   "distance": 181.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Velenje › Rogaška Slatina",
+   "date": "2026-06-17",
+   "result": 4,
+   "gc_position": 6,
+   "distance": 141.3,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 59,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-8",
+   "stage_name": "S8Stage 8 - Ankara › Ankara",
+   "date": "2026-05-03",
+   "result": 7,
+   "gc_position": null,
+   "distance": 105.2,
+   "pcs_points": 2.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-7",
+   "stage_name": "S7Stage 7 - Antalya › Antalya",
+   "date": "2026-05-02",
+   "result": 6,
+   "gc_position": 63,
+   "distance": 152.8,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-6",
+   "stage_name": "S6Stage 6 - Antalya › Feslikan",
+   "date": "2026-05-01",
+   "result": 67,
+   "gc_position": 63,
+   "distance": 127.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-5",
+   "stage_name": "S5Stage 5 - Patara › Kemer",
+   "date": "2026-04-30",
+   "result": 6,
+   "gc_position": 68,
+   "distance": 180.7,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-4",
+   "stage_name": "S4Stage 4 - Marmaris › Fethiye",
+   "date": "2026-04-29",
+   "result": 61,
+   "gc_position": 76,
+   "distance": 130.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-3",
+   "stage_name": "S3Stage 3 - Marmaris › Kıran",
+   "date": "2026-04-28",
+   "result": 84,
+   "gc_position": 78,
+   "distance": 132.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aydın › Marmaris",
+   "date": "2026-04-27",
+   "result": 8,
+   "gc_position": 7,
+   "distance": 152.8,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-1",
+   "stage_name": "S1Stage 1 - Çeşme › Selçuk",
+   "date": "2026-04-26",
+   "result": 13,
+   "gc_position": 14,
+   "distance": 148.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 17,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 12,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 18.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/ronde-van-limburg/2026/result",
+   "stage_name": "Ronde van Limburg (1.1)",
+   "date": "2026-04-15",
+   "result": 12,
+   "gc_position": null,
+   "distance": 178.4,
+   "pcs_points": 10.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 52,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 29,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 6.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 16,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 39,
+   "gc_position": 29,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 33,
+   "gc_position": 30,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 30,
+   "gc_position": 36,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 47,
+   "gc_position": 46,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 46,
+   "gc_position": 47,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 89,
+   "gc_position": 89,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": 22,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 4.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 12,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 18.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": 29,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/clasica-de-almeria/2026/result",
+   "stage_name": "Clasica de Almeria (1.Pro)",
+   "date": "2026-02-15",
+   "result": 21,
+   "gc_position": null,
+   "distance": 189.7,
+   "pcs_points": 5.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 26,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 49,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-5",
+   "stage_name": "S5Stage 5 - Nizwa › Jabal Al Akhdhar (Green Mountain)",
+   "date": "2026-02-11",
+   "result": 46,
+   "gc_position": null,
+   "distance": 155.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-4",
+   "stage_name": "S4Stage 4 - Al Sawadi Beach › Sohar",
+   "date": "2026-02-10",
+   "result": 5,
+   "gc_position": 52,
+   "distance": 146.8,
+   "pcs_points": 4.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-3",
+   "stage_name": "S3Stage 3 - Samail \"Al Fayhaa Resthouse\" › Eastern Mountain",
+   "date": "2026-02-09",
+   "result": 71,
+   "gc_position": 53,
+   "distance": 191.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-2",
+   "stage_name": "S2Stage 2 - Al Rustaq Fort › Yitti Hills",
+   "date": "2026-02-08",
+   "result": 14,
+   "gc_position": 6,
+   "distance": 191.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-1",
+   "stage_name": "S1Stage 1 - Ministry of Tourism › Bimmah Sink Hole",
+   "date": "2026-02-07",
+   "result": 14,
+   "gc_position": 17,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/muscat-classic/2026/result",
+   "stage_name": "Muscat Classic (1.Pro)",
+   "date": "2026-02-06",
+   "result": 19,
+   "gc_position": null,
+   "distance": 176.2,
+   "pcs_points": 7.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/gp-d-ouverture/2026/result",
+   "stage_name": "Grand Prix Cycliste de Marseille La Marseillaise (1.1)",
+   "date": "2026-02-01",
+   "result": 32,
+   "gc_position": null,
+   "distance": 145.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-de-valence/2026/result",
+   "stage_name": "Clàssica Comunitat Valenciana - Gran Premi València (1.1)",
+   "date": "2026-01-25",
+   "result": 25,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/ruta-de-la-ceramica-gran-premio-castellon/2026/result",
+   "stage_name": "Gran Premio Castellón - Ruta de la Cerámica (1.1)",
+   "date": "2026-01-24",
+   "result": 16,
+   "gc_position": null,
+   "distance": 171.7,
+   "pcs_points": 5.0,
+   "uci_points": 3.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Alpecin - Deceuninck",
+   "team_url": "team/alpecin-deceuninck-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Kometa Cycling Team",
+   "team_url": "team/kometa-cycling-team-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Polartec-Kometa",
+   "team_url": "team/polartec-kometa-2018",
+   "class": "CT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "GB Junior Team",
+   "team_url": "team/gb-junior-team-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 65.0
+}

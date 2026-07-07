@@ -1,0 +1,654 @@
+{
+ "birthdate": "2001-5-25",
+ "height": 1.83,
+ "image_url": "images/riders/ux/dq/alex-baudin-2026.jpg",
+ "name": "Alex Baudin",
+ "nationality": "FR",
+ "place_of_birth": "France",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 540,
+   "rank": 32
+  },
+  {
+   "season": 2025,
+   "points": 255,
+   "rank": 251
+  },
+  {
+   "season": 2024,
+   "points": 694,
+   "rank": 67
+  },
+  {
+   "season": 2023,
+   "points": 44,
+   "rank": 902
+  },
+  {
+   "season": 2022,
+   "points": 75,
+   "rank": 591
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 665,
+  "gc": 725,
+  "time_trial": 90,
+  "sprint": 5,
+  "climber": 768,
+  "hills": 569
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-france/2026/result",
+   "stage_name": "National Championships France ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 4,
+   "gc_position": null,
+   "distance": 225.5,
+   "pcs_points": 4.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 17,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 55.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 26,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 15,
+   "gc_position": 13,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 34,
+   "gc_position": 14,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 66,
+   "gc_position": 1,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 49,
+   "gc_position": 1,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 3,
+   "gc_position": 1,
+   "distance": 28.4,
+   "pcs_points": 12.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 59,
+   "gc_position": 1,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 146.2,
+   "pcs_points": 50.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 8,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 50.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 19,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 22.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 6,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 70.0,
+   "uci_points": 175.0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 11,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 38.0,
+   "uci_points": 70.0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 54,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 11,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 80.0,
+   "uci_points": 80.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-6",
+   "stage_name": "S6Stage 6 - Goizper-Antzuola › Bergara",
+   "date": "2026-04-11",
+   "result": 27,
+   "gc_position": null,
+   "distance": 135.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-5",
+   "stage_name": "S5Stage 5 - Eibar › Eibar",
+   "date": "2026-04-10",
+   "result": 10,
+   "gc_position": 5,
+   "distance": 176.2,
+   "pcs_points": 1.0,
+   "uci_points": 1.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-4",
+   "stage_name": "S4Stage 4 - Galdakao › Galdakao",
+   "date": "2026-04-09",
+   "result": 13,
+   "gc_position": 7,
+   "distance": 167.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-3",
+   "stage_name": "S3Stage 3 - Basauri › Basauri",
+   "date": "2026-04-08",
+   "result": 14,
+   "gc_position": 6,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 164.1,
+   "pcs_points": 7.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 20,
+   "gc_position": 20,
+   "distance": 13.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 3,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 60.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/milano-torino/2026/result",
+   "stage_name": "Milano - Torino (1.Pro)",
+   "date": "2026-03-18",
+   "result": 34,
+   "gc_position": null,
+   "distance": 174.0,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 17,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 80.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": 5,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 82,
+   "gc_position": 9,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 10,
+   "gc_position": 9,
+   "distance": 179.3,
+   "pcs_points": 1.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 11,
+   "gc_position": 9,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 16,
+   "gc_position": 13,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 6,
+   "gc_position": 13,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 111,
+   "gc_position": 80,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 63,
+   "gc_position": 63,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 105,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": 58,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 39,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 34,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-5",
+   "stage_name": "S5Stage 5 - Nizwa › Jabal Al Akhdhar (Green Mountain)",
+   "date": "2026-02-11",
+   "result": 45,
+   "gc_position": null,
+   "distance": 155.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-4",
+   "stage_name": "S4Stage 4 - Al Sawadi Beach › Sohar",
+   "date": "2026-02-10",
+   "result": 60,
+   "gc_position": 31,
+   "distance": 146.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-3",
+   "stage_name": "S3Stage 3 - Samail \"Al Fayhaa Resthouse\" › Eastern Mountain",
+   "date": "2026-02-09",
+   "result": 37,
+   "gc_position": 33,
+   "distance": 191.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-2",
+   "stage_name": "S2Stage 2 - Al Rustaq Fort › Yitti Hills",
+   "date": "2026-02-08",
+   "result": 18,
+   "gc_position": 16,
+   "distance": 191.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-1",
+   "stage_name": "S1Stage 1 - Ministry of Tourism › Bimmah Sink Hole",
+   "date": "2026-02-07",
+   "result": 37,
+   "gc_position": 39,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/muscat-classic/2026/result",
+   "stage_name": "Muscat Classic (1.Pro)",
+   "date": "2026-02-06",
+   "result": 31,
+   "gc_position": null,
+   "distance": 176.2,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2029,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2029",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2028,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Decathlon AG2R La Mondiale Team",
+   "team_url": "team/decathlon-ag2r-la-mondiale-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "AG2R Citroën Team",
+   "team_url": "team/ag2r-citroen-team-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "AG2R Citroën U23 Team",
+   "team_url": "team/ag2r-citroen-u23-team-2021",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Van Rysel-AG2R La Mondiale",
+   "team_url": "team/van-rysel-ag2r-la-mondiale-2020",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Chambéry Cyclisme Compétition",
+   "team_url": "team/chambery-cyclisme-competition-2019",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Chambéry Cyclisme Compétition",
+   "team_url": "team/chambery-cyclisme-competition-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 64.0
+}

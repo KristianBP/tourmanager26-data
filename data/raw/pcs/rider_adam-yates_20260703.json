@@ -1,0 +1,613 @@
+{
+ "birthdate": "1992-8-7",
+ "height": 1.73,
+ "image_url": "images/riders/oh/dq/adam-yates-2026.jpg",
+ "name": "Adam Yates",
+ "nationality": "GB",
+ "place_of_birth": "Bury",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 390,
+   "rank": 71
+  },
+  {
+   "season": 2025,
+   "points": 846,
+   "rank": 43
+  },
+  {
+   "season": 2024,
+   "points": 1342,
+   "rank": 16
+  },
+  {
+   "season": 2023,
+   "points": 1947,
+   "rank": 8
+  },
+  {
+   "season": 2022,
+   "points": 1132,
+   "rank": 23
+  },
+  {
+   "season": 2021,
+   "points": 1500,
+   "rank": 9
+  },
+  {
+   "season": 2020,
+   "points": 690,
+   "rank": 39
+  },
+  {
+   "season": 2019,
+   "points": 1306,
+   "rank": 20
+  },
+  {
+   "season": 2018,
+   "points": 958,
+   "rank": 42
+  },
+  {
+   "season": 2017,
+   "points": 950,
+   "rank": 45
+  },
+  {
+   "season": 2016,
+   "points": 734,
+   "rank": 54
+  },
+  {
+   "season": 2015,
+   "points": 680,
+   "rank": 58
+  },
+  {
+   "season": 2014,
+   "points": 612,
+   "rank": 64
+  },
+  {
+   "season": 2013,
+   "points": 31,
+   "rank": 1072
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 2759,
+  "gc": 7403,
+  "time_trial": 1330,
+  "sprint": 67,
+  "climber": 7690,
+  "hills": 2123
+ },
+ "season_results": [
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-3",
+   "stage_name": "S3Stage 3 - Plovdiv › Sofia",
+   "date": "2026-05-10",
+   "result": null,
+   "gc_position": null,
+   "distance": 175.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-2",
+   "stage_name": "S2Stage 2 - Burgas › Veliko Tarnovo",
+   "date": "2026-05-09",
+   "result": 170,
+   "gc_position": 162,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Nessebar › Burgas",
+   "date": "2026-05-08",
+   "result": 30,
+   "gc_position": 33,
+   "distance": 147.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 100.0,
+   "uci_points": 125.0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-5",
+   "stage_name": "S5Stage 5 - As Neves › Monte Trega",
+   "date": "2026-04-18",
+   "result": 3,
+   "gc_position": null,
+   "distance": 154.7,
+   "pcs_points": 7.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-4",
+   "stage_name": "S4Stage 4 - Xinzo de Limia › Alto de Cabeza de Meda",
+   "date": "2026-04-17",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 145.7,
+   "pcs_points": 20.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-3",
+   "stage_name": "S3Stage 3 - Carballo › Padrón",
+   "date": "2026-04-16",
+   "result": 5,
+   "gc_position": 4,
+   "distance": 169.0,
+   "pcs_points": 4.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-2",
+   "stage_name": "S2Stage 2 - Vilalba › Barreiros",
+   "date": "2026-04-15",
+   "result": 29,
+   "gc_position": 5,
+   "distance": 148.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Torre de Hércules › Torre de Hércules",
+   "date": "2026-04-14",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 15.0,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 15,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 40.0,
+   "uci_points": 35.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 50,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 22,
+   "gc_position": 15,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 40,
+   "gc_position": 16,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 58,
+   "gc_position": 16,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 13,
+   "gc_position": 16,
+   "distance": 183.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 62,
+   "gc_position": 59,
+   "distance": 12.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 28,
+   "gc_position": 29,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 20,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 90.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-5",
+   "stage_name": "S5Stage 5 - Nizwa › Jabal Al Akhdhar (Green Mountain)",
+   "date": "2026-02-11",
+   "result": 4,
+   "gc_position": null,
+   "distance": 155.9,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-4",
+   "stage_name": "S4Stage 4 - Al Sawadi Beach › Sohar",
+   "date": "2026-02-10",
+   "result": 39,
+   "gc_position": 11,
+   "distance": 146.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-3",
+   "stage_name": "S3Stage 3 - Samail \"Al Fayhaa Resthouse\" › Eastern Mountain",
+   "date": "2026-02-09",
+   "result": 12,
+   "gc_position": 12,
+   "distance": 191.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-2",
+   "stage_name": "S2Stage 2 - Al Rustaq Fort › Yitti Hills",
+   "date": "2026-02-08",
+   "result": 38,
+   "gc_position": 38,
+   "distance": 191.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-1",
+   "stage_name": "S1Stage 1 - Ministry of Tourism › Bimmah Sink Hole",
+   "date": "2026-02-07",
+   "result": 66,
+   "gc_position": 68,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/muscat-classic/2026/result",
+   "stage_name": "Muscat Classic (1.Pro)",
+   "date": "2026-02-06",
+   "result": 2,
+   "gc_position": null,
+   "distance": 176.2,
+   "pcs_points": 85.0,
+   "uci_points": 170.0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 19,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 16.0,
+   "uci_points": 24.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 28,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 23,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 14.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 48,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 56,
+   "gc_position": 21,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 95,
+   "gc_position": 9,
+   "distance": 140.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 7,
+   "gc_position": 9,
+   "distance": 148.1,
+   "pcs_points": 4.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 69,
+   "gc_position": 74,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 78,
+   "gc_position": 78,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Mitchelton-Scott",
+   "team_url": "team/mitchelton-scott-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Mitchelton-Scott",
+   "team_url": "team/mitchelton-scott-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Mitchelton-Scott",
+   "team_url": "team/mitchelton-scott-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "ORICA-Scott",
+   "team_url": "team/orica-scott-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "ORICA-BikeExchange",
+   "team_url": "team/orica-bikeexchange-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Orica GreenEDGE",
+   "team_url": "team/orica-greenedge-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Orica GreenEDGE",
+   "team_url": "team/orica-greenedge-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "CC Étupes",
+   "team_url": "team/cc-etupes-2013",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "UVCA Troyes",
+   "team_url": "team/uvca-troyes-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "UVCA Troyes",
+   "team_url": "team/uvca-troyes-2011",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Bury Clarion",
+   "team_url": "team/bury-clarion-2010",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2009,
+   "team_name": "Bury Clarion",
+   "team_url": "team/bury-clarion-2009",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 58.0
+}

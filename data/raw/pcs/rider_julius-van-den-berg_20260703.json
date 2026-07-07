@@ -1,0 +1,572 @@
+{
+ "birthdate": "1996-10-23",
+ "height": 1.9,
+ "image_url": "images/riders/dw/dq/julius-van-den-berg-2026-n2.jpg",
+ "name": "Julius van den Berg",
+ "nationality": "NL",
+ "place_of_birth": "Netherlands",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 59,
+   "rank": 559
+  },
+  {
+   "season": 2025,
+   "points": 54,
+   "rank": 779
+  },
+  {
+   "season": 2024,
+   "points": 30,
+   "rank": 1001
+  },
+  {
+   "season": 2023,
+   "points": 80,
+   "rank": 644
+  },
+  {
+   "season": 2022,
+   "points": 84,
+   "rank": 547
+  },
+  {
+   "season": 2021,
+   "points": 94,
+   "rank": 479
+  },
+  {
+   "season": 2020,
+   "points": 30,
+   "rank": 735
+  },
+  {
+   "season": 2019,
+   "points": 37,
+   "rank": 1054
+  },
+  {
+   "season": 2018,
+   "points": 115,
+   "rank": 541
+  },
+  {
+   "season": 2017,
+   "points": 32,
+   "rank": 1162
+  },
+  {
+   "season": 2016,
+   "points": 2,
+   "rank": 2383
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 251,
+  "gc": 221,
+  "time_trial": 79,
+  "sprint": 292,
+  "climber": 8,
+  "hills": 50
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 45,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 39,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 64,
+   "gc_position": 49,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 51,
+   "gc_position": 51,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 121,
+   "gc_position": 102,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 101,
+   "gc_position": 100,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 12,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 34.0,
+   "uci_points": 48.0
+  },
+  {
+   "stage_url": "race/circuit-franco-belge/2026/result",
+   "stage_name": "Circuit Franco-Belge (1.Pro)",
+   "date": "2026-06-10",
+   "result": 106,
+   "gc_position": null,
+   "distance": 195.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/brussels-cycling-classic/2026/result",
+   "stage_name": "Brussels Cycling Classic (1.Pro)",
+   "date": "2026-06-07",
+   "result": 62,
+   "gc_position": null,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/heist-op-den-berg/2026/result",
+   "stage_name": "Heylen Vastgoed Heistse Pijl (1.1)",
+   "date": "2026-06-06",
+   "result": 112,
+   "gc_position": null,
+   "distance": 187.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 40,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 72,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cossé-le-Vivien › Laval",
+   "date": "2026-05-31",
+   "result": 25,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aron › Pré-en-Pail-Saint-Samson",
+   "date": "2026-05-30",
+   "result": 76,
+   "gc_position": 74,
+   "distance": 215.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-1",
+   "stage_name": "S1Stage 1 - Saint-Berthevin  › Château-Gontier-sur-Mayenne",
+   "date": "2026-05-29",
+   "result": 40,
+   "gc_position": 72,
+   "distance": 172.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/prologue",
+   "stage_name": "ProloguePrologue - Laval (Espace Mayenne) › Laval (Espace Mayenne)",
+   "date": "2026-05-28",
+   "result": 77,
+   "gc_position": 77,
+   "distance": 5.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/veenendaal-veenendaal/2026/result",
+   "stage_name": "Veenendaal - Veenendaal ME (1.1)",
+   "date": "2026-05-23",
+   "result": 91,
+   "gc_position": null,
+   "distance": 178.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": null,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/scheldeprijs/2026/result",
+   "stage_name": "Scheldeprijs (1.Pro)",
+   "date": "2026-04-08",
+   "result": 55,
+   "gc_position": null,
+   "distance": 205.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 62,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 76,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classic-brugge-de-panne/2026/result",
+   "stage_name": "Ronde Van Brugge - Tour of Bruges ME (1.UWT)",
+   "date": "2026-03-25",
+   "result": 49,
+   "gc_position": null,
+   "distance": 202.9,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 128,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 76,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 137,
+   "gc_position": 132,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 92,
+   "gc_position": 131,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 138,
+   "gc_position": 146,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 156,
+   "gc_position": 137,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 132,
+   "gc_position": 131,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 32,
+   "gc_position": 32,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-samyn/2026/result",
+   "stage_name": "Ename Samyn Classic (1.1)",
+   "date": "2026-03-03",
+   "result": 78,
+   "gc_position": null,
+   "distance": 203.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 107,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 39,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - AlUla Old Town › Skyviews of Harrat Uwayrid",
+   "date": "2026-01-31",
+   "result": 50,
+   "gc_position": null,
+   "distance": 163.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Winter Park › Hegra",
+   "date": "2026-01-30",
+   "result": 57,
+   "gc_position": 35,
+   "distance": 173.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Winter Park › Bir Jaydah Mountain Wirkah",
+   "date": "2026-01-29",
+   "result": 42,
+   "gc_position": 38,
+   "distance": 142.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-2",
+   "stage_name": "S2Stage 2 - AlManshiyah Train Station › AlManshiyah Train Station",
+   "date": "2026-01-28",
+   "result": 78,
+   "gc_position": 61,
+   "distance": 152.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - AlUla Camel Cup Track › AlUla Camel Cup Track",
+   "date": "2026-01-27",
+   "result": 56,
+   "gc_position": 55,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Team Picnic PostNL",
+   "team_url": "team/team-picnic-postnl-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Team Picnic PostNL",
+   "team_url": "team/team-picnic-postnl-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team dsm-firmenich PostNL",
+   "team_url": "team/team-dsm-firmenich-postnl-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "EF Education - EasyPost",
+   "team_url": "team/ef-education-easypost-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "EF Education - Nippo",
+   "team_url": "team/ef-education-nippo-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "EF Pro Cycling",
+   "team_url": "team/ef-pro-cycling-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "EF Education First",
+   "team_url": "team/ef-education-first-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team EF Education First - Drapac p/b Cannondale",
+   "team_url": "team/team-ef-education-first-drapac-p-b-cannondale-2018",
+   "class": "WT",
+   "since": "07-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "SEG Racing Academy",
+   "team_url": "team/seg-racing-academy-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "06-30"
+  },
+  {
+   "season": 2017,
+   "team_name": "SEG Racing Academy",
+   "team_url": "team/seg-racing-academy-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "SEG Racing Academy",
+   "team_url": "team/seg-racing-academy-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "SEG Racing ",
+   "team_url": "team/seg-racing-2015",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 78.0
+}

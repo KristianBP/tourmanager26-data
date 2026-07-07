@@ -1,0 +1,433 @@
+{
+ "birthdate": "1990-9-26",
+ "height": 1.78,
+ "image_url": "images/riders/nd/dq/michael-matthews-2026.jpg",
+ "name": "Michael Matthews",
+ "nationality": "AU",
+ "place_of_birth": "Australia",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 109,
+   "rank": 353
+  },
+  {
+   "season": 2025,
+   "points": 841,
+   "rank": 45
+  },
+  {
+   "season": 2024,
+   "points": 901,
+   "rank": 41
+  },
+  {
+   "season": 2023,
+   "points": 600,
+   "rank": 89
+  },
+  {
+   "season": 2022,
+   "points": 1171,
+   "rank": 22
+  },
+  {
+   "season": 2021,
+   "points": 921,
+   "rank": 30
+  },
+  {
+   "season": 2020,
+   "points": 656,
+   "rank": 45
+  },
+  {
+   "season": 2019,
+   "points": 1102,
+   "rank": 27
+  },
+  {
+   "season": 2018,
+   "points": 1441,
+   "rank": 15
+  },
+  {
+   "season": 2017,
+   "points": 1728,
+   "rank": 8
+  },
+  {
+   "season": 2016,
+   "points": 1156,
+   "rank": 23
+  },
+  {
+   "season": 2015,
+   "points": 1227,
+   "rank": 18
+  },
+  {
+   "season": 2014,
+   "points": 916,
+   "rank": 37
+  },
+  {
+   "season": 2013,
+   "points": 468,
+   "rank": 98
+  },
+  {
+   "season": 2012,
+   "points": 379,
+   "rank": 154
+  },
+  {
+   "season": 2011,
+   "points": 546,
+   "rank": 84
+  },
+  {
+   "season": 2010,
+   "points": 289,
+   "rank": 178
+  },
+  {
+   "season": 2009,
+   "points": 110,
+   "rank": 482
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 8292,
+  "gc": 867,
+  "time_trial": 1704,
+  "sprint": 3156,
+  "climber": 2374,
+  "hills": 7814
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 31,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 59,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 13,
+   "gc_position": 27,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 8,
+   "gc_position": 26,
+   "distance": 157.4,
+   "pcs_points": 3.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 60,
+   "gc_position": 29,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 28,
+   "gc_position": 28,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": null,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 14,
+   "gc_position": 95,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 65,
+   "gc_position": 99,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 8,
+   "gc_position": 101,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 114,
+   "gc_position": 113,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 101,
+   "gc_position": 101,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 3,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 26.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-de-la-ceramica-gran-premio-castellon/2026/result",
+   "stage_name": "Gran Premio Castellón - Ruta de la Cerámica (1.1)",
+   "date": "2026-01-24",
+   "result": 1,
+   "gc_position": null,
+   "distance": 171.7,
+   "pcs_points": 75.0,
+   "uci_points": 125.0
+  },
+  {
+   "stage_url": "race/classica-camp-de-morvedre/2026/result",
+   "stage_name": "Classica Camp de Morvedre  (1.1)",
+   "date": "2026-01-23",
+   "result": null,
+   "gc_position": null,
+   "distance": 163.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Team BikeExchange - Jayco",
+   "team_url": "team/team-bikeexchange-jayco-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team BikeExchange",
+   "team_url": "team/team-bikeexchange-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "ORICA-BikeExchange",
+   "team_url": "team/orica-bikeexchange-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Orica GreenEDGE",
+   "team_url": "team/orica-greenedge-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Orica GreenEDGE",
+   "team_url": "team/orica-greenedge-2014",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Orica GreenEDGE",
+   "team_url": "team/orica-greenedge-2013",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Rabobank Cycling Team",
+   "team_url": "team/rabobank-cycling-team-2012",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2011,
+   "team_name": "Rabobank Cycling Team",
+   "team_url": "team/rabobank-cycling-team-2011",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Team Jayco Skins",
+   "team_url": "team/team-jayco-skins-2010",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2009,
+   "team_name": "Team Jayco - AIS",
+   "team_url": "team/team-jayco-ais-2009",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2008,
+   "team_name": "ACT Academy of Sport",
+   "team_url": "team/act-academy-of-sport-2008",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 72.0
+}

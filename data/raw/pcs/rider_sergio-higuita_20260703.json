@@ -1,0 +1,514 @@
+{
+ "birthdate": "1997-8-1",
+ "height": 1.66,
+ "image_url": "images/riders/di/dq/sergio-higuita-2026.jpeg",
+ "name": "Sergio Higuita",
+ "nationality": "CO",
+ "place_of_birth": "Medellín",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 297,
+   "rank": 109
+  },
+  {
+   "season": 2025,
+   "points": 311,
+   "rank": 204
+  },
+  {
+   "season": 2024,
+   "points": 363,
+   "rank": 183
+  },
+  {
+   "season": 2023,
+   "points": 496,
+   "rank": 117
+  },
+  {
+   "season": 2022,
+   "points": 1239,
+   "rank": 18
+  },
+  {
+   "season": 2021,
+   "points": 506,
+   "rank": 102
+  },
+  {
+   "season": 2020,
+   "points": 417,
+   "rank": 75
+  },
+  {
+   "season": 2019,
+   "points": 1022,
+   "rank": 31
+  },
+  {
+   "season": 2018,
+   "points": 88,
+   "rank": 669
+  },
+  {
+   "season": 2017,
+   "points": 42,
+   "rank": 1026
+  },
+  {
+   "season": 2016,
+   "points": 16,
+   "rank": 1482
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1189,
+  "gc": 2605,
+  "time_trial": 130,
+  "sprint": 70,
+  "climber": 2670,
+  "hills": 1422
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 80.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 11,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 51,
+   "gc_position": 13,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 42,
+   "gc_position": 12,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 18,
+   "gc_position": 12,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 12,
+   "gc_position": 13,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 11,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 60.0,
+   "uci_points": 70.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Lucens › Leysin",
+   "date": "2026-05-03",
+   "result": 16,
+   "gc_position": null,
+   "distance": 178.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Broc › Charmey",
+   "date": "2026-05-02",
+   "result": 5,
+   "gc_position": 13,
+   "distance": 149.6,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orbe › Orbe",
+   "date": "2026-05-01",
+   "result": 5,
+   "gc_position": 14,
+   "distance": 176.6,
+   "pcs_points": 10.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": 11,
+   "gc_position": 15,
+   "distance": 173.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 6,
+   "gc_position": 16,
+   "distance": 171.2,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 81,
+   "gc_position": 81,
+   "distance": 3.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-4",
+   "stage_name": "S4Stage 4 - Galdakao › Galdakao",
+   "date": "2026-04-09",
+   "result": null,
+   "gc_position": null,
+   "distance": 167.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-3",
+   "stage_name": "S3Stage 3 - Basauri › Basauri",
+   "date": "2026-04-08",
+   "result": 28,
+   "gc_position": 18,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": 14,
+   "gc_position": 19,
+   "distance": 164.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 79,
+   "gc_position": 79,
+   "distance": 13.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 50,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 33,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 94,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 19,
+   "gc_position": 33,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 79,
+   "gc_position": 43,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 59,
+   "gc_position": 43,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 46,
+   "gc_position": 46,
+   "distance": 183.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 81,
+   "gc_position": 77,
+   "distance": 12.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 39,
+   "gc_position": 40,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 7,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 110.0,
+   "uci_points": 170.0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - AlUla Old Town › Skyviews of Harrat Uwayrid",
+   "date": "2026-01-31",
+   "result": 6,
+   "gc_position": null,
+   "distance": 163.9,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Winter Park › Hegra",
+   "date": "2026-01-30",
+   "result": 32,
+   "gc_position": 3,
+   "distance": 173.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Winter Park › Bir Jaydah Mountain Wirkah",
+   "date": "2026-01-29",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 142.1,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-2",
+   "stage_name": "S2Stage 2 - AlManshiyah Train Station › AlManshiyah Train Station",
+   "date": "2026-01-28",
+   "result": 29,
+   "gc_position": 30,
+   "distance": 152.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - AlUla Camel Cup Track › AlUla Camel Cup Track",
+   "date": "2026-01-27",
+   "result": 49,
+   "gc_position": 48,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Red Bull - BORA - hansgrohe",
+   "team_url": "team/red-bull-bora-hansgrohe-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "EF Education - Nippo",
+   "team_url": "team/ef-education-nippo-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "EF Pro Cycling",
+   "team_url": "team/ef-pro-cycling-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "EF Education First",
+   "team_url": "team/ef-education-first-2019",
+   "class": "WT",
+   "since": "05-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Fundación Euskadi",
+   "team_url": "team/fundacion-euskadi-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "04-30"
+  },
+  {
+   "season": 2018,
+   "team_name": "Manzana Postobon",
+   "team_url": "team/manzana-postobon-2018",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Manzana Postobon",
+   "team_url": "team/manzana-postobon-2017",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Manzana Postobon",
+   "team_url": "team/team-manzana-postobon-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 57.0
+}

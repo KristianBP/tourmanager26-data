@@ -1,0 +1,96 @@
+{
+  "_status": "Verifisert 2026-07-03 direkte fra spillets API (tournaments/tourmanager26, rulesets[0] 'TourManager 2026 Standard' v1). Felter under open_questions er IKKE verifisert — semantikk må bekreftes mot regelsiden før optimizeren stoler på dem.",
+  "verified": true,
+  "verified_date": "2026-07-03",
+  "source": "https://vm-fantasyapi-production.up.railway.app/tournaments/tourmanager26",
+
+  "budget": {"total": 100000000, "unit": "cents (spillets interne enhet; rytterpriser 3.4M–11.8M)"},
+
+  "team": {
+    "total_selections": 13,
+    "riders": 12,
+    "sport_director_slots": 1,
+    "positions": {
+      "CAPTAIN": 2,
+      "CLIMBER": 2,
+      "SPRINTER": 2,
+      "DOMESTIQUE": 3,
+      "YOUNG_RIDER": 2,
+      "TIME_TRIALIST": 1
+    },
+    "max_per_pro_team": 3,
+    "sd_counts_toward_max_per_team": true,
+    "bench_size": 0,
+    "wildcard": false
+  },
+
+  "multipliers": {
+    "_comment": "Posisjonsbasert multiplikator — se open_questions[0] for semantikk",
+    "CAPTAIN": 2,
+    "SPRINTER": 2,
+    "CLIMBER": 3,
+    "TIME_TRIALIST": 3,
+    "DOMESTIQUE": 4,
+    "YOUNG_RIDER": 4
+  },
+
+  "points": {
+    "stage_finish": {"1": 100, "2": 80, "3": 70, "4": 60, "5": 52, "6": 45, "7": 40, "8": 36, "9": 32, "10": 28, "11": 24, "12": 21, "13": 18, "14": 15, "15": 12, "16": 10, "17": 8, "18": 6, "19": 4, "20": 2, "other": 1},
+    "sprint_points": {"1": 20, "2": 17, "3": 15, "4": 13, "5": 11, "6": 10, "7": 9, "8": 8, "9": 7, "10": 6, "11": 5, "12": 4, "13": 3, "14": 2, "15": 1},
+    "passing_point": {"1": 6, "2": 4, "3": 2},
+    "climbs": {
+      "HC":   [60, 48, 36, 24, 12, 6],
+      "cat1": [30, 24, 18, 12, 6, 3],
+      "cat2": [15, 9, 6, 3],
+      "cat3": [6, 3],
+      "cat4": [3]
+    },
+    "bonuses": {
+      "jerseys": ["yellow", "green", "polka", "white"],
+      "jersey_takeover": 20,
+      "max_jerseys_per_rider_per_stage": 1,
+      "teammate_wins_stage": 10,
+      "most_offensive_rider": 25
+    },
+    "sport_director": {
+      "rule": "Goes down the finishers list to find 5 riders from 5 different teams",
+      "stage_top_five": [160, 100, 60, 40, 20],
+      "max_riders_per_stage": 1
+    }
+  },
+
+  "transfers": {
+    "total": 25,
+    "scheme": "free_pool",
+    "free_per_round": 0,
+    "hit_cost": 0,
+    "_comment": "totalTransferBudget=25 for hele touren; ingen per-runde-grense funnet i regelsettet"
+  },
+
+  "pricing": {"dynamic": false, "trade_at_daily_price": null, "_comment": "noPriceChanges=true — statiske priser hele touren"},
+
+  "deadline": {
+    "rule": "per runde, deadlineAt fra /active-round og /rounds",
+    "stage_1_deadline_utc": "2026-07-04T11:00:00Z",
+    "stage_1_deadline_local": "13:00 CEST",
+    "_comment": "API-et gir effectiveDeadline + secondsRemaining + isLocked live"
+  },
+
+  "dnf_handling": "Rytter som bryter må byttes ut med 1 bytte fra potten. Ingen gratis erstatning. (Verifisert av bruker mot regelsiden 2026-07-03.)",
+
+  "semantics_verified_by_user_20260703": {
+    "multiplier": "Gjelder ALLE poeng rytteren tar (etappe, spurterklassifisering, passeringspunkt B, klatring, bonus). Eneste unntak: SD multipliseres ikke. Regeltekst: 'Poeng ganges med ryttertype-multiplikator'.",
+    "sprint_points": "Spurterklassifisering ved målgang (15 plasser).",
+    "passing_point": "Passeringspunkt B / mellomsprint (3 plasser).",
+    "jersey_bonus": "Kun ved OVERTAKELSE av trøye, ikke per etappe man bærer den.",
+    "transfers": "Alle 25 fritt tilgjengelige når som helst, ingen per-etappe-grense.",
+    "sd_switchable": "SD kan byttes når som helst (bekreftet av bruker 2026-07-03)."
+  },
+
+  "verify_after_stage_1": [
+    "Multipliseres bonuspoengene (+10 lagkamerat / +25 offensiv / +20 trøye) eller er de flate? (Bruker usikker.)",
+    "SKALA-AVVIK spurt: API sier 20/17/15/13/11/10/9/8/7/6/5/4/3/2/1 — brukers regeltekst sier 25/20/16...1. Sjekk faktiske poeng.",
+    "SKALA-AVVIK etappe: API sier plass 20=2 og 'other'=1 — brukers regeltekst sier plass 20-49 gir 3. Sjekk faktiske poeng.",
+    "SD-utdeling: feltnavn (stageTopFive, maxRidersPerStage) tilsier PER ETAPPE basert på dagens målliste — bekreft mot player-points."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+ "source": "cyclingstage",
+ "stage": 15,
+ "fetched": "2026-07-03",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-15-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Thymen Arensman",
+   "stars": 3
+  },
+  {
+   "name": "Lenny Martinez",
+   "stars": 3
+  },
+  {
+   "name": "Sepp Kuss",
+   "stars": 3
+  },
+  {
+   "name": "Richard Carapaz",
+   "stars": 3
+  },
+  {
+   "name": "Matthew Riccitello",
+   "stars": 2
+  },
+  {
+   "name": "Isaac del Toro",
+   "stars": 2
+  },
+  {
+   "name": "Egan Bernal",
+   "stars": 2
+  },
+  {
+   "name": "Mattias Skjelmose",
+   "stars": 2
+  },
+  {
+   "name": "Tadej Pogacar",
+   "stars": 1
+  },
+  {
+   "name": "Jonas Vingegaard",
+   "stars": 1
+  },
+  {
+   "name": "Paul Seixas",
+   "stars": 1
+  },
+  {
+   "name": "Remco Evenepoel",
+   "stars": 1
+  },
+  {
+   "name": "Juan Ayuso",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

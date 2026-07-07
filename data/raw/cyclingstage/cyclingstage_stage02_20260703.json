@@ -1,0 +1,57 @@
+{
+ "source": "cyclingstage",
+ "stage": 2,
+ "fetched": "2026-07-03",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-2-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Mathieu van der Poel",
+   "stars": 3
+  },
+  {
+   "name": "Tadej Pogacar",
+   "stars": 3
+  },
+  {
+   "name": "Tom Pidcock",
+   "stars": 3
+  },
+  {
+   "name": "Maxim Van Gils",
+   "stars": 2
+  },
+  {
+   "name": "Paul Seixas",
+   "stars": 2
+  },
+  {
+   "name": "Romain Grégoire",
+   "stars": 2
+  },
+  {
+   "name": "Mathias Vacek",
+   "stars": 2
+  },
+  {
+   "name": "Juan Ayuso",
+   "stars": 1
+  },
+  {
+   "name": "Jonas Vingegaard",
+   "stars": 1
+  },
+  {
+   "name": "Mads Pedersen",
+   "stars": 1
+  },
+  {
+   "name": "Lenny Martinez",
+   "stars": 1
+  },
+  {
+   "name": "Kévin Vauquelin",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

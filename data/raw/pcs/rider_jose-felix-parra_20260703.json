@@ -1,0 +1,668 @@
+{
+ "birthdate": "1997-1-16",
+ "height": 1.71,
+ "image_url": "images/riders/ra/dq/jose-felix-parra-2026.jpg",
+ "name": "José Félix Parra",
+ "nationality": "ES",
+ "place_of_birth": "Spain",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 178,
+   "rank": 226
+  },
+  {
+   "season": 2025,
+   "points": 207,
+   "rank": 309
+  },
+  {
+   "season": 2024,
+   "points": 197,
+   "rank": 317
+  },
+  {
+   "season": 2023,
+   "points": 81,
+   "rank": 641
+  },
+  {
+   "season": 2022,
+   "points": 57,
+   "rank": 694
+  },
+  {
+   "season": 2021,
+   "points": 128,
+   "rank": 386
+  },
+  {
+   "season": 2019,
+   "points": 1,
+   "rank": 2599
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 178,
+  "gc": 617,
+  "time_trial": 0,
+  "sprint": 0,
+  "climber": 502,
+  "hills": 122
+ },
+ "season_results": [
+  {
+   "stage_url": "race/andorra-morabanc-classica/2026/result",
+   "stage_name": "Andorra MoraBanc Clàssica (1.1)",
+   "date": "2026-06-21",
+   "result": 22,
+   "gc_position": null,
+   "distance": 125.0,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 34,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 43,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 80.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 15,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 9,
+   "gc_position": 10,
+   "distance": 133.6,
+   "pcs_points": 2.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 12,
+   "gc_position": 6,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 75,
+   "gc_position": 30,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 72,
+   "gc_position": 30,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 22,
+   "gc_position": 30,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 18,
+   "gc_position": 27,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 27,
+   "gc_position": 27,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 46,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 40.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-8",
+   "stage_name": "S8Stage 8 - Ankara › Ankara",
+   "date": "2026-05-03",
+   "result": 21,
+   "gc_position": null,
+   "distance": 105.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-7",
+   "stage_name": "S7Stage 7 - Antalya › Antalya",
+   "date": "2026-05-02",
+   "result": 91,
+   "gc_position": 10,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-6",
+   "stage_name": "S6Stage 6 - Antalya › Feslikan",
+   "date": "2026-05-01",
+   "result": 15,
+   "gc_position": 10,
+   "distance": 127.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-5",
+   "stage_name": "S5Stage 5 - Patara › Kemer",
+   "date": "2026-04-30",
+   "result": 45,
+   "gc_position": 10,
+   "distance": 180.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-4",
+   "stage_name": "S4Stage 4 - Marmaris › Fethiye",
+   "date": "2026-04-29",
+   "result": 37,
+   "gc_position": 10,
+   "distance": 130.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-3",
+   "stage_name": "S3Stage 3 - Marmaris › Kıran",
+   "date": "2026-04-28",
+   "result": 11,
+   "gc_position": 10,
+   "distance": 132.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aydın › Marmaris",
+   "date": "2026-04-27",
+   "result": 63,
+   "gc_position": 46,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-turkey/2026/stage-1",
+   "stage_name": "S1Stage 1 - Çeşme › Selçuk",
+   "date": "2026-04-26",
+   "result": 62,
+   "gc_position": 63,
+   "distance": 148.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 24.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-5",
+   "stage_name": "S5Stage 5 - As Neves › Monte Trega",
+   "date": "2026-04-18",
+   "result": 9,
+   "gc_position": null,
+   "distance": 154.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-4",
+   "stage_name": "S4Stage 4 - Xinzo de Limia › Alto de Cabeza de Meda",
+   "date": "2026-04-17",
+   "result": 4,
+   "gc_position": 6,
+   "distance": 145.7,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-3",
+   "stage_name": "S3Stage 3 - Carballo › Padrón",
+   "date": "2026-04-16",
+   "result": 17,
+   "gc_position": 18,
+   "distance": 169.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-2",
+   "stage_name": "S2Stage 2 - Vilalba › Barreiros",
+   "date": "2026-04-15",
+   "result": 20,
+   "gc_position": 23,
+   "distance": 148.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Torre de Hércules › Torre de Hércules",
+   "date": "2026-04-14",
+   "result": 29,
+   "gc_position": 29,
+   "distance": 15.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 23,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 14.0,
+   "uci_points": 16.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-7",
+   "stage_name": "S7Stage 7 - Barcelona › Barcelona",
+   "date": "2026-03-29",
+   "result": 17,
+   "gc_position": null,
+   "distance": 95.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-6",
+   "stage_name": "S6Stage 6 - Berga › Queralt",
+   "date": "2026-03-28",
+   "result": 32,
+   "gc_position": 24,
+   "distance": 158.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Seu d'Urgell › La Molina/Coll de Pal",
+   "date": "2026-03-27",
+   "result": 29,
+   "gc_position": 30,
+   "distance": 153.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mataró › Camprodón",
+   "date": "2026-03-26",
+   "result": 47,
+   "gc_position": 18,
+   "distance": 151.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-3",
+   "stage_name": "S3Stage 3 - Mont-roig del Camp › Vila-seca",
+   "date": "2026-03-25",
+   "result": 25,
+   "gc_position": 18,
+   "distance": 159.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-2",
+   "stage_name": "S2Stage 2 - Figueres › Banyoles",
+   "date": "2026-03-24",
+   "result": 55,
+   "gc_position": 23,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
+   "date": "2026-03-23",
+   "result": 18,
+   "gc_position": 18,
+   "distance": 172.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/clasica-terres-de-l-ebre/2026/result",
+   "stage_name": "Clàssica Terres de l'Ebre (1.1)",
+   "date": "2026-03-21",
+   "result": 23,
+   "gc_position": null,
+   "distance": 175.5,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/milano-torino/2026/result",
+   "stage_name": "Milano - Torino (1.Pro)",
+   "date": "2026-03-18",
+   "result": 21,
+   "gc_position": null,
+   "distance": 174.0,
+   "pcs_points": 5.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": null,
+   "gc_position": null,
+   "distance": 166.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 66,
+   "gc_position": 56,
+   "distance": 180.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 64,
+   "gc_position": 57,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 60,
+   "gc_position": 60,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 82,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-pollenca-port-d-andratx/2026/result",
+   "stage_name": "Trofeo Andratx - Pollença (1.1)",
+   "date": "2026-01-31",
+   "result": 29,
+   "gc_position": null,
+   "distance": 121.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/deia-trophy/2026/result",
+   "stage_name": "Trofeo Serra Tramuntana (1.1)",
+   "date": "2026-01-30",
+   "result": 13,
+   "gc_position": null,
+   "distance": 154.3,
+   "pcs_points": 8.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": 35,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classica-camp-de-morvedre/2026/result",
+   "stage_name": "Classica Camp de Morvedre  (1.1)",
+   "date": "2026-01-23",
+   "result": 29,
+   "gc_position": null,
+   "distance": 163.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2027",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Equipo Kern Pharma",
+   "team_url": "team/equipo-kern-pharma-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Equipo Kern Pharma",
+   "team_url": "team/equipo-kern-pharma-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Equipo Kern Pharma",
+   "team_url": "team/equipo-kern-pharma-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Equipo Kern Pharma",
+   "team_url": "team/equipo-kern-pharma-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Equipo Kern Pharma",
+   "team_url": "team/equipo-kern-pharma-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Equipo Kern Pharma",
+   "team_url": "team/equipo-kern-pharma-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Lizarte",
+   "team_url": "team/lizarte-2019",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Lizarte",
+   "team_url": "team/lizarte-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Lizarte",
+   "team_url": "team/lizarte-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Lizarte",
+   "team_url": "team/lizarte-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "rh+/Polartec Team - Fundación Alberto Contador",
+   "team_url": "team/rh+-polartec-team-fundacion-contador-junior-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Flex - Fundación Alberto Contador",
+   "team_url": "team/flex-fundacion-contador-junior-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Flex - Fundación Alberto Contador",
+   "team_url": "team/flex-fundacion-contador-junior-2014",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 55.0
+}

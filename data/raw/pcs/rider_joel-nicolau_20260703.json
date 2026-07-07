@@ -1,0 +1,420 @@
+{
+ "birthdate": "1997-12-23",
+ "height": 1.76,
+ "image_url": "images/riders/ra/dq/joel-nicolau-2026.jpg",
+ "name": "Joel Nicolau",
+ "nationality": "ES",
+ "place_of_birth": "Spain",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 83,
+   "rank": 429
+  },
+  {
+   "season": 2025,
+   "points": 133,
+   "rank": 444
+  },
+  {
+   "season": 2024,
+   "points": 157,
+   "rank": 398
+  },
+  {
+   "season": 2023,
+   "points": 51,
+   "rank": 840
+  },
+  {
+   "season": 2022,
+   "points": 125,
+   "rank": 399
+  },
+  {
+   "season": 2021,
+   "points": 24,
+   "rank": 1008
+  },
+  {
+   "season": 2019,
+   "points": 6,
+   "rank": 2003
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 270,
+  "gc": 279,
+  "time_trial": 8,
+  "sprint": 50,
+  "climber": 212,
+  "hills": 309
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-spain/2026/result",
+   "stage_name": "National Championships Spain ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 2,
+   "gc_position": null,
+   "distance": 211.9,
+   "pcs_points": 10.0,
+   "uci_points": 75.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 7,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 55.0,
+   "uci_points": 70.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-5",
+   "stage_name": "S5Stage 5 - Litija › Novo mesto",
+   "date": "2026-06-21",
+   "result": 4,
+   "gc_position": null,
+   "distance": 169.4,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-4",
+   "stage_name": "S4Stage 4 - Kranj › Kranjska Gora",
+   "date": "2026-06-20",
+   "result": 8,
+   "gc_position": 7,
+   "distance": 184.7,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-3",
+   "stage_name": "S3Stage 3 - Maribor › Celje",
+   "date": "2026-06-19",
+   "result": 26,
+   "gc_position": 13,
+   "distance": 133.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-2",
+   "stage_name": "S2Stage 2 - Radlje ob Dravi › Ormož",
+   "date": "2026-06-18",
+   "result": 25,
+   "gc_position": 11,
+   "distance": 181.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Velenje › Rogaška Slatina",
+   "date": "2026-06-17",
+   "result": 6,
+   "gc_position": 8,
+   "distance": 141.3,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-l-aulne/2026/result",
+   "stage_name": "Boucles de l'Aulne - Châteaulin (1.1)",
+   "date": "2026-05-17",
+   "result": null,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-du-finistere/2026/result",
+   "stage_name": "Tour du Finistère Pays de Quimper (1.1)",
+   "date": "2026-05-16",
+   "result": null,
+   "gc_position": null,
+   "distance": 156.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tro-bro-leon/2026/result",
+   "stage_name": "Tro-Bro Léon (1.Pro)",
+   "date": "2026-05-10",
+   "result": null,
+   "gc_position": null,
+   "distance": 202.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-de-plumelec/2026/result",
+   "stage_name": "Grand Prix du Morbihan (1.Pro)",
+   "date": "2026-05-09",
+   "result": 103,
+   "gc_position": null,
+   "distance": 190.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": null,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 70,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": null,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": null,
+   "gc_position": null,
+   "distance": 180.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 106,
+   "gc_position": 79,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 21,
+   "gc_position": 21,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/clasica-jaen-paraiso-interior/2026/result",
+   "stage_name": "Clásica Jaén (1.1)",
+   "date": "2026-02-16",
+   "result": 24,
+   "gc_position": null,
+   "distance": 154.2,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/vuelta-ciclista-a-la-region-de-murcia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fortuna › Yecla",
+   "date": "2026-02-13",
+   "result": 126,
+   "gc_position": 126,
+   "distance": 89.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 27,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-5",
+   "stage_name": "S5Stage 5 - Bétera › Valencia",
+   "date": "2026-02-08",
+   "result": 23,
+   "gc_position": null,
+   "distance": 94.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-4",
+   "stage_name": "S4Stage 4 - La Nucía › Teulada Moraira",
+   "date": "2026-02-07",
+   "result": 25,
+   "gc_position": 27,
+   "distance": 172.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orihuela › San Vicente del Raspeig",
+   "date": "2026-02-06",
+   "result": 54,
+   "gc_position": 45,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Carlet › Alginet",
+   "date": "2026-02-05",
+   "result": 56,
+   "gc_position": 38,
+   "distance": 17.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-1",
+   "stage_name": "S1Stage 1 - Segorbe › Torreblanca",
+   "date": "2026-02-04",
+   "result": 36,
+   "gc_position": 38,
+   "distance": 160.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-de-la-ceramica-gran-premio-castellon/2026/result",
+   "stage_name": "Gran Premio Castellón - Ruta de la Cerámica (1.1)",
+   "date": "2026-01-24",
+   "result": 19,
+   "gc_position": null,
+   "distance": 171.7,
+   "pcs_points": 2.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/classica-camp-de-morvedre/2026/result",
+   "stage_name": "Classica Camp de Morvedre  (1.1)",
+   "date": "2026-01-23",
+   "result": 102,
+   "gc_position": null,
+   "distance": 163.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2020",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2019",
+   "class": "PCT",
+   "since": "04-16",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Club Ciclista Sepelaco",
+   "team_url": "team/club-ciclista-sepelaco-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 66.0
+}

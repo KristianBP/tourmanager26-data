@@ -13,10 +13,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - run: pip install -q procyclingstats cloudscraper pulp requests beautifulsoup4 pyyaml
       - run: python fetch.py
+      - name: reoptimalisering
+        run: python run_cloud_daily.py || echo '{"errors":["run_cloud_daily feilet - se Actions-loggen"]}' > data/recommendation.json
       - run: |
           git config user.name "data-bot"
           git config user.email "actions@github.com"
-          git add data/
+          git add -A data/
           git diff --cached --quiet || git commit -m "data $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

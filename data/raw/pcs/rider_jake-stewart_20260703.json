@@ -1,0 +1,494 @@
+{
+ "birthdate": "1999-10-2",
+ "height": 1.79,
+ "image_url": "images/riders/gu/dq/jake-stewart-2026.jpeg",
+ "name": "Jake Stewart",
+ "nationality": "GB",
+ "place_of_birth": "Coventry",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 18,
+   "rank": 1052
+  },
+  {
+   "season": 2025,
+   "points": 277,
+   "rank": 232
+  },
+  {
+   "season": 2024,
+   "points": 155,
+   "rank": 399
+  },
+  {
+   "season": 2023,
+   "points": 126,
+   "rank": 461
+  },
+  {
+   "season": 2022,
+   "points": 379,
+   "rank": 160
+  },
+  {
+   "season": 2021,
+   "points": 282,
+   "rank": 195
+  },
+  {
+   "season": 2020,
+   "points": 120,
+   "rank": 288
+  },
+  {
+   "season": 2019,
+   "points": 29,
+   "rank": 1173
+  },
+  {
+   "season": 2018,
+   "points": 21,
+   "rank": 1403
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 534,
+  "gc": 472,
+  "time_trial": 28,
+  "sprint": 542,
+  "climber": 148,
+  "hills": 930
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 83,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 114,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 73,
+   "gc_position": 64,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 72,
+   "gc_position": 69,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 82,
+   "gc_position": 74,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 67,
+   "gc_position": 67,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-8",
+   "stage_name": "S8Stage 8 - Chieti › Fermo",
+   "date": "2026-05-16",
+   "result": null,
+   "gc_position": null,
+   "distance": 156.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-7",
+   "stage_name": "S7Stage 7 - Formia › Blockhaus",
+   "date": "2026-05-15",
+   "result": 99,
+   "gc_position": 152,
+   "distance": 244.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-6",
+   "stage_name": "S6Stage 6 - Paestum › Naples",
+   "date": "2026-05-14",
+   "result": 143,
+   "gc_position": 167,
+   "distance": 141.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-5",
+   "stage_name": "S5Stage 5 - Praia a Mare › Potenza",
+   "date": "2026-05-13",
+   "result": 141,
+   "gc_position": 168,
+   "distance": 203.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-4",
+   "stage_name": "S4Stage 4 - Catanzaro › Cosenza",
+   "date": "2026-05-12",
+   "result": 139,
+   "gc_position": 171,
+   "distance": 138.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-3",
+   "stage_name": "S3Stage 3 - Plovdiv › Sofia",
+   "date": "2026-05-10",
+   "result": 138,
+   "gc_position": 175,
+   "distance": 175.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-2",
+   "stage_name": "S2Stage 2 - Burgas › Veliko Tarnovo",
+   "date": "2026-05-09",
+   "result": 178,
+   "gc_position": 178,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Nessebar › Burgas",
+   "date": "2026-05-08",
+   "result": 32,
+   "gc_position": 35,
+   "distance": 147.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 90,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 42,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 82,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brûlon › Le Mans",
+   "date": "2026-04-10",
+   "result": 62,
+   "gc_position": null,
+   "distance": 179.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-3",
+   "stage_name": "S3Stage 3 - Avrillé › Sainte-Suzanne-et-Chammes",
+   "date": "2026-04-09",
+   "result": 106,
+   "gc_position": 94,
+   "distance": 199.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-2",
+   "stage_name": "S2Stage 2 - La Garnache › Les Sables-d'Olonne",
+   "date": "2026-04-08",
+   "result": 57,
+   "gc_position": 87,
+   "distance": 153.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fontevraud-l'Abbaye › Vertou",
+   "date": "2026-04-07",
+   "result": 93,
+   "gc_position": 93,
+   "distance": 187.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-7",
+   "stage_name": "S7Stage 7 - Barcelona › Barcelona",
+   "date": "2026-03-29",
+   "result": null,
+   "gc_position": null,
+   "distance": 95.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-6",
+   "stage_name": "S6Stage 6 - Berga › Queralt",
+   "date": "2026-03-28",
+   "result": 118,
+   "gc_position": 101,
+   "distance": 158.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Seu d'Urgell › La Molina/Coll de Pal",
+   "date": "2026-03-27",
+   "result": 127,
+   "gc_position": 95,
+   "distance": 153.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mataró › Camprodón",
+   "date": "2026-03-26",
+   "result": 28,
+   "gc_position": 70,
+   "distance": 151.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-3",
+   "stage_name": "S3Stage 3 - Mont-roig del Camp › Vila-seca",
+   "date": "2026-03-25",
+   "result": 93,
+   "gc_position": 70,
+   "distance": 159.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-2",
+   "stage_name": "S2Stage 2 - Figueres › Banyoles",
+   "date": "2026-03-24",
+   "result": 79,
+   "gc_position": 73,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
+   "date": "2026-03-23",
+   "result": 74,
+   "gc_position": 75,
+   "distance": 172.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": null,
+   "gc_position": null,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 4,
+   "gc_position": 93,
+   "distance": 140.8,
+   "pcs_points": 13.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 99,
+   "gc_position": 103,
+   "distance": 148.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 53,
+   "gc_position": 103,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 107,
+   "gc_position": 107,
+   "distance": 3.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "NSN Cycling Team",
+   "team_url": "team/nsn-cycling-team-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "NSN Cycling Team",
+   "team_url": "team/nsn-cycling-team-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "NSN Cycling Team",
+   "team_url": "team/nsn-cycling-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Israel - Premier Tech",
+   "team_url": "team/israel-premier-tech-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Israel - Premier Tech",
+   "team_url": "team/israel-premier-tech-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2020",
+   "class": "WT",
+   "since": "10-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Equipe continentale Groupama-FDJ",
+   "team_url": "team/equipe-continentale-groupama-fdj-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "09-30"
+  },
+  {
+   "season": 2019,
+   "team_name": "Equipe continentale Groupama-FDJ",
+   "team_url": "team/equipe-continentale-groupama-fdj-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Swinnerton Cycles",
+   "team_url": "team/swinnerton-cycles-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 66.0
+}

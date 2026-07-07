@@ -1,0 +1,463 @@
+{
+ "birthdate": "1995-7-16",
+ "height": 1.81,
+ "image_url": "images/riders/yy/dq/torstein-traeen-2026.jpg",
+ "name": "Torstein Træen",
+ "nationality": "NO",
+ "place_of_birth": "Hønefoss",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 46,
+   "rank": 657
+  },
+  {
+   "season": 2025,
+   "points": 328,
+   "rank": 192
+  },
+  {
+   "season": 2024,
+   "points": 139,
+   "rank": 438
+  },
+  {
+   "season": 2023,
+   "points": 269,
+   "rank": 243
+  },
+  {
+   "season": 2022,
+   "points": 219,
+   "rank": 269
+  },
+  {
+   "season": 2021,
+   "points": 170,
+   "rank": 311
+  },
+  {
+   "season": 2020,
+   "points": 81,
+   "rank": 377
+  },
+  {
+   "season": 2018,
+   "points": 27,
+   "rank": 1272
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 127,
+  "gc": 959,
+  "time_trial": 17,
+  "sprint": 49,
+  "climber": 665,
+  "hills": 192
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-norway/2026/result",
+   "stage_name": "National Championships Norway ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 5,
+   "gc_position": null,
+   "distance": 182.6,
+   "pcs_points": 2.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 28,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 7.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 34,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 31,
+   "gc_position": 26,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 47,
+   "gc_position": 31,
+   "distance": 182.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 67,
+   "gc_position": 25,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 47,
+   "gc_position": 25,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 15,
+   "gc_position": 26,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 43,
+   "gc_position": 21,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 25,
+   "gc_position": 25,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 68,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-6",
+   "stage_name": "S6Stage 6 - Goizper-Antzuola › Bergara",
+   "date": "2026-04-11",
+   "result": 29,
+   "gc_position": null,
+   "distance": 135.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-5",
+   "stage_name": "S5Stage 5 - Eibar › Eibar",
+   "date": "2026-04-10",
+   "result": 93,
+   "gc_position": 125,
+   "distance": 176.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-4",
+   "stage_name": "S4Stage 4 - Galdakao › Galdakao",
+   "date": "2026-04-09",
+   "result": 124,
+   "gc_position": 126,
+   "distance": 167.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-3",
+   "stage_name": "S3Stage 3 - Basauri › Basauri",
+   "date": "2026-04-08",
+   "result": 137,
+   "gc_position": 132,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": 135,
+   "gc_position": 130,
+   "distance": 164.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 78,
+   "gc_position": 78,
+   "distance": 13.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": null,
+   "gc_position": null,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 15,
+   "gc_position": 37,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 76,
+   "gc_position": 54,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 57,
+   "gc_position": 58,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 16,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 32.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Roda de Andalucía › Lucena",
+   "date": "2026-02-22",
+   "result": 19,
+   "gc_position": null,
+   "distance": 167.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": 41,
+   "gc_position": 8,
+   "distance": 166.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 40,
+   "gc_position": 25,
+   "distance": 180.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 20,
+   "gc_position": 23,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 42,
+   "gc_position": 42,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Bahrain - Victorious",
+   "team_url": "team/bahrain-victorious-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2020",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Uno-X Norwegian Development Team",
+   "team_url": "team/uno-x-norwegian-development-team-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Uno-X Norwegian Development Team",
+   "team_url": "team/uno-x-norwegian-development-team-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Uno-X Hydrogen Development Team",
+   "team_url": "team/uno-x-hydrogen-development-team-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Ringeriks - Kraft ",
+   "team_url": "team/team-ringeriks-kraft-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Team Ringeriks - Kraft ",
+   "team_url": "team/team-ringeriks-kraft-2015",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Ringerike SK",
+   "team_url": "team/ringerike-sk-2013",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Ringerike SK",
+   "team_url": "team/ringerike-sk-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 63.0
+}

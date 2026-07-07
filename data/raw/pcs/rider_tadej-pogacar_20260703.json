@@ -1,0 +1,421 @@
+{
+ "birthdate": "1998-9-21",
+ "height": 1.76,
+ "image_url": "images/riders/oh/dq/tadej-pogacar-2026.jpg",
+ "name": "Tadej Pogačar",
+ "nationality": "SI",
+ "place_of_birth": "Klanec",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 2123,
+   "rank": 1
+  },
+  {
+   "season": 2025,
+   "points": 4921,
+   "rank": 1
+  },
+  {
+   "season": 2024,
+   "points": 4588,
+   "rank": 1
+  },
+  {
+   "season": 2023,
+   "points": 3309,
+   "rank": 1
+  },
+  {
+   "season": 2022,
+   "points": 3413,
+   "rank": 1
+  },
+  {
+   "season": 2021,
+   "points": 3328,
+   "rank": 1
+  },
+  {
+   "season": 2020,
+   "points": 2063,
+   "rank": 2
+  },
+  {
+   "season": 2019,
+   "points": 1515,
+   "rank": 13
+  },
+  {
+   "season": 2018,
+   "points": 243,
+   "rank": 270
+  },
+  {
+   "season": 2017,
+   "points": 79,
+   "rank": 728
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 9983,
+  "gc": 7844,
+  "time_trial": 3407,
+  "sprint": 360,
+  "climber": 10122,
+  "hills": 4410
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-de-suisse/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 250.0,
+   "uci_points": 500.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 1,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 50.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 23.7,
+   "pcs_points": 50.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 12,
+   "gc_position": 1,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 8,
+   "gc_position": 1,
+   "distance": 157.7,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 144.0,
+   "pcs_points": 50.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 250.0,
+   "uci_points": 500.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Lucens › Leysin",
+   "date": "2026-05-03",
+   "result": 1,
+   "gc_position": null,
+   "distance": 178.2,
+   "pcs_points": 50.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Broc › Charmey",
+   "date": "2026-05-02",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 149.6,
+   "pcs_points": 50.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orbe › Orbe",
+   "date": "2026-05-01",
+   "result": 4,
+   "gc_position": 1,
+   "distance": 176.6,
+   "pcs_points": 13.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 173.1,
+   "pcs_points": 50.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 171.2,
+   "pcs_points": 50.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 3.2,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 1,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 275.0,
+   "uci_points": 800.0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 2,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 200.0,
+   "uci_points": 640.0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 1,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 275.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 1,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 275.0,
+   "uci_points": 800.0
+  },
+  {
+   "stage_url": "race/strade-bianche/2026/result",
+   "stage_name": "Strade Bianche (1.UWT)",
+   "date": "2026-03-07",
+   "result": 1,
+   "gc_position": null,
+   "distance": 203.0,
+   "pcs_points": 225.0,
+   "uci_points": 500.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2030,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2030",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2029,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2029",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2028,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "UAE Team Emirates - XRG",
+   "team_url": "team/uae-team-emirates-xrg-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Ljubljana Gusto Xaurum",
+   "team_url": "team/ljubljana-gusto-xaurum-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "ROG - Ljubljana",
+   "team_url": "team/rog-ljubljana-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Radenska",
+   "team_url": "team/radenska-club-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Radenska",
+   "team_url": "team/radenska-club-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 66.0
+}

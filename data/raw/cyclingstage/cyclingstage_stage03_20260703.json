@@ -1,0 +1,65 @@
+{
+ "source": "cyclingstage",
+ "stage": 3,
+ "fetched": "2026-07-03",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-3-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Lennert Van Eetvelt",
+   "stars": 3
+  },
+  {
+   "name": "Mathias Vacek",
+   "stars": 3
+  },
+  {
+   "name": "Alex Baudin",
+   "stars": 3
+  },
+  {
+   "name": "Harold Tejada",
+   "stars": 3
+  },
+  {
+   "name": "Ben Healy",
+   "stars": 2
+  },
+  {
+   "name": "Kévin Vauquelin",
+   "stars": 2
+  },
+  {
+   "name": "Valentin Paret-Peintre",
+   "stars": 2
+  },
+  {
+   "name": "Julian Alaphilippe",
+   "stars": 2
+  },
+  {
+   "name": "Warren Barguil",
+   "stars": 1
+  },
+  {
+   "name": "Ion Izagirre",
+   "stars": 1
+  },
+  {
+   "name": "Luke Plapp",
+   "stars": 1
+  },
+  {
+   "name": "Anthon Charmig",
+   "stars": 1
+  },
+  {
+   "name": "Einer Rubio",
+   "stars": 1
+  },
+  {
+   "name": "Pablo Castrillo",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

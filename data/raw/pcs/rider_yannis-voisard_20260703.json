@@ -1,0 +1,482 @@
+{
+ "name": "Yannis Voisard",
+ "birthdate": "1998-7-26",
+ "nationality": "CH",
+ "points_per_speciality": {
+  "one_day_races": 124,
+  "gc": 833,
+  "time_trial": 199,
+  "sprint": 19,
+  "climber": 566,
+  "hills": 325
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-switserland/2026/result",
+   "stage_name": "National Championships Switzerland ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 24,
+   "gc_position": null,
+   "distance": 153.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-switzerland-itt/2026/result",
+   "stage_name": "National Championships Switzerland ME - ITT (NC)",
+   "date": "2026-06-25",
+   "result": 3,
+   "gc_position": null,
+   "distance": 32.6,
+   "pcs_points": 2.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 38,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 37,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 27,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 8.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-8",
+   "stage_name": "S8Stage 8 - Beaufort › Plateau de Solaison - Brison",
+   "date": "2026-06-14",
+   "result": 35,
+   "gc_position": null,
+   "distance": 120.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-7",
+   "stage_name": "S7Stage 7 - La Bridoire › Grand Colombier",
+   "date": "2026-06-13",
+   "result": 29,
+   "gc_position": 24,
+   "distance": 133.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-6",
+   "stage_name": "S6Stage 6 - Saint-Vulbas › Crest-Voland",
+   "date": "2026-06-12",
+   "result": 6,
+   "gc_position": 29,
+   "distance": 182.3,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Chamond › Parc des Oiseaux Villars-les-Dombes",
+   "date": "2026-06-11",
+   "result": 70,
+   "gc_position": 45,
+   "distance": 195.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-4",
+   "stage_name": "S4Stage 4 - Le Puy-en-Velay › Montrond-les-Bains",
+   "date": "2026-06-10",
+   "result": 107,
+   "gc_position": 46,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Perreux › Perreux",
+   "date": "2026-06-09",
+   "result": 18,
+   "gc_position": 46,
+   "distance": 28.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Martin-le-Vinoux › Le Puy-en-Velay",
+   "date": "2026-06-08",
+   "result": 71,
+   "gc_position": 51,
+   "distance": 234.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-auvergne-rhone-alpes/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vizille › Saint-Ismier",
+   "date": "2026-06-07",
+   "result": 49,
+   "gc_position": 49,
+   "distance": 146.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 16,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 50.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Lucens › Leysin",
+   "date": "2026-05-03",
+   "result": 8,
+   "gc_position": null,
+   "distance": 178.2,
+   "pcs_points": 3.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Broc › Charmey",
+   "date": "2026-05-02",
+   "result": 6,
+   "gc_position": 15,
+   "distance": 149.6,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orbe › Orbe",
+   "date": "2026-05-01",
+   "result": 24,
+   "gc_position": 16,
+   "distance": 176.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": 8,
+   "gc_position": 17,
+   "distance": 173.1,
+   "pcs_points": 3.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 22,
+   "gc_position": 18,
+   "distance": 171.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 11,
+   "gc_position": 11,
+   "distance": 3.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 124,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": null,
+   "gc_position": null,
+   "distance": 164.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 149,
+   "gc_position": 149,
+   "distance": 13.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": null,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/strade-bianche/2026/result",
+   "stage_name": "Strade Bianche (1.UWT)",
+   "date": "2026-03-07",
+   "result": 65,
+   "gc_position": null,
+   "distance": 203.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 27,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 40.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-5",
+   "stage_name": "S5Stage 5 - Faro › Malhão (Loulé)",
+   "date": "2026-02-22",
+   "result": 14,
+   "gc_position": null,
+   "distance": 148.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-4",
+   "stage_name": "S4Stage 4 - Albufeira › Lagos",
+   "date": "2026-02-21",
+   "result": 65,
+   "gc_position": 10,
+   "distance": 175.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-3",
+   "stage_name": "S3 (ITT)Stage 3 (ITT) - Vilamoura › Vilamoura",
+   "date": "2026-02-20",
+   "result": 20,
+   "gc_position": 10,
+   "distance": 19.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-2",
+   "stage_name": "S2Stage 2 - Portimão  › Fóia (Monchique)",
+   "date": "2026-02-19",
+   "result": 8,
+   "gc_position": 9,
+   "distance": 147.2,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vila Real de Santo António › Tavira",
+   "date": "2026-02-18",
+   "result": 125,
+   "gc_position": 125,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/figueira-champions-classic/2026/result",
+   "stage_name": "Figueira Champions Classic (1.Pro)",
+   "date": "2026-02-14",
+   "result": 21,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 5.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 60.0,
+   "uci_points": 80.0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - AlUla Old Town › Skyviews of Harrat Uwayrid",
+   "date": "2026-01-31",
+   "result": 27,
+   "gc_position": null,
+   "distance": 163.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Winter Park › Hegra",
+   "date": "2026-01-30",
+   "result": 35,
+   "gc_position": 1,
+   "distance": 173.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Winter Park › Bir Jaydah Mountain Wirkah",
+   "date": "2026-01-29",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 142.1,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-2",
+   "stage_name": "S2Stage 2 - AlManshiyah Train Station › AlManshiyah Train Station",
+   "date": "2026-01-28",
+   "result": 42,
+   "gc_position": 35,
+   "distance": 152.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - AlUla Camel Cup Track › AlUla Camel Cup Track",
+   "date": "2026-01-27",
+   "result": 43,
+   "gc_position": 43,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 226,
+   "rank": 168
+  },
+  {
+   "season": 2025,
+   "points": 260,
+   "rank": 246
+  },
+  {
+   "season": 2024,
+   "points": 293,
+   "rank": 230
+  },
+  {
+   "season": 2023,
+   "points": 274,
+   "rank": 240
+  },
+  {
+   "season": 2022,
+   "points": 48,
+   "rank": 770
+  },
+  {
+   "season": 2021,
+   "points": 9,
+   "rank": 1476
+  },
+  {
+   "season": 2020,
+   "points": 6,
+   "rank": 1302
+  },
+  {
+   "season": 2019,
+   "points": 2,
+   "rank": 2463
+  },
+  {
+   "season": 2018,
+   "points": 8,
+   "rank": 1906
+  }
+ ]
+}

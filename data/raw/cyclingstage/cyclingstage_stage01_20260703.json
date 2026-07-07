@@ -1,0 +1,49 @@
+{
+ "source": "cyclingstage",
+ "stage": 1,
+ "fetched": "2026-07-03",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-1-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "UAE Emirates (Pogacar)",
+   "stars": 3
+  },
+  {
+   "name": "Visma | Lease a Bike (Vingegaard)",
+   "stars": 3
+  },
+  {
+   "name": "Red Bull-BORA-hansgrohe (Evenepoel)",
+   "stars": 2
+  },
+  {
+   "name": "Netcompany-INEOS (Arensman",
+   "stars": 2
+  },
+  {
+   "name": "Vauquelin)",
+   "stars": 2
+  },
+  {
+   "name": "Lidl-Trek (Ayuso",
+   "stars": 1
+  },
+  {
+   "name": "Skjelmose)",
+   "stars": 1
+  },
+  {
+   "name": "Decathlon CMA CGM (Seixas)",
+   "stars": 1
+  },
+  {
+   "name": "Alpecin Premier Tech (Van der Poel)",
+   "stars": 1
+  },
+  {
+   "name": "EF Education-EasyPost (Carapaz)",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

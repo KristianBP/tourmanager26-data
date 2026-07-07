@@ -1,0 +1,21 @@
+{
+  "_hvordan_oppdatere": "Etter at du har gjort bytter i tourmanager-appen: rediger denne filen på github.com (blyant-ikonet) fra mobilen. Endre riders/sport_director til slik laget FAKTISK ser ut, og juster transfers_used. Optimizeren og morgenbriefen leser denne filen.",
+  "riders": [
+    "Tadej Pogačar",
+    "Jonas Vingegaard",
+    "Ion Izagirre",
+    "Thymen Arensman",
+    "Mathieu van der Poel",
+    "Maxim Van Gils",
+    "Baptiste Veistroffer",
+    "Anthony Turgis",
+    "Clément Russo",
+    "Jakub Otruba",
+    "Mathias Vacek",
+    "Isaac del Toro"
+  ],
+  "sport_director": "UAE Team Emirates - XRG",
+  "transfers_used": 0,
+  "transfer_reserve": 5,
+  "planned_waves_note": "Før et. 5 (8/7): inn Philipsen+Merlier+Degenkolb+Vercher+Breuillard, ut Turgis+Russo+Van Gils+Arensman+Vacek. Før et. 7 (9/7): SD UAE->Alpecin. Før et. 14 (18/7): Martínez/Skjelmose-vindu, SD->UAE. Før et. 16 (21/7): Evenepoel/Arensman-vindu."
+}

@@ -1,0 +1,632 @@
+{
+ "birthdate": "1992-9-29",
+ "height": 1.9,
+ "image_url": "images/riders/td/dq/bert-van-lerberghe-2026.jpeg",
+ "name": "Bert Van Lerberghe",
+ "nationality": "BE",
+ "place_of_birth": "Kortrijk",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 24,
+   "rank": 940
+  },
+  {
+   "season": 2025,
+   "points": 45,
+   "rank": 857
+  },
+  {
+   "season": 2024,
+   "points": 50,
+   "rank": 780
+  },
+  {
+   "season": 2023,
+   "points": 149,
+   "rank": 409
+  },
+  {
+   "season": 2022,
+   "points": 153,
+   "rank": 349
+  },
+  {
+   "season": 2021,
+   "points": 133,
+   "rank": 375
+  },
+  {
+   "season": 2020,
+   "points": 103,
+   "rank": 313
+  },
+  {
+   "season": 2019,
+   "points": 30,
+   "rank": 1144
+  },
+  {
+   "season": 2018,
+   "points": 138,
+   "rank": 470
+  },
+  {
+   "season": 2017,
+   "points": 333,
+   "rank": 174
+  },
+  {
+   "season": 2016,
+   "points": 246,
+   "rank": 262
+  },
+  {
+   "season": 2015,
+   "points": 116,
+   "rank": 545
+  },
+  {
+   "season": 2014,
+   "points": 14,
+   "rank": 1474
+  },
+  {
+   "season": 2013,
+   "points": 11,
+   "rank": 1600
+  },
+  {
+   "season": 2012,
+   "points": 21,
+   "rank": 1291
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1224,
+  "gc": 196,
+  "time_trial": 48,
+  "sprint": 864,
+  "climber": 0,
+  "hills": 140
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-belgium/2026/result",
+   "stage_name": "National Championships Belgium ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 29,
+   "gc_position": null,
+   "distance": 236.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 91,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 88,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 78,
+   "gc_position": 95,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 108,
+   "gc_position": 100,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 62,
+   "gc_position": 83,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 100,
+   "gc_position": 99,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 128,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mohács › Pécs",
+   "date": "2026-05-16",
+   "result": null,
+   "gc_position": null,
+   "distance": 124.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Kaposvár › Szekszárd",
+   "date": "2026-05-15",
+   "result": 38,
+   "gc_position": 63,
+   "distance": 152.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Szarvas › Paks",
+   "date": "2026-05-14",
+   "result": 79,
+   "gc_position": 76,
+   "distance": 205.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Gyula › Békéscsaba",
+   "date": "2026-05-13",
+   "result": 51,
+   "gc_position": 53,
+   "distance": 143.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ronde-van-limburg/2026/result",
+   "stage_name": "Ronde van Limburg (1.1)",
+   "date": "2026-04-15",
+   "result": 55,
+   "gc_position": null,
+   "distance": 178.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 34,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 6.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/scheldeprijs/2026/result",
+   "stage_name": "Scheldeprijs (1.Pro)",
+   "date": "2026-04-08",
+   "result": 74,
+   "gc_position": null,
+   "distance": 205.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": null,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classic-brugge-de-panne/2026/result",
+   "stage_name": "Ronde Van Brugge - Tour of Bruges ME (1.UWT)",
+   "date": "2026-03-25",
+   "result": 28,
+   "gc_position": null,
+   "distance": 202.9,
+   "pcs_points": 7.0,
+   "uci_points": 16.0
+  },
+  {
+   "stage_url": "race/grote-prijs-jean-pierre-monsere/2026/result",
+   "stage_name": "Grote prijs Jean-Pierre Monseré (1.1)",
+   "date": "2026-03-22",
+   "result": 82,
+   "gc_position": null,
+   "distance": 202.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": null,
+   "gc_position": null,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 13,
+   "gc_position": 91,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 36,
+   "gc_position": 27,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 36,
+   "gc_position": 37,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-samyn/2026/result",
+   "stage_name": "Ename Samyn Classic (1.1)",
+   "date": "2026-03-03",
+   "result": 99,
+   "gc_position": null,
+   "distance": 203.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 47,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 100,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-7",
+   "stage_name": "S7Stage 7 - Zayed National Museum › Abu Dhabi Breakwater",
+   "date": "2026-02-22",
+   "result": 71,
+   "gc_position": null,
+   "distance": 149.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-6",
+   "stage_name": "S6Stage 6 - Al Ain Museum › Jebel Hafeet",
+   "date": "2026-02-21",
+   "result": 99,
+   "gc_position": 103,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - Dubai Al Mamzar Park › Hamdan Bin Mohammed Smart University",
+   "date": "2026-02-20",
+   "result": 25,
+   "gc_position": 110,
+   "distance": 168.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Fujairah › Fujairah",
+   "date": "2026-02-19",
+   "result": 115,
+   "gc_position": 109,
+   "distance": 182.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Umm al Quwain › Jebel Mobrah",
+   "date": "2026-02-18",
+   "result": 111,
+   "gc_position": 112,
+   "distance": 183.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Hudayriyat Island › Hudayriyat Island",
+   "date": "2026-02-17",
+   "result": 113,
+   "gc_position": 109,
+   "distance": 12.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/uae-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - Madinat Zayed Majlis › Liwa Palace",
+   "date": "2026-02-16",
+   "result": 111,
+   "gc_position": 112,
+   "distance": 118.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 29,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 72,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-5",
+   "stage_name": "S5Stage 5 - AlUla Old Town › Skyviews of Harrat Uwayrid",
+   "date": "2026-01-31",
+   "result": 80,
+   "gc_position": null,
+   "distance": 163.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-4",
+   "stage_name": "S4Stage 4 - Winter Park › Hegra",
+   "date": "2026-01-30",
+   "result": 8,
+   "gc_position": 71,
+   "distance": 173.4,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-3",
+   "stage_name": "S3Stage 3 - Winter Park › Bir Jaydah Mountain Wirkah",
+   "date": "2026-01-29",
+   "result": 67,
+   "gc_position": 82,
+   "distance": 142.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-2",
+   "stage_name": "S2Stage 2 - AlManshiyah Train Station › AlManshiyah Train Station",
+   "date": "2026-01-28",
+   "result": 103,
+   "gc_position": 76,
+   "distance": 152.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/alula-tour/2026/stage-1",
+   "stage_name": "S1Stage 1 - AlUla Camel Cup Track › AlUla Camel Cup Track",
+   "date": "2026-01-27",
+   "result": 12,
+   "gc_position": 12,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Quick-Step Alpha Vinyl Team",
+   "team_url": "team/quick-step-alpha-vinyl-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Deceuninck - Quick Step",
+   "team_url": "team/deceuninck-quick-step-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Deceuninck - Quick Step",
+   "team_url": "team/deceuninck-quick-step-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Cofidis, Solutions Crédits",
+   "team_url": "team/cofidis-solutions-credits-2019",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Cofidis, Solutions Crédits",
+   "team_url": "team/cofidis-solutions-credits-2018",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Sport Vlaanderen - Baloise",
+   "team_url": "team/sport-vlaanderen-baloise-2017",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Topsport Vlaanderen - Baloise",
+   "team_url": "team/topsport-vlaanderen-baloise-2016",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Topsport Vlaanderen - Baloise",
+   "team_url": "team/topsport-vlaanderen-baloise-2015",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "EFC-Omega Pharma-Quick-Step",
+   "team_url": "team/efc-omega-pharma-quick-step-2014",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Ventilair - Steria",
+   "team_url": "team/ventilair-steria-2013",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Bofrost - Steria",
+   "team_url": "team/bofrost-steria-2012",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2010,
+   "team_name": "Koninklijke Balen BC",
+   "team_url": "team/koninklijke-balen-bc-2010",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 83.0
+}

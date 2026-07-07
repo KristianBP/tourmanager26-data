@@ -1,0 +1,385 @@
+{
+ "birthdate": "1998-8-24",
+ "height": 1.74,
+ "image_url": "images/riders/yu/dq/marc-hirschi-2026.jpg",
+ "name": "Marc Hirschi",
+ "nationality": "CH",
+ "place_of_birth": "Switzerland",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 99,
+   "rank": 383
+  },
+  {
+   "season": 2025,
+   "points": 756,
+   "rank": 54
+  },
+  {
+   "season": 2024,
+   "points": 2041,
+   "rank": 4
+  },
+  {
+   "season": 2023,
+   "points": 1817,
+   "rank": 9
+  },
+  {
+   "season": 2022,
+   "points": 631,
+   "rank": 69
+  },
+  {
+   "season": 2021,
+   "points": 588,
+   "rank": 79
+  },
+  {
+   "season": 2020,
+   "points": 891,
+   "rank": 19
+  },
+  {
+   "season": 2019,
+   "points": 532,
+   "rank": 112
+  },
+  {
+   "season": 2018,
+   "points": 255,
+   "rank": 256
+  },
+  {
+   "season": 2017,
+   "points": 34,
+   "rank": 1138
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 5416,
+  "gc": 1559,
+  "time_trial": 341,
+  "sprint": 77,
+  "climber": 2376,
+  "hills": 2508
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-switserland/2026/result",
+   "stage_name": "National Championships Switzerland ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 4,
+   "gc_position": null,
+   "distance": 153.5,
+   "pcs_points": 4.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 18,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 28.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 35,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 42,
+   "gc_position": 23,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 73,
+   "gc_position": 23,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 39,
+   "gc_position": 23,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 24,
+   "gc_position": 24,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-du-canton-d-argovie/2026/result",
+   "stage_name": "GP Gippingen (1.1)",
+   "date": "2026-06-14",
+   "result": 20,
+   "gc_position": null,
+   "distance": 173.8,
+   "pcs_points": 1.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": null,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": null,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 14,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 14.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": 65,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 21,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 5.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-des-alpes-maritimes/2026/result",
+   "stage_name": "Tour des Alpes-Maritimes (1.1)",
+   "date": "2026-02-22",
+   "result": 18,
+   "gc_position": null,
+   "distance": 154.0,
+   "pcs_points": 3.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/classic-var/2026/result",
+   "stage_name": "Classic Var (1.1)",
+   "date": "2026-02-21",
+   "result": 61,
+   "gc_position": null,
+   "distance": 176.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/figueira-champions-classic/2026/result",
+   "stage_name": "Figueira Champions Classic (1.Pro)",
+   "date": "2026-02-14",
+   "result": 7,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 35.0,
+   "uci_points": 70.0
+  },
+  {
+   "stage_url": "race/trofeo-pollenca-port-d-andratx/2026/result",
+   "stage_name": "Trofeo Andratx - Pollença (1.1)",
+   "date": "2026-01-31",
+   "result": 16,
+   "gc_position": null,
+   "distance": 121.5,
+   "pcs_points": 5.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/deia-trophy/2026/result",
+   "stage_name": "Trofeo Serra Tramuntana (1.1)",
+   "date": "2026-01-30",
+   "result": 17,
+   "gc_position": null,
+   "distance": 154.3,
+   "pcs_points": 4.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2027",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "UAE Team Emirates",
+   "team_url": "team/uae-team-emirates-2021",
+   "class": "WT",
+   "since": "01-09",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team DSM",
+   "team_url": "team/team-dsm-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "01-05"
+  },
+  {
+   "season": 2020,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Development Team Sunweb",
+   "team_url": "team/development-team-sunweb-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "BMC Development Team ",
+   "team_url": "team/bmc-development-team-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "RRC Bern",
+   "team_url": "team/rrc-bern-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "RRC Bern",
+   "team_url": "team/rrc-bern-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 61.0
+}

@@ -1,0 +1,57 @@
+{
+ "source": "cyclingstage",
+ "stage": 10,
+ "fetched": "2026-07-03",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-10-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Tadej Pogacar",
+   "stars": 3
+  },
+  {
+   "name": "Jonas Vingegaard",
+   "stars": 3
+  },
+  {
+   "name": "Paul Seixas",
+   "stars": 3
+  },
+  {
+   "name": "Juan Ayuso",
+   "stars": 3
+  },
+  {
+   "name": "Ben Healy",
+   "stars": 2
+  },
+  {
+   "name": "Lennert Van Eetvelt",
+   "stars": 2
+  },
+  {
+   "name": "Tom Pidcock",
+   "stars": 2
+  },
+  {
+   "name": "Isaac del Toro",
+   "stars": 2
+  },
+  {
+   "name": "Mattias Skjelmose",
+   "stars": 1
+  },
+  {
+   "name": "Maxim Van Gils",
+   "stars": 1
+  },
+  {
+   "name": "Lenny Martinez",
+   "stars": 1
+  },
+  {
+   "name": "Mathias Vacek",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

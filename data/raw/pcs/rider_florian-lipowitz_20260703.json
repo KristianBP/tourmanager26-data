@@ -1,0 +1,580 @@
+{
+ "birthdate": "2000-9-21",
+ "height": 1.81,
+ "image_url": "images/riders/gu/dq/florian-lipowitz-2026.jpg",
+ "name": "Florian Lipowitz",
+ "nationality": "DE",
+ "place_of_birth": "Laichingen",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 1002,
+   "rank": 9
+  },
+  {
+   "season": 2025,
+   "points": 1173,
+   "rank": 23
+  },
+  {
+   "season": 2024,
+   "points": 676,
+   "rank": 74
+  },
+  {
+   "season": 2023,
+   "points": 243,
+   "rank": 268
+  },
+  {
+   "season": 2022,
+   "points": 1,
+   "rank": 2311
+  },
+  {
+   "season": 2021,
+   "points": 30,
+   "rank": 906
+  },
+  {
+   "season": 2020,
+   "points": 2,
+   "rank": 1591
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 81,
+  "gc": 2210,
+  "time_trial": 663,
+  "sprint": 4,
+  "climber": 1760,
+  "hills": 424
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-slovenia/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 150.0,
+   "uci_points": 250.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-5",
+   "stage_name": "S5Stage 5 - Litija › Novo mesto",
+   "date": "2026-06-21",
+   "result": 1,
+   "gc_position": null,
+   "distance": 169.4,
+   "pcs_points": 30.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-4",
+   "stage_name": "S4Stage 4 - Kranj › Kranjska Gora",
+   "date": "2026-06-20",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 184.7,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-3",
+   "stage_name": "S3Stage 3 - Maribor › Celje",
+   "date": "2026-06-19",
+   "result": 33,
+   "gc_position": 24,
+   "distance": 133.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-2",
+   "stage_name": "S2Stage 2 - Radlje ob Dravi › Ormož",
+   "date": "2026-06-18",
+   "result": 45,
+   "gc_position": 28,
+   "distance": 181.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-slovenia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Velenje › Rogaška Slatina",
+   "date": "2026-06-17",
+   "result": 32,
+   "gc_position": 32,
+   "distance": 141.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 190.0,
+   "uci_points": 400.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Lucens › Leysin",
+   "date": "2026-05-03",
+   "result": 2,
+   "gc_position": null,
+   "distance": 178.2,
+   "pcs_points": 30.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Broc › Charmey",
+   "date": "2026-05-02",
+   "result": 2,
+   "gc_position": 2,
+   "distance": 149.6,
+   "pcs_points": 30.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orbe › Orbe",
+   "date": "2026-05-01",
+   "result": 21,
+   "gc_position": 2,
+   "distance": 176.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": 24,
+   "gc_position": 2,
+   "distance": 173.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 2,
+   "gc_position": 2,
+   "distance": 171.2,
+   "pcs_points": 30.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 10,
+   "gc_position": 10,
+   "distance": 3.2,
+   "pcs_points": 1.0,
+   "uci_points": 2.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 190.0,
+   "uci_points": 320.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-6",
+   "stage_name": "S6Stage 6 - Goizper-Antzuola › Bergara",
+   "date": "2026-04-11",
+   "result": 22,
+   "gc_position": null,
+   "distance": 135.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-5",
+   "stage_name": "S5Stage 5 - Eibar › Eibar",
+   "date": "2026-04-10",
+   "result": 2,
+   "gc_position": 2,
+   "distance": 176.2,
+   "pcs_points": 30.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-4",
+   "stage_name": "S4Stage 4 - Galdakao › Galdakao",
+   "date": "2026-04-09",
+   "result": 17,
+   "gc_position": 3,
+   "distance": 167.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-3",
+   "stage_name": "S3Stage 3 - Basauri › Basauri",
+   "date": "2026-04-08",
+   "result": 17,
+   "gc_position": 3,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": 8,
+   "gc_position": 3,
+   "distance": 164.1,
+   "pcs_points": 3.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 13.8,
+   "pcs_points": 7.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 160.0,
+   "uci_points": 260.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-7",
+   "stage_name": "S7Stage 7 - Barcelona › Barcelona",
+   "date": "2026-03-29",
+   "result": 21,
+   "gc_position": null,
+   "distance": 95.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-6",
+   "stage_name": "S6Stage 6 - Berga › Queralt",
+   "date": "2026-03-28",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 158.2,
+   "pcs_points": 18.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Seu d'Urgell › La Molina/Coll de Pal",
+   "date": "2026-03-27",
+   "result": 4,
+   "gc_position": 4,
+   "distance": 153.1,
+   "pcs_points": 13.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mataró › Camprodón",
+   "date": "2026-03-26",
+   "result": 48,
+   "gc_position": 24,
+   "distance": 151.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-3",
+   "stage_name": "S3Stage 3 - Mont-roig del Camp › Vila-seca",
+   "date": "2026-03-25",
+   "result": 44,
+   "gc_position": 29,
+   "distance": 159.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-2",
+   "stage_name": "S2Stage 2 - Figueres › Banyoles",
+   "date": "2026-03-24",
+   "result": 46,
+   "gc_position": 29,
+   "distance": 167.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-a-catalunya/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols",
+   "date": "2026-03-23",
+   "result": 36,
+   "gc_position": 36,
+   "distance": 172.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 41,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 50.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-5",
+   "stage_name": "S5Stage 5 - Faro › Malhão (Loulé)",
+   "date": "2026-02-22",
+   "result": 13,
+   "gc_position": null,
+   "distance": 148.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-4",
+   "stage_name": "S4Stage 4 - Albufeira › Lagos",
+   "date": "2026-02-21",
+   "result": 88,
+   "gc_position": 8,
+   "distance": 175.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-3",
+   "stage_name": "S3 (ITT)Stage 3 (ITT) - Vilamoura › Vilamoura",
+   "date": "2026-02-20",
+   "result": 9,
+   "gc_position": 8,
+   "distance": 19.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-2",
+   "stage_name": "S2Stage 2 - Portimão  › Fóia (Monchique)",
+   "date": "2026-02-19",
+   "result": 11,
+   "gc_position": 11,
+   "distance": 147.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vila Real de Santo António › Tavira",
+   "date": "2026-02-18",
+   "result": 114,
+   "gc_position": 114,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 1,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 40.0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Red Bull - BORA - hansgrohe",
+   "team_url": "team/red-bull-bora-hansgrohe-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Red Bull - BORA - hansgrohe",
+   "team_url": "team/red-bull-bora-hansgrohe-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Red Bull - BORA - hansgrohe",
+   "team_url": "team/red-bull-bora-hansgrohe-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Red Bull - BORA - hansgrohe",
+   "team_url": "team/red-bull-bora-hansgrohe-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "BORA - hansgrohe",
+   "team_url": "team/bora-hansgrohe-2022",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Tirol KTM Cycling Team",
+   "team_url": "team/tirol-ktm-cycling-team-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Tirol KTM Cycling Team",
+   "team_url": "team/tirol-ktm-cycling-team-2021",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Tirol KTM Cycling Team",
+   "team_url": "team/tirol-ktm-cycling-team-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 68.0
+}

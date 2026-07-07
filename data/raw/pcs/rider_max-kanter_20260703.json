@@ -1,0 +1,514 @@
+{
+ "birthdate": "1997-10-22",
+ "height": 1.76,
+ "image_url": "images/riders/di/dq/max-kanter-2026.jpeg",
+ "name": "Max Kanter",
+ "nationality": "DE",
+ "place_of_birth": "Cottbus",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 319,
+   "rank": 97
+  },
+  {
+   "season": 2025,
+   "points": 640,
+   "rank": 75
+  },
+  {
+   "season": 2024,
+   "points": 338,
+   "rank": 198
+  },
+  {
+   "season": 2023,
+   "points": 193,
+   "rank": 317
+  },
+  {
+   "season": 2022,
+   "points": 438,
+   "rank": 134
+  },
+  {
+   "season": 2021,
+   "points": 86,
+   "rank": 503
+  },
+  {
+   "season": 2020,
+   "points": 153,
+   "rank": 227
+  },
+  {
+   "season": 2019,
+   "points": 17,
+   "rank": 1454
+  },
+  {
+   "season": 2018,
+   "points": 148,
+   "rank": 435
+  },
+  {
+   "season": 2017,
+   "points": 25,
+   "rank": 1311
+  },
+  {
+   "season": 2016,
+   "points": 51,
+   "rank": 891
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1307,
+  "gc": 248,
+  "time_trial": 32,
+  "sprint": 1722,
+  "climber": 124,
+  "hills": 1217
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 43,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 3,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 14,
+   "gc_position": 55,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 64,
+   "gc_position": 61,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 4,
+   "gc_position": 7,
+   "distance": 197.6,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 3,
+   "gc_position": 5,
+   "distance": 188.3,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/muur-classic-geraardsbergen/2026/result",
+   "stage_name": "Muur Classic Geraardsbergen (1.1)",
+   "date": "2026-06-14",
+   "result": 52,
+   "gc_position": null,
+   "distance": 179.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 17,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 45,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Balatonalmádi › Veszprém",
+   "date": "2026-05-17",
+   "result": 5,
+   "gc_position": null,
+   "distance": 147.1,
+   "pcs_points": 4.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Mohács › Pécs",
+   "date": "2026-05-16",
+   "result": 59,
+   "gc_position": 54,
+   "distance": 124.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Kaposvár › Szekszárd",
+   "date": "2026-05-15",
+   "result": 4,
+   "gc_position": 9,
+   "distance": 152.3,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Szarvas › Paks",
+   "date": "2026-05-14",
+   "result": 3,
+   "gc_position": 8,
+   "distance": 205.8,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-de-hongrie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Gyula › Békéscsaba",
+   "date": "2026-05-13",
+   "result": 5,
+   "gc_position": 8,
+   "distance": 143.1,
+   "pcs_points": 4.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": null,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/classic-brugge-de-panne/2026/result",
+   "stage_name": "Ronde Van Brugge - Tour of Bruges ME (1.UWT)",
+   "date": "2026-03-25",
+   "result": 3,
+   "gc_position": null,
+   "distance": 202.9,
+   "pcs_points": 110.0,
+   "uci_points": 260.0
+  },
+  {
+   "stage_url": "race/bredene-koksijde-classic/2026/result",
+   "stage_name": "Bredene Koksijde Classic (1.Pro)",
+   "date": "2026-03-20",
+   "result": 5,
+   "gc_position": null,
+   "distance": 203.4,
+   "pcs_points": 45.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/nokere-koerse/2026/result",
+   "stage_name": "Danilith Nokere Koerse (1.Pro)",
+   "date": "2026-03-18",
+   "result": 50,
+   "gc_position": null,
+   "distance": 186.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": null,
+   "gc_position": null,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 92,
+   "gc_position": 112,
+   "distance": 179.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 86,
+   "gc_position": 124,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 137,
+   "gc_position": 134,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 17,
+   "gc_position": 128,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 1,
+   "gc_position": 122,
+   "distance": 187.0,
+   "pcs_points": 50.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 129,
+   "gc_position": 129,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 120,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 2,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 55.0,
+   "uci_points": 85.0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 10,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "XDS Astana Team",
+   "team_url": "team/xds-astana-team-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Astana Qazaqstan Team",
+   "team_url": "team/astana-qazaqstan-team-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team DSM",
+   "team_url": "team/team-dsm-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2018",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Development Team Sunweb",
+   "team_url": "team/development-team-sunweb-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2017",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Development Team Sunweb",
+   "team_url": "team/development-team-sunweb-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Giant - Alpecin",
+   "team_url": "team/team-giant-alpecin-2016",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "LKT Team Brandenburg",
+   "team_url": "team/lkt-team-brandenburg-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "LV Brandenburg  ",
+   "team_url": "team/lv-brandenburg-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "LV Brandenburg",
+   "team_url": "team/lv-brandenburg-2014",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 68.0
+}

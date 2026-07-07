@@ -1,0 +1,618 @@
+{
+ "birthdate": "1997-10-25",
+ "height": 1.7,
+ "image_url": "images/riders/ux/dq/alexandre-delettre-2026.jpeg",
+ "name": "Alexandre Delettre",
+ "nationality": "FR",
+ "place_of_birth": "France",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 253,
+   "rank": 145
+  },
+  {
+   "season": 2025,
+   "points": 578,
+   "rank": 92
+  },
+  {
+   "season": 2024,
+   "points": 473,
+   "rank": 129
+  },
+  {
+   "season": 2023,
+   "points": 90,
+   "rank": 589
+  },
+  {
+   "season": 2022,
+   "points": 47,
+   "rank": 779
+  },
+  {
+   "season": 2021,
+   "points": 111,
+   "rank": 436
+  },
+  {
+   "season": 2019,
+   "points": 35,
+   "rank": 1091
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 821,
+  "gc": 651,
+  "time_trial": 14,
+  "sprint": 64,
+  "climber": 236,
+  "hills": 694
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-france/2026/result",
+   "stage_name": "National Championships France ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 8,
+   "gc_position": null,
+   "distance": 225.5,
+   "pcs_points": 0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 19,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 28.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 27,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 41,
+   "gc_position": 13,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 7,
+   "gc_position": 14,
+   "distance": 173.0,
+   "pcs_points": 2.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 103,
+   "gc_position": 67,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 39,
+   "gc_position": 39,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/circuit-franco-belge/2026/result",
+   "stage_name": "Circuit Franco-Belge (1.Pro)",
+   "date": "2026-06-10",
+   "result": 10,
+   "gc_position": null,
+   "distance": 195.6,
+   "pcs_points": 22.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 29,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 33,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 50.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cossé-le-Vivien › Laval",
+   "date": "2026-05-31",
+   "result": 37,
+   "gc_position": null,
+   "distance": 147.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-2",
+   "stage_name": "S2Stage 2 - Aron › Pré-en-Pail-Saint-Samson",
+   "date": "2026-05-30",
+   "result": 8,
+   "gc_position": 8,
+   "distance": 215.1,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/stage-1",
+   "stage_name": "S1Stage 1 - Saint-Berthevin  › Château-Gontier-sur-Mayenne",
+   "date": "2026-05-29",
+   "result": 75,
+   "gc_position": 23,
+   "distance": 172.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/boucles-de-la-mayenne/2026/prologue",
+   "stage_name": "ProloguePrologue - Laval (Espace Mayenne) › Laval (Espace Mayenne)",
+   "date": "2026-05-28",
+   "result": 22,
+   "gc_position": 22,
+   "distance": 5.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": null,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 24,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 11.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 47,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 24,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 11,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 36.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brûlon › Le Mans",
+   "date": "2026-04-10",
+   "result": 12,
+   "gc_position": null,
+   "distance": 179.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-3",
+   "stage_name": "S3Stage 3 - Avrillé › Sainte-Suzanne-et-Chammes",
+   "date": "2026-04-09",
+   "result": 13,
+   "gc_position": 12,
+   "distance": 199.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-2",
+   "stage_name": "S2Stage 2 - La Garnache › Les Sables-d'Olonne",
+   "date": "2026-04-08",
+   "result": 29,
+   "gc_position": 30,
+   "distance": 153.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/region-pays-de-la-loire/2026/stage-1",
+   "stage_name": "S1Stage 1 - Fontevraud-l'Abbaye › Vertou",
+   "date": "2026-04-07",
+   "result": 24,
+   "gc_position": 29,
+   "distance": 187.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-camembert/2026/result",
+   "stage_name": "Paris - Camembert (1.1)",
+   "date": "2026-03-31",
+   "result": 2,
+   "gc_position": null,
+   "distance": 198.0,
+   "pcs_points": 55.0,
+   "uci_points": 85.0
+  },
+  {
+   "stage_url": "race/la-roue-tourangelle/2026/result",
+   "stage_name": "La Roue Tourangelle Centre Val de Loire - Groupama P.V.L. (1.1)",
+   "date": "2026-03-29",
+   "result": 10,
+   "gc_position": null,
+   "distance": 201.0,
+   "pcs_points": 14.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 36,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-8",
+   "stage_name": "S8Stage 8 - Nice › Nice",
+   "date": "2026-03-15",
+   "result": 71,
+   "gc_position": null,
+   "distance": 129.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-7",
+   "stage_name": "S7Stage 7 - Pont Louis Nucera › Isola",
+   "date": "2026-03-14",
+   "result": 57,
+   "gc_position": 25,
+   "distance": 47.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-6",
+   "stage_name": "S6Stage 6 - Barbentane › Apt",
+   "date": "2026-03-13",
+   "result": 47,
+   "gc_position": 25,
+   "distance": 179.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormoranche-sur-Saône › Colombier-le-Vieux",
+   "date": "2026-03-12",
+   "result": 37,
+   "gc_position": 27,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bourges › Uchon",
+   "date": "2026-03-11",
+   "result": 48,
+   "gc_position": 36,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-3",
+   "stage_name": "S3 (TTT)Stage 3 (TTT) - Cosne-Cours-sur-Loire › Pouilly-sur-Loire",
+   "date": "2026-03-10",
+   "result": 21,
+   "gc_position": 63,
+   "distance": 23.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-2",
+   "stage_name": "S2Stage 2 - Épône › Montargis",
+   "date": "2026-03-09",
+   "result": 149,
+   "gc_position": 92,
+   "distance": 187.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/paris-nice/2026/stage-1",
+   "stage_name": "S1Stage 1 - Achères › Carrières-sous-Poissy",
+   "date": "2026-03-08",
+   "result": 73,
+   "gc_position": 73,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": 61,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 60,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-des-alpes-maritimes/2026/result",
+   "stage_name": "Tour des Alpes-Maritimes (1.1)",
+   "date": "2026-02-22",
+   "result": 84,
+   "gc_position": null,
+   "distance": 154.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/figueira-champions-classic/2026/result",
+   "stage_name": "Figueira Champions Classic (1.Pro)",
+   "date": "2026-02-14",
+   "result": 11,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 20.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/etoile-de-besseges/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 17,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 4.0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/etoile-de-besseges/2026/stage-5",
+   "stage_name": "S5 (ITT)Stage 5 (ITT) - Alès › Alès",
+   "date": "2026-02-08",
+   "result": 28,
+   "gc_position": null,
+   "distance": 10.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/etoile-de-besseges/2026/stage-4",
+   "stage_name": "S4Stage 4 - Saint-Christol-lez-Alès › Vauvert",
+   "date": "2026-02-07",
+   "result": 16,
+   "gc_position": 15,
+   "distance": 154.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/etoile-de-besseges/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bessèges › Bessèges",
+   "date": "2026-02-06",
+   "result": 37,
+   "gc_position": 18,
+   "distance": 162.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/etoile-de-besseges/2026/stage-2",
+   "stage_name": "S2Stage 2 - Saint-Gilles › Domessargues",
+   "date": "2026-02-05",
+   "result": 26,
+   "gc_position": 19,
+   "distance": 162.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/etoile-de-besseges/2026/stage-1",
+   "stage_name": "S1Stage 1 - Bellegarde › Bellegarde",
+   "date": "2026-02-04",
+   "result": 18,
+   "gc_position": 18,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-d-ouverture/2026/result",
+   "stage_name": "Grand Prix Cycliste de Marseille La Marseillaise (1.1)",
+   "date": "2026-02-01",
+   "result": 64,
+   "gc_position": null,
+   "distance": 145.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "TotalEnergies",
+   "team_url": "team/totalenergies-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "TotalEnergies",
+   "team_url": "team/totalenergies-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "St Michel - Mavic - Auber93",
+   "team_url": "team/st-michel-mavic-auber93-2024",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "DELKO",
+   "team_url": "team/delko-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "VC Villefranche Beaujolais",
+   "team_url": "team/velo-club-villefranche-beaujolais-2020",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Delko Marseille Provence",
+   "team_url": "team/delko-marseille-provence-2019",
+   "class": "PCT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "VC Villefranche Beaujolais",
+   "team_url": "team/velo-club-villefranche-beaujolais-2019",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "M Santé Cyclisme",
+   "team_url": "team/m-sante-cyclisme-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 62.0
+}

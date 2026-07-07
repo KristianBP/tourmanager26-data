@@ -1,0 +1,511 @@
+{
+ "birthdate": "1997-1-13",
+ "height": 1.75,
+ "image_url": "images/riders/ge/dq/egan-bernal-2026-n2-n3.png",
+ "name": "Egan Bernal",
+ "nationality": "CO",
+ "place_of_birth": "Colombia",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 483,
+   "rank": 44
+  },
+  {
+   "season": 2025,
+   "points": 841,
+   "rank": 46
+  },
+  {
+   "season": 2024,
+   "points": 773,
+   "rank": 57
+  },
+  {
+   "season": 2023,
+   "points": 274,
+   "rank": 239
+  },
+  {
+   "season": 2021,
+   "points": 1525,
+   "rank": 8
+  },
+  {
+   "season": 2020,
+   "points": 416,
+   "rank": 77
+  },
+  {
+   "season": 2019,
+   "points": 1991,
+   "rank": 6
+  },
+  {
+   "season": 2018,
+   "points": 1204,
+   "rank": 24
+  },
+  {
+   "season": 2017,
+   "points": 645,
+   "rank": 71
+  },
+  {
+   "season": 2016,
+   "points": 117,
+   "rank": 518
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1229,
+  "gc": 5016,
+  "time_trial": 618,
+  "sprint": 87,
+  "climber": 4828,
+  "hills": 1419
+ },
+ "season_results": [
+  {
+   "stage_url": "race/giro-d-italia/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 40,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 59,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 150.0,
+   "uci_points": 180.0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-21",
+   "stage_name": "S21Stage 21 - Rome › Rome",
+   "date": "2026-05-31",
+   "result": 40,
+   "gc_position": null,
+   "distance": 131.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-20",
+   "stage_name": "S20Stage 20 - Gemona del Friuli 1976-2026 › Piancavallo",
+   "date": "2026-05-30",
+   "result": 6,
+   "gc_position": 10,
+   "distance": 200.0,
+   "pcs_points": 15.0,
+   "uci_points": 45.0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-19",
+   "stage_name": "S19Stage 19 - Feltre › Alleghe (Piani di Pezzè)",
+   "date": "2026-05-29",
+   "result": 13,
+   "gc_position": 10,
+   "distance": 151.0,
+   "pcs_points": 3.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-18",
+   "stage_name": "S18Stage 18 - Fai della Paganella › Pieve di Soligo",
+   "date": "2026-05-28",
+   "result": 38,
+   "gc_position": 11,
+   "distance": 171.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-17",
+   "stage_name": "S17Stage 17 - Cassano d'Adda › Andalo",
+   "date": "2026-05-27",
+   "result": 51,
+   "gc_position": 11,
+   "distance": 202.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-16",
+   "stage_name": "S16Stage 16 - Bellinzona › Carì",
+   "date": "2026-05-26",
+   "result": 7,
+   "gc_position": 10,
+   "distance": 113.0,
+   "pcs_points": 12.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-15",
+   "stage_name": "S15Stage 15 - Voghera › Milan",
+   "date": "2026-05-24",
+   "result": 83,
+   "gc_position": 12,
+   "distance": 156.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-14",
+   "stage_name": "S14Stage 14 - Aosta › Pila (Gressan)",
+   "date": "2026-05-23",
+   "result": 10,
+   "gc_position": 12,
+   "distance": 133.0,
+   "pcs_points": 6.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-13",
+   "stage_name": "S13Stage 13 - Alessandria › Verbania",
+   "date": "2026-05-22",
+   "result": 20,
+   "gc_position": 14,
+   "distance": 189.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-12",
+   "stage_name": "S12Stage 12 - Imperia › Novi Ligure",
+   "date": "2026-05-21",
+   "result": 45,
+   "gc_position": 15,
+   "distance": 175.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-11",
+   "stage_name": "S11Stage 11 - Porcari (Paper District) › Chiavari",
+   "date": "2026-05-20",
+   "result": 19,
+   "gc_position": 15,
+   "distance": 195.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-10",
+   "stage_name": "S10 (ITT)Stage 10 (ITT) - Viareggio › Massa",
+   "date": "2026-05-19",
+   "result": 23,
+   "gc_position": 13,
+   "distance": 42.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-9",
+   "stage_name": "S9Stage 9 - Cervia › Corno alle Scale",
+   "date": "2026-05-17",
+   "result": 17,
+   "gc_position": 15,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-8",
+   "stage_name": "S8Stage 8 - Chieti › Fermo",
+   "date": "2026-05-16",
+   "result": 25,
+   "gc_position": 15,
+   "distance": 156.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-7",
+   "stage_name": "S7Stage 7 - Formia › Blockhaus",
+   "date": "2026-05-15",
+   "result": 21,
+   "gc_position": 15,
+   "distance": 244.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-6",
+   "stage_name": "S6Stage 6 - Paestum › Naples",
+   "date": "2026-05-14",
+   "result": 49,
+   "gc_position": 9,
+   "distance": 141.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-5",
+   "stage_name": "S5Stage 5 - Praia a Mare › Potenza",
+   "date": "2026-05-13",
+   "result": 33,
+   "gc_position": 9,
+   "distance": 203.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-4",
+   "stage_name": "S4Stage 4 - Catanzaro › Cosenza",
+   "date": "2026-05-12",
+   "result": 27,
+   "gc_position": 4,
+   "distance": 138.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-3",
+   "stage_name": "S3Stage 3 - Plovdiv › Sofia",
+   "date": "2026-05-10",
+   "result": 116,
+   "gc_position": 3,
+   "distance": 175.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-2",
+   "stage_name": "S2Stage 2 - Burgas › Veliko Tarnovo",
+   "date": "2026-05-09",
+   "result": 25,
+   "gc_position": 3,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/giro-d-italia/2026/stage-1",
+   "stage_name": "S1Stage 1 - Nessebar › Burgas",
+   "date": "2026-05-08",
+   "result": 115,
+   "gc_position": 116,
+   "distance": 147.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 5,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 100.0,
+   "uci_points": 360.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 110.0,
+   "uci_points": 170.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-5",
+   "stage_name": "S5Stage 5 - Trento › Bozen/Bolzano",
+   "date": "2026-04-24",
+   "result": 2,
+   "gc_position": null,
+   "distance": 128.6,
+   "pcs_points": 18.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-4",
+   "stage_name": "S4Stage 4 - Arco › Trento",
+   "date": "2026-04-23",
+   "result": 10,
+   "gc_position": 3,
+   "distance": 167.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-3",
+   "stage_name": "S3Stage 3 - Latsch/Laces › Arco",
+   "date": "2026-04-22",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 174.5,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-2",
+   "stage_name": "S2Stage 2 - Telfs › Martell/Val Martello",
+   "date": "2026-04-21",
+   "result": 4,
+   "gc_position": 5,
+   "distance": 147.5,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-1",
+   "stage_name": "S1Stage 1 - Innsbruck › Innsbruck",
+   "date": "2026-04-20",
+   "result": 59,
+   "gc_position": 60,
+   "distance": 144.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": 7,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 35.0,
+   "uci_points": 70.0
+  },
+  {
+   "stage_url": "race/nc-colombia/2026/result",
+   "stage_name": "National Championships Colombia ME - Road Race (NC)",
+   "date": "2026-02-08",
+   "result": 1,
+   "gc_position": null,
+   "distance": 207.4,
+   "pcs_points": 15.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/nc-colombia-itt/2026/result",
+   "stage_name": "National Championships Colombia ME - ITT (NC)",
+   "date": "2026-02-05",
+   "result": 5,
+   "gc_position": null,
+   "distance": 44.0,
+   "pcs_points": 0,
+   "uci_points": 10.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Netcompany INEOS",
+   "team_url": "team/netcompany-ineos-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Team INEOS",
+   "team_url": "team/team-ineos-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Team Sky",
+   "team_url": "team/team-sky-2018",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Androni - Sidermec - Bottecchia",
+   "team_url": "team/androni-sidermec-bottecchia-2017",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Androni Giocattoli - Sidermec",
+   "team_url": "team/androni-giocattoli-sidermec-2016",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 60.0
+}

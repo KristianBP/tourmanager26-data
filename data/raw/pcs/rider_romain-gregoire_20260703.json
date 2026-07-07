@@ -1,0 +1,418 @@
+{
+ "birthdate": "2003-1-21",
+ "height": 1.76,
+ "image_url": "images/riders/vo/dq/romain-gregoire1-2026.jpeg",
+ "name": "Romain Grégoire",
+ "nationality": "FR",
+ "place_of_birth": "France",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 779,
+   "rank": 19
+  },
+  {
+   "season": 2025,
+   "points": 1108,
+   "rank": 28
+  },
+  {
+   "season": 2024,
+   "points": 835,
+   "rank": 49
+  },
+  {
+   "season": 2023,
+   "points": 757,
+   "rank": 60
+  },
+  {
+   "season": 2022,
+   "points": 100,
+   "rank": 481
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1865,
+  "gc": 1021,
+  "time_trial": 304,
+  "sprint": 71,
+  "climber": 1426,
+  "hills": 1804
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-france/2026/result",
+   "stage_name": "National Championships France ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 1,
+   "gc_position": null,
+   "distance": 225.5,
+   "pcs_points": 15.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/youth",
+   "stage_name": "Youth classificationYouth classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 26,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 9.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 43,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 27,
+   "gc_position": 28,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 74,
+   "gc_position": 28,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 1,
+   "gc_position": 28,
+   "distance": 157.7,
+   "pcs_points": 50.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 37,
+   "gc_position": 37,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 7,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 80.0,
+   "uci_points": 240.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 9,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 46.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 4,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 90.0,
+   "uci_points": 275.0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 4,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 50.0,
+   "uci_points": 120.0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 22,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": 46,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": 29,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 6.0,
+   "uci_points": 16.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 18,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 24.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/strade-bianche/2026/result",
+   "stage_name": "Strade Bianche (1.UWT)",
+   "date": "2026-03-07",
+   "result": 4,
+   "gc_position": null,
+   "distance": 203.0,
+   "pcs_points": 90.0,
+   "uci_points": 275.0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": 2,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 85.0,
+   "uci_points": 170.0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 1,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 125.0,
+   "uci_points": 250.0
+  },
+  {
+   "stage_url": "race/faun-ardeche-classic/2026/result",
+   "stage_name": "Faun-Ardèche Classic (1.Pro)",
+   "date": "2026-02-28",
+   "result": 22,
+   "gc_position": null,
+   "distance": 187.6,
+   "pcs_points": 4.0,
+   "uci_points": 6.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 20,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 5,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 70.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Roda de Andalucía › Lucena",
+   "date": "2026-02-22",
+   "result": 3,
+   "gc_position": null,
+   "distance": 167.8,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": 36,
+   "gc_position": 3,
+   "distance": 166.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 33,
+   "gc_position": 20,
+   "distance": 180.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 10,
+   "gc_position": 20,
+   "distance": 138.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 41,
+   "gc_position": 41,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "Groupama - FDJ United",
+   "team_url": "team/groupama-fdj-united-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "Groupama - FDJ United",
+   "team_url": "team/groupama-fdj-united-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Groupama - FDJ United",
+   "team_url": "team/groupama-fdj-united-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Groupama - FDJ",
+   "team_url": "team/groupama-fdj-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Equipe continentale Groupama-FDJ",
+   "team_url": "team/equipe-continentale-groupama-fdj-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "AG2R Citroën U19 Team",
+   "team_url": "team/ag2r-citroën-u19-team-junior-2021",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Van Rysel - AG2R La Mondiale",
+   "team_url": "team/van-rysel-ag2r-u19-team-junior-2020",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "AC Bisontine",
+   "team_url": "team/ac-bisontine-2020",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 64.0
+}

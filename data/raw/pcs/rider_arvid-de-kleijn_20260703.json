@@ -1,0 +1,364 @@
+{
+ "birthdate": "1994-3-21",
+ "height": 1.71,
+ "image_url": "images/riders/yu/dq/arvid-de-kleijn-2026.jpg",
+ "name": "Arvid de Kleijn",
+ "nationality": "NL",
+ "place_of_birth": "Netherlands",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 92,
+   "rank": 404
+  },
+  {
+   "season": 2025,
+   "points": 150,
+   "rank": 405
+  },
+  {
+   "season": 2024,
+   "points": 609,
+   "rank": 93
+  },
+  {
+   "season": 2023,
+   "points": 625,
+   "rank": 85
+  },
+  {
+   "season": 2022,
+   "points": 117,
+   "rank": 425
+  },
+  {
+   "season": 2021,
+   "points": 219,
+   "rank": 242
+  },
+  {
+   "season": 2020,
+   "points": 112,
+   "rank": 299
+  },
+  {
+   "season": 2019,
+   "points": 272,
+   "rank": 237
+  },
+  {
+   "season": 2018,
+   "points": 5,
+   "rank": 2156
+  },
+  {
+   "season": 2017,
+   "points": 148,
+   "rank": 436
+  },
+  {
+   "season": 2016,
+   "points": 66,
+   "rank": 771
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1344,
+  "gc": 106,
+  "time_trial": 4,
+  "sprint": 3133,
+  "climber": 0,
+  "hills": 277
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-netherlands/2026/result",
+   "stage_name": "National Championships Netherlands ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 160.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 79,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 66,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 4,
+   "gc_position": 86,
+   "distance": 183.4,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 111,
+   "gc_position": 90,
+   "distance": 173.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 19,
+   "gc_position": 15,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 6,
+   "gc_position": 9,
+   "distance": 188.3,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 120,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/circuit-franco-belge/2026/result",
+   "stage_name": "Circuit Franco-Belge (1.Pro)",
+   "date": "2026-06-10",
+   "result": null,
+   "gc_position": null,
+   "distance": 195.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/brussels-cycling-classic/2026/result",
+   "stage_name": "Brussels Cycling Classic (1.Pro)",
+   "date": "2026-06-07",
+   "result": 5,
+   "gc_position": null,
+   "distance": 206.3,
+   "pcs_points": 45.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/heist-op-den-berg/2026/result",
+   "stage_name": "Heylen Vastgoed Heistse Pijl (1.1)",
+   "date": "2026-06-06",
+   "result": 4,
+   "gc_position": null,
+   "distance": 187.5,
+   "pcs_points": 32.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/4-jours-de-dunkerque/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 65,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/4-jours-de-dunkerque/2026/stage-5",
+   "stage_name": "S5Stage 5 - Saint-Omer › Dunkirk",
+   "date": "2026-05-24",
+   "result": 100,
+   "gc_position": null,
+   "distance": 181.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/4-jours-de-dunkerque/2026/stage-4",
+   "stage_name": "S4Stage 4 - Bergues › Cassel",
+   "date": "2026-05-23",
+   "result": 78,
+   "gc_position": 69,
+   "distance": 167.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/4-jours-de-dunkerque/2026/stage-3",
+   "stage_name": "S3Stage 3 - La Sentinelle › Wallers Arenberg",
+   "date": "2026-05-22",
+   "result": 20,
+   "gc_position": 63,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/4-jours-de-dunkerque/2026/stage-2",
+   "stage_name": "S2Stage 2 - Glisy › Liévin",
+   "date": "2026-05-21",
+   "result": 93,
+   "gc_position": 101,
+   "distance": 187.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/4-jours-de-dunkerque/2026/stage-1",
+   "stage_name": "S1Stage 1 - Lagny-le-Sec › Laon",
+   "date": "2026-05-20",
+   "result": 110,
+   "gc_position": 110,
+   "distance": 177.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/rund-um-koln/2026/result",
+   "stage_name": "Rund um Köln (1.1)",
+   "date": "2026-05-17",
+   "result": 81,
+   "gc_position": null,
+   "distance": 191.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Tudor Pro Cycling Team",
+   "team_url": "team/tudor-pro-cycling-team-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Human Powered Health",
+   "team_url": "team/human-powered-health-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Rally Cycling",
+   "team_url": "team/rally-cycling-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Riwal Securitas Cycling Team",
+   "team_url": "team/riwal-securitas-cycling-team-2020",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Metec - TKH Continental Cyclingteam p/b Mantel",
+   "team_url": "team/metec-tkh-continental-cyclingteam-p-b-mantel-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Metec - TKH Continental Cyclingteam p/b Mantel",
+   "team_url": "team/metec-tkh-continental-cyclingteam-p-b-mantel-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Baby-Dump Cyclingteam",
+   "team_url": "team/baby-dump-cyclingteam-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Cyclingteam Jo Piels",
+   "team_url": "team/cyclingteam-jo-piels-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Cyclingteam Jo Piels",
+   "team_url": "team/cyclingteam-jo-piels-2015",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 68.0
+}

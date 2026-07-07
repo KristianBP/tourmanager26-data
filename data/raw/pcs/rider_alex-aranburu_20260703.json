@@ -1,0 +1,511 @@
+{
+ "birthdate": "1995-9-19",
+ "height": 1.78,
+ "image_url": "images/riders/hh/dq/alex-aranburu-2026-n2-n3.jpg",
+ "name": "Alex Aranburu",
+ "nationality": "ES",
+ "place_of_birth": "Ezkio-Itsaso",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 530,
+   "rank": 36
+  },
+  {
+   "season": 2025,
+   "points": 754,
+   "rank": 55
+  },
+  {
+   "season": 2024,
+   "points": 883,
+   "rank": 42
+  },
+  {
+   "season": 2023,
+   "points": 804,
+   "rank": 56
+  },
+  {
+   "season": 2022,
+   "points": 545,
+   "rank": 90
+  },
+  {
+   "season": 2021,
+   "points": 616,
+   "rank": 73
+  },
+  {
+   "season": 2020,
+   "points": 328,
+   "rank": 110
+  },
+  {
+   "season": 2019,
+   "points": 354,
+   "rank": 187
+  },
+  {
+   "season": 2018,
+   "points": 257,
+   "rank": 254
+  },
+  {
+   "season": 2017,
+   "points": 53,
+   "rank": 910
+  },
+  {
+   "season": 2016,
+   "points": 19,
+   "rank": 1389
+  },
+  {
+   "season": 2015,
+   "points": 2,
+   "rank": 2495
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 2865,
+  "gc": 1103,
+  "time_trial": 301,
+  "sprint": 414,
+  "climber": 2035,
+  "hills": 2807
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-spain/2026/result",
+   "stage_name": "National Championships Spain ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 57,
+   "gc_position": null,
+   "distance": 211.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 11,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 3,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 90.0,
+   "uci_points": 140.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 14,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 37,
+   "gc_position": 1,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 173.0,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 95,
+   "gc_position": 60,
+   "distance": 197.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 37,
+   "gc_position": 37,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/circuit-franco-belge/2026/result",
+   "stage_name": "Circuit Franco-Belge (1.Pro)",
+   "date": "2026-06-10",
+   "result": 39,
+   "gc_position": null,
+   "distance": 195.6,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 14,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 26.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 16,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 20.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-6",
+   "stage_name": "S6Stage 6 - Goizper-Antzuola › Bergara",
+   "date": "2026-04-11",
+   "result": null,
+   "gc_position": null,
+   "distance": 135.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-5",
+   "stage_name": "S5Stage 5 - Eibar › Eibar",
+   "date": "2026-04-10",
+   "result": 65,
+   "gc_position": 49,
+   "distance": 176.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-4",
+   "stage_name": "S4Stage 4 - Galdakao › Galdakao",
+   "date": "2026-04-09",
+   "result": 1,
+   "gc_position": 44,
+   "distance": 167.2,
+   "pcs_points": 50.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-3",
+   "stage_name": "S3Stage 3 - Basauri › Basauri",
+   "date": "2026-04-08",
+   "result": 76,
+   "gc_position": 76,
+   "distance": 152.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-2",
+   "stage_name": "S2Stage 2 - Pamplona-Iruña › Cuevas de Mendukilo",
+   "date": "2026-04-07",
+   "result": 95,
+   "gc_position": 81,
+   "distance": 164.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/itzulia-basque-country/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Bilbao › Bilbao",
+   "date": "2026-04-06",
+   "result": 31,
+   "gc_position": 31,
+   "distance": 13.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-premio-miguel-indurain/2026/result",
+   "stage_name": "Gran Premio Miguel Indurain (1.Pro)",
+   "date": "2026-04-04",
+   "result": 4,
+   "gc_position": null,
+   "distance": 203.9,
+   "pcs_points": 50.0,
+   "uci_points": 120.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 12,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 42.0,
+   "uci_points": 95.0
+  },
+  {
+   "stage_url": "race/trofeo-laigueglia/2026/result",
+   "stage_name": "Trofeo Laigueglia (1.Pro)",
+   "date": "2026-03-04",
+   "result": 12,
+   "gc_position": null,
+   "distance": 192.0,
+   "pcs_points": 18.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/la-drome-classic/2026/result",
+   "stage_name": "Faun Drome Classic (1.Pro)",
+   "date": "2026-03-01",
+   "result": 8,
+   "gc_position": null,
+   "distance": 185.0,
+   "pcs_points": 30.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 6,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 60.0,
+   "uci_points": 80.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-5",
+   "stage_name": "S5Stage 5 - La Roda de Andalucía › Lucena",
+   "date": "2026-02-22",
+   "result": 4,
+   "gc_position": null,
+   "distance": 167.8,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-4",
+   "stage_name": "S4Stage 4 - Montoro › Pozoblanco",
+   "date": "2026-02-21",
+   "result": 4,
+   "gc_position": 10,
+   "distance": 166.0,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-3",
+   "stage_name": "S3Stage 3 - Jaén › Lopera",
+   "date": "2026-02-20",
+   "result": 6,
+   "gc_position": 4,
+   "distance": 180.9,
+   "pcs_points": 3.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-2",
+   "stage_name": "S2Stage 2 - Torrox › Otura",
+   "date": "2026-02-19",
+   "result": 3,
+   "gc_position": 5,
+   "distance": 138.6,
+   "pcs_points": 12.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/ruta-del-sol/2026/stage-1",
+   "stage_name": "S1Stage 1 - Benahavís › Pizarra",
+   "date": "2026-02-18",
+   "result": 17,
+   "gc_position": 17,
+   "distance": 150.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/figueira-champions-classic/2026/result",
+   "stage_name": "Figueira Champions Classic (1.Pro)",
+   "date": "2026-02-14",
+   "result": 2,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 85.0,
+   "uci_points": 170.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2027,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2027",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Cofidis",
+   "team_url": "team/cofidis-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Movistar Team",
+   "team_url": "team/movistar-team-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Astana - Premier Tech",
+   "team_url": "team/astana-premier-tech-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Astana Pro Team",
+   "team_url": "team/astana-pro-team-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2019",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2018",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2017",
+   "class": "PCT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Euskadi Basque Country - Murias",
+   "team_url": "team/euskadi-basque-country-murias-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Murias Taldea",
+   "team_url": "team/murias-taldea-2015",
+   "class": "CT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Café Baqué - Conservas Campos",
+   "team_url": "team/baque-cycling-team-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "AMPO Goierriko T.B.",
+   "team_url": "team/ampo-goierriko-tb-2014",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2013,
+   "team_name": "Ordiziako Txirrindulari Elkartea",
+   "team_url": "team/ordiziako-txirrindulari-elkartea-2013",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 63.0
+}

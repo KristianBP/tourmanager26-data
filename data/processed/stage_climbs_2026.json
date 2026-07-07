@@ -1,0 +1,464 @@
+{
+  "compiled": "2026-07-03",
+  "sources": [
+    "https://www.letour.fr/en/stage-1",
+    "https://www.letour.fr/en/stage-2",
+    "https://www.letour.fr/en/stage-3",
+    "https://www.letour.fr/en/stage-4",
+    "https://www.letour.fr/en/stage-5",
+    "https://www.letour.fr/en/stage-6",
+    "https://www.letour.fr/en/stage-7",
+    "https://www.letour.fr/en/stage-8",
+    "https://www.letour.fr/en/stage-9",
+    "https://www.letour.fr/en/stage-10",
+    "https://www.letour.fr/en/stage-11",
+    "https://www.letour.fr/en/stage-12",
+    "https://www.letour.fr/en/stage-13",
+    "https://www.letour.fr/en/stage-14",
+    "https://www.letour.fr/en/stage-15",
+    "https://www.letour.fr/en/stage-16",
+    "https://www.letour.fr/en/stage-17",
+    "https://www.letour.fr/en/stage-18",
+    "https://www.letour.fr/en/stage-19",
+    "https://www.letour.fr/en/stage-20",
+    "https://www.letour.fr/en/stage-21",
+    "https://www.cyclingstage.com/tour-de-france-2026-route/stage-1-tdf-2026/",
+    "https://www.cyclingstage.com/tour-de-france-2026-route/stage-2-tdf-2026/",
+    "https://www.cyclingstage.com/tour-de-france-2026-route/stage-3-tdf-2026/",
+    "https://procyclinguk.com/tour-de-france-2026-climbs-galibier-alpe-dhuez-le-markstein-and-more/"
+  ],
+  "stages": {
+    "1": {
+      "climbs": []
+    },
+    "2": {
+      "climbs": [
+        {
+          "name": "Côte de Begues",
+          "category": "2",
+          "position": "mid"
+        },
+        {
+          "name": "Côte du Château de Montjuïc",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Côte du Château de Montjuïc",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Côte du Château de Montjuïc",
+          "category": "3",
+          "position": "late"
+        }
+      ]
+    },
+    "3": {
+      "climbs": [
+        {
+          "name": "Côte de Saint Feliu de Codines",
+          "category": "3",
+          "position": "early"
+        },
+        {
+          "name": "Col de Toses",
+          "category": "1",
+          "position": "mid"
+        },
+        {
+          "name": "Col du Calvaire",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Les Angles",
+          "category": "3",
+          "position": "finish"
+        }
+      ]
+    },
+    "4": {
+      "climbs": [
+        {
+          "name": "Col de Bedos",
+          "category": "4",
+          "position": "early"
+        },
+        {
+          "name": "Col du Paradis",
+          "category": "3",
+          "position": "mid"
+        },
+        {
+          "name": "Col de Coudons",
+          "category": "2",
+          "position": "mid"
+        },
+        {
+          "name": "Col de Montségur",
+          "category": "2",
+          "position": "late"
+        }
+      ]
+    },
+    "5": {
+      "climbs": [
+        {
+          "name": "Côte de Baleix",
+          "category": "3",
+          "position": "late"
+        }
+      ]
+    },
+    "6": {
+      "climbs": [
+        {
+          "name": "Côte de Loucrup",
+          "category": "4",
+          "position": "early"
+        },
+        {
+          "name": "Côte de Mauvezin",
+          "category": "3",
+          "position": "mid"
+        },
+        {
+          "name": "Col d'Aspin",
+          "category": "1",
+          "position": "mid"
+        },
+        {
+          "name": "Col du Tourmalet",
+          "category": "HC",
+          "position": "late"
+        },
+        {
+          "name": "Gavarnie-Gèdre",
+          "category": "2",
+          "position": "finish"
+        }
+      ]
+    },
+    "7": {
+      "climbs": [
+        {
+          "name": "Côte de Béguey",
+          "category": "4",
+          "position": "late"
+        }
+      ]
+    },
+    "8": {
+      "climbs": [
+        {
+          "name": "Côte de Domme",
+          "category": "4",
+          "position": "mid"
+        },
+        {
+          "name": "Côte du Buisson-de-Cadouin",
+          "category": "4",
+          "position": "late"
+        }
+      ]
+    },
+    "9": {
+      "climbs": [
+        {
+          "name": "Côte de Naves",
+          "category": "3",
+          "position": "mid"
+        },
+        {
+          "name": "Suc au May",
+          "category": "2",
+          "position": "mid"
+        },
+        {
+          "name": "Côte de la Croix du Pey",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Mont Bessou",
+          "category": "4",
+          "position": "late"
+        }
+      ]
+    },
+    "10": {
+      "climbs": [
+        {
+          "name": "Côte de Pailherols",
+          "category": "3",
+          "position": "mid"
+        },
+        {
+          "name": "Col de la Griffoul",
+          "category": "2",
+          "position": "mid"
+        },
+        {
+          "name": "Col de Prat de Bouc",
+          "category": "3",
+          "position": "mid"
+        },
+        {
+          "name": "Côte de Murat",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Puy Mary - Pas de Peyrol",
+          "category": "1",
+          "position": "late"
+        },
+        {
+          "name": "Col de Pertus",
+          "category": "1",
+          "position": "late"
+        },
+        {
+          "name": "Col de Font de Cère",
+          "category": "3",
+          "position": "late"
+        }
+      ]
+    },
+    "11": {
+      "climbs": [
+        {
+          "name": "Côte de Billonnière",
+          "category": "4",
+          "position": "early"
+        },
+        {
+          "name": "Côte de Billy-Chevannes",
+          "category": "4",
+          "position": "late"
+        }
+      ]
+    },
+    "12": {
+      "climbs": [
+        {
+          "name": "Côte de Lanty",
+          "category": "4",
+          "position": "mid"
+        },
+        {
+          "name": "Côte de Cuzy",
+          "category": "4",
+          "position": "mid"
+        },
+        {
+          "name": "Côte de Montagny-lès-Buxy",
+          "category": "4",
+          "position": "late"
+        }
+      ]
+    },
+    "13": {
+      "climbs": [
+        {
+          "name": "Col des Croix",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Ballon d'Alsace",
+          "category": "1",
+          "position": "late"
+        }
+      ]
+    },
+    "14": {
+      "climbs": [
+        {
+          "name": "Grand Ballon",
+          "category": "1",
+          "position": "early"
+        },
+        {
+          "name": "Col du Page",
+          "category": "2",
+          "position": "mid"
+        },
+        {
+          "name": "Ballon d'Alsace",
+          "category": "1",
+          "position": "mid"
+        },
+        {
+          "name": "Col du Haag",
+          "category": "1",
+          "position": "late"
+        }
+      ]
+    },
+    "15": {
+      "climbs": [
+        {
+          "name": "Côte des Rousses",
+          "category": "3",
+          "position": "early"
+        },
+        {
+          "name": "Le Salève - Col de la Croisette",
+          "category": "1",
+          "position": "late"
+        },
+        {
+          "name": "Côte du Mont",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Plateau de Solaison",
+          "category": "HC",
+          "position": "finish"
+        }
+      ]
+    },
+    "16": {
+      "climbs": [
+        {
+          "name": "Côte de Larringes",
+          "category": "2",
+          "position": "mid"
+        }
+      ]
+    },
+    "17": {
+      "climbs": [
+        {
+          "name": "Côte de Bassa",
+          "category": "4",
+          "position": "early"
+        },
+        {
+          "name": "Côte de Rossillon",
+          "category": "4",
+          "position": "early"
+        },
+        {
+          "name": "Col des Près",
+          "category": "3",
+          "position": "early"
+        },
+        {
+          "name": "Côte de Saint-Jean d'Arvey",
+          "category": "4",
+          "position": "mid"
+        }
+      ]
+    },
+    "18": {
+      "climbs": [
+        {
+          "name": "Côte d'Engins",
+          "category": "1",
+          "position": "early"
+        },
+        {
+          "name": "Côte de Monteynard",
+          "category": "2",
+          "position": "mid"
+        },
+        {
+          "name": "Côte des Terrasses",
+          "category": "3",
+          "position": "mid"
+        },
+        {
+          "name": "Côte de Saint-Léger-les-Mélèzes",
+          "category": "3",
+          "position": "late"
+        },
+        {
+          "name": "Orcières-Merlette",
+          "category": "1",
+          "position": "finish"
+        }
+      ]
+    },
+    "19": {
+      "climbs": [
+        {
+          "name": "Col Bayard",
+          "category": "2",
+          "position": "early"
+        },
+        {
+          "name": "Col du Noyer",
+          "category": "1",
+          "position": "early"
+        },
+        {
+          "name": "Col d'Ornon",
+          "category": "2",
+          "position": "late"
+        },
+        {
+          "name": "Alpe d'Huez",
+          "category": "HC",
+          "position": "finish"
+        }
+      ]
+    },
+    "20": {
+      "climbs": [
+        {
+          "name": "Col de la Croix de Fer",
+          "category": "HC",
+          "position": "early"
+        },
+        {
+          "name": "Col du Télégraphe",
+          "category": "1",
+          "position": "mid"
+        },
+        {
+          "name": "Col du Galibier",
+          "category": "HC",
+          "position": "mid"
+        },
+        {
+          "name": "Col de Sarenne",
+          "category": "HC",
+          "position": "late"
+        }
+      ]
+    },
+    "21": {
+      "climbs": [
+        {
+          "name": "Côte du Pavé des Gardes",
+          "category": "4",
+          "position": "early"
+        },
+        {
+          "name": "Côte de la Butte Montmartre",
+          "category": "4",
+          "position": "late"
+        },
+        {
+          "name": "Côte de la Butte Montmartre",
+          "category": "4",
+          "position": "late"
+        },
+        {
+          "name": "Côte de la Butte Montmartre",
+          "category": "4",
+          "position": "late"
+        }
+      ]
+    }
+  },
+  "uncertain": [
+    "Stage 1 (Barcelona TTT): the Côte du Stade Olympique de Montjuïc rise (0.8 km at 7%) appears on the official profile but carries no KOM category on letour.fr, so it is excluded; verified as uncategorized, not a guess.",
+    "Stage 20 (Le Bourg-d'Oisans - Alpe d'Huez): the Alpe d'Huez finish is reached by descending from the Col de Sarenne, so the finish itself is not a categorized climb on letour.fr; the last categorized climb is Col de Sarenne (HC) at km 156.5 of 170.9 (position 'late'). Verified against the official mountain list, not a guess."
+  ]
+}

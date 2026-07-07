@@ -1,0 +1,582 @@
+{
+ "birthdate": "1998-1-30",
+ "height": 1.9,
+ "image_url": "images/riders/ra/dq/jakub-otruba-2026.jpg",
+ "name": "Jakub Otruba",
+ "nationality": "CZ",
+ "place_of_birth": "Czech Republic",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 33,
+   "rank": 808
+  },
+  {
+   "season": 2025,
+   "points": 74,
+   "rank": 641
+  },
+  {
+   "season": 2024,
+   "points": 75,
+   "rank": 638
+  },
+  {
+   "season": 2023,
+   "points": 248,
+   "rank": 264
+  },
+  {
+   "season": 2022,
+   "points": 130,
+   "rank": 391
+  },
+  {
+   "season": 2021,
+   "points": 58,
+   "rank": 641
+  },
+  {
+   "season": 2020,
+   "points": 71,
+   "rank": 417
+  },
+  {
+   "season": 2019,
+   "points": 59,
+   "rank": 866
+  },
+  {
+   "season": 2018,
+   "points": 23,
+   "rank": 1357
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 65,
+  "gc": 512,
+  "time_trial": 432,
+  "sprint": 56,
+  "climber": 184,
+  "hills": 160
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-czech-republic2/2026/result",
+   "stage_name": "National Championships Czech Republic ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 3,
+   "gc_position": null,
+   "distance": 183.4,
+   "pcs_points": 7.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/nc-czech-republic-itt/2026/result",
+   "stage_name": "National Championships Czech Republic ME - ITT (NC)",
+   "date": "2026-06-25",
+   "result": 2,
+   "gc_position": null,
+   "distance": 48.1,
+   "pcs_points": 7.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 80,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 100,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-4",
+   "stage_name": "S4Stage 4 - Xinzo de Limia › Alto de Cabeza de Meda",
+   "date": "2026-04-17",
+   "result": null,
+   "gc_position": null,
+   "distance": 145.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-3",
+   "stage_name": "S3Stage 3 - Carballo › Padrón",
+   "date": "2026-04-16",
+   "result": 102,
+   "gc_position": 67,
+   "distance": 169.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-2",
+   "stage_name": "S2Stage 2 - Vilalba › Barreiros",
+   "date": "2026-04-15",
+   "result": 35,
+   "gc_position": 4,
+   "distance": 148.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gran-camino/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Torre de Hércules › Torre de Hércules",
+   "date": "2026-04-14",
+   "result": 5,
+   "gc_position": 5,
+   "distance": 15.0,
+   "pcs_points": 4.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/grote-prijs-jean-pierre-monsere/2026/result",
+   "stage_name": "Grote prijs Jean-Pierre Monseré (1.1)",
+   "date": "2026-03-22",
+   "result": null,
+   "gc_position": null,
+   "distance": 202.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/bredene-koksijde-classic/2026/result",
+   "stage_name": "Bredene Koksijde Classic (1.Pro)",
+   "date": "2026-03-20",
+   "result": null,
+   "gc_position": null,
+   "distance": 203.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-de-denain/2026/result",
+   "stage_name": "Grand Prix de Denain - Porte du Hainaut (1.Pro)",
+   "date": "2026-03-19",
+   "result": null,
+   "gc_position": null,
+   "distance": 200.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nokere-koerse/2026/result",
+   "stage_name": "Danilith Nokere Koerse (1.Pro)",
+   "date": "2026-03-18",
+   "result": null,
+   "gc_position": null,
+   "distance": 186.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 23,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 31,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 92,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 101,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 104,
+   "gc_position": 97,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 122,
+   "gc_position": 96,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 66,
+   "gc_position": 70,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 134,
+   "gc_position": 78,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 126,
+   "gc_position": 80,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 21,
+   "gc_position": 21,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 59,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-5",
+   "stage_name": "S5Stage 5 - Faro › Malhão (Loulé)",
+   "date": "2026-02-22",
+   "result": 89,
+   "gc_position": null,
+   "distance": 148.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-4",
+   "stage_name": "S4Stage 4 - Albufeira › Lagos",
+   "date": "2026-02-21",
+   "result": 101,
+   "gc_position": 33,
+   "distance": 175.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-3",
+   "stage_name": "S3 (ITT)Stage 3 (ITT) - Vilamoura › Vilamoura",
+   "date": "2026-02-20",
+   "result": 45,
+   "gc_position": 36,
+   "distance": 19.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-2",
+   "stage_name": "S2Stage 2 - Portimão  › Fóia (Monchique)",
+   "date": "2026-02-19",
+   "result": 40,
+   "gc_position": 39,
+   "distance": 147.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-ao-algarve/2026/stage-1",
+   "stage_name": "S1Stage 1 - Vila Real de Santo António › Tavira",
+   "date": "2026-02-18",
+   "result": 106,
+   "gc_position": 106,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/figueira-champions-classic/2026/result",
+   "stage_name": "Figueira Champions Classic (1.Pro)",
+   "date": "2026-02-14",
+   "result": 72,
+   "gc_position": null,
+   "distance": 177.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 13,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 45,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 38,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-5",
+   "stage_name": "S5Stage 5 - Bétera › Valencia",
+   "date": "2026-02-08",
+   "result": 52,
+   "gc_position": null,
+   "distance": 94.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-4",
+   "stage_name": "S4Stage 4 - La Nucía › Teulada Moraira",
+   "date": "2026-02-07",
+   "result": 40,
+   "gc_position": 36,
+   "distance": 172.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-3",
+   "stage_name": "S3Stage 3 - Orihuela › San Vicente del Raspeig",
+   "date": "2026-02-06",
+   "result": 46,
+   "gc_position": 52,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-2",
+   "stage_name": "S2 (ITT)Stage 2 (ITT) - Carlet › Alginet",
+   "date": "2026-02-05",
+   "result": 16,
+   "gc_position": 82,
+   "distance": 17.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-1",
+   "stage_name": "S1Stage 1 - Segorbe › Torreblanca",
+   "date": "2026-02-04",
+   "result": 82,
+   "gc_position": 82,
+   "distance": 160.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-palma/2026/result",
+   "stage_name": "Trofeo Palma (1.1)",
+   "date": "2026-02-01",
+   "result": 120,
+   "gc_position": null,
+   "distance": 158.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/deia-trophy/2026/result",
+   "stage_name": "Trofeo Serra Tramuntana (1.1)",
+   "date": "2026-01-30",
+   "result": 76,
+   "gc_position": null,
+   "distance": 154.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-ses-salines-felanitx/2026/result",
+   "stage_name": "Trofeo Ses Salines (1.1)",
+   "date": "2026-01-29",
+   "result": 12,
+   "gc_position": null,
+   "distance": 23.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/trofeo-calvia/2026/result",
+   "stage_name": "Trofeo Calvià (1.1)",
+   "date": "2026-01-28",
+   "result": null,
+   "gc_position": null,
+   "distance": 148.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2026",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Caja Rural - Seguros RGA",
+   "team_url": "team/caja-rural-seguros-rga-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "ATT Investments",
+   "team_url": "team/att-investments-2024",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "ATT Investments",
+   "team_url": "team/att-investments-2023",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Elkov - Kasper",
+   "team_url": "team/elkov-kasper-2022",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Elkov - Kasper",
+   "team_url": "team/elkov-kasper-2021",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Elkov - Kasper",
+   "team_url": "team/elkov-kasper-2020",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Elkov - Author Cycling Team",
+   "team_url": "team/elkov-author-cycling-team-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Elkov - Author Cycling Team",
+   "team_url": "team/elkov-author-cycling-team-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "SKC TUFO Prostějov",
+   "team_url": "team/skc-tufo-prostejov-2017",
+   "class": "CT",
+   "since": "04-04",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Mapei Merida Kaňkovský ",
+   "team_url": "team/mapei-merida-kankovsky-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "04-03"
+  },
+  {
+   "season": 2016,
+   "team_name": "Mapei Merida Kaňkovský ",
+   "team_url": "team/mapei-merida-kankovsky-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Mapei Merida Kaňkovský ",
+   "team_url": "team/mapei-merida-kankovsky-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 75.0
+}

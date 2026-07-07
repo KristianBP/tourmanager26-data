@@ -1,0 +1,281 @@
+{
+ "birthdate": "1994-3-11",
+ "height": 1.9,
+ "image_url": "images/riders/ux/dq/tiesj-benoot-2026.jpg",
+ "name": "Tiesj Benoot",
+ "nationality": "BE",
+ "place_of_birth": "Belgium",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 45,
+   "rank": 669
+  },
+  {
+   "season": 2025,
+   "points": 593,
+   "rank": 88
+  },
+  {
+   "season": 2024,
+   "points": 564,
+   "rank": 103
+  },
+  {
+   "season": 2023,
+   "points": 908,
+   "rank": 39
+  },
+  {
+   "season": 2022,
+   "points": 534,
+   "rank": 94
+  },
+  {
+   "season": 2021,
+   "points": 559,
+   "rank": 84
+  },
+  {
+   "season": 2020,
+   "points": 516,
+   "rank": 63
+  },
+  {
+   "season": 2019,
+   "points": 1047,
+   "rank": 30
+  },
+  {
+   "season": 2018,
+   "points": 962,
+   "rank": 41
+  },
+  {
+   "season": 2017,
+   "points": 867,
+   "rank": 51
+  },
+  {
+   "season": 2016,
+   "points": 550,
+   "rank": 91
+  },
+  {
+   "season": 2015,
+   "points": 765,
+   "rank": 47
+  },
+  {
+   "season": 2014,
+   "points": 219,
+   "rank": 272
+  },
+  {
+   "season": 2013,
+   "points": 24,
+   "rank": 1210
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 5450,
+  "gc": 1987,
+  "time_trial": 85,
+  "sprint": 872,
+  "climber": 2915,
+  "hills": 3074
+ },
+ "season_results": [
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 14,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 45.0,
+   "uci_points": 40.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 24,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 78,
+   "gc_position": 16,
+   "distance": 23.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 47,
+   "gc_position": 13,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 16,
+   "gc_position": 13,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 17,
+   "gc_position": 17,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "Decathlon CMA CGM Team",
+   "team_url": "team/decathlon-cma-cgm-team-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "Decathlon CMA CGM Team",
+   "team_url": "team/decathlon-cma-cgm-team-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Decathlon CMA CGM Team",
+   "team_url": "team/decathlon-cma-cgm-team-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Team Visma | Lease a Bike",
+   "team_url": "team/team-visma-lease-a-bike-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team Visma | Lease a Bike",
+   "team_url": "team/team-visma-lease-a-bike-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team DSM",
+   "team_url": "team/team-dsm-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Team Sunweb",
+   "team_url": "team/team-sunweb-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2019",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2018b",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2017",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2016",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Lotto Soudal",
+   "team_url": "team/lotto-soudal-2015",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Lotto Belisol ",
+   "team_url": "team/lotto-belisol-2014",
+   "class": "WT",
+   "since": "08-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "AVIA - Fuji",
+   "team_url": "team/avia-fuji-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 72.0
+}

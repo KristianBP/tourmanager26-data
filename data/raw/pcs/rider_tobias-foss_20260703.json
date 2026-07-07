@@ -1,0 +1,420 @@
+{
+ "birthdate": "1997-5-25",
+ "height": 1.84,
+ "image_url": "images/riders/ge/dq/tobias-foss-2026-n2-n3.png",
+ "name": "Tobias Foss",
+ "nationality": "NO",
+ "place_of_birth": "Norway",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 218,
+   "rank": 180
+  },
+  {
+   "season": 2025,
+   "points": 184,
+   "rank": 342
+  },
+  {
+   "season": 2024,
+   "points": 300,
+   "rank": 224
+  },
+  {
+   "season": 2023,
+   "points": 214,
+   "rank": 293
+  },
+  {
+   "season": 2022,
+   "points": 460,
+   "rank": 125
+  },
+  {
+   "season": 2021,
+   "points": 341,
+   "rank": 157
+  },
+  {
+   "season": 2020,
+   "points": 81,
+   "rank": 380
+  },
+  {
+   "season": 2019,
+   "points": 85,
+   "rank": 708
+  },
+  {
+   "season": 2018,
+   "points": 35,
+   "rank": 1127
+  },
+  {
+   "season": 2017,
+   "points": 10,
+   "rank": 1780
+  },
+  {
+   "season": 2016,
+   "points": 16,
+   "rank": 1470
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 145,
+  "gc": 944,
+  "time_trial": 2003,
+  "sprint": 29,
+  "climber": 544,
+  "hills": 359
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-norway-itt/2026/result",
+   "stage_name": "National Championships Norway ME - ITT (NC)",
+   "date": "2026-06-25",
+   "result": 1,
+   "gc_position": null,
+   "distance": 21.6,
+   "pcs_points": 15.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 140.0,
+   "uci_points": 275.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 8,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 3.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 3,
+   "gc_position": 6,
+   "distance": 23.7,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 41,
+   "gc_position": 11,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 11,
+   "gc_position": 11,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 11,
+   "gc_position": 12,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/copenhagen-sprint/2026/result",
+   "stage_name": "Copenhagen Sprint ME (1.UWT)",
+   "date": "2026-06-14",
+   "result": 113,
+   "gc_position": null,
+   "distance": 228.2,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-wallonie/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 12,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 32.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/tour-de-wallonie/2026/stage-5",
+   "stage_name": "S5Stage 5 - Bassenge › Aubel",
+   "date": "2026-06-05",
+   "result": 52,
+   "gc_position": null,
+   "distance": 176.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-wallonie/2026/stage-4",
+   "stage_name": "S4Stage 4 - Dison › Eupen",
+   "date": "2026-06-04",
+   "result": 14,
+   "gc_position": 12,
+   "distance": 166.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-wallonie/2026/stage-3",
+   "stage_name": "S3Stage 3 - Habay › Vaux-sur-Sûre",
+   "date": "2026-06-03",
+   "result": 11,
+   "gc_position": 25,
+   "distance": 176.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-wallonie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Jodoigne › Libramont-Chevigny",
+   "date": "2026-06-02",
+   "result": 47,
+   "gc_position": 39,
+   "distance": 192.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-wallonie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Manage › Lobbes",
+   "date": "2026-06-01",
+   "result": 32,
+   "gc_position": 33,
+   "distance": 180.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/eschborn-frankfurt/2026/result",
+   "stage_name": "Eschborn-Frankfurt (1.UWT)",
+   "date": "2026-05-01",
+   "result": 63,
+   "gc_position": null,
+   "distance": 211.4,
+   "pcs_points": 5.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 68,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-5",
+   "stage_name": "S5Stage 5 - Trento › Bozen/Bolzano",
+   "date": "2026-04-24",
+   "result": 72,
+   "gc_position": null,
+   "distance": 128.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-4",
+   "stage_name": "S4Stage 4 - Arco › Trento",
+   "date": "2026-04-23",
+   "result": 69,
+   "gc_position": 77,
+   "distance": 167.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-3",
+   "stage_name": "S3Stage 3 - Latsch/Laces › Arco",
+   "date": "2026-04-22",
+   "result": 60,
+   "gc_position": 78,
+   "distance": 174.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-2",
+   "stage_name": "S2Stage 2 - Telfs › Martell/Val Martello",
+   "date": "2026-04-21",
+   "result": 93,
+   "gc_position": 103,
+   "distance": 147.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-the-alps/2026/stage-1",
+   "stage_name": "S1Stage 1 - Innsbruck › Innsbruck",
+   "date": "2026-04-20",
+   "result": 105,
+   "gc_position": 105,
+   "distance": 144.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/vuelta-a-la-comunidad-valenciana/2026/stage-1",
+   "stage_name": "S1Stage 1 - Segorbe › Torreblanca",
+   "date": "2026-02-04",
+   "result": null,
+   "gc_position": null,
+   "distance": 160.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Netcompany INEOS",
+   "team_url": "team/netcompany-ineos-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "INEOS Grenadiers",
+   "team_url": "team/ineos-grenadiers-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Team Jumbo-Visma",
+   "team_url": "team/team-jumbo-visma-2020",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Uno-X Norwegian Development Team",
+   "team_url": "team/uno-x-norwegian-development-team-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Uno-X Norwegian Development Team",
+   "team_url": "team/uno-x-norwegian-development-team-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Team Joker Icopal",
+   "team_url": "team/team-joker-icopal-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Joker - Byggtorget",
+   "team_url": "team/team-joker-byggtorget-2016",
+   "class": "CT",
+   "since": "07-27",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Lillehammer CK",
+   "team_url": "team/lillehammer-ck-2016",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2015,
+   "team_name": "Lillehammer CK",
+   "team_url": "team/lillehammer-ck-2015",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Lillehammer CK",
+   "team_url": "team/lillehammer-ck-2014",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 74.0
+}

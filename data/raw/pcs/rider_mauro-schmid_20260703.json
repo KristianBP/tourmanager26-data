@@ -1,0 +1,583 @@
+{
+ "birthdate": "1999-12-4",
+ "height": 1.87,
+ "image_url": "images/riders/nd/dq/mauro-schmid-2026.jpg",
+ "name": "Mauro Schmid",
+ "nationality": "CH",
+ "place_of_birth": "Switzerland",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 1063,
+   "rank": 7
+  },
+  {
+   "season": 2025,
+   "points": 698,
+   "rank": 65
+  },
+  {
+   "season": 2024,
+   "points": 417,
+   "rank": 158
+  },
+  {
+   "season": 2023,
+   "points": 622,
+   "rank": 86
+  },
+  {
+   "season": 2022,
+   "points": 642,
+   "rank": 67
+  },
+  {
+   "season": 2021,
+   "points": 120,
+   "rank": 408
+  },
+  {
+   "season": 2020,
+   "points": 51,
+   "rank": 511
+  },
+  {
+   "season": 2018,
+   "points": 20,
+   "rank": 1454
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1358,
+  "gc": 1311,
+  "time_trial": 832,
+  "sprint": 6,
+  "climber": 1282,
+  "hills": 1371
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-switserland/2026/result",
+   "stage_name": "National Championships Switzerland ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 22,
+   "gc_position": null,
+   "distance": 153.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/nc-switzerland-itt/2026/result",
+   "stage_name": "National Championships Switzerland ME - ITT (NC)",
+   "date": "2026-06-25",
+   "result": 5,
+   "gc_position": null,
+   "distance": 32.6,
+   "pcs_points": 0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 38,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-5",
+   "stage_name": "S5Stage 5 - Villars-sur-Ollon › Villars-sur-Ollon",
+   "date": "2026-06-21",
+   "result": 15,
+   "gc_position": null,
+   "distance": 150.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-4",
+   "stage_name": "S4 (ITT)Stage 4 (ITT) - Aarburg › Aarburg",
+   "date": "2026-06-20",
+   "result": 8,
+   "gc_position": 54,
+   "distance": 23.7,
+   "pcs_points": 3.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-3",
+   "stage_name": "S3Stage 3 - Bad Ragaz › Bad Ragaz",
+   "date": "2026-06-19",
+   "result": 105,
+   "gc_position": 66,
+   "distance": 157.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-2",
+   "stage_name": "S2Stage 2 - Locarno › Locarno",
+   "date": "2026-06-18",
+   "result": 63,
+   "gc_position": 37,
+   "distance": 157.7,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-suisse/2026/stage-1",
+   "stage_name": "S1Stage 1 - Sondrio › Sondrio",
+   "date": "2026-06-17",
+   "result": 36,
+   "gc_position": 36,
+   "distance": 144.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/gp-du-canton-d-argovie/2026/result",
+   "stage_name": "GP Gippingen (1.1)",
+   "date": "2026-06-14",
+   "result": 9,
+   "gc_position": null,
+   "distance": 173.8,
+   "pcs_points": 16.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-2",
+   "stage_name": "S2Stage 2 - Rue › Vucherens",
+   "date": "2026-04-30",
+   "result": null,
+   "gc_position": null,
+   "distance": 173.1,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/stage-1",
+   "stage_name": "S1Stage 1 - Martigny › Martigny",
+   "date": "2026-04-29",
+   "result": 59,
+   "gc_position": 51,
+   "distance": 171.2,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-de-romandie/2026/prologue",
+   "stage_name": "ProloguePrologue - Villars-sur-Glâne › Villars-sur-Glâne",
+   "date": "2026-04-28",
+   "result": 4,
+   "gc_position": 4,
+   "distance": 3.2,
+   "pcs_points": 13.0,
+   "uci_points": 25.0
+  },
+  {
+   "stage_url": "race/liege-bastogne-liege/2026/result",
+   "stage_name": "Liège-Bastogne-Liège (1.UWT)",
+   "date": "2026-04-26",
+   "result": 11,
+   "gc_position": null,
+   "distance": 259.5,
+   "pcs_points": 46.0,
+   "uci_points": 110.0
+  },
+  {
+   "stage_url": "race/la-fleche-wallonne/2026/result",
+   "stage_name": "La Flèche Wallonne (1.UWT)",
+   "date": "2026-04-22",
+   "result": 2,
+   "gc_position": null,
+   "distance": 200.0,
+   "pcs_points": 150.0,
+   "uci_points": 400.0
+  },
+  {
+   "stage_url": "race/amstel-gold-race/2026/result",
+   "stage_name": "Amstel Gold Race (1.UWT)",
+   "date": "2026-04-19",
+   "result": 6,
+   "gc_position": null,
+   "distance": 257.2,
+   "pcs_points": 70.0,
+   "uci_points": 175.0
+  },
+  {
+   "stage_url": "race/brabantse-pijl/2026/result",
+   "stage_name": "De Brabantse Pijl - La Flèche Brabançonne ME (1.Pro)",
+   "date": "2026-04-17",
+   "result": 49,
+   "gc_position": null,
+   "distance": 162.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/volta-nxt-classic/2026/result",
+   "stage_name": "NXT Classic ME (1.1)",
+   "date": "2026-04-04",
+   "result": 2,
+   "gc_position": null,
+   "distance": 196.3,
+   "pcs_points": 55.0,
+   "uci_points": 85.0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 1,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 100.0,
+   "uci_points": 125.0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/stage-5",
+   "stage_name": "S5Stage 5 - Cormons › Gemona del Friuli",
+   "date": "2026-03-29",
+   "result": 1,
+   "gc_position": null,
+   "distance": 165.5,
+   "pcs_points": 20.0,
+   "uci_points": 14.0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/stage-4",
+   "stage_name": "S4Stage 4 - Ponte di Piave › Valdobbiadene",
+   "date": "2026-03-28",
+   "result": 2,
+   "gc_position": 2,
+   "distance": 159.6,
+   "pcs_points": 12.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/stage-3",
+   "stage_name": "S3Stage 3 - Erbusco › Iseo",
+   "date": "2026-03-27",
+   "result": 2,
+   "gc_position": 1,
+   "distance": 175.5,
+   "pcs_points": 12.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/stage-2",
+   "stage_name": "S2Stage 2 - Lodi › Massalengo",
+   "date": "2026-03-26",
+   "result": 47,
+   "gc_position": 3,
+   "distance": 158.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/settimana-internazionale-coppi-e-bartali/2026/stage-1",
+   "stage_name": "S1Stage 1 - Barbaresco › Barolo",
+   "date": "2026-03-25",
+   "result": 2,
+   "gc_position": 2,
+   "distance": 161.1,
+   "pcs_points": 12.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 31,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 9.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 8,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 4,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 80.0,
+   "uci_points": 120.0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-5",
+   "stage_name": "S5Stage 5 - Nizwa › Jabal Al Akhdhar (Green Mountain)",
+   "date": "2026-02-11",
+   "result": 13,
+   "gc_position": null,
+   "distance": 155.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-4",
+   "stage_name": "S4Stage 4 - Al Sawadi Beach › Sohar",
+   "date": "2026-02-10",
+   "result": 31,
+   "gc_position": 1,
+   "distance": 146.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-3",
+   "stage_name": "S3Stage 3 - Samail \"Al Fayhaa Resthouse\" › Eastern Mountain",
+   "date": "2026-02-09",
+   "result": 1,
+   "gc_position": 1,
+   "distance": 191.3,
+   "pcs_points": 30.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-2",
+   "stage_name": "S2Stage 2 - Al Rustaq Fort › Yitti Hills",
+   "date": "2026-02-08",
+   "result": 15,
+   "gc_position": 47,
+   "distance": 191.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-oman/2026/stage-1",
+   "stage_name": "S1Stage 1 - Ministry of Tourism › Bimmah Sink Hole",
+   "date": "2026-02-07",
+   "result": 106,
+   "gc_position": 107,
+   "distance": 170.9,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/muscat-classic/2026/result",
+   "stage_name": "Muscat Classic (1.Pro)",
+   "date": "2026-02-06",
+   "result": 1,
+   "gc_position": null,
+   "distance": 176.2,
+   "pcs_points": 125.0,
+   "uci_points": 250.0
+  },
+  {
+   "stage_url": "race/great-ocean-road-race/2026/result",
+   "stage_name": "Mapei Cadel Evans Great Ocean Road Race - Men (1.UWT)",
+   "date": "2026-02-01",
+   "result": 4,
+   "gc_position": null,
+   "distance": 182.3,
+   "pcs_points": 90.0,
+   "uci_points": 220.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 17,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 2,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 190.0,
+   "uci_points": 400.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-5",
+   "stage_name": "S5Stage 5 - Stirling › Stirling",
+   "date": "2026-01-25",
+   "result": 18,
+   "gc_position": null,
+   "distance": 169.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-4",
+   "stage_name": "S4Stage 4 - Brighton › Willunga",
+   "date": "2026-01-24",
+   "result": 18,
+   "gc_position": 2,
+   "distance": 130.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-3",
+   "stage_name": "S3Stage 3 - Henley Beach › Nairne",
+   "date": "2026-01-23",
+   "result": 34,
+   "gc_position": 3,
+   "distance": 140.8,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-2",
+   "stage_name": "S2Stage 2 - Norwood › Uraidla",
+   "date": "2026-01-22",
+   "result": 3,
+   "gc_position": 3,
+   "distance": 148.1,
+   "pcs_points": 18.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/stage-1",
+   "stage_name": "S1Stage 1 - Tanunda › Tanunda",
+   "date": "2026-01-21",
+   "result": 43,
+   "gc_position": 9,
+   "distance": 120.6,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-down-under/2026/prologue",
+   "stage_name": "ProloguePrologue - Adelaide › Adelaide",
+   "date": "2026-01-20",
+   "result": 6,
+   "gc_position": 6,
+   "distance": 3.6,
+   "pcs_points": 7.0,
+   "uci_points": 15.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2026,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2025",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Team Jayco AlUla",
+   "team_url": "team/team-jayco-alula-2024",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Soudal Quick-Step",
+   "team_url": "team/soudal-quick-step-2023",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Quick-Step Alpha Vinyl Team",
+   "team_url": "team/quick-step-alpha-vinyl-2022",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Team Qhubeka NextHash",
+   "team_url": "team/team-qhubeka-nexthash-2021",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Leopard Pro Cycling",
+   "team_url": "team/leopard-pro-cycling-2020",
+   "class": "CT",
+   "since": "03-04",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Swiss Racing Academy",
+   "team_url": "team/swiss-racing-academy-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Akros-Renfer SA Development",
+   "team_url": "team/roth-akros-devo-2018",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "VC Steinmaur",
+   "team_url": "team/vc-steinmaur-2017",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 70.0
+}

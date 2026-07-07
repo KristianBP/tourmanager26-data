@@ -1,0 +1,494 @@
+{
+ "birthdate": "1995-9-20",
+ "height": 1.83,
+ "image_url": "images/riders/lc/dq/jonas-abrahamsen-2026.jpg",
+ "name": "Jonas Abrahamsen",
+ "nationality": "NO",
+ "place_of_birth": "Norway",
+ "points_per_season_history": [
+  {
+   "season": 2026,
+   "points": 267,
+   "rank": 131
+  },
+  {
+   "season": 2025,
+   "points": 582,
+   "rank": 91
+  },
+  {
+   "season": 2024,
+   "points": 684,
+   "rank": 72
+  },
+  {
+   "season": 2023,
+   "points": 123,
+   "rank": 471
+  },
+  {
+   "season": 2022,
+   "points": 13,
+   "rank": 1413
+  },
+  {
+   "season": 2021,
+   "points": 10,
+   "rank": 1386
+  },
+  {
+   "season": 2020,
+   "points": 11,
+   "rank": 1094
+  },
+  {
+   "season": 2019,
+   "points": 33,
+   "rank": 1114
+  },
+  {
+   "season": 2018,
+   "points": 28,
+   "rank": 1245
+  },
+  {
+   "season": 2017,
+   "points": 2,
+   "rank": 2485
+  },
+  {
+   "season": 2016,
+   "points": 3,
+   "rank": 2330
+  }
+ ],
+ "points_per_speciality": {
+  "one_day_races": 1275,
+  "gc": 224,
+  "time_trial": 11,
+  "sprint": 361,
+  "climber": 142,
+  "hills": 633
+ },
+ "season_results": [
+  {
+   "stage_url": "race/nc-norway/2026/result",
+   "stage_name": "National Championships Norway ME - Road Race (NC)",
+   "date": "2026-06-28",
+   "result": 3,
+   "gc_position": null,
+   "distance": 182.6,
+   "pcs_points": 7.0,
+   "uci_points": 60.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/points",
+   "stage_name": "Points classificationPoints classification",
+   "date": null,
+   "result": 10,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 9,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 45.0,
+   "uci_points": 50.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-5",
+   "stage_name": "S5Stage 5 - Gingelom › Hoeilaart",
+   "date": "2026-06-21",
+   "result": 29,
+   "gc_position": null,
+   "distance": 183.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-4",
+   "stage_name": "S4Stage 4 - Begijnendijk-Betekom › Aarschot",
+   "date": "2026-06-20",
+   "result": 26,
+   "gc_position": 9,
+   "distance": 183.4,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-3",
+   "stage_name": "S3Stage 3 - Durbuy › Durbuy",
+   "date": "2026-06-19",
+   "result": 4,
+   "gc_position": 10,
+   "distance": 173.0,
+   "pcs_points": 7.0,
+   "uci_points": 5.0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-2",
+   "stage_name": "S2Stage 2 - Merelbeke-Melle › Knokke-Heist",
+   "date": "2026-06-18",
+   "result": 8,
+   "gc_position": 37,
+   "distance": 197.6,
+   "pcs_points": 1.0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tour-of-belgium/2026/stage-1",
+   "stage_name": "S1Stage 1 - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem",
+   "date": "2026-06-17",
+   "result": 76,
+   "gc_position": 75,
+   "distance": 188.3,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/circuit-franco-belge/2026/result",
+   "stage_name": "Circuit Franco-Belge (1.Pro)",
+   "date": "2026-06-10",
+   "result": 12,
+   "gc_position": null,
+   "distance": 195.6,
+   "pcs_points": 18.0,
+   "uci_points": 20.0
+  },
+  {
+   "stage_url": "race/brussels-cycling-classic/2026/result",
+   "stage_name": "Brussels Cycling Classic (1.Pro)",
+   "date": "2026-06-07",
+   "result": 40,
+   "gc_position": null,
+   "distance": 206.3,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/paris-roubaix/2026/result",
+   "stage_name": "Paris-Roubaix Hauts-de-France (1.UWT)",
+   "date": "2026-04-12",
+   "result": 43,
+   "gc_position": null,
+   "distance": 258.3,
+   "pcs_points": 5.0,
+   "uci_points": 15.0
+  },
+  {
+   "stage_url": "race/ronde-van-vlaanderen/2026/result",
+   "stage_name": "Ronde van Vlaanderen ME (1.UWT)",
+   "date": "2026-04-05",
+   "result": 26,
+   "gc_position": null,
+   "distance": 278.2,
+   "pcs_points": 14.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/dwars-door-vlaanderen/2026/result",
+   "stage_name": "Dwars door Vlaanderen - A travers la Flandre ME (1.UWT)",
+   "date": "2026-04-01",
+   "result": 41,
+   "gc_position": null,
+   "distance": 184.6,
+   "pcs_points": 5.0,
+   "uci_points": 8.0
+  },
+  {
+   "stage_url": "race/gent-wevelgem/2026/result",
+   "stage_name": "In Flanders Fields - From Middelkerke to Wevelgem (1.UWT)",
+   "date": "2026-03-29",
+   "result": 9,
+   "gc_position": null,
+   "distance": 240.8,
+   "pcs_points": 46.0,
+   "uci_points": 100.0
+  },
+  {
+   "stage_url": "race/e3-harelbeke/2026/result",
+   "stage_name": "E3 Saxo Classic ME (1.UWT)",
+   "date": "2026-03-27",
+   "result": 5,
+   "gc_position": null,
+   "distance": 208.8,
+   "pcs_points": 80.0,
+   "uci_points": 180.0
+  },
+  {
+   "stage_url": "race/milano-sanremo/2026/result",
+   "stage_name": "Milano-Sanremo (1.UWT)",
+   "date": "2026-03-21",
+   "result": 24,
+   "gc_position": null,
+   "distance": 298.0,
+   "pcs_points": 16.0,
+   "uci_points": 30.0
+  },
+  {
+   "stage_url": "race/milano-torino/2026/result",
+   "stage_name": "Milano - Torino (1.Pro)",
+   "date": "2026-03-18",
+   "result": 69,
+   "gc_position": null,
+   "distance": 174.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/kom",
+   "stage_name": "Mountains classificationMountains classification",
+   "date": null,
+   "result": 22,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/gc",
+   "stage_name": "General classificationGeneral classification",
+   "date": null,
+   "result": 41,
+   "gc_position": null,
+   "distance": null,
+   "pcs_points": 5.0,
+   "uci_points": 10.0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-7",
+   "stage_name": "S7Stage 7 - Civitanova Marche › San Benedetto del Tronto",
+   "date": "2026-03-15",
+   "result": 51,
+   "gc_position": null,
+   "distance": 142.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-6",
+   "stage_name": "S6Stage 6 - San Severino Marche › Camerino",
+   "date": "2026-03-14",
+   "result": 35,
+   "gc_position": 41,
+   "distance": 188.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-5",
+   "stage_name": "S5Stage 5 - Marotta-Mondolfo › Mombaroccio",
+   "date": "2026-03-13",
+   "result": 58,
+   "gc_position": 57,
+   "distance": 184.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-4",
+   "stage_name": "S4Stage 4 - Tagliacozzo › Martinsicuro",
+   "date": "2026-03-12",
+   "result": 22,
+   "gc_position": 62,
+   "distance": 213.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-3",
+   "stage_name": "S3Stage 3 - Cortona › Magliano de' Marsi",
+   "date": "2026-03-11",
+   "result": 31,
+   "gc_position": 89,
+   "distance": 221.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-2",
+   "stage_name": "S2Stage 2 - Camaiore › San Gimignano",
+   "date": "2026-03-10",
+   "result": 84,
+   "gc_position": 92,
+   "distance": 206.0,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/tirreno-adriatico/2026/stage-1",
+   "stage_name": "S1 (ITT)Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore",
+   "date": "2026-03-09",
+   "result": 46,
+   "gc_position": 46,
+   "distance": 11.5,
+   "pcs_points": 0,
+   "uci_points": 0
+  },
+  {
+   "stage_url": "race/kuurne-brussel-kuurne/2026/result",
+   "stage_name": "Kuurne - Brussel - Kuurne (1.Pro)",
+   "date": "2026-03-01",
+   "result": 32,
+   "gc_position": null,
+   "distance": 194.9,
+   "pcs_points": 0,
+   "uci_points": 3.0
+  },
+  {
+   "stage_url": "race/omloop-het-nieuwsblad/2026/result",
+   "stage_name": "Omloop Nieuwsblad ME (1.UWT)",
+   "date": "2026-02-28",
+   "result": 17,
+   "gc_position": null,
+   "distance": 207.2,
+   "pcs_points": 18.0,
+   "uci_points": 24.0
+  }
+ ],
+ "teams_history": [
+  {
+   "season": 2028,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2028",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2027,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2027",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2026,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2026",
+   "class": "WT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2025,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2025",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2024,
+   "team_name": "Uno-X Mobility",
+   "team_url": "team/uno-x-mobility-2024",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2023,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2023",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2022,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2022",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2021,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2021",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2020,
+   "team_name": "Uno-X Pro Cycling Team",
+   "team_url": "team/uno-x-pro-cycling-team-2020",
+   "class": "PRT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2019,
+   "team_name": "Uno-X Norwegian Development Team",
+   "team_url": "team/uno-x-norwegian-development-team-2019",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2018,
+   "team_name": "Uno-X Norwegian Development Team",
+   "team_url": "team/uno-x-norwegian-development-team-2018",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2017,
+   "team_name": "Uno-X Hydrogen Development Team",
+   "team_url": "team/uno-x-hydrogen-development-team-2017",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2016,
+   "team_name": "Team Ringeriks - Kraft ",
+   "team_url": "team/team-ringeriks-kraft-2016",
+   "class": "CT",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Team Oster Hus - Ridley",
+   "team_url": "team/team-oster-hus-ridley-2014",
+   "class": "CT",
+   "since": "06-18",
+   "until": "12-31"
+  },
+  {
+   "season": 2014,
+   "team_name": "Motiv3 Pro-Cycling Team",
+   "team_url": "team/motiv3-pro-cycling-team-2014",
+   "class": "CT",
+   "since": "01-01",
+   "until": "06-18"
+  },
+  {
+   "season": 2013,
+   "team_name": "Grenland SK",
+   "team_url": "team/grenland-sk-2013",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  },
+  {
+   "season": 2012,
+   "team_name": "Grenland SK",
+   "team_url": "team/grenland-sk-2012",
+   "class": "CLUB",
+   "since": "01-01",
+   "until": "12-31"
+  }
+ ],
+ "weight": 78.0
+}

@@ -1,0 +1,133 @@
+{
+ "generated_utc": "2026-07-07T08:41:41.942667+00:00",
+ "errors": [],
+ "active_stage": 4,
+ "stage_type": "HILLY",
+ "route": "Carcassonne -> Foix",
+ "deadline_utc": "2026-07-07T11:10:00.000Z",
+ "is_locked": false,
+ "oracle_xw_top": [
+  {
+   "name": "Mathieu van der Poel",
+   "win_pct": 15.29
+  },
+  {
+   "name": "Mads Pedersen",
+   "win_pct": 15.23
+  },
+  {
+   "name": "Romain Grégoire",
+   "win_pct": 11.21
+  },
+  {
+   "name": "Alex Aranburu",
+   "win_pct": 11.04
+  },
+  {
+   "name": "Maxim Van Gils",
+   "win_pct": 8.76
+  },
+  {
+   "name": "Mathias Vacek",
+   "win_pct": 6.89
+  },
+  {
+   "name": "Michael Matthews",
+   "win_pct": 4.82
+  },
+  {
+   "name": "Marc Hirschi",
+   "win_pct": 4.81
+  }
+ ],
+ "dnf_in_team": [],
+ "pot": {
+  "left": 25,
+  "reserve": 5,
+  "usable": 20
+ },
+ "blocks": {
+  "A": [
+   4,
+   4
+  ],
+  "B": [
+   5,
+   6
+  ],
+  "C": [
+   7,
+   8
+  ],
+  "D": [
+   9,
+   13
+  ],
+  "E": [
+   14,
+   15
+  ],
+  "F": [
+   16,
+   21
+  ]
+ },
+ "locked_in_form_today": [
+  "Isaac del Toro",
+  "Jonas Vingegaard",
+  "Tadej Pogačar"
+ ],
+ "today": {
+  "transfers_in": [
+   "Jasper Stuyven",
+   "Nicolas Breuillard"
+  ],
+  "transfers_out": [
+   "Baptiste Veistroffer",
+   "Thymen Arensman"
+  ],
+  "sd": "UAE Team Emirates - XRG",
+  "sd_change": false,
+  "team_after": [
+   "Anthony Turgis",
+   "Clément Russo",
+   "Ion Izagirre",
+   "Isaac del Toro",
+   "Jakub Otruba",
+   "Jasper Stuyven",
+   "Jonas Vingegaard",
+   "Mathias Vacek",
+   "Mathieu van der Poel",
+   "Maxim Van Gils",
+   "Nicolas Breuillard",
+   "Tadej Pogačar"
+  ],
+  "cost": 99200000
+ },
+ "plan_E": 16094.5,
+ "hold_E": 11508.6,
+ "delta_vs_hold": 4585.9,
+ "future_waves": {
+  "B": [
+   "Jasper Philipsen",
+   "John Degenkolb",
+   "Luke Durbridge",
+   "Tim Merlier",
+   "Tom Pidcock",
+   "SD:Alpecin - Premier Tech"
+  ],
+  "C": [],
+  "D": [],
+  "E": [
+   "Anthony Turgis",
+   "Lenny Martínez",
+   "Mattias Skjelmose",
+   "Remco Evenepoel",
+   "SD:UAE Team Emirates - XRG"
+  ],
+  "F": [
+   "Thymen Arensman"
+  ]
+ },
+ "transfers_needed_today": 2
+}
