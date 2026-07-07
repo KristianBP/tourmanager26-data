@@ -200,24 +200,36 @@ def compute() -> dict:
             E[i][s] *= w
             E_finish_raw[i][s] *= w  # slår også inn i SD-lagstyrken
 
-    # SD-forventning per lag per etappe (ikke multiplisert)
+    # SD-forventning per lag per etappe (ikke multiplisert).
+    # SD-regelen: de 5 første ULIKE lagene i mål får 160/100/60/40/20 — ett lag
+    # kan maks få 160. E[SD] = sum over plasseringer av P(plass k) * premie_k,
+    # estimert med Gumbel-trick Monte Carlo over lagstyrker (Plackett-Luce).
+    # Lagstyrke = beste rytters målgangsforventning + 0.25 x nest beste.
+    import math
+    import random
+
     teams = sorted({r["team"] for r in riders})
-    sd_pool = sum(RULES["points"]["sport_director"]["stage_top_five"])
+    prizes = RULES["points"]["sport_director"]["stage_top_five"]
+    gamma_sd = W["sport_director"]["gamma"]
+    rng = random.Random(42)
+    N_MC = 1500
     sd = {t: [0.0] * 22 for t in teams}
-    # SD-regelen teller kun BESTE rytter per lag (5 første ulike lag i mål):
-    # lagstyrke = beste rytters forventning + litt for nest beste (posisjonering),
-    # IKKE sum — sum dobbelttelte lag med to toppkort (Alpecin flatt, UAE fjell).
     for s in range(1, 22):
-        strength = {t: 0.0 for t in teams}
         per_team: dict[str, list[float]] = {t: [] for t in teams}
         for i, r in enumerate(riders):
             per_team[r["team"]].append(E_finish_raw[i][s])
+        logw = {}
         for t, vals in per_team.items():
             vals.sort(reverse=True)
-            strength[t] = vals[0] + 0.25 * (vals[1] if len(vals) > 1 else 0)
-        dist = _distribute(sd_pool, {j: v for j, v in enumerate(strength.values())}, W["sport_director"]["gamma"])
-        for j, t in enumerate(strength):
-            sd[t][s] = dist.get(j, 0)
+            w = (vals[0] + 0.25 * (vals[1] if len(vals) > 1 else 0)) ** gamma_sd
+            logw[t] = math.log(max(w, 1e-6))
+        totals = {t: 0.0 for t in teams}
+        for _ in range(N_MC):
+            noisy = sorted(teams, key=lambda t: logw[t] - math.log(-math.log(rng.random())), reverse=True)
+            for k, t in enumerate(noisy[:len(prizes)]):
+                totals[t] += prizes[k]
+        for t in teams:
+            sd[t][s] = totals[t] / N_MC
 
     return {"riders": riders, "E": E, "sd": sd,
             "stage_types": {r["number"]: STAGE_TYPE_MAP[r["stageType"]] for r in rounds},
