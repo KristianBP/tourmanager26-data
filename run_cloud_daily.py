@@ -67,13 +67,14 @@ def main():
     bl.BLOCKS = make_blocks(active)
     rec["blocks"] = {k: list(v) for k, v in bl.BLOCKS.items()}
 
-    # Guardrail mot modell-myopi: egne ryttere i live-storform (høye faktiske
-    # spillpoeng) selges IKKE i dagens bølge — modellens E kjenner ikke
-    # formmomentum. Fremtidige bølger kan fortsatt planlegge salg av dem.
+    # Guardrail mot modell-myopi: egne ryttere i UTVETYDIG storform (>=500
+    # faktiske poeng) selges ikke i dagens bølge. 300-500 noteres kun som
+    # formsignal (brukerønske 8/7: "ikke fredet fredet").
     pts = tm.player_points()
     by_name = {p["name"]: pts.get(p["id"], 0) for p in pool}
-    in_form = {n for n in cur if by_name.get(n, 0) >= 300 and n not in unavailable}
+    in_form = {n for n in cur if by_name.get(n, 0) >= 500 and n not in unavailable}
     rec["locked_in_form_today"] = sorted(in_form)
+    rec["noted_form"] = sorted(n for n in cur if 300 <= by_name.get(n, 0) < 500)
 
     first_letter = list(bl.BLOCKS)[0]
     common = dict(exclude=unavailable, initial_team=cur - unavailable, initial_sd=cur_sd,
