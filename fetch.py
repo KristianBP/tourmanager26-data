@@ -120,7 +120,8 @@ def main():
         for pid, nm in want.items():
             try:
                 det = json.loads(get(f"{BASE}/players/{pid}"))
-                done = [s for s in det.get("stages", []) if s.get("status") == "done"]
+                done = [s for s in det.get("stages", [])
+                        if (s.get("breakdown") or {}).get("notes")]
                 if done:
                     last = max(done, key=lambda s: s["number"])
                     bds[nm] = {"stage": last["number"], "points": last["points"],
