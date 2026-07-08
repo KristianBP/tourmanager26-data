@@ -104,6 +104,9 @@ def main():
         except Exception as e:
             status["errors"].append(f"oracle: {e}")
 
+    # indeks over history-filer (raw.githubusercontent har ingen mappelisting)
+    (HIST / "index.json").write_text(json.dumps(
+        sorted(f.name for f in HIST.glob("*.json") if f.name != "index.json"), indent=1))
     (OUT / "status.json").write_text(json.dumps(status, indent=1))
     print(json.dumps(status, indent=1))
 
