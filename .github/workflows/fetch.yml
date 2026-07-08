@@ -1,7 +1,10 @@
 name: fetch-data
 on:
   schedule:
-    - cron: "30 5 * * *"   # 07:30 norsk tid, før daglig brief 08:02
+    # GitHub-cron er upresis (ofte 30-150 min forsinket på runde klokkeslett).
+    # To forsøk på odde minutter off-peak, begge i god tid før briefen 06:02 UTC.
+    - cron: "47 3 * * *"
+    - cron: "17 5 * * *"
   workflow_dispatch:
 permissions:
   contents: write
