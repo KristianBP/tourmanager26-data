@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 5,
+ "fetched": "2026-07-08",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-5-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Tim Merlier",
@@ -45,5 +48,6 @@
    "name": "Phil Bauhaus",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }

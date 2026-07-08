@@ -1,45 +1,13 @@
 {
- "generated_utc": "2026-07-07T08:42:29.699716+00:00",
- "errors": [],
- "active_stage": 4,
- "stage_type": "HILLY",
- "route": "Carcassonne -> Foix",
- "deadline_utc": "2026-07-07T11:10:00.000Z",
- "is_locked": false,
- "oracle_xw_top": [
-  {
-   "name": "Mathieu van der Poel",
-   "win_pct": 15.29
-  },
-  {
-   "name": "Mads Pedersen",
-   "win_pct": 15.23
-  },
-  {
-   "name": "Romain Grégoire",
-   "win_pct": 11.21
-  },
-  {
-   "name": "Alex Aranburu",
-   "win_pct": 11.04
-  },
-  {
-   "name": "Maxim Van Gils",
-   "win_pct": 8.76
-  },
-  {
-   "name": "Mathias Vacek",
-   "win_pct": 6.89
-  },
-  {
-   "name": "Michael Matthews",
-   "win_pct": 4.82
-  },
-  {
-   "name": "Marc Hirschi",
-   "win_pct": 4.81
-  }
+ "generated_utc": "2026-07-08T07:52:52.551463+00:00",
+ "errors": [
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-5"
  ],
+ "active_stage": 5,
+ "stage_type": "FLAT",
+ "route": "Lannemezan -> Pau",
+ "deadline_utc": "2026-07-08T12:05:00.000Z",
+ "is_locked": false,
  "dnf_in_team": [],
  "pot": {
   "left": 25,
@@ -48,26 +16,22 @@
  },
  "blocks": {
   "A": [
-   4,
-   4
-  ],
-  "B": [
    5,
    6
   ],
-  "C": [
+  "B": [
    7,
    8
   ],
-  "D": [
+  "C": [
    9,
    13
   ],
-  "E": [
+  "D": [
    14,
    15
   ],
-  "F": [
+  "E": [
    16,
    21
   ]
@@ -75,59 +39,60 @@
  "locked_in_form_today": [
   "Isaac del Toro",
   "Jonas Vingegaard",
+  "Mathias Vacek",
   "Tadej Pogačar"
  ],
  "today": {
   "transfers_in": [
-   "Jasper Stuyven",
-   "Nicolas Breuillard"
-  ],
-  "transfers_out": [
-   "Baptiste Veistroffer",
-   "Thymen Arensman"
-  ],
-  "sd": "UAE Team Emirates - XRG",
-  "sd_change": false,
-  "team_after": [
-   "Anthony Turgis",
-   "Clément Russo",
-   "Ion Izagirre",
-   "Isaac del Toro",
-   "Jakub Otruba",
-   "Jasper Stuyven",
-   "Jonas Vingegaard",
-   "Mathias Vacek",
-   "Mathieu van der Poel",
-   "Maxim Van Gils",
-   "Nicolas Breuillard",
-   "Tadej Pogačar"
-  ],
-  "cost": 99200000
- },
- "plan_E": 16094.5,
- "hold_E": 11508.6,
- "delta_vs_hold": 4585.9,
- "future_waves": {
-  "B": [
    "Jasper Philipsen",
    "John Degenkolb",
    "Luke Durbridge",
+   "Sergio Higuita"
+  ],
+  "transfers_out": [
+   "Baptiste Veistroffer",
+   "Clément Russo",
+   "Maxim Van Gils",
+   "Thymen Arensman"
+  ],
+  "sd": "Alpecin - Premier Tech",
+  "sd_change": true,
+  "team_after": [
+   "Anthony Turgis",
+   "Ion Izagirre",
+   "Isaac del Toro",
+   "Jakub Otruba",
+   "Jasper Philipsen",
+   "John Degenkolb",
+   "Jonas Vingegaard",
+   "Luke Durbridge",
+   "Mathias Vacek",
+   "Mathieu van der Poel",
+   "Sergio Higuita",
+   "Tadej Pogačar"
+  ],
+  "cost": 98300000
+ },
+ "plan_E": 14385.3,
+ "hold_E": 10212.2,
+ "delta_vs_hold": 4173.1,
+ "future_waves": {
+  "B": [
+   "Nicolas Breuillard",
    "Tim Merlier",
-   "Tom Pidcock",
-   "SD:Alpecin - Premier Tech"
+   "Tom Pidcock"
   ],
   "C": [],
-  "D": [],
-  "E": [
+  "D": [
    "Anthony Turgis",
    "Lenny Martínez",
    "Mattias Skjelmose",
    "Remco Evenepoel",
    "SD:UAE Team Emirates - XRG"
   ],
-  "F": [
+  "E": [
    "Thymen Arensman"
   ]
  },
- "transfers_needed_today": 2
+ "transfers_needed_today": 5
 }

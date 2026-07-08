@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "4792008b-a7e7-4d5d-a3cb-376c44c3874a",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 5",
+  "number": 5,
+  "startsAt": "2026-07-08T12:05:00.000Z",
+  "endsAt": "2026-07-08T20:00:00.000Z",
+  "deadlineAt": "2026-07-08T12:05:00.000Z",
+  "stageType": "FLAT",
+  "startCity": "Lannemezan",
+  "finishCity": "Pau",
+  "distanceKm": 158,
+  "createdAt": "2026-06-05T21:52:15.194Z",
+  "updatedAt": "2026-07-05T08:59:13.157Z"
+ },
+ "effectiveDeadline": "2026-07-08T12:05:00.000Z",
+ "configuredDeadline": "2026-07-08T12:05:00.000Z",
+ "secondsRemaining": 15127,
+ "isLocked": false,
+ "serverNow": "2026-07-08T07:52:52.707Z"
+}

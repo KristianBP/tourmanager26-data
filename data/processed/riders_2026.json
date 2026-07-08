@@ -132,7 +132,7 @@
    "one_day": 153,
    "hills": 152
   },
-  "form_2026": 36.9,
+  "form_2026": 33.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 143,
   "pcs_points_2025": 104
@@ -307,7 +307,7 @@
   "team_code": "TBV",
   "is_available": true,
   "pcs_url": "rider/phil-bauhaus",
-  "age": 31,
+  "age": 32,
   "speciality": {
    "climber": 0,
    "gc": 291,
@@ -339,7 +339,7 @@
    "one_day": 228,
    "hills": 660
   },
-  "form_2026": 13.2,
+  "form_2026": 13.0,
   "giro_2026_stages": 21,
   "pcs_points_2026": 53,
   "pcs_points_2025": 70
@@ -707,7 +707,7 @@
    "one_day": 1250,
    "hills": 392
   },
-  "form_2026": 70.0,
+  "form_2026": 59.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 277,
   "pcs_points_2025": 645
@@ -937,7 +937,7 @@
    "one_day": 665,
    "hills": 569
   },
-  "form_2026": 136.9,
+  "form_2026": 130.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 540,
   "pcs_points_2025": 255
@@ -1903,7 +1903,7 @@
    "one_day": 824,
    "hills": 1155
   },
-  "form_2026": 127.8,
+  "form_2026": 127.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 473,
   "pcs_points_2025": 1331
@@ -1995,7 +1995,7 @@
    "one_day": 3519,
    "hills": 2211
   },
-  "form_2026": 90.9,
+  "form_2026": 83.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 417,
   "pcs_points_2025": 867
@@ -2156,7 +2156,7 @@
    "one_day": 3300,
    "hills": 874
   },
-  "form_2026": 12.7,
+  "form_2026": 12.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 58,
   "pcs_points_2025": 130
@@ -2616,7 +2616,7 @@
    "one_day": 5297,
    "hills": 3916
   },
-  "form_2026": 108.7,
+  "form_2026": 108.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 564,
   "pcs_points_2025": 405
@@ -2760,29 +2760,6 @@
   "pcs_points_2025": 283
  },
  {
-  "tm_id": "da201e89-bce9-4999-b20c-a25dc0fc2970",
-  "name": "Kelland O'Brien",
-  "position": "TIME_TRIALIST",
-  "price": 5000000,
-  "team": "Team Jayco AlUla",
-  "team_code": "JAY",
-  "is_available": true,
-  "pcs_url": "rider/kelland-brien",
-  "age": 28,
-  "speciality": {
-   "climber": 7,
-   "gc": 121,
-   "sprint": 26,
-   "time_trial": 288,
-   "one_day": 290,
-   "hills": 128
-  },
-  "form_2026": 7.5,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 42,
-  "pcs_points_2025": 90
- },
- {
   "tm_id": "ae0a4f52-051e-4be3-9f62-7235101fd41e",
   "name": "Luke Durbridge",
   "position": "DOMESTIQUE",
@@ -2823,7 +2800,7 @@
    "one_day": 255,
    "hills": 458
   },
-  "form_2026": 141.3,
+  "form_2026": 140.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 530,
   "pcs_points_2025": 516
@@ -2892,7 +2869,7 @@
    "one_day": 3743,
    "hills": 2017
   },
-  "form_2026": 31.7,
+  "form_2026": 30.3,
   "giro_2026_stages": 16,
   "pcs_points_2026": 172,
   "pcs_points_2025": 226
@@ -2938,7 +2915,7 @@
    "one_day": 266,
    "hills": 60
   },
-  "form_2026": 72.2,
+  "form_2026": 66.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 249,
   "pcs_points_2025": 50
@@ -3113,7 +3090,7 @@
   "team_code": "TVL",
   "is_available": true,
   "pcs_url": "rider/davide-piganzoli",
-  "age": 23,
+  "age": 24,
   "speciality": {
    "climber": 948,
    "gc": 1126,
@@ -3306,7 +3283,7 @@
    "one_day": 2774,
    "hills": 1242
   },
-  "form_2026": 65.8,
+  "form_2026": 61.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 312,
   "pcs_points_2025": 338
@@ -3467,7 +3444,7 @@
    "one_day": 1344,
    "hills": 277
   },
-  "form_2026": 33.0,
+  "form_2026": 27.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 92,
   "pcs_points_2025": 150
