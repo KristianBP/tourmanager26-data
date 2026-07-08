@@ -17,5 +17,5 @@
   "sport_director": "UAE Team Emirates - XRG",
   "transfers_used": 0,
   "transfer_reserve": 5,
-  "planned_waves_note": "Før et. 5 (8/7): inn Philipsen+Merlier+Degenkolb+Vercher+Breuillard, ut Turgis+Russo+Van Gils+Arensman+Vacek. Før et. 7 (9/7): SD UAE->Alpecin. Før et. 14 (18/7): Martínez/Skjelmose-vindu, SD->UAE. Før et. 16 (21/7): Evenepoel/Arensman-vindu."
+  "planned_waves_note": "AVTALT PLAN (8/7, manuell analyse har forrang over optimizer ved konflikt): Bølge 1 i dag 8/7 før et.5: INN Philipsen+Merlier+Skjelmose+Durbridge+Dillier, UT Turgis+Russo+Van Gils+van der Poel+Arensman, SD UAE->Alpecin. Deretter KUN: Alpe-bølge ca 18/7 (Martínez, Evenepoel-vindu, Merlier ut, SD->UAE) og SD->Alpecin for Paris 26/7. Alt annet er opsjoner (terskel ~100 poeng/bytte). MVDP-retur er IKKE planlagt - vurderes 12/7 kun ved vist form."
 }
