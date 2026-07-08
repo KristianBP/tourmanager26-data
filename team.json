@@ -1,21 +1,21 @@
 {
-  "_hvordan_oppdatere": "Etter at du har gjort bytter i tourmanager-appen: rediger denne filen på github.com (blyant-ikonet) fra mobilen. Endre riders/sport_director til slik laget FAKTISK ser ut, og juster transfers_used. Optimizeren og morgenbriefen leser denne filen.",
+  "_hvordan_oppdatere": "Etter at du har gjort bytter i tourmanager-appen: svar i morgenbrief-chatten (agenten oppdaterer via git), eller rediger denne filen manuelt på github.com.",
   "riders": [
-    "Tadej Pogačar",
-    "Jonas Vingegaard",
-    "Ion Izagirre",
-    "Thymen Arensman",
-    "Mathieu van der Poel",
-    "Maxim Van Gils",
     "Baptiste Veistroffer",
-    "Anthony Turgis",
-    "Clément Russo",
+    "Ion Izagirre",
+    "Isaac del Toro",
     "Jakub Otruba",
+    "Jasper Philipsen",
+    "Jonas Vingegaard",
+    "Luke Durbridge",
     "Mathias Vacek",
-    "Isaac del Toro"
+    "Mattias Skjelmose",
+    "Silvan Dillier",
+    "Tadej Pogačar",
+    "Tim Merlier"
   ],
-  "sport_director": "UAE Team Emirates - XRG",
-  "transfers_used": 0,
+  "sport_director": "Alpecin - Premier Tech",
+  "transfers_used": 6,
   "transfer_reserve": 5,
-  "planned_waves_note": "AVTALT PLAN (8/7, manuell analyse har forrang over optimizer ved konflikt): Bølge 1 i dag 8/7 før et.5: INN Philipsen+Merlier+Skjelmose+Durbridge+Dillier, UT Turgis+Russo+Van Gils+van der Poel+Arensman, SD UAE->Alpecin. Deretter KUN: Alpe-bølge ca 18/7 (Martínez, Evenepoel-vindu, Merlier ut, SD->UAE) og SD->Alpecin for Paris 26/7. Alt annet er opsjoner (terskel ~100 poeng/bytte). MVDP-retur er IKKE planlagt - vurderes 12/7 kun ved vist form."
+  "planned_waves_note": "AVTALT PLAN (oppdatert 8/7 - bølge 1 GJENNOMFØRT, manuell analyse har forrang over optimizer ved konflikt): Gjenstående planlagte bølger: Alpe-bølge ca 18/7 (Martínez inn, Evenepoel-vindu, Merlier ut, SD->UAE) og SD->Alpecin for Paris 26/7. Alt annet er opsjoner (terskel ~100 poeng/bytte). MVDP-retur er IKKE planlagt (ute av laget) - vurderes 12/7 kun ved vist form."
 }
