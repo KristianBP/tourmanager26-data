@@ -35,9 +35,9 @@
   },
 
   "points": {
-    "stage_finish": {"1": 100, "2": 80, "3": 70, "4": 60, "5": 52, "6": 45, "7": 40, "8": 36, "9": 32, "10": 28, "11": 24, "12": 21, "13": 18, "14": 15, "15": 12, "16": 10, "17": 8, "18": 6, "19": 4, "20": 2, "other": 1},
-    "sprint_points": {"1": 20, "2": 17, "3": 15, "4": 13, "5": 11, "6": 10, "7": 9, "8": 8, "9": 7, "10": 6, "11": 5, "12": 4, "13": 3, "14": 2, "15": 1},
-    "passing_point": {"1": 6, "2": 4, "3": 2},
+    "_empirisk": "Tabellene under er REVERSE-ENGINEERET 2026-07-08 fra 205 rytteres per-etappe-breakdowns (/players/{id}.stages[].breakdown.notes) etter 5 etapper. scoringJson i rulesets-endepunktet var UTDATERT (feil målgangs- og spurtskala). Brukerens husk av regelteksten var korrekt.",
+    "stage_finish": {"1": 100, "2": 80, "3": 60, "4": 50, "5": 40, "6": 36, "7": 32, "8": 28, "9": 24, "10": 21, "11": 18, "12": 15, "13": 12, "14": 10, "15": 8, "16": 7, "17": 6, "18": 5, "19": 4, "20": 3, "other": 2, "_ranges": "20-49: 3p, 50-99: 2p, 100+: 1p. TTT (et.1) scores identisk per individuell plass, men med multiplikator maks 2 for alle posisjoner."},
+    "sprint_points": {"1": 25, "2": 20, "3": 16, "4": 14, "5": 12, "6": 10, "7": 9, "8": 8, "9": 7, "10": 6, "11": 5, "12": 4, "13": 3, "14": 2, "15": 1, "_merk": "Deles ut ved MELLOMSPRINTEN (én per etappe, 'Spurt: <sted>'), ikke ved målgang. Ingen separat poengtrøye-utdeling ved mål."},
     "climbs": {
       "HC":   [60, 48, 36, 24, 12, 6],
       "cat1": [30, 24, 18, 12, 6, 3],
@@ -50,7 +50,8 @@
       "jersey_takeover": 20,
       "max_jerseys_per_rider_per_stage": 1,
       "teammate_wins_stage": 10,
-      "most_offensive_rider": 25
+      "most_offensive_rider": 25,
+      "_verifisert": "ALLE bonuser MULTIPLISERES med rytterens posisjonsmultiplikator (breakdowns viser 'Overtok Grønn trøye (x4): 80p', 'Mest offensive rytter (x4): 100p'). Trøyebonus kun ved overtakelse."
     },
     "sport_director": {
       "rule": "Goes down the finishers list to find 5 riders from 5 different teams",

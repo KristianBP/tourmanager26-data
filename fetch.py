@@ -104,6 +104,34 @@ def main():
         except Exception as e:
             status["errors"].append(f"oracle: {e}")
 
+    # per-rytter-breakdowns med klartekst-noter ("Spurt: X 1.: 25p", "Mest
+    # offensive rytter (x4): 100p") for lagets ryttere + spillets topp 15 —
+    # gir briefen ekte narrativ (brudd, mellomsprinter, bonuser).
+    try:
+        import time
+        team = json.loads((Path(__file__).parent / "team.json").read_text())
+        pool = json.loads((OUT / "players.json").read_text())
+        pts = json.loads((OUT / "player_points.json").read_text())
+        top15 = sorted(pool, key=lambda p: -pts.get(p["id"], 0))[:15]
+        want = {p["id"]: p["name"] for p in pool
+                if p["name"] in set(team["riders"]) | {team["sport_director"]}}
+        want.update({p["id"]: p["name"] for p in top15})
+        bds = {}
+        for pid, nm in want.items():
+            try:
+                det = json.loads(get(f"{BASE}/players/{pid}"))
+                done = [s for s in det.get("stages", []) if s.get("status") == "done"]
+                if done:
+                    last = max(done, key=lambda s: s["number"])
+                    bds[nm] = {"stage": last["number"], "points": last["points"],
+                               "notes": (last.get("breakdown") or {}).get("notes", [])}
+            except Exception:
+                pass
+            time.sleep(0.35)
+        (OUT / "breakdowns.json").write_text(json.dumps(bds, ensure_ascii=False, indent=1))
+    except Exception as e:
+        status["errors"].append(f"breakdowns: {e}")
+
     # indeks over history-filer (raw.githubusercontent har ingen mappelisting)
     (HIST / "index.json").write_text(json.dumps(
         sorted(f.name for f in HIST.glob("*.json") if f.name != "index.json"), indent=1))

@@ -59,13 +59,15 @@ kom:
   fallback_pool: {flat: 3, hilly: 60, mountain: 320, ITT: 0, TTT: 0}
 
 sprint_class:
-  # spurterklassifisering ved mål (pool 131): andel av målgangsforventning
-  finish_fraction: {flat: 0.30, hilly: 0.20, mountain: 0.12, ITT: 0.0, TTT: 0.0}
+  # UTGÅTT mekanisme: empirisk (8/7) finnes ingen poengtrøye-utdeling ved mål.
+  # Beholdes som 0 for kompatibilitet.
+  finish_fraction: {flat: 0.0, hilly: 0.0, mountain: 0.0, ITT: 0.0, TTT: 0.0}
 
 passing_point:
-  # 12 poeng pool: fordeles på spurtere (flat) / bruddkandidater (ellers)
-  pool: 12
-  sprinter_share_flat: 0.6
+  # MELLOMSPRINTEN (én per etappe): empirisk skala 25/20/16/.../1, pool=131.
+  # Flatt: spurttogene tar ~halvparten, brudd resten. Ellers: brudd.
+  pool: 131
+  sprinter_share_flat: 0.5
 
 sport_director:
   # SD-pool per etappe = 160+100+60+40+20 = 380, IKKE multiplisert.
