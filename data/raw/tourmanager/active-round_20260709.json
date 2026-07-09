@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "9eb00aac-0a8c-43a5-b49a-af15f659ffef",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 6",
+  "number": 6,
+  "startsAt": "2026-07-09T10:25:00.000Z",
+  "endsAt": "2026-07-09T20:00:00.000Z",
+  "deadlineAt": "2026-07-09T10:25:00.000Z",
+  "stageType": "MOUNTAIN",
+  "startCity": "Pau",
+  "finishCity": "Gavarnie-Gèdre",
+  "distanceKm": 186,
+  "createdAt": "2026-06-05T21:52:15.336Z",
+  "updatedAt": "2026-07-05T08:59:13.291Z"
+ },
+ "effectiveDeadline": "2026-07-09T10:25:00.000Z",
+ "configuredDeadline": "2026-07-09T10:25:00.000Z",
+ "secondsRemaining": 11977,
+ "isLocked": false,
+ "serverNow": "2026-07-09T07:05:22.667Z"
+}

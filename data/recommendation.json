@@ -1,22 +1,22 @@
 {
- "generated_utc": "2026-07-08T08:52:45.854434+00:00",
+ "generated_utc": "2026-07-09T07:05:22.028426+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-5"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-6"
  ],
- "active_stage": 5,
- "stage_type": "FLAT",
- "route": "Lannemezan -> Pau",
- "deadline_utc": "2026-07-08T12:05:00.000Z",
+ "active_stage": 6,
+ "stage_type": "MOUNTAIN",
+ "route": "Pau -> Gavarnie-Gèdre",
+ "deadline_utc": "2026-07-09T10:25:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
-  "left": 25,
+  "left": 19,
   "reserve": 5,
-  "usable": 20
+  "usable": 14
  },
  "blocks": {
   "A": [
-   5,
+   6,
    6
   ],
   "B": [
@@ -39,23 +39,24 @@
  "locked_in_form_today": [
   "Isaac del Toro",
   "Jonas Vingegaard",
-  "Mathias Vacek",
   "Tadej Pogačar"
+ ],
+ "noted_form": [
+  "Mathias Vacek",
+  "Mattias Skjelmose"
  ],
  "today": {
   "transfers_in": [
-   "Jasper Philipsen",
-   "John Degenkolb",
-   "Luke Durbridge",
-   "Sergio Higuita"
+   "Anthony Turgis",
+   "Lenny Martínez",
+   "Mathieu van der Poel"
   ],
   "transfers_out": [
    "Baptiste Veistroffer",
-   "Clément Russo",
-   "Maxim Van Gils",
-   "Thymen Arensman"
+   "Mathias Vacek",
+   "Tim Merlier"
   ],
-  "sd": "Alpecin - Premier Tech",
+  "sd": "UAE Team Emirates - XRG",
   "sd_change": true,
   "team_after": [
    "Anthony Turgis",
@@ -63,30 +64,31 @@
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
-   "John Degenkolb",
    "Jonas Vingegaard",
+   "Lenny Martínez",
    "Luke Durbridge",
-   "Mathias Vacek",
    "Mathieu van der Poel",
-   "Sergio Higuita",
+   "Mattias Skjelmose",
+   "Silvan Dillier",
    "Tadej Pogačar"
   ],
-  "cost": 98300000
+  "cost": 99800000
  },
- "plan_E": 14385.3,
- "hold_E": 10212.2,
- "delta_vs_hold": 4173.1,
+ "plan_E": 15726.8,
+ "hold_E": 12510.1,
+ "delta_vs_hold": 3216.7,
  "future_waves": {
   "B": [
-   "Nicolas Breuillard",
+   "John Degenkolb",
+   "Romain Gregoire",
+   "Sebastian Berwick",
    "Tim Merlier",
-   "Tom Pidcock"
+   "SD:Alpecin - Premier Tech"
   ],
   "C": [],
   "D": [
    "Anthony Turgis",
    "Lenny Martínez",
-   "Mattias Skjelmose",
    "Remco Evenepoel",
    "SD:UAE Team Emirates - XRG"
   ],
@@ -94,5 +96,5 @@
    "Thymen Arensman"
   ]
  },
- "transfers_needed_today": 5
+ "transfers_needed_today": 4
 }

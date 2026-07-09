@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 6,
+ "fetched": "2026-07-09",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-6-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Tadej Pogacar",
@@ -57,5 +60,6 @@
    "name": "Sergio Higuita",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }
