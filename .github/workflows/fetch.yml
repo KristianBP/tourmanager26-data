@@ -1,10 +1,12 @@
 name: fetch-data
 on:
   schedule:
-    # GitHub-cron er upresis (ofte 30-150 min forsinket på runde klokkeslett).
-    # To forsøk på odde minutter off-peak, begge i god tid før briefen 06:02 UTC.
-    - cron: "47 3 * * *"
-    - cron: "17 5 * * *"
+    # GitHub-cron kan være 3+ timer forsinket. Tre forsøk spredt over natten
+    # slik at minst ett lander før briefen 06:03 UTC selv med store forsinkelser.
+    # (Resultater er finale ~19 UTC kvelden før; oraklet publiseres på kvelden.)
+    - cron: "47 23 * * *"
+    - cron: "17 2 * * *"
+    - cron: "51 4 * * *"
   workflow_dispatch:
 permissions:
   contents: write

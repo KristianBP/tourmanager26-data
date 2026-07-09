@@ -80,8 +80,14 @@ def main():
         # xW-tabellen ligger som HTML-entity-escaped JSON i et data-attributt.
         try:
             import html as htmllib
-            raw = get(f"https://www.cyclingoracle.com/nl/blog/"
-                      f"tour-de-france-2026-voorspelling-etappe-{n}").decode("utf-8", "replace")
+            url = (f"https://www.cyclingoracle.com/nl/blog/"
+                   f"tour-de-france-2026-voorspelling-etappe-{n}")
+            try:
+                raw = get(url).decode("utf-8", "replace")
+            except Exception:
+                # Cloudflare blokkerer ofte datasenter-IP-er -> cloudscraper
+                import cloudscraper
+                raw = cloudscraper.create_scraper().get(url, timeout=30).text
             unescaped = htmllib.unescape(htmllib.unescape(raw))
             preds = []
             m = re.search(r'"predictions":\[(.*?)\]', unescaped, re.S)
