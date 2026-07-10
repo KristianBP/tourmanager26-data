@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-09T08:50:41.894425+00:00",
+ "generated_utc": "2026-07-10T01:16:36.463046+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-6"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-7"
  ],
- "active_stage": 6,
- "stage_type": "MOUNTAIN",
- "route": "Pau -> Gavarnie-Gèdre",
- "deadline_utc": "2026-07-09T10:25:00.000Z",
+ "active_stage": 7,
+ "stage_type": "FLAT",
+ "route": "Hagetmau -> Bordeaux",
+ "deadline_utc": "2026-07-10T11:15:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,22 +16,18 @@
  },
  "blocks": {
   "A": [
-   6,
-   6
-  ],
-  "B": [
    7,
    8
   ],
-  "C": [
+  "B": [
    9,
    13
   ],
-  "D": [
+  "C": [
    14,
    15
   ],
-  "E": [
+  "D": [
    16,
    21
   ]
@@ -47,52 +43,52 @@
  ],
  "today": {
   "transfers_in": [
-   "Anthony Turgis",
-   "Lenny Martínez",
-   "Mathieu van der Poel"
+   "George Bennett",
+   "John Degenkolb",
+   "Mathieu van der Poel",
+   "Matteo Vercher"
   ],
   "transfers_out": [
    "Baptiste Veistroffer",
    "Mathias Vacek",
-   "Tim Merlier"
+   "Mattias Skjelmose",
+   "Silvan Dillier"
   ],
-  "sd": "UAE Team Emirates - XRG",
-  "sd_change": true,
+  "sd": "Alpecin - Premier Tech",
+  "sd_change": false,
   "team_after": [
-   "Anthony Turgis",
+   "George Bennett",
    "Ion Izagirre",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
+   "John Degenkolb",
    "Jonas Vingegaard",
-   "Lenny Martínez",
    "Luke Durbridge",
    "Mathieu van der Poel",
-   "Mattias Skjelmose",
-   "Silvan Dillier",
-   "Tadej Pogačar"
+   "Matteo Vercher",
+   "Tadej Pogačar",
+   "Tim Merlier"
   ],
-  "cost": 99800000
+  "cost": 99900000
  },
- "plan_E": 15726.8,
- "hold_E": 12510.1,
- "delta_vs_hold": 3216.7,
+ "plan_E": 14538.0,
+ "hold_E": 11551.6,
+ "delta_vs_hold": 2986.4,
  "future_waves": {
   "B": [
-   "John Degenkolb",
+   "Adam Yates",
    "Romain Gregoire",
-   "Sebastian Berwick",
-   "Tim Merlier",
-   "SD:Alpecin - Premier Tech"
+   "Sebastian Berwick"
   ],
-  "C": [],
-  "D": [
+  "C": [
    "Anthony Turgis",
    "Lenny Martínez",
+   "Mattias Skjelmose",
    "Remco Evenepoel",
    "SD:UAE Team Emirates - XRG"
   ],
-  "E": [
+  "D": [
    "Thymen Arensman"
   ]
  },

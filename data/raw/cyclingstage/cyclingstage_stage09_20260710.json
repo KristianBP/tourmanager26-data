@@ -1,0 +1,61 @@
+{
+ "source": "cyclingstage",
+ "stage": 9,
+ "fetched": "2026-07-10",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-9-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Mathieu van der Poel",
+   "stars": 3
+  },
+  {
+   "name": "Tom Pidcock",
+   "stars": 3
+  },
+  {
+   "name": "Ben Healy",
+   "stars": 3
+  },
+  {
+   "name": "Mathias Vacek",
+   "stars": 3
+  },
+  {
+   "name": "Romain Grégoire",
+   "stars": 2
+  },
+  {
+   "name": "Lennert Van Eetvelt",
+   "stars": 2
+  },
+  {
+   "name": "Alex Aranburu",
+   "stars": 2
+  },
+  {
+   "name": "Kévin Vauquelin",
+   "stars": 2
+  },
+  {
+   "name": "Julian Alaphilippe",
+   "stars": 1
+  },
+  {
+   "name": "Michal Kwiatkowski",
+   "stars": 1
+  },
+  {
+   "name": "Maxim Van Gils",
+   "stars": 1
+  },
+  {
+   "name": "Mauro Schmid",
+   "stars": 1
+  },
+  {
+   "name": "Pablo Castrillo",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

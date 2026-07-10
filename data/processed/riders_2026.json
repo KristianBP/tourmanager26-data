@@ -391,29 +391,6 @@
   "pcs_points_2025": 251
  },
  {
-  "tm_id": "fa1e7d4d-7b75-4253-82f7-6f2647044cb0",
-  "name": "Alex Molenaar",
-  "position": "DOMESTIQUE",
-  "price": 4900000,
-  "team": "Caja Rural - Seguros RGA",
-  "team_code": "CJR",
-  "is_available": true,
-  "pcs_url": "rider/alex-molenaar",
-  "age": 26,
-  "speciality": {
-   "climber": 148,
-   "gc": 317,
-   "sprint": 100,
-   "time_trial": 130,
-   "one_day": 376,
-   "hills": 462
-  },
-  "form_2026": 39.8,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 193,
-  "pcs_points_2025": 229
- },
- {
   "tm_id": "c1a7bbfe-a2ec-4011-9207-2c3774178f9a",
   "name": "Fernando Gaviria",
   "position": "SPRINTER",
@@ -937,7 +914,7 @@
    "one_day": 665,
    "hills": 569
   },
-  "form_2026": 130.9,
+  "form_2026": 129.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 540,
   "pcs_points_2025": 255
@@ -960,7 +937,7 @@
    "one_day": 1514,
    "hills": 570
   },
-  "form_2026": 42.2,
+  "form_2026": 40.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 158,
   "pcs_points_2025": 1207
@@ -983,7 +960,7 @@
    "one_day": 264,
    "hills": 284
   },
-  "form_2026": 75.4,
+  "form_2026": 73.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 288,
   "pcs_points_2025": 113
@@ -1029,7 +1006,7 @@
    "one_day": 77,
    "hills": 56
   },
-  "form_2026": 9.9,
+  "form_2026": 8.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 37,
   "pcs_points_2025": 55
@@ -1098,7 +1075,7 @@
    "one_day": 97,
    "hills": 266
   },
-  "form_2026": 7.7,
+  "form_2026": 6.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 25,
   "pcs_points_2025": 46
@@ -1282,7 +1259,7 @@
    "one_day": 541,
    "hills": 384
   },
-  "form_2026": 30.6,
+  "form_2026": 29.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 92,
   "pcs_points_2025": 166
@@ -1328,7 +1305,7 @@
    "one_day": 1277,
    "hills": 928
   },
-  "form_2026": 115.4,
+  "form_2026": 114.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 460,
   "pcs_points_2025": 1414
@@ -1397,7 +1374,7 @@
    "one_day": 2060,
    "hills": 1716
   },
-  "form_2026": 134.8,
+  "form_2026": 133.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 623,
   "pcs_points_2025": 1105
@@ -1420,7 +1397,7 @@
    "one_day": 851,
    "hills": 840
   },
-  "form_2026": 53.4,
+  "form_2026": 52.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 175,
   "pcs_points_2025": 512
@@ -1443,7 +1420,7 @@
    "one_day": 3072,
    "hills": 1346
   },
-  "form_2026": 14.8,
+  "form_2026": 13.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 53,
   "pcs_points_2025": 547
@@ -1608,29 +1585,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 202,
   "pcs_points_2025": 58
- },
- {
-  "tm_id": "260e12f5-529c-42d4-b0b5-a05c3eec1a5e",
-  "name": "Cian Uijtdebroeks",
-  "position": "CAPTAIN",
-  "price": 8300000,
-  "team": "Movistar Team",
-  "team_code": "MOV",
-  "is_available": true,
-  "pcs_url": "rider/cian-uijtdebroeks",
-  "age": 23,
-  "speciality": {
-   "climber": 1308,
-   "gc": 1402,
-   "sprint": 0,
-   "time_trial": 88,
-   "one_day": 258,
-   "hills": 272
-  },
-  "form_2026": 84.4,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 339,
-  "pcs_points_2025": 600
  },
  {
   "tm_id": "6a17cdb2-0e8e-4315-9b3a-e3ba1e797f98",
@@ -1811,7 +1765,7 @@
    "one_day": 1836,
    "hills": 2252
   },
-  "form_2026": 113.9,
+  "form_2026": 112.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 534,
   "pcs_points_2025": 689
@@ -1880,7 +1834,7 @@
    "one_day": 171,
    "hills": 30
   },
-  "form_2026": 23.4,
+  "form_2026": 21.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 106,
   "pcs_points_2025": 355
@@ -1903,7 +1857,7 @@
    "one_day": 824,
    "hills": 1155
   },
-  "form_2026": 127.5,
+  "form_2026": 125.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 473,
   "pcs_points_2025": 1331
@@ -2087,7 +2041,7 @@
    "one_day": 974,
    "hills": 700
   },
-  "form_2026": 84.3,
+  "form_2026": 77.1,
   "giro_2026_stages": 0,
   "pcs_points_2026": 351,
   "pcs_points_2025": 535
@@ -2133,7 +2087,7 @@
    "one_day": 1166,
    "hills": 635
   },
-  "form_2026": 10.2,
+  "form_2026": 8.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 49,
   "pcs_points_2025": 144
@@ -2179,7 +2133,7 @@
    "one_day": 697,
    "hills": 459
   },
-  "form_2026": 36.2,
+  "form_2026": 33.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 180,
   "pcs_points_2025": 208
@@ -2248,7 +2202,7 @@
    "one_day": 1066,
    "hills": 1592
   },
-  "form_2026": 51.9,
+  "form_2026": 48.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 200,
   "pcs_points_2025": 652
@@ -2455,7 +2409,7 @@
    "one_day": 1840,
    "hills": 1255
   },
-  "form_2026": 37.5,
+  "form_2026": 37.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 144,
   "pcs_points_2025": 374
@@ -2528,29 +2482,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 260,
   "pcs_points_2025": 135
- },
- {
-  "tm_id": "c5493ab4-44fe-4af8-af00-7c45f1d41298",
-  "name": "Bert Van Lerberghe",
-  "position": "DOMESTIQUE",
-  "price": 3900000,
-  "team": "Soudal Quick-Step",
-  "team_code": "SOQ",
-  "is_available": true,
-  "pcs_url": "rider/bert-van-lerberghe",
-  "age": 33,
-  "speciality": {
-   "climber": 0,
-   "gc": 196,
-   "sprint": 864,
-   "time_trial": 48,
-   "one_day": 1224,
-   "hills": 140
-  },
-  "form_2026": 5.4,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 24,
-  "pcs_points_2025": 45
  },
  {
   "tm_id": "d0f767f1-3f8b-41e8-bdbb-bd578fcc813e",
@@ -2869,7 +2800,7 @@
    "one_day": 3743,
    "hills": 2017
   },
-  "form_2026": 30.3,
+  "form_2026": 28.8,
   "giro_2026_stages": 16,
   "pcs_points_2026": 172,
   "pcs_points_2025": 226
@@ -3076,7 +3007,7 @@
    "one_day": 127,
    "hills": 264
   },
-  "form_2026": 27.8,
+  "form_2026": 25.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 76,
   "pcs_points_2025": 376
@@ -3122,7 +3053,7 @@
    "one_day": 177,
    "hills": 140
   },
-  "form_2026": 13.2,
+  "form_2026": 10.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 48,
   "pcs_points_2025": 178
@@ -3168,7 +3099,7 @@
    "one_day": 1117,
    "hills": 1490
   },
-  "form_2026": 141.8,
+  "form_2026": 139.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 590,
   "pcs_points_2025": 1127
@@ -3182,7 +3113,7 @@
   "team_code": "TVL",
   "is_available": true,
   "pcs_url": "rider/per-strand-hagenes",
-  "age": 22,
+  "age": 23,
   "speciality": {
    "climber": 64,
    "gc": 389,
@@ -3191,7 +3122,7 @@
    "one_day": 684,
    "hills": 348
   },
-  "form_2026": 70.6,
+  "form_2026": 65.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 336,
   "pcs_points_2025": 112
@@ -3425,29 +3356,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 10,
   "pcs_points_2025": 134
- },
- {
-  "tm_id": "f7cb8ffa-5bd1-4798-b002-04707c9a19aa",
-  "name": "Arvid De Kleijn",
-  "position": "SPRINTER",
-  "price": 7400000,
-  "team": "Tudor Pro Cycling Team",
-  "team_code": "TUD",
-  "is_available": true,
-  "pcs_url": "rider/arvid-de-kleijn",
-  "age": 32,
-  "speciality": {
-   "climber": 0,
-   "gc": 106,
-   "sprint": 3133,
-   "time_trial": 4,
-   "one_day": 1344,
-   "hills": 277
-  },
-  "form_2026": 27.6,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 92,
-  "pcs_points_2025": 150
  },
  {
   "tm_id": "0262c2d3-cadb-4e1b-8669-8336e3329ae4",
@@ -4019,7 +3927,7 @@
    "one_day": 1835,
    "hills": 1698
   },
-  "form_2026": 42.2,
+  "form_2026": 41.0,
   "giro_2026_stages": 11,
   "pcs_points_2026": 196,
   "pcs_points_2025": 408
