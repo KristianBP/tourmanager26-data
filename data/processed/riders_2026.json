@@ -261,7 +261,7 @@
   "team_code": "TBV",
   "is_available": true,
   "pcs_url": "rider/lenny-martinez",
-  "age": 22,
+  "age": 23,
   "speciality": {
    "climber": 2086,
    "gc": 1467,
@@ -1397,7 +1397,7 @@
    "one_day": 851,
    "hills": 840
   },
-  "form_2026": 52.5,
+  "form_2026": 46.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 175,
   "pcs_points_2025": 512
@@ -1512,7 +1512,7 @@
    "one_day": 783,
    "hills": 632
   },
-  "form_2026": 95.1,
+  "form_2026": 89.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 376,
   "pcs_points_2025": 361
@@ -1535,7 +1535,7 @@
    "one_day": 50,
    "hills": 119
   },
-  "form_2026": 13.9,
+  "form_2026": 13.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 56,
   "pcs_points_2025": 74
@@ -1719,7 +1719,7 @@
    "one_day": 72,
    "hills": 286
   },
-  "form_2026": 49.7,
+  "form_2026": 49.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 144,
   "pcs_points_2025": 415
@@ -1742,7 +1742,7 @@
    "one_day": 110,
    "hills": 410
   },
-  "form_2026": 44.8,
+  "form_2026": 43.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 186,
   "pcs_points_2025": 276
@@ -2064,7 +2064,7 @@
    "one_day": 121,
    "hills": 334
   },
-  "form_2026": 22.5,
+  "form_2026": 21.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 90,
   "pcs_points_2025": 424
@@ -3191,7 +3191,7 @@
    "one_day": 821,
    "hills": 694
   },
-  "form_2026": 56.5,
+  "form_2026": 53.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 253,
   "pcs_points_2025": 578
@@ -3237,7 +3237,7 @@
    "one_day": 557,
    "hills": 590
   },
-  "form_2026": 49.4,
+  "form_2026": 48.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 241,
   "pcs_points_2025": 634
@@ -3260,7 +3260,7 @@
    "one_day": 212,
    "hills": 180
   },
-  "form_2026": 26.3,
+  "form_2026": 25.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 90,
   "pcs_points_2025": 314
@@ -3306,7 +3306,7 @@
    "one_day": 313,
    "hills": 364
   },
-  "form_2026": 39.7,
+  "form_2026": 37.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 163,
   "pcs_points_2025": 233
@@ -3490,7 +3490,7 @@
    "one_day": 643,
    "hills": 558
   },
-  "form_2026": 43.5,
+  "form_2026": 37.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 174,
   "pcs_points_2025": 345
@@ -3789,7 +3789,7 @@
    "one_day": 1275,
    "hills": 633
   },
-  "form_2026": 58.4,
+  "form_2026": 56.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 267,
   "pcs_points_2025": 582
@@ -3864,29 +3864,6 @@
   "pcs_points_2025": 737
  },
  {
-  "tm_id": "0efd52ab-0349-43e7-a5a1-87926e1a5b4b",
-  "name": "Torstein Træen",
-  "position": "CLIMBER",
-  "price": 5600000,
-  "team": "Uno-X Mobility",
-  "team_code": "UXM",
-  "is_available": true,
-  "pcs_url": "rider/torstein-traeen",
-  "age": 30,
-  "speciality": {
-   "climber": 665,
-   "gc": 959,
-   "sprint": 49,
-   "time_trial": 17,
-   "one_day": 127,
-   "hills": 192
-  },
-  "form_2026": 13.0,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 46,
-  "pcs_points_2025": 328
- },
- {
   "tm_id": "7ece8e2c-3ff3-4f96-8439-9428ff5d9afb",
   "name": "Aaron Gate",
   "position": "DOMESTIQUE",
@@ -3904,7 +3881,7 @@
    "one_day": 605,
    "hills": 909
   },
-  "form_2026": 20.2,
+  "form_2026": 19.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 110,
   "pcs_points_2025": 629
