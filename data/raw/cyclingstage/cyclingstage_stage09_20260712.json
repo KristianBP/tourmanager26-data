@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 9,
+ "fetched": "2026-07-12",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-9-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Mathieu van der Poel",
@@ -57,5 +60,6 @@
    "name": "Clément Braz Afonso",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }

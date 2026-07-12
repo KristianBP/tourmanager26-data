@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-11T07:00:56.688112+00:00",
+ "generated_utc": "2026-07-12T01:13:51.787422+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-8"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-9"
  ],
- "active_stage": 8,
- "stage_type": "FLAT",
- "route": "Périgueux -> Bergerac",
- "deadline_utc": "2026-07-11T11:15:00.000Z",
+ "active_stage": 9,
+ "stage_type": "HILLY",
+ "route": "Malemort -> Ussel",
+ "deadline_utc": "2026-07-12T11:45:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,18 +16,14 @@
  },
  "blocks": {
   "A": [
-   8,
-   8
-  ],
-  "B": [
    9,
    13
   ],
-  "C": [
+  "B": [
    14,
    15
   ],
-  "D": [
+  "C": [
    16,
    21
   ]
@@ -35,58 +31,52 @@
  "locked_in_form_today": [
   "Isaac del Toro",
   "Jonas Vingegaard",
-  "Tadej Pogačar"
+  "Tadej Pogačar",
+  "Tim Merlier"
  ],
  "noted_form": [
   "Baptiste Veistroffer",
   "Jasper Philipsen",
   "Mathias Vacek",
-  "Mattias Skjelmose",
-  "Tim Merlier"
+  "Mattias Skjelmose"
  ],
  "today": {
   "transfers_in": [
-   "Adam Yates",
-   "John Degenkolb"
+   "Mathieu van der Poel"
   ],
   "transfers_out": [
-   "Baptiste Veistroffer",
-   "Mattias Skjelmose"
+   "Baptiste Veistroffer"
   ],
-  "sd": "Alpecin - Premier Tech",
-  "sd_change": false,
+  "sd": "Caja Rural - Seguros RGA",
+  "sd_change": true,
   "team_after": [
-   "Adam Yates",
    "Ion Izagirre",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
-   "John Degenkolb",
    "Jonas Vingegaard",
    "Luke Durbridge",
    "Mathias Vacek",
+   "Mathieu van der Poel",
+   "Mattias Skjelmose",
    "Silvan Dillier",
    "Tadej Pogačar",
    "Tim Merlier"
   ],
-  "cost": 99700000
+  "cost": 99300000
  },
- "plan_E": 13720.6,
- "hold_E": 10775.1,
- "delta_vs_hold": 2945.5,
+ "plan_E": 12721.5,
+ "hold_E": 9955.8,
+ "delta_vs_hold": 2765.7,
  "future_waves": {
   "B": [
-   "Mathieu van der Poel",
-   "Sebastian Berwick"
-  ],
-  "C": [
    "Anthony Turgis",
    "Lenny Martínez",
-   "Mattias Skjelmose",
-   "Remco Evenepoel",
    "SD:UAE Team Emirates - XRG"
   ],
-  "D": [
+  "C": [
+   "Kasper Asgreen",
+   "Remco Evenepoel",
    "Thymen Arensman"
   ]
  },

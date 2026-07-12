@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "ff852359-409f-4b5f-80b2-3445117dee59",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 9",
+  "number": 9,
+  "startsAt": "2026-07-12T11:45:00.000Z",
+  "endsAt": "2026-07-12T20:00:00.000Z",
+  "deadlineAt": "2026-07-12T11:45:00.000Z",
+  "stageType": "HILLY",
+  "startCity": "Malemort",
+  "finishCity": "Ussel",
+  "distanceKm": 185,
+  "createdAt": "2026-06-05T21:52:15.750Z",
+  "updatedAt": "2026-07-11T12:00:00.085Z"
+ },
+ "effectiveDeadline": "2026-07-12T11:45:00.000Z",
+ "configuredDeadline": "2026-07-12T11:45:00.000Z",
+ "secondsRemaining": 37867,
+ "isLocked": false,
+ "serverNow": "2026-07-12T01:13:52.484Z"
+}

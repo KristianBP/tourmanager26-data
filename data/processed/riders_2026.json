@@ -224,7 +224,7 @@
    "one_day": 855,
    "hills": 1820
   },
-  "form_2026": 68.8,
+  "form_2026": 68.6,
   "giro_2026_stages": 21,
   "pcs_points_2026": 273,
   "pcs_points_2025": 407
@@ -316,7 +316,7 @@
    "one_day": 1072,
    "hills": 1702
   },
-  "form_2026": 22.9,
+  "form_2026": 20.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 107,
   "pcs_points_2025": 395
@@ -997,7 +997,7 @@
   "team_code": "EFE",
   "is_available": true,
   "pcs_url": "rider/max-walker",
-  "age": 24,
+  "age": 25,
   "speciality": {
    "climber": 8,
    "gc": 123,
@@ -1029,7 +1029,7 @@
    "one_day": 3084,
    "hills": 2032
   },
-  "form_2026": 71.4,
+  "form_2026": 70.7,
   "giro_2026_stages": 19,
   "pcs_points_2026": 313,
   "pcs_points_2025": 119
@@ -1558,7 +1558,7 @@
    "one_day": 639,
    "hills": 560
   },
-  "form_2026": 44.5,
+  "form_2026": 43.1,
   "giro_2026_stages": 12,
   "pcs_points_2026": 209,
   "pcs_points_2025": 355
@@ -1765,7 +1765,7 @@
    "one_day": 1836,
    "hills": 2252
   },
-  "form_2026": 112.0,
+  "form_2026": 111.1,
   "giro_2026_stages": 0,
   "pcs_points_2026": 534,
   "pcs_points_2025": 689
@@ -2340,7 +2340,7 @@
    "one_day": 535,
    "hills": 921
   },
-  "form_2026": 122.6,
+  "form_2026": 122.3,
   "giro_2026_stages": 21,
   "pcs_points_2026": 492,
   "pcs_points_2025": 714
@@ -3444,7 +3444,7 @@
    "one_day": 5956,
    "hills": 4472
   },
-  "form_2026": 49.9,
+  "form_2026": 49.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 296,
   "pcs_points_2025": 512

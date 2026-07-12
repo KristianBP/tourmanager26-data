@@ -1,114 +1,120 @@
 {
  "Alpecin - Premier Tech": {
-  "stage": 7,
-  "points": 20,
+  "stage": 8,
+  "points": 40,
   "notes": [
-   "Lagets beste: 5. på etappen → 20p (SD, ganges ikke)"
+   "Lagets beste: 4. på etappen → 40p (SD, ganges ikke)"
   ]
  },
  "Jasper Philipsen": {
-  "stage": 7,
-  "points": 100,
+  "stage": 8,
+  "points": 128,
   "notes": [
-   "Målgang 5. plass: 40p",
-   "Spurt: Landiras 6.: 10p"
+   "Målgang 4. plass: 50p",
+   "Spurt: Saint-Cyprien 4.: 14p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 7,
+  "stage": 8,
   "points": 4,
+  "notes": [
+   "Målgang 167. plass: 1p"
+  ]
+ },
+ "Jakub Otruba": {
+  "stage": 8,
+  "points": 78,
+  "notes": [
+   "Målgang 160. plass: 1p",
+   "Spurt: Saint-Cyprien 1.: 25p"
+  ]
+ },
+ "Ion Izagirre": {
+  "stage": 8,
+  "points": 3,
   "notes": [
    "Målgang 150. plass: 1p"
   ]
  },
- "Jakub Otruba": {
-  "stage": 7,
-  "points": 63,
-  "notes": [
-   "Målgang 173. plass: 1p",
-   "Spurt: Landiras 2.: 20p"
-  ]
- },
- "Ion Izagirre": {
-  "stage": 7,
-  "points": 3,
-  "notes": [
-   "Målgang 163. plass: 1p"
-  ]
- },
  "Mathias Vacek": {
-  "stage": 7,
-  "points": 12,
-  "notes": [
-   "Målgang 35. plass: 3p"
-  ]
- },
- "Mattias Skjelmose": {
-  "stage": 7,
-  "points": 6,
+  "stage": 8,
+  "points": 8,
   "notes": [
    "Målgang 63. plass: 2p"
   ]
  },
- "Baptiste Veistroffer": {
-  "stage": 7,
-  "points": 216,
+ "Mattias Skjelmose": {
+  "stage": 8,
+  "points": 6,
   "notes": [
-   "Målgang 126. plass: 1p",
-   "Spurt: Landiras 1.: 25p",
-   "Côte de Béguey (K4) 1.: 3p",
-   "Mest offensive rytter (×4): 100p"
+   "Målgang 58. plass: 2p"
+  ]
+ },
+ "Baptiste Veistroffer": {
+  "stage": 8,
+  "points": 4,
+  "notes": [
+   "Målgang 127. plass: 1p"
   ]
  },
  "Tim Merlier": {
-  "stage": 7,
+  "stage": 8,
   "points": 218,
   "notes": [
    "Målgang 1. plass: 100p",
-   "Spurt: Landiras 7.: 9p"
+   "Spurt: Saint-Cyprien 7.: 9p"
   ]
  },
  "Luke Durbridge": {
-  "stage": 7,
+  "stage": 8,
   "points": 4,
   "notes": [
-   "Målgang 153. plass: 1p"
+   "Målgang 123. plass: 1p"
   ]
  },
  "Jonas Vingegaard": {
-  "stage": 7,
+  "stage": 8,
   "points": 4,
   "notes": [
-   "Målgang 59. plass: 2p"
+   "Målgang 51. plass: 2p"
   ]
  },
  "Isaac del Toro": {
-  "stage": 7,
-  "points": 8,
+  "stage": 8,
+  "points": 12,
   "notes": [
-   "Målgang 57. plass: 2p"
+   "Målgang 46. plass: 3p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 7,
-  "points": 4,
+  "stage": 8,
+  "points": 6,
   "notes": [
-   "Målgang 56. plass: 2p"
+   "Målgang 49. plass: 3p"
   ]
  },
  "Mads Pedersen": {
-  "stage": 7,
-  "points": 80,
+  "stage": 8,
+  "points": 50,
   "notes": [
-   "Målgang 9. plass: 24p",
-   "Spurt: Landiras 3.: 16p"
+   "Målgang 12. plass: 15p",
+   "Spurt: Saint-Cyprien 6.: 10p"
   ]
  },
  "Quinn Simmons": {
-  "stage": 7,
-  "points": 4,
+  "stage": 8,
+  "points": 12,
   "notes": [
-   "Målgang 140. plass: 1p"
+   "Målgang 112. plass: 1p",
+   "Spurt: Saint-Cyprien 14.: 2p"
+  ]
+ },
+ "Biniam Girmay": {
+  "stage": 8,
+  "points": 176,
+  "notes": [
+   "Målgang 2. plass: 80p",
+   "Spurt: Saint-Cyprien 8.: 8p"
   ]
  },
  "UAE Team Emirates - XRG": {
@@ -119,17 +125,25 @@
   ]
  },
  "Alex Baudin": {
-  "stage": 7,
+  "stage": 8,
   "points": 4,
   "notes": [
    "Målgang 141. plass: 1p"
   ]
  },
  "Lenny Martínez": {
-  "stage": 7,
+  "stage": 8,
   "points": 8,
   "notes": [
-   "Målgang 90. plass: 2p"
+   "Målgang 62. plass: 2p"
+  ]
+ },
+ "Max Kanter": {
+  "stage": 8,
+  "points": 72,
+  "notes": [
+   "Målgang 9. plass: 24p",
+   "Spurt: Saint-Cyprien 5.: 12p"
   ]
  },
  "Team Visma | Lease a Bike": {
@@ -137,20 +151,6 @@
   "points": 100,
   "notes": [
    "Lagets beste: 2. på etappen → 100p (SD, ganges ikke)"
-  ]
- },
- "Paul Seixas": {
-  "stage": 7,
-  "points": 6,
-  "notes": [
-   "Målgang 41. plass: 3p"
-  ]
- },
- "Florian Lipowitz": {
-  "stage": 7,
-  "points": 9,
-  "notes": [
-   "Målgang 48. plass: 3p"
   ]
  }
 }
