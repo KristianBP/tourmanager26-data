@@ -1,0 +1,245 @@
+{
+ "after_stage": 9,
+ "standings": [
+  {
+   "rank": 1,
+   "name": "Pogačar Tadej",
+   "gap_sec": 0,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 2,
+   "name": "Vingegaard Jonas",
+   "gap_sec": 162,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 3,
+   "name": "del Toro Isaac",
+   "gap_sec": 207,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 4,
+   "name": "Evenepoel Remco",
+   "gap_sec": 210,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 5,
+   "name": "Ayuso Juan",
+   "gap_sec": 214,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 6,
+   "name": "Seixas Paul",
+   "gap_sec": 235,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 7,
+   "name": "Lipowitz Florian",
+   "gap_sec": 240,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 8,
+   "name": "Skjelmose Mattias",
+   "gap_sec": 261,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 9,
+   "name": "Martinez Lenny",
+   "gap_sec": 297,
+   "break_freedom": "bundet"
+  },
+  {
+   "rank": 10,
+   "name": "Bernal Egan",
+   "gap_sec": 552,
+   "break_freedom": "delvis"
+  },
+  {
+   "rank": 11,
+   "name": "Johannessen Tobias Halland",
+   "gap_sec": 570,
+   "break_freedom": "delvis"
+  },
+  {
+   "rank": 12,
+   "name": "Quinn Sean",
+   "gap_sec": 575,
+   "break_freedom": "delvis"
+  },
+  {
+   "rank": 13,
+   "name": "Pidcock Tom",
+   "gap_sec": 580,
+   "break_freedom": "delvis"
+  },
+  {
+   "rank": 14,
+   "name": "Van Wilder Ilan",
+   "gap_sec": 585,
+   "break_freedom": "delvis"
+  },
+  {
+   "rank": 15,
+   "name": "Piganzoli Davide",
+   "gap_sec": 646,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 16,
+   "name": "Van Eetvelt Lennert",
+   "gap_sec": 651,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 17,
+   "name": "Jegat Jordan",
+   "gap_sec": 656,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 18,
+   "name": "Voisard Yannis",
+   "gap_sec": 741,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 19,
+   "name": "Kuss Sepp",
+   "gap_sec": 795,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 20,
+   "name": "Debruyne Ramses",
+   "gap_sec": 813,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 21,
+   "name": "Castrillo Pablo",
+   "gap_sec": 817,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 22,
+   "name": "Yates Adam",
+   "gap_sec": 871,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 23,
+   "name": "Carapaz Richard",
+   "gap_sec": 924,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 24,
+   "name": "Vacek Mathias",
+   "gap_sec": 1018,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 25,
+   "name": "McNulty Brandon",
+   "gap_sec": 1122,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 26,
+   "name": "Tejada Harold",
+   "gap_sec": 1374,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 27,
+   "name": "Benoot Tiesj",
+   "gap_sec": 1577,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 28,
+   "name": "Jorgenson Matteo",
+   "gap_sec": 1974,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 29,
+   "name": "Prodhomme Nicolas",
+   "gap_sec": 2126,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 30,
+   "name": "Arensman Thymen",
+   "gap_sec": 2232,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 31,
+   "name": "Verona Carlos",
+   "gap_sec": 2393,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 32,
+   "name": "Izagirre Ion",
+   "gap_sec": 2445,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 33,
+   "name": "Vauquelin Kévin",
+   "gap_sec": 2457,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 34,
+   "name": "Martin Guillaume",
+   "gap_sec": 2470,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 35,
+   "name": "Harper Chris",
+   "gap_sec": 2551,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 36,
+   "name": "Baudin Alex",
+   "gap_sec": 2617,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 37,
+   "name": "Tiberi Antonio",
+   "gap_sec": 2661,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 38,
+   "name": "Großschartner Felix",
+   "gap_sec": 2669,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 39,
+   "name": "Hindley Jai",
+   "gap_sec": 2669,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 40,
+   "name": "Higuita Sergio",
+   "gap_sec": 2744,
+   "break_freedom": "fri"
+  }
+ ]
+}
