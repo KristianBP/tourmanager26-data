@@ -82,31 +82,45 @@ def main():
             import html as htmllib
             url = (f"https://www.cyclingoracle.com/nl/blog/"
                    f"tour-de-france-2026-voorspelling-etappe-{n}")
-            try:
-                raw = get(url).decode("utf-8", "replace")
-            except Exception:
-                # Cloudflare blokkerer ofte datasenter-IP-er -> cloudscraper
-                import cloudscraper
-                raw = cloudscraper.create_scraper().get(url, timeout=30).text
-            unescaped = htmllib.unescape(htmllib.unescape(raw))
-            preds = []
-            m = re.search(r'"predictions":\[(.*?)\]', unescaped, re.S)
-            if m:
-                for obj in re.finditer(r'\{[^{}]*\}', m.group(1)):
-                    try:
-                        d = json.loads(obj.group(0).replace("\\/", "/"))
-                        preds.append({"name": d.get("col1") or d.get("searchQuery"),
-                                      "win_pct": float(str(d.get("winPercentage", "0")).replace(",", "."))})
-                    except (ValueError, KeyError):
-                        pass
-            text = strip_tags(raw)
-            payload = json.dumps({"stage": n, "source": "cyclingoracle.com (WielerOrakel)",
-                                  "predictions_xw": preds,
-                                  "raw_text": text[:6000]}, ensure_ascii=False, indent=1)
-            (OUT / "oracle.json").write_text(payload)
-            (HIST / f"oracle_stage{n:02d}.json").write_text(payload)
-            if not preds:
-                status["errors"].append("oracle: xW-tabell ikke funnet (kun prosa lagret)")
+            # Cloudflare blokkerer datasenter-IP-er -> cloudscraper med retry.
+            raw, last_err = None, None
+            import cloudscraper
+            for attempt in range(4):
+                try:
+                    scraper = cloudscraper.create_scraper(
+                        browser={"browser": "chrome", "platform": "windows", "mobile": False})
+                    resp = scraper.get(url, timeout=40)
+                    if resp.status_code == 200 and "winPercentage" in resp.text:
+                        raw = resp.text
+                        break
+                    last_err = f"status {resp.status_code}"
+                except Exception as e:
+                    last_err = str(e)
+                time.sleep(3 * (attempt + 1))
+            if raw is None:
+                try:
+                    raw = get(url).decode("utf-8", "replace")
+                except Exception as e:
+                    last_err = str(e)
+            if raw and "winPercentage" in raw:
+                u = htmllib.unescape(htmllib.unescape(raw))
+                # les winPercentage-oppføringene direkte (robust mot wrapper-endring)
+                preds = []
+                for m in re.finditer(r'"col1":"([^"]+)"[^}]*?"winPercentage":"([0-9,\.]+)"', u):
+                    preds.append({"name": m.group(1), "win_pct": float(m.group(2).replace(",", "."))})
+                if not preds:
+                    for m in re.finditer(r'"winPercentage":"([0-9,\.]+)"[^}]*?"searchQuery":"([^"]+)"', u):
+                        preds.append({"name": m.group(2), "win_pct": float(m.group(1).replace(",", "."))})
+                preds.sort(key=lambda x: -x["win_pct"])
+                payload = json.dumps({"stage": n, "source": "cyclingoracle.com (WielerOrakel)",
+                                      "fetched": today, "predictions_xw": preds,
+                                      "raw_text": strip_tags(raw)[:6000]}, ensure_ascii=False, indent=1)
+                (OUT / "oracle.json").write_text(payload)
+                (HIST / f"oracle_stage{n:02d}.json").write_text(payload)
+                if not preds:
+                    status["errors"].append("oracle: hentet, men xW ikke parset")
+            else:
+                status["errors"].append(f"oracle et.{n}: ikke tilgjengelig ({last_err}) — beholder forrige oracle.json")
         except Exception as e:
             status["errors"].append(f"oracle: {e}")
 
