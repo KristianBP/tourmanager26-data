@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-13T05:50:03.077032+00:00",
+ "generated_utc": "2026-07-13T07:56:40.876418+00:00",
  "errors": [
   "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-10"
  ],
  "active_stage": 10,
  "stage_type": "MOUNTAIN",
  "route": "Aurillac -> Le Lioran",
- "deadline_utc": "2026-07-14T11:25:00.000Z",
+ "deadline_utc": "2026-07-14T11:15:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
