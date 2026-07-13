@@ -1,0 +1,153 @@
+{
+ "fetched": "20260713",
+ "kom": [
+  {
+   "name": "Richard Carapaz",
+   "pct": 19.59
+  },
+  {
+   "name": "Tadej Pogacar",
+   "pct": 19.19
+  },
+  {
+   "name": "Lenny Martinez",
+   "pct": 12.23
+  },
+  {
+   "name": "Jonas Vingegaard",
+   "pct": 6.15
+  },
+  {
+   "name": "Ben O Connor",
+   "pct": 5.47
+  },
+  {
+   "name": "Thymen Arensman",
+   "pct": 5.2
+  },
+  {
+   "name": "Michael Storer",
+   "pct": 4.42
+  },
+  {
+   "name": "Einer Rubio",
+   "pct": 3.8
+  },
+  {
+   "name": "Damiano Caruso",
+   "pct": 3.38
+  },
+  {
+   "name": "Harold Tejada",
+   "pct": 3.18
+  },
+  {
+   "name": "Tom Pidcock",
+   "pct": 2.91
+  },
+  {
+   "name": "Egan Bernal",
+   "pct": 2.63
+  }
+ ],
+ "gc": [
+  {
+   "name": "Tadej Pogacar",
+   "pct": 67.15
+  },
+  {
+   "name": "Jonas Vingegaard",
+   "pct": 17.68
+  },
+  {
+   "name": "Isaac del Toro",
+   "pct": 6.61
+  },
+  {
+   "name": "Paul Seixas",
+   "pct": 4.66
+  },
+  {
+   "name": "Florian Lipowitz",
+   "pct": 2.02
+  },
+  {
+   "name": "Remco Evenepoel",
+   "pct": 0.83
+  },
+  {
+   "name": "Juan Ayuso",
+   "pct": 0.6
+  },
+  {
+   "name": "Kévin Vauquelin",
+   "pct": 0.12
+  },
+  {
+   "name": "Tobias Halland Johannessen",
+   "pct": 0.09
+  },
+  {
+   "name": "Tom Pidcock",
+   "pct": 0.07
+  },
+  {
+   "name": "Matteo Jorgenson",
+   "pct": 0.06
+  },
+  {
+   "name": "Mattias Skjelmose",
+   "pct": 0.05
+  }
+ ],
+ "points": [
+  {
+   "name": "Jasper Philipsen",
+   "pct": 31.03
+  },
+  {
+   "name": "Mads Pedersen",
+   "pct": 22.52
+  },
+  {
+   "name": "Tim Merlier",
+   "pct": 11.94
+  },
+  {
+   "name": "Biniam Girmay",
+   "pct": 9.84
+  },
+  {
+   "name": "Olav Kooij",
+   "pct": 8.26
+  },
+  {
+   "name": "Søren Wærenskjold",
+   "pct": 6.32
+  },
+  {
+   "name": "Arnaud De Lie",
+   "pct": 4.48
+  },
+  {
+   "name": "Pavel Bittner",
+   "pct": 4.37
+  },
+  {
+   "name": "Anthony Turgis",
+   "pct": 0.48
+  },
+  {
+   "name": "Dorian Godon",
+   "pct": 0.27
+  },
+  {
+   "name": "Jasper Stuyven",
+   "pct": 0.19
+  },
+  {
+   "name": "Mike Teunissen",
+   "pct": 0.15
+  }
+ ]
+}
