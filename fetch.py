@@ -182,6 +182,32 @@ def main():
     except Exception as e:
         status["errors"].append(f"gc: {e}")
 
+    # Nyheter/intervjuer siste 2 dager (Google News RSS) — fanger ambisjons-
+    # uttalelser (hvem jager hva), DNF/skader og bruddsignaler som ingen
+    # struktur-kilde har. Briefen (har LLM) leser overskrifter+snippet og
+    # trekker ut det relevante for laget/kandidatene.
+    try:
+        import urllib.parse
+        from xml.etree import ElementTree as ET
+        q = ("Tour de France 2026 (breakaway OR climber OR sprint OR jersey OR "
+             "interview OR withdrawal OR abandons OR Martinez OR Paret-Peintre OR "
+             "Healy OR Quinn OR Vacek OR Philipsen OR Merlier)")
+        rss = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q)
+               + "+when:2d&hl=en-US&gl=US&ceid=US:en")
+        req = urllib.request.Request(rss, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=25) as r:
+            root = ET.fromstring(r.read())
+        news = []
+        for it in root.findall(".//item")[:40]:
+            title = (it.findtext("title") or "").strip()
+            desc = re.sub(r"<[^>]+>", " ", it.findtext("description") or "")
+            news.append({"title": title, "date": (it.findtext("pubDate") or "")[:16],
+                         "snippet": desc.strip()[:200]})
+        (OUT / "news.json").write_text(json.dumps(
+            {"fetched": today, "items": news}, ensure_ascii=False, indent=1))
+    except Exception as e:
+        status["errors"].append(f"news: {e}")
+
     # per-rytter-breakdowns med klartekst-noter ("Spurt: X 1.: 25p", "Mest
     # offensive rytter (x4): 100p") for lagets ryttere + spillets topp 15 —
     # gir briefen ekte narrativ (brudd, mellomsprinter, bonuser).
