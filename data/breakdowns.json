@@ -1,120 +1,140 @@
 {
  "Alpecin - Premier Tech": {
-  "stage": 8,
-  "points": 40,
+  "stage": 9,
+  "points": 160,
   "notes": [
-   "Lagets beste: 4. på etappen → 40p (SD, ganges ikke)"
+   "Lagets beste: 1. på etappen → 160p (SD, ganges ikke)"
   ]
  },
  "Jasper Philipsen": {
-  "stage": 8,
-  "points": 128,
+  "stage": 9,
+  "points": 54,
   "notes": [
-   "Målgang 4. plass: 50p",
-   "Spurt: Saint-Cyprien 4.: 14p"
+   "Målgang 164. plass: 1p",
+   "Spurt: Beynat 3.: 16p",
+   "Lagkamerat vant etappen: 10p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 8,
-  "points": 4,
+  "stage": 9,
+  "points": 44,
   "notes": [
-   "Målgang 167. plass: 1p"
+   "Målgang 140. plass: 1p",
+   "Lagkamerat vant etappen: 10p"
   ]
  },
  "Jakub Otruba": {
-  "stage": 8,
-  "points": 78,
+  "stage": 9,
+  "points": 6,
   "notes": [
-   "Målgang 160. plass: 1p",
-   "Spurt: Saint-Cyprien 1.: 25p"
+   "Målgang 96. plass: 2p"
   ]
  },
  "Ion Izagirre": {
-  "stage": 8,
-  "points": 3,
+  "stage": 9,
+  "points": 9,
   "notes": [
-   "Målgang 150. plass: 1p"
+   "Målgang 44. plass: 3p"
   ]
  },
  "Mathias Vacek": {
-  "stage": 8,
-  "points": 8,
+  "stage": 9,
+  "points": 44,
   "notes": [
-   "Målgang 63. plass: 2p"
+   "Målgang 59. plass: 2p",
+   "Spurt: Beynat 7.: 9p"
   ]
  },
  "Mattias Skjelmose": {
-  "stage": 8,
-  "points": 6,
+  "stage": 9,
+  "points": 9,
   "notes": [
-   "Målgang 58. plass: 2p"
+   "Målgang 21. plass: 3p"
   ]
  },
  "Baptiste Veistroffer": {
-  "stage": 8,
-  "points": 4,
+  "stage": 9,
+  "points": 8,
   "notes": [
-   "Målgang 127. plass: 1p"
+   "Målgang 81. plass: 2p"
   ]
  },
  "Tim Merlier": {
-  "stage": 8,
-  "points": 218,
+  "stage": 9,
+  "points": 2,
   "notes": [
-   "Målgang 1. plass: 100p",
-   "Spurt: Saint-Cyprien 7.: 9p"
+   "Målgang 160. plass: 1p"
   ]
  },
  "Luke Durbridge": {
-  "stage": 8,
-  "points": 4,
+  "stage": 9,
+  "points": 8,
   "notes": [
-   "Målgang 123. plass: 1p"
+   "Målgang 94. plass: 2p"
   ]
  },
  "Jonas Vingegaard": {
-  "stage": 8,
-  "points": 4,
+  "stage": 9,
+  "points": 8,
   "notes": [
-   "Målgang 51. plass: 2p"
+   "Målgang 19. plass: 4p"
   ]
  },
  "Isaac del Toro": {
-  "stage": 8,
-  "points": 12,
+  "stage": 9,
+  "points": 104,
   "notes": [
-   "Målgang 46. plass: 3p"
+   "Målgang 13. plass: 12p",
+   "Spurt: Beynat 4.: 14p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 8,
-  "points": 6,
+  "stage": 9,
+  "points": 48,
   "notes": [
-   "Målgang 49. plass: 3p"
+   "Målgang 11. plass: 18p",
+   "Spurt: Beynat 10.: 6p"
   ]
  },
  "Mads Pedersen": {
-  "stage": 8,
-  "points": 50,
+  "stage": 9,
+  "points": 122,
   "notes": [
-   "Målgang 12. plass: 15p",
-   "Spurt: Saint-Cyprien 6.: 10p"
+   "Målgang 6. plass: 36p",
+   "Spurt: Beynat 1.: 25p"
+  ]
+ },
+ "Alex Baudin": {
+  "stage": 9,
+  "points": 200,
+  "notes": [
+   "Målgang 4. plass: 50p"
+  ]
+ },
+ "Mathieu van der Poel": {
+  "stage": 9,
+  "points": 560,
+  "notes": [
+   "Målgang 1. plass: 100p",
+   "Spurt: Beynat 5.: 12p",
+   "Mont Bessou (K4) 1.: 3p",
+   "Mest offensive rytter (×4): 100p"
   ]
  },
  "Quinn Simmons": {
-  "stage": 8,
-  "points": 12,
+  "stage": 9,
+  "points": 48,
   "notes": [
-   "Målgang 112. plass: 1p",
-   "Spurt: Saint-Cyprien 14.: 2p"
+   "Målgang 47. plass: 3p",
+   "Suc au May (K2) 2.: 9p"
   ]
  },
  "Biniam Girmay": {
-  "stage": 8,
-  "points": 176,
+  "stage": 9,
+  "points": 42,
   "notes": [
-   "Målgang 2. plass: 80p",
-   "Spurt: Saint-Cyprien 8.: 8p"
+   "Målgang 171. plass: 1p",
+   "Spurt: Beynat 2.: 20p"
   ]
  },
  "UAE Team Emirates - XRG": {
@@ -124,33 +144,18 @@
    "Lagets beste: 1. på etappen → 160p (SD, ganges ikke)"
   ]
  },
- "Alex Baudin": {
-  "stage": 8,
-  "points": 4,
-  "notes": [
-   "Målgang 141. plass: 1p"
-  ]
- },
  "Lenny Martínez": {
-  "stage": 8,
-  "points": 8,
+  "stage": 9,
+  "points": 12,
   "notes": [
-   "Målgang 62. plass: 2p"
+   "Målgang 31. plass: 3p"
   ]
  },
  "Max Kanter": {
-  "stage": 8,
-  "points": 72,
+  "stage": 9,
+  "points": 2,
   "notes": [
-   "Målgang 9. plass: 24p",
-   "Spurt: Saint-Cyprien 5.: 12p"
-  ]
- },
- "Team Visma | Lease a Bike": {
-  "stage": 6,
-  "points": 100,
-  "notes": [
-   "Lagets beste: 2. på etappen → 100p (SD, ganges ikke)"
+   "Målgang 162. plass: 1p"
   ]
  }
 }

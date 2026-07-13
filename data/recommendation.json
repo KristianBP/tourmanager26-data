@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-12T07:18:42.552844+00:00",
+ "generated_utc": "2026-07-13T01:14:38.097364+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-9"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-10"
  ],
- "active_stage": 9,
- "stage_type": "HILLY",
- "route": "Malemort -> Ussel",
- "deadline_utc": "2026-07-12T11:45:00.000Z",
+ "active_stage": 10,
+ "stage_type": "MOUNTAIN",
+ "route": "Aurillac -> Le Lioran",
+ "deadline_utc": "2026-07-14T11:25:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   9,
+   10,
    13
   ],
   "B": [
@@ -30,48 +30,52 @@
  },
  "locked_in_form_today": [
   "Isaac del Toro",
+  "Jasper Philipsen",
   "Jonas Vingegaard",
   "Tadej Pogačar",
   "Tim Merlier"
  ],
  "noted_form": [
   "Baptiste Veistroffer",
-  "Jasper Philipsen",
   "Mathias Vacek",
   "Mattias Skjelmose"
  ],
  "today": {
   "transfers_in": [
+   "Adam Yates",
+   "Lenny Martínez",
    "Mathieu van der Poel"
   ],
   "transfers_out": [
-   "Baptiste Veistroffer"
+   "Baptiste Veistroffer",
+   "Mathias Vacek",
+   "Mattias Skjelmose"
   ],
   "sd": "Caja Rural - Seguros RGA",
   "sd_change": true,
   "team_after": [
+   "Adam Yates",
    "Ion Izagirre",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
    "Jonas Vingegaard",
+   "Lenny Martínez",
    "Luke Durbridge",
-   "Mathias Vacek",
    "Mathieu van der Poel",
-   "Mattias Skjelmose",
    "Silvan Dillier",
    "Tadej Pogačar",
    "Tim Merlier"
   ],
-  "cost": 99300000
+  "cost": 99400000
  },
- "plan_E": 12721.5,
- "hold_E": 9955.8,
- "delta_vs_hold": 2765.7,
+ "plan_E": 11696.5,
+ "hold_E": 9316.7,
+ "delta_vs_hold": 2379.8,
  "future_waves": {
   "B": [
    "Anthony Turgis",
-   "Lenny Martínez",
+   "Mattias Skjelmose",
    "SD:UAE Team Emirates - XRG"
   ],
   "C": [
@@ -80,5 +84,5 @@
    "Thymen Arensman"
   ]
  },
- "transfers_needed_today": 2
+ "transfers_needed_today": 4
 }
