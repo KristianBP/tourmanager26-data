@@ -124,6 +124,36 @@ def main():
         except Exception as e:
             status["errors"].append(f"oracle: {e}")
 
+        # WielerOrakel klassement-prediksjoner (klatretrøye/sammenlagt/poeng).
+        # Oppdateres sjelden -> hentes daglig men feiler stille (beholder forrige).
+        try:
+            import cloudscraper
+            sc = cloudscraper.create_scraper(
+                browser={"browser": "chrome", "platform": "windows", "mobile": False})
+            classifications = {}
+            for key, slug in [("kom", "voorspelling-berg-klassement"),
+                              ("gc", "voorspelling-algemeen-klassement"),
+                              ("points", "voorspelling-punten-klassement")]:
+                try:
+                    r = sc.get(f"https://www.cyclingoracle.com/nl/blog/"
+                               f"tour-de-france-2026-{slug}", timeout=40)
+                    if r.status_code == 200 and "winPercentage" in r.text:
+                        u = htmllib.unescape(htmllib.unescape(r.text))
+                        rows = [{"name": m.group(1).encode().decode("unicode_escape"),
+                                 "pct": float(m.group(2).replace(",", "."))}
+                                for m in re.finditer(
+                                    r'"col1":"([^"]+)"[^}]*?"winPercentage":"([0-9,\.]+)"', u)]
+                        if rows:
+                            classifications[key] = sorted(rows, key=lambda x: -x["pct"])[:12]
+                    time.sleep(2)
+                except Exception:
+                    pass
+            if classifications:
+                (OUT / "classifications.json").write_text(
+                    json.dumps({"fetched": today, **classifications}, ensure_ascii=False, indent=1))
+        except Exception as e:
+            status["errors"].append(f"classifications: {e}")
+
     # per-rytter-breakdowns med klartekst-noter ("Spurt: X 1.: 25p", "Mest
     # offensive rytter (x4): 100p") for lagets ryttere + spillets topp 15 —
     # gir briefen ekte narrativ (brudd, mellomsprinter, bonuser).
