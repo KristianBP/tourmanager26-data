@@ -154,6 +154,34 @@ def main():
         except Exception as e:
             status["errors"].append(f"classifications: {e}")
 
+    # GC-stilling + bruddfrihet-flagg. Ryttere nær GC-toppen (<~6 min) blir
+    # ofte ikke sluppet i brudd av eget lag; ryttere lenger bak er "ufarlige"
+    # og får fritt leide -> høyere bruddsannsynlighet på fjelletapper.
+    try:
+        import cloudscraper as _cs
+        from procyclingstats import Stage as _Stage
+        prev_done = (n or 2) - 1
+        gc = _Stage(f"race/tour-de-france/2026/stage-{prev_done}").gc()
+
+        def _sec(t):
+            p = [int(x) for x in t.split(":")]
+            while len(p) < 3:
+                p = [0] + p
+            return p[0] * 3600 + p[1] * 60 + p[2]
+
+        lead = _sec(gc[0]["time"])
+        rows = []
+        for r in gc[:40]:
+            gap = _sec(r["time"]) - lead
+            rows.append({"rank": r["rank"], "name": r["rider_name"],
+                         "gap_sec": gap,
+                         "break_freedom": "bundet" if gap < 360 else
+                                          "delvis" if gap < 600 else "fri"})
+        (OUT / "gc.json").write_text(json.dumps(
+            {"after_stage": prev_done, "standings": rows}, ensure_ascii=False, indent=1))
+    except Exception as e:
+        status["errors"].append(f"gc: {e}")
+
     # per-rytter-breakdowns med klartekst-noter ("Spurt: X 1.: 25p", "Mest
     # offensive rytter (x4): 100p") for lagets ryttere + spillets topp 15 —
     # gir briefen ekte narrativ (brudd, mellomsprinter, bonuser).
