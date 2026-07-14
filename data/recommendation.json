@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-13T09:25:40.416013+00:00",
+ "generated_utc": "2026-07-14T01:04:27.670401+00:00",
  "errors": [
   "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-10"
  ],
@@ -69,9 +69,9 @@
   ],
   "cost": 99400000
  },
- "plan_E": 11696.5,
- "hold_E": 9316.7,
- "delta_vs_hold": 2379.8,
+ "plan_E": 11697.0,
+ "hold_E": 9318.3,
+ "delta_vs_hold": 2378.7,
  "future_waves": {
   "B": [
    "Anthony Turgis",
