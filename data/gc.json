@@ -33,25 +33,25 @@
   },
   {
    "rank": 6,
-   "name": "Lipowitz Florian",
+   "name": "del Toro Isaac",
    "gap_sec": 284,
    "break_freedom": "bundet"
   },
   {
    "rank": 7,
-   "name": "del Toro Isaac",
+   "name": "Lipowitz Florian",
    "gap_sec": 308,
    "break_freedom": "bundet"
   },
   {
    "rank": 8,
-   "name": "Martinez Lenny",
+   "name": "Skjelmose Mattias",
    "gap_sec": 345,
    "break_freedom": "bundet"
   },
   {
    "rank": 9,
-   "name": "Skjelmose Mattias",
+   "name": "Martinez Lenny",
    "gap_sec": 394,
    "break_freedom": "delvis"
   },
@@ -87,13 +87,13 @@
   },
   {
    "rank": 15,
-   "name": "Quinn Sean",
+   "name": "Voisard Yannis",
    "gap_sec": 908,
    "break_freedom": "fri"
   },
   {
    "rank": 16,
-   "name": "Voisard Yannis",
+   "name": "Quinn Sean",
    "gap_sec": 936,
    "break_freedom": "fri"
   },
@@ -111,13 +111,13 @@
   },
   {
    "rank": 19,
-   "name": "Yates Adam",
+   "name": "Jegat Jordan",
    "gap_sec": 1076,
    "break_freedom": "fri"
   },
   {
    "rank": 20,
-   "name": "Jegat Jordan",
+   "name": "Yates Adam",
    "gap_sec": 1106,
    "break_freedom": "fri"
   },
@@ -171,13 +171,13 @@
   },
   {
    "rank": 29,
-   "name": "Tejada Harold",
+   "name": "Arensman Thymen",
    "gap_sec": 2893,
    "break_freedom": "fri"
   },
   {
    "rank": 30,
-   "name": "Arensman Thymen",
+   "name": "Tejada Harold",
    "gap_sec": 3008,
    "break_freedom": "fri"
   },
