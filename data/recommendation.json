@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-14T06:59:01.025060+00:00",
+ "generated_utc": "2026-07-15T01:00:45.938971+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-10"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-11"
  ],
- "active_stage": 10,
- "stage_type": "MOUNTAIN",
- "route": "Aurillac -> Le Lioran",
- "deadline_utc": "2026-07-14T11:15:00.000Z",
+ "active_stage": 11,
+ "stage_type": "FLAT",
+ "route": "Vichy -> Nevers",
+ "deadline_utc": "2026-07-15T12:05:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   10,
+   11,
    13
   ],
   "B": [
@@ -32,50 +32,53 @@
   "Isaac del Toro",
   "Jasper Philipsen",
   "Jonas Vingegaard",
+  "Mattias Skjelmose",
   "Tadej Pogačar",
   "Tim Merlier"
  ],
  "noted_form": [
   "Baptiste Veistroffer",
-  "Mathias Vacek",
-  "Mattias Skjelmose"
+  "Mathias Vacek"
  ],
  "today": {
   "transfers_in": [
-   "Adam Yates",
-   "Lenny Martínez",
-   "Mathieu van der Poel"
+   "Kamil Gradek",
+   "Mathieu van der Poel",
+   "Nicolas Breuillard",
+   "Pablo Castrillo"
   ],
   "transfers_out": [
    "Baptiste Veistroffer",
-   "Mathias Vacek",
-   "Mattias Skjelmose"
-  ],
-  "sd": "Caja Rural - Seguros RGA",
-  "sd_change": true,
-  "team_after": [
-   "Adam Yates",
    "Ion Izagirre",
+   "Mathias Vacek",
+   "Silvan Dillier"
+  ],
+  "sd": "Alpecin - Premier Tech",
+  "sd_change": false,
+  "team_after": [
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
    "Jonas Vingegaard",
-   "Lenny Martínez",
+   "Kamil Gradek",
    "Luke Durbridge",
    "Mathieu van der Poel",
-   "Silvan Dillier",
+   "Mattias Skjelmose",
+   "Nicolas Breuillard",
+   "Pablo Castrillo",
    "Tadej Pogačar",
    "Tim Merlier"
   ],
-  "cost": 99400000
+  "cost": 100000000
  },
- "plan_E": 11697.0,
- "hold_E": 9318.3,
- "delta_vs_hold": 2378.7,
+ "plan_E": 10865.6,
+ "hold_E": 8478.1,
+ "delta_vs_hold": 2387.5,
  "future_waves": {
   "B": [
    "Anthony Turgis",
-   "Mattias Skjelmose",
+   "Ion Izagirre",
+   "Lenny Martínez",
    "SD:UAE Team Emirates - XRG"
   ],
   "C": [

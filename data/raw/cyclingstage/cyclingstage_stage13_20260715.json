@@ -1,0 +1,69 @@
+{
+ "source": "cyclingstage",
+ "stage": 13,
+ "fetched": "2026-07-15",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-13-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Tom Pidcock",
+   "stars": 3
+  },
+  {
+   "name": "Matej Mohoric",
+   "stars": 3
+  },
+  {
+   "name": "Mathieu van der Poel",
+   "stars": 3
+  },
+  {
+   "name": "Mads Pedersen",
+   "stars": 3
+  },
+  {
+   "name": "Romain Grégoire",
+   "stars": 2
+  },
+  {
+   "name": "Filippo Ganna",
+   "stars": 2
+  },
+  {
+   "name": "Mathias Vacek",
+   "stars": 2
+  },
+  {
+   "name": "Quinn Simmons",
+   "stars": 2
+  },
+  {
+   "name": "Kévin Vauquelin",
+   "stars": 2
+  },
+  {
+   "name": "Tadej Pogacar",
+   "stars": 1
+  },
+  {
+   "name": "Magnus Cort",
+   "stars": 1
+  },
+  {
+   "name": "Michael Matthews",
+   "stars": 1
+  },
+  {
+   "name": "Pablo Castrillo",
+   "stars": 1
+  },
+  {
+   "name": "Quinten Hermans",
+   "stars": 1
+  },
+  {
+   "name": "Alex Baudin",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

@@ -1,5 +1,8 @@
 {
- "stage": 11,
+ "source": "cyclingstage",
+ "stage": 12,
+ "fetched": "2026-07-15",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-12-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Tim Merlier",
@@ -10,11 +13,11 @@
    "stars": 3
   },
   {
-   "name": "Biniam Girmay",
+   "name": "Jasper Philipsen",
    "stars": 2
   },
   {
-   "name": "Jasper Philipsen",
+   "name": "Biniam Girmay",
    "stars": 2
   },
   {
@@ -26,10 +29,6 @@
    "stars": 1
   },
   {
-   "name": "Fernando Gaviria",
-   "stars": 1
-  },
-  {
    "name": "Mads Pedersen",
    "stars": 1
   },
@@ -37,5 +36,6 @@
    "name": "Pavel Bittner",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }
