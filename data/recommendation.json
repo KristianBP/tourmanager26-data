@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-16T05:22:14.161902+00:00",
+ "generated_utc": "2026-07-16T07:11:03.223655+00:00",
  "errors": [
   "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-12"
  ],
@@ -10,9 +10,9 @@
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
-  "left": 19,
+  "left": 18,
   "reserve": 5,
-  "usable": 14
+  "usable": 13
  },
  "blocks": {
   "A": [
@@ -65,8 +65,8 @@
   "cost": 99800000
  },
  "plan_E": 10043.1,
- "hold_E": 7717.6,
- "delta_vs_hold": 2325.5,
+ "hold_E": 7490.7,
+ "delta_vs_hold": 2552.4,
  "future_waves": {
   "B": [
    "Anthony Turgis",
