@@ -661,7 +661,7 @@
    "one_day": 1590,
    "hills": 710
   },
-  "form_2026": 33.0,
+  "form_2026": 30.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 172,
   "pcs_points_2025": 323
@@ -2139,29 +2139,6 @@
   "pcs_points_2025": 208
  },
  {
-  "tm_id": "62e59c8e-1487-40fc-b1e2-539965765225",
-  "name": "Chris Harper",
-  "position": "CLIMBER",
-  "price": 6100000,
-  "team": "Pinarello Q36.5 Pro Cycling Team",
-  "team_code": "Q36",
-  "is_available": true,
-  "pcs_url": "rider/chris-harper",
-  "age": 31,
-  "speciality": {
-   "climber": 1130,
-   "gc": 1349,
-   "sprint": 168,
-   "time_trial": 318,
-   "one_day": 483,
-   "hills": 303
-  },
-  "form_2026": 74.0,
-  "giro_2026_stages": 21,
-  "pcs_points_2026": 289,
-  "pcs_points_2025": 264
- },
- {
   "tm_id": "380732a9-fc2b-43ad-8388-11d693f29bfb",
   "name": "Damien Howson",
   "position": "DOMESTIQUE",
@@ -2731,7 +2708,7 @@
    "one_day": 255,
    "hills": 458
   },
-  "form_2026": 140.8,
+  "form_2026": 139.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 530,
   "pcs_points_2025": 516

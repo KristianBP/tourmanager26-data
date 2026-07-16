@@ -1,5 +1,5 @@
 {
- "after_stage": 10,
+ "after_stage": 11,
  "standings": [
   {
    "rank": 1,
@@ -33,13 +33,13 @@
   },
   {
    "rank": 6,
-   "name": "del Toro Isaac",
+   "name": "Lipowitz Florian",
    "gap_sec": 284,
    "break_freedom": "bundet"
   },
   {
    "rank": 7,
-   "name": "Lipowitz Florian",
+   "name": "del Toro Isaac",
    "gap_sec": 308,
    "break_freedom": "bundet"
   },
@@ -51,13 +51,13 @@
   },
   {
    "rank": 9,
-   "name": "Martinez Lenny",
+   "name": "Pidcock Tom",
    "gap_sec": 394,
    "break_freedom": "delvis"
   },
   {
    "rank": 10,
-   "name": "Pidcock Tom",
+   "name": "Martinez Lenny",
    "gap_sec": 709,
    "break_freedom": "fri"
   },
@@ -87,13 +87,13 @@
   },
   {
    "rank": 15,
-   "name": "Voisard Yannis",
+   "name": "Quinn Sean",
    "gap_sec": 908,
    "break_freedom": "fri"
   },
   {
    "rank": 16,
-   "name": "Quinn Sean",
+   "name": "Voisard Yannis",
    "gap_sec": 936,
    "break_freedom": "fri"
   },
@@ -148,7 +148,7 @@
   {
    "rank": 25,
    "name": "Van Eetvelt Lennert",
-   "gap_sec": 2293,
+   "gap_sec": 2326,
    "break_freedom": "fri"
   },
   {
@@ -159,32 +159,32 @@
   },
   {
    "rank": 27,
-   "name": "Jorgenson Matteo",
-   "gap_sec": 2750,
-   "break_freedom": "fri"
-  },
-  {
-   "rank": 28,
    "name": "Verona Carlos",
    "gap_sec": 2813,
    "break_freedom": "fri"
   },
   {
+   "rank": 28,
+   "name": "Jorgenson Matteo",
+   "gap_sec": 2882,
+   "break_freedom": "fri"
+  },
+  {
    "rank": 29,
    "name": "Arensman Thymen",
-   "gap_sec": 2893,
+   "gap_sec": 3008,
    "break_freedom": "fri"
   },
   {
    "rank": 30,
    "name": "Tejada Harold",
-   "gap_sec": 3008,
+   "gap_sec": 3049,
    "break_freedom": "fri"
   },
   {
    "rank": 31,
    "name": "Hindley Jai",
-   "gap_sec": 3108,
+   "gap_sec": 3144,
    "break_freedom": "fri"
   },
   {
@@ -202,7 +202,7 @@
   {
    "rank": 34,
    "name": "Baudin Alex",
-   "gap_sec": 3910,
+   "gap_sec": 3946,
    "break_freedom": "fri"
   },
   {
@@ -231,14 +231,14 @@
   },
   {
    "rank": 39,
-   "name": "Higuita Sergio",
-   "gap_sec": 4263,
+   "name": "Rubio Einer",
+   "gap_sec": 4304,
    "break_freedom": "fri"
   },
   {
    "rank": 40,
-   "name": "Rubio Einer",
-   "gap_sec": 4304,
+   "name": "Higuita Sergio",
+   "gap_sec": 4323,
    "break_freedom": "fri"
   }
  ]

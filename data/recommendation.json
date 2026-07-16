@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-15T07:02:14.207187+00:00",
+ "generated_utc": "2026-07-16T01:08:49.974154+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-11"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-12"
  ],
- "active_stage": 11,
+ "active_stage": 12,
  "stage_type": "FLAT",
- "route": "Vichy -> Nevers",
- "deadline_utc": "2026-07-15T12:05:00.000Z",
+ "route": "Circuit Nevers Magny-Cours -> Chalon-sur-Saône",
+ "deadline_utc": "2026-07-16T12:40:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   11,
+   12,
    13
   ],
   "B": [
@@ -29,56 +29,49 @@
   ]
  },
  "locked_in_form_today": [
+  "Baptiste Veistroffer",
   "Isaac del Toro",
   "Jasper Philipsen",
   "Jonas Vingegaard",
+  "Mathias Vacek",
   "Mattias Skjelmose",
   "Tadej Pogačar",
   "Tim Merlier"
  ],
- "noted_form": [
-  "Baptiste Veistroffer",
-  "Mathias Vacek"
- ],
+ "noted_form": [],
  "today": {
   "transfers_in": [
-   "Kamil Gradek",
-   "Mathieu van der Poel",
-   "Nicolas Breuillard",
-   "Pablo Castrillo"
+   "Mathieu van der Poel"
   ],
   "transfers_out": [
+   "Luke Durbridge"
+  ],
+  "sd": "Caja Rural - Seguros RGA",
+  "sd_change": true,
+  "team_after": [
    "Baptiste Veistroffer",
    "Ion Izagirre",
-   "Mathias Vacek",
-   "Silvan Dillier"
-  ],
-  "sd": "Alpecin - Premier Tech",
-  "sd_change": false,
-  "team_after": [
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
    "Jonas Vingegaard",
-   "Kamil Gradek",
-   "Luke Durbridge",
+   "Mathias Vacek",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
-   "Nicolas Breuillard",
-   "Pablo Castrillo",
+   "Silvan Dillier",
    "Tadej Pogačar",
    "Tim Merlier"
   ],
-  "cost": 100000000
+  "cost": 99800000
  },
- "plan_E": 10865.6,
- "hold_E": 8478.1,
- "delta_vs_hold": 2387.5,
+ "plan_E": 10043.1,
+ "hold_E": 7717.6,
+ "delta_vs_hold": 2325.5,
  "future_waves": {
   "B": [
    "Anthony Turgis",
-   "Ion Izagirre",
    "Lenny Martínez",
+   "Luke Durbridge",
    "SD:UAE Team Emirates - XRG"
   ],
   "C": [
@@ -87,5 +80,5 @@
    "Thymen Arensman"
   ]
  },
- "transfers_needed_today": 4
+ "transfers_needed_today": 2
 }

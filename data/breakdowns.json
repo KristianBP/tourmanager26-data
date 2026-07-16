@@ -1,127 +1,126 @@
 {
  "Alpecin - Premier Tech": {
-  "stage": 9,
-  "points": 160,
+  "stage": 11,
+  "points": 60,
   "notes": [
-   "Lagets beste: 1. på etappen → 160p (SD, ganges ikke)"
+   "Lagets beste: 3. på etappen → 60p (SD, ganges ikke)"
   ]
  },
  "Jasper Philipsen": {
-  "stage": 10,
-  "points": 30,
+  "stage": 11,
+  "points": 140,
   "notes": [
-   "Målgang 160. plass: 1p",
-   "Spurt: Lacapelle-del-Fraisse 4.: 14p"
+   "Målgang 3. plass: 60p",
+   "Spurt: Saint-Pourçain-sur-Sioule 6.: 10p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 10,
+  "stage": 11,
   "points": 4,
   "notes": [
-   "Målgang 152. plass: 1p"
+   "Målgang 142. plass: 1p"
   ]
  },
  "Jakub Otruba": {
-  "stage": 10,
+  "stage": 11,
   "points": 3,
   "notes": [
-   "Målgang 125. plass: 1p"
+   "Målgang 135. plass: 1p"
   ]
  },
  "Ion Izagirre": {
-  "stage": 10,
+  "stage": 11,
   "points": 3,
   "notes": [
-   "Målgang 102. plass: 1p"
+   "Målgang 150. plass: 1p"
   ]
  },
  "Mathias Vacek": {
-  "stage": 10,
-  "points": 4,
+  "stage": 11,
+  "points": 32,
   "notes": [
-   "Målgang 112. plass: 1p"
+   "Målgang 37. plass: 3p",
+   "Spurt: Saint-Pourçain-sur-Sioule 11.: 5p"
   ]
  },
  "Mattias Skjelmose": {
-  "stage": 10,
-  "points": 108,
+  "stage": 11,
+  "points": 6,
   "notes": [
-   "Målgang 6. plass: 36p"
+   "Målgang 61. plass: 2p"
   ]
  },
  "Baptiste Veistroffer": {
-  "stage": 10,
+  "stage": 11,
   "points": 4,
   "notes": [
-   "Målgang 173. plass: 1p"
+   "Målgang 117. plass: 1p"
   ]
  },
  "Tim Merlier": {
-  "stage": 10,
-  "points": 2,
+  "stage": 11,
+  "points": 20,
   "notes": [
-   "Målgang 170. plass: 1p"
+   "Målgang 15. plass: 8p",
+   "Spurt: Saint-Pourçain-sur-Sioule 14.: 2p"
   ]
  },
  "Luke Durbridge": {
-  "stage": 10,
+  "stage": 11,
   "points": 4,
   "notes": [
-   "Målgang 118. plass: 1p"
+   "Målgang 140. plass: 1p"
   ]
  },
  "Jonas Vingegaard": {
-  "stage": 10,
-  "points": 112,
+  "stage": 11,
+  "points": 4,
   "notes": [
-   "Målgang 7. plass: 32p",
-   "Col de Font de Cère (K3) 2.: 3p",
-   "Puy Mary - Pas de Peyrol (K1) 6.: 3p",
-   "Col de Pertus (K1) 3.: 18p"
+   "Målgang 66. plass: 2p"
   ]
  },
  "Isaac del Toro": {
-  "stage": 10,
-  "points": 200,
+  "stage": 11,
+  "points": 12,
   "notes": [
-   "Målgang 8. plass: 28p",
-   "Puy Mary - Pas de Peyrol (K1) 4.: 12p",
-   "Lagkamerat vant etappen: 10p"
+   "Målgang 49. plass: 3p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 10,
-  "points": 284,
+  "stage": 11,
+  "points": 6,
   "notes": [
-   "Målgang 1. plass: 100p",
-   "Col de Font de Cère (K3) 1.: 6p",
-   "Puy Mary - Pas de Peyrol (K1) 5.: 6p",
-   "Col de Pertus (K1) 1.: 30p"
+   "Målgang 48. plass: 3p"
   ]
  },
  "Mads Pedersen": {
-  "stage": 10,
+  "stage": 11,
   "points": 52,
   "notes": [
-   "Målgang 111. plass: 1p",
-   "Spurt: Lacapelle-del-Fraisse 1.: 25p"
+   "Målgang 11. plass: 18p",
+   "Spurt: Saint-Pourçain-sur-Sioule 8.: 8p"
   ]
  },
  "Alex Baudin": {
-  "stage": 10,
-  "points": 48,
+  "stage": 11,
+  "points": 4,
   "notes": [
-   "Målgang 37. plass: 3p",
-   "Col de la Griffoul (K2) 3.: 6p",
-   "Côte de Murat (K3) 2.: 3p"
+   "Målgang 144. plass: 1p"
   ]
  },
  "Mathieu van der Poel": {
-  "stage": 10,
-  "points": 44,
+  "stage": 11,
+  "points": 8,
   "notes": [
-   "Målgang 110. plass: 1p",
-   "Spurt: Lacapelle-del-Fraisse 6.: 10p"
+   "Målgang 71. plass: 2p"
+  ]
+ },
+ "Biniam Girmay": {
+  "stage": 11,
+  "points": 86,
+  "notes": [
+   "Målgang 6. plass: 36p",
+   "Spurt: Saint-Pourçain-sur-Sioule 9.: 7p"
   ]
  },
  "UAE Team Emirates - XRG": {
@@ -132,49 +131,39 @@
   ]
  },
  "Quinn Simmons": {
-  "stage": 10,
-  "points": 12,
+  "stage": 11,
+  "points": 32,
   "notes": [
-   "Målgang 39. plass: 3p"
-  ]
- },
- "Biniam Girmay": {
-  "stage": 10,
-  "points": 34,
-  "notes": [
-   "Målgang 165. plass: 1p",
-   "Spurt: Lacapelle-del-Fraisse 3.: 16p"
+   "Målgang 87. plass: 2p",
+   "Spurt: Saint-Pourçain-sur-Sioule 10.: 6p"
   ]
  },
  "Remco Evenepoel": {
-  "stage": 10,
-  "points": 184,
+  "stage": 11,
+  "points": 6,
   "notes": [
-   "Målgang 2. plass: 80p",
-   "Col de Pertus (K1) 4.: 12p"
+   "Målgang 46. plass: 3p"
   ]
  },
  "Paul Seixas": {
-  "stage": 10,
-  "points": 156,
+  "stage": 11,
+  "points": 4,
   "notes": [
-   "Målgang 3. plass: 60p",
-   "Puy Mary - Pas de Peyrol (K1) 3.: 18p"
+   "Målgang 63. plass: 2p"
   ]
  },
  "Florian Lipowitz": {
-  "stage": 10,
-  "points": 168,
+  "stage": 11,
+  "points": 6,
   "notes": [
-   "Målgang 4. plass: 50p",
-   "Col de Pertus (K1) 5.: 6p"
+   "Målgang 77. plass: 2p"
   ]
  },
  "Lenny Martínez": {
-  "stage": 10,
-  "points": 84,
+  "stage": 11,
+  "points": 4,
   "notes": [
-   "Målgang 10. plass: 21p"
+   "Målgang 105. plass: 1p"
   ]
  }
 }
