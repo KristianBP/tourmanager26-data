@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 13,
+ "fetched": "2026-07-17",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-13-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Tom Pidcock",
@@ -61,5 +64,6 @@
    "name": "Alex Baudin",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }

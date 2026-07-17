@@ -1,5 +1,5 @@
 {
- "after_stage": 11,
+ "after_stage": 12,
  "standings": [
   {
    "rank": 1,
@@ -33,13 +33,13 @@
   },
   {
    "rank": 6,
-   "name": "del Toro Isaac",
+   "name": "Lipowitz Florian",
    "gap_sec": 284,
    "break_freedom": "bundet"
   },
   {
    "rank": 7,
-   "name": "Lipowitz Florian",
+   "name": "del Toro Isaac",
    "gap_sec": 308,
    "break_freedom": "bundet"
   },
@@ -87,13 +87,13 @@
   },
   {
    "rank": 15,
-   "name": "Voisard Yannis",
+   "name": "Quinn Sean",
    "gap_sec": 908,
    "break_freedom": "fri"
   },
   {
    "rank": 16,
-   "name": "Quinn Sean",
+   "name": "Voisard Yannis",
    "gap_sec": 936,
    "break_freedom": "fri"
   },
@@ -165,32 +165,32 @@
   },
   {
    "rank": 28,
-   "name": "Jorgenson Matteo",
-   "gap_sec": 2882,
-   "break_freedom": "fri"
-  },
-  {
-   "rank": 29,
-   "name": "Tejada Harold",
+   "name": "Arensman Thymen",
    "gap_sec": 3008,
    "break_freedom": "fri"
   },
   {
-   "rank": 30,
-   "name": "Arensman Thymen",
-   "gap_sec": 3049,
-   "break_freedom": "fri"
-  },
-  {
-   "rank": 31,
+   "rank": 29,
    "name": "Hindley Jai",
    "gap_sec": 3144,
    "break_freedom": "fri"
   },
   {
-   "rank": 32,
+   "rank": 30,
    "name": "Vacek Mathias",
    "gap_sec": 3199,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 31,
+   "name": "Tejada Harold",
+   "gap_sec": 3255,
+   "break_freedom": "fri"
+  },
+  {
+   "rank": 32,
+   "name": "Jorgenson Matteo",
+   "gap_sec": 3348,
    "break_freedom": "fri"
   },
   {

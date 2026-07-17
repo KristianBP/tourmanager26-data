@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-16T07:11:03.223655+00:00",
+ "generated_utc": "2026-07-17T01:12:11.862363+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-12"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-13"
  ],
- "active_stage": 12,
- "stage_type": "FLAT",
- "route": "Circuit Nevers Magny-Cours -> Chalon-sur-Saône",
- "deadline_utc": "2026-07-16T12:40:00.000Z",
+ "active_stage": 13,
+ "stage_type": "HILLY",
+ "route": "Dole -> Belfort",
+ "deadline_utc": "2026-07-17T11:20:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   12,
+   13,
    13
   ],
   "B": [
@@ -44,7 +44,7 @@
    "Mathieu van der Poel"
   ],
   "transfers_out": [
-   "Luke Durbridge"
+   "Silvan Dillier"
   ],
   "sd": "Caja Rural - Seguros RGA",
   "sd_change": true,
@@ -55,27 +55,27 @@
    "Jakub Otruba",
    "Jasper Philipsen",
    "Jonas Vingegaard",
+   "Luke Durbridge",
    "Mathias Vacek",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
-   "Silvan Dillier",
    "Tadej Pogačar",
    "Tim Merlier"
   ],
-  "cost": 99800000
+  "cost": 99900000
  },
- "plan_E": 10043.1,
- "hold_E": 7490.7,
- "delta_vs_hold": 2552.4,
+ "plan_E": 9034.6,
+ "hold_E": 6474.9,
+ "delta_vs_hold": 2559.7,
  "future_waves": {
   "B": [
    "Anthony Turgis",
    "Lenny Martínez",
-   "Luke Durbridge",
+   "Richard Carapaz",
+   "Sepp Kuss",
    "SD:UAE Team Emirates - XRG"
   ],
   "C": [
-   "Kasper Asgreen",
    "Remco Evenepoel",
    "Thymen Arensman"
   ]
