@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "14386a02-9e8e-4ac5-83bf-6464920e7fcc",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 14",
+  "number": 14,
+  "startsAt": "2026-07-18T11:30:00.000Z",
+  "endsAt": "2026-07-18T20:00:00.000Z",
+  "deadlineAt": "2026-07-18T11:30:00.000Z",
+  "stageType": "MOUNTAIN",
+  "startCity": "Mulhouse",
+  "finishCity": "Le Markstein Fellering",
+  "distanceKm": 155,
+  "createdAt": "2026-06-05T21:52:16.441Z",
+  "updatedAt": "2026-07-11T12:00:00.335Z"
+ },
+ "effectiveDeadline": "2026-07-18T11:30:00.000Z",
+ "configuredDeadline": "2026-07-18T11:30:00.000Z",
+ "secondsRemaining": 37412,
+ "isLocked": false,
+ "serverNow": "2026-07-18T01:06:27.636Z"
+}

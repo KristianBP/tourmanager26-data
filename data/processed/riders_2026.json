@@ -391,29 +391,6 @@
   "pcs_points_2025": 251
  },
  {
-  "tm_id": "c1a7bbfe-a2ec-4011-9207-2c3774178f9a",
-  "name": "Fernando Gaviria",
-  "position": "SPRINTER",
-  "price": 7900000,
-  "team": "Caja Rural - Seguros RGA",
-  "team_code": "CJR",
-  "is_available": true,
-  "pcs_url": "rider/fernando-gaviria",
-  "age": 31,
-  "speciality": {
-   "climber": 120,
-   "gc": 226,
-   "sprint": 4494,
-   "time_trial": 110,
-   "one_day": 2021,
-   "hills": 1994
-  },
-  "form_2026": 33.9,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 203,
-  "pcs_points_2025": 104
- },
- {
   "tm_id": "27ebfa64-1eb3-4593-a1a3-013b92dfa132",
   "name": "Jakub Otruba",
   "position": "TIME_TRIALIST",
@@ -454,7 +431,7 @@
    "one_day": 270,
    "hills": 309
   },
-  "form_2026": 27.7,
+  "form_2026": 27.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 83,
   "pcs_points_2025": 133
@@ -523,7 +500,7 @@
    "one_day": 797,
    "hills": 1398
   },
-  "form_2026": 25.1,
+  "form_2026": 24.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 123,
   "pcs_points_2025": 157
@@ -1052,7 +1029,7 @@
    "one_day": 1385,
    "hills": 1816
   },
-  "form_2026": 186.3,
+  "form_2026": 177.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 374,
   "pcs_points_2025": 785
@@ -1351,7 +1328,7 @@
    "one_day": 623,
    "hills": 564
   },
-  "form_2026": 168.1,
+  "form_2026": 165.1,
   "giro_2026_stages": 0,
   "pcs_points_2026": 302,
   "pcs_points_2025": 461
@@ -1493,29 +1470,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 81,
   "pcs_points_2025": 153
- },
- {
-  "tm_id": "22c5cd85-5bcf-4d9b-a6c2-0285ef82de05",
-  "name": "Jenno Berckmoes",
-  "position": "YOUNG_RIDER",
-  "price": 4800000,
-  "team": "Lotto Intermarché",
-  "team_code": "LIM",
-  "is_available": true,
-  "pcs_url": "rider/jenno-berckmoes",
-  "age": 25,
-  "speciality": {
-   "climber": 156,
-   "gc": 618,
-   "sprint": 208,
-   "time_trial": 58,
-   "one_day": 783,
-   "hills": 632
-  },
-  "form_2026": 84.9,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 376,
-  "pcs_points_2025": 361
  },
  {
   "tm_id": "602558a2-9392-4c87-a88a-da2f616292a3",
@@ -1949,7 +1903,7 @@
    "one_day": 3519,
    "hills": 2211
   },
-  "form_2026": 83.7,
+  "form_2026": 80.1,
   "giro_2026_stages": 0,
   "pcs_points_2026": 417,
   "pcs_points_2025": 867
@@ -2501,7 +2455,7 @@
    "one_day": 540,
    "hills": 833
   },
-  "form_2026": 109.2,
+  "form_2026": 105.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 232,
   "pcs_points_2025": 668
@@ -2593,7 +2547,7 @@
    "one_day": 4562,
    "hills": 561
   },
-  "form_2026": 87.6,
+  "form_2026": 85.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 413,
   "pcs_points_2025": 1275
@@ -2804,29 +2758,6 @@
   "giro_2026_stages": 21,
   "pcs_points_2026": 85,
   "pcs_points_2025": 322
- },
- {
-  "tm_id": "0fd0389f-437e-46aa-a430-1a5b5ca2294e",
-  "name": "Frits Biesterbos",
-  "position": "SPRINTER",
-  "price": 7200000,
-  "team": "Team Picnic PostNL",
-  "team_code": "PIC",
-  "is_available": true,
-  "pcs_url": "rider/frits-biesterbos",
-  "age": 24,
-  "speciality": {
-   "climber": 1,
-   "gc": 6,
-   "sprint": 160,
-   "time_trial": 51,
-   "one_day": 266,
-   "hills": 60
-  },
-  "form_2026": 58.3,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 249,
-  "pcs_points_2025": 50
  },
  {
   "tm_id": "c4ccf671-90d0-45f8-970e-bc6e2514fb85",
@@ -3513,7 +3444,7 @@
    "one_day": 1407,
    "hills": 1288
   },
-  "form_2026": 105.1,
+  "form_2026": 103.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 268,
   "pcs_points_2025": 1338
@@ -3536,7 +3467,7 @@
    "one_day": 630,
    "hills": 1592
   },
-  "form_2026": 84.2,
+  "form_2026": 83.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 218,
   "pcs_points_2025": 468
@@ -3628,7 +3559,7 @@
    "one_day": 9983,
    "hills": 4410
   },
-  "form_2026": 669.6,
+  "form_2026": 654.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 2123,
   "pcs_points_2025": 4921
@@ -3789,7 +3720,7 @@
    "one_day": 1170,
    "hills": 413
   },
-  "form_2026": 56.0,
+  "form_2026": 55.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 270,
   "pcs_points_2025": 844
@@ -3904,7 +3835,7 @@
    "one_day": 1307,
    "hills": 1217
   },
-  "form_2026": 60.5,
+  "form_2026": 59.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 319,
   "pcs_points_2025": 640

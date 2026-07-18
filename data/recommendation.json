@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-17T07:05:40.125097+00:00",
+ "generated_utc": "2026-07-18T01:06:27.488942+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-13"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-14"
  ],
- "active_stage": 13,
- "stage_type": "HILLY",
- "route": "Dole -> Belfort",
- "deadline_utc": "2026-07-17T11:20:00.000Z",
+ "active_stage": 14,
+ "stage_type": "MOUNTAIN",
+ "route": "Mulhouse -> Le Markstein Fellering",
+ "deadline_utc": "2026-07-18T11:30:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,14 +16,10 @@
  },
  "blocks": {
   "A": [
-   13,
-   13
-  ],
-  "B": [
    14,
    15
   ],
-  "C": [
+  "B": [
    16,
    21
   ]
@@ -44,9 +40,9 @@
    "Mathieu van der Poel"
   ],
   "transfers_out": [
-   "Silvan Dillier"
+   "Luke Durbridge"
   ],
-  "sd": "Caja Rural - Seguros RGA",
+  "sd": "TotalEnergies",
   "sd_change": true,
   "team_after": [
    "Baptiste Veistroffer",
@@ -55,29 +51,26 @@
    "Jakub Otruba",
    "Jasper Philipsen",
    "Jonas Vingegaard",
-   "Luke Durbridge",
    "Mathias Vacek",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
+   "Silvan Dillier",
    "Tadej Pogačar",
    "Tim Merlier"
   ],
-  "cost": 99900000
+  "cost": 100000000
  },
- "plan_E": 9034.6,
- "hold_E": 6474.9,
- "delta_vs_hold": 2559.7,
+ "plan_E": 7525.7,
+ "hold_E": 6079.2,
+ "delta_vs_hold": 1446.5,
  "future_waves": {
   "B": [
+   "Adam Yates",
    "Anthony Turgis",
    "Lenny Martínez",
-   "Richard Carapaz",
-   "Sepp Kuss",
-   "SD:UAE Team Emirates - XRG"
-  ],
-  "C": [
+   "Matej Mohorič",
    "Remco Evenepoel",
-   "Thymen Arensman"
+   "SD:Red Bull - BORA - hansgrohe"
   ]
  },
  "transfers_needed_today": 2
