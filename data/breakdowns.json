@@ -1,52 +1,53 @@
 {
  "Jasper Philipsen": {
-  "stage": 13,
+  "stage": 14,
   "points": 52,
   "notes": [
-   "Målgang 140. plass: 1p",
-   "Spurt: Melisey 1.: 25p"
+   "Målgang 143. plass: 1p",
+   "Spurt: Wattwiller 1.: 25p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 13,
+  "stage": 14,
   "points": 4,
   "notes": [
-   "Målgang 134. plass: 1p"
+   "Målgang 145. plass: 1p"
   ]
  },
  "Jakub Otruba": {
-  "stage": 13,
-  "points": 6,
+  "stage": 14,
+  "points": 3,
   "notes": [
-   "Målgang 99. plass: 2p"
+   "Målgang 160. plass: 1p"
   ]
  },
  "Ion Izagirre": {
-  "stage": 13,
-  "points": 15,
+  "stage": 14,
+  "points": 6,
   "notes": [
-   "Målgang 18. plass: 5p"
+   "Målgang 94. plass: 2p"
   ]
  },
  "Mathias Vacek": {
-  "stage": 13,
-  "points": 4,
+  "stage": 14,
+  "points": 28,
   "notes": [
-   "Målgang 136. plass: 1p"
+   "Målgang 100. plass: 1p",
+   "Spurt: Wattwiller 10.: 6p"
   ]
  },
  "Mattias Skjelmose": {
-  "stage": 13,
-  "points": 9,
+  "stage": 14,
+  "points": 63,
   "notes": [
-   "Målgang 46. plass: 3p"
+   "Målgang 10. plass: 21p"
   ]
  },
  "Baptiste Veistroffer": {
-  "stage": 13,
+  "stage": 14,
   "points": 4,
   "notes": [
-   "Målgang 164. plass: 1p"
+   "Målgang 128. plass: 1p"
   ]
  },
  "Soudal Quick-Step": {
@@ -57,109 +58,113 @@
   ]
  },
  "Tim Merlier": {
-  "stage": 13,
+  "stage": 14,
   "points": 2,
   "notes": [
-   "Målgang 168. plass: 1p"
+   "Målgang 154. plass: 1p"
   ]
  },
  "Luke Durbridge": {
-  "stage": 13,
-  "points": 44,
+  "stage": 14,
+  "points": 4,
   "notes": [
-   "Målgang 131. plass: 1p",
-   "Lagkamerat vant etappen (×4): 40p"
+   "Målgang 124. plass: 1p"
   ]
  },
  "Jonas Vingegaard": {
-  "stage": 13,
-  "points": 6,
+  "stage": 14,
+  "points": 148,
   "notes": [
-   "Målgang 41. plass: 3p"
+   "Målgang 4. plass: 50p",
+   "Col du Haag (K1) 2.: 24p"
   ]
  },
  "Isaac del Toro": {
-  "stage": 13,
-  "points": 12,
+  "stage": 14,
+  "points": 408,
   "notes": [
-   "Målgang 39. plass: 3p"
+   "Målgang 2. plass: 80p",
+   "Col du Haag (K1) 4.: 12p",
+   "Lagkamerat vant etappen (×4): 40p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 13,
-  "points": 6,
+  "stage": 14,
+  "points": 260,
   "notes": [
-   "Målgang 38. plass: 3p"
+   "Målgang 1. plass: 100p",
+   "Col du Haag (K1) 1.: 30p"
   ]
  },
  "Mads Pedersen": {
-  "stage": 13,
+  "stage": 14,
   "points": 42,
   "notes": [
-   "Målgang 138. plass: 1p",
-   "Spurt: Melisey 2.: 20p"
+   "Målgang 102. plass: 1p",
+   "Spurt: Wattwiller 2.: 20p"
   ]
  },
  "Biniam Girmay": {
-  "stage": 13,
-  "points": 36,
+  "stage": 14,
+  "points": 30,
   "notes": [
-   "Målgang 81. plass: 2p",
-   "Spurt: Melisey 3.: 16p"
+   "Målgang 159. plass: 1p",
+   "Spurt: Wattwiller 4.: 14p"
+  ]
+ },
+ "UAE Team Emirates - XRG": {
+  "stage": 14,
+  "points": 160,
+  "notes": [
+   "Lagets beste: 1. på etappen → 160p (SD, ganges ikke)"
   ]
  },
  "Mathieu van der Poel": {
-  "stage": 13,
+  "stage": 14,
   "points": 4,
   "notes": [
-   "Målgang 141. plass: 1p"
+   "Målgang 118. plass: 1p"
+  ]
+ },
+ "Paul Seixas": {
+  "stage": 14,
+  "points": 196,
+  "notes": [
+   "Målgang 3. plass: 60p",
+   "Col du Haag (K1) 3.: 18p",
+   "Trøyeovertagelse (×2): 40p"
   ]
  },
  "Alex Baudin": {
-  "stage": 13,
+  "stage": 14,
   "points": 8,
   "notes": [
    "Målgang 92. plass: 2p"
   ]
  },
+ "Quinn Simmons": {
+  "stage": 14,
+  "points": 48,
+  "notes": [
+   "Målgang 24. plass: 3p",
+   "Spurt: Wattwiller 7.: 9p"
+  ]
+ },
+ "Valentin Paret-Peintre": {
+  "stage": 14,
+  "points": 312,
+  "notes": [
+   "Målgang 25. plass: 3p",
+   "Grand Ballon (K1) 1.: 30p",
+   "Col du Page (K2) 1.: 15p",
+   "Ballon d'Alsace (K1) 1.: 30p"
+  ]
+ },
  "Olav Kooij": {
-  "stage": 13,
+  "stage": 14,
   "points": 2,
   "notes": [
-   "Målgang 165. plass: 1p"
-  ]
- },
- "Quinn Simmons": {
-  "stage": 13,
-  "points": 12,
-  "notes": [
-   "Målgang 33. plass: 3p"
-  ]
- },
- "UAE Team Emirates - XRG": {
-  "stage": 13,
-  "points": 20,
-  "notes": [
-   "Lagets beste: 5. på etappen → 20p (SD, ganges ikke)"
-  ]
- },
- "Mauro Schmid": {
-  "stage": 13,
-  "points": 496,
-  "notes": [
-   "Målgang 1. plass: 100p",
-   "Ballon d'Alsace (K1) 2.: 24p"
-  ]
- },
- "Tom Pidcock": {
-  "stage": 13,
-  "points": 252,
-  "notes": [
-   "Målgang 3. plass: 60p",
-   "Spurt: Melisey 8.: 8p",
-   "Col des Croix (K3) 2.: 3p",
-   "Ballon d'Alsace (K1) 1.: 30p",
-   "Mest offensive rytter (×2): 50p"
+   "Målgang 152. plass: 1p"
   ]
  }
 }

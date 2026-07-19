@@ -1,0 +1,53 @@
+{
+ "source": "cyclingstage",
+ "stage": 16,
+ "fetched": "2026-07-19",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-16-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Remco Evenepoel",
+   "stars": 3
+  },
+  {
+   "name": "Filippo Ganna",
+   "stars": 3
+  },
+  {
+   "name": "Joshua Tarling",
+   "stars": 3
+  },
+  {
+   "name": "Tadej Pogacar",
+   "stars": 2
+  },
+  {
+   "name": "Jonas Vingegaard",
+   "stars": 2
+  },
+  {
+   "name": "Juan Ayuso",
+   "stars": 2
+  },
+  {
+   "name": "Daan Hoole",
+   "stars": 2
+  },
+  {
+   "name": "Thymen Arensman",
+   "stars": 1
+  },
+  {
+   "name": "Paul Seixas",
+   "stars": 1
+  },
+  {
+   "name": "Brandon McNulty",
+   "stars": 1
+  },
+  {
+   "name": "Edoardo Affini",
+   "stars": 1
+  }
+ ],
+ "published": true
+}

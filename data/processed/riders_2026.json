@@ -40,7 +40,7 @@
    "one_day": 269,
    "hills": 111
   },
-  "form_2026": 51.0,
+  "form_2026": 49.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 251,
   "pcs_points_2025": 84
@@ -63,7 +63,7 @@
    "one_day": 6129,
    "hills": 2593
   },
-  "form_2026": 222.9,
+  "form_2026": 221.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 1055,
   "pcs_points_2025": 1248
@@ -113,29 +113,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 995,
   "pcs_points_2025": 1621
- },
- {
-  "tm_id": "dc74e263-6769-4f7f-b63e-c098ec7c1aa0",
-  "name": "Ramses Debruyne",
-  "position": "YOUNG_RIDER",
-  "price": 5100000,
-  "team": "Alpecin - Premier Tech",
-  "team_code": "APT",
-  "is_available": true,
-  "pcs_url": "rider/ramses-debruyne",
-  "age": 23,
-  "speciality": {
-   "climber": 278,
-   "gc": 102,
-   "sprint": 48,
-   "time_trial": 17,
-   "one_day": 153,
-   "hills": 152
-  },
-  "form_2026": 33.3,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 143,
-  "pcs_points_2025": 104
  },
  {
   "tm_id": "61b5d953-ee95-4bab-9cc9-257260a56655",
@@ -546,7 +523,7 @@
    "one_day": 649,
    "hills": 478
   },
-  "form_2026": 16.9,
+  "form_2026": 16.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 32,
   "pcs_points_2025": 47
@@ -822,7 +799,7 @@
    "one_day": 1917,
    "hills": 1146
   },
-  "form_2026": 37.6,
+  "form_2026": 35.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 112,
   "pcs_points_2025": 1161
@@ -1213,7 +1190,7 @@
    "one_day": 1865,
    "hills": 1804
   },
-  "form_2026": 187.3,
+  "form_2026": 172.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 779,
   "pcs_points_2025": 1108
@@ -1259,7 +1236,7 @@
    "one_day": 142,
    "hills": 482
   },
-  "form_2026": 131.1,
+  "form_2026": 128.9,
   "giro_2026_stages": 21,
   "pcs_points_2026": 496,
   "pcs_points_2025": 731
@@ -1328,7 +1305,7 @@
    "one_day": 623,
    "hills": 564
   },
-  "form_2026": 165.1,
+  "form_2026": 163.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 302,
   "pcs_points_2025": 461
@@ -1765,7 +1742,7 @@
    "one_day": 1254,
    "hills": 1164
   },
-  "form_2026": 97.7,
+  "form_2026": 88.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 454,
   "pcs_points_2025": 956
@@ -1857,7 +1834,7 @@
    "one_day": 67,
    "hills": 604
   },
-  "form_2026": 144.8,
+  "form_2026": 138.8,
   "giro_2026_stages": 21,
   "pcs_points_2026": 601,
   "pcs_points_2025": 985
@@ -2032,7 +2009,7 @@
   "team_code": "NSN",
   "is_available": true,
   "pcs_url": "rider/matis-louvel",
-  "age": 26,
+  "age": 27,
   "speciality": {
    "climber": 70,
    "gc": 169,
@@ -2547,7 +2524,7 @@
    "one_day": 4562,
    "hills": 561
   },
-  "form_2026": 85.4,
+  "form_2026": 81.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 413,
   "pcs_points_2025": 1275
@@ -2593,7 +2570,7 @@
    "one_day": 795,
    "hills": 1026
   },
-  "form_2026": 72.4,
+  "form_2026": 71.8,
   "giro_2026_stages": 21,
   "pcs_points_2026": 314,
   "pcs_points_2025": 675
@@ -2823,7 +2800,7 @@
    "one_day": 216,
    "hills": 170
   },
-  "form_2026": 9.0,
+  "form_2026": 8.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 40,
   "pcs_points_2025": 71
@@ -2984,7 +2961,7 @@
    "one_day": 320,
    "hills": 2153
   },
-  "form_2026": 378.1,
+  "form_2026": 377.7,
   "giro_2026_stages": 21,
   "pcs_points_2026": 1579,
   "pcs_points_2025": 2399
@@ -3168,7 +3145,7 @@
    "one_day": 212,
    "hills": 180
   },
-  "form_2026": 25.6,
+  "form_2026": 25.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 90,
   "pcs_points_2025": 314
@@ -3352,7 +3329,7 @@
    "one_day": 978,
    "hills": 599
   },
-  "form_2026": 106.5,
+  "form_2026": 106.4,
   "giro_2026_stages": 21,
   "pcs_points_2026": 443,
   "pcs_points_2025": 1142
@@ -3559,7 +3536,7 @@
    "one_day": 9983,
    "hills": 4410
   },
-  "form_2026": 654.6,
+  "form_2026": 653.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 2123,
   "pcs_points_2025": 4921
@@ -3674,7 +3651,7 @@
    "one_day": 1275,
    "hills": 633
   },
-  "form_2026": 56.3,
+  "form_2026": 56.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 267,
   "pcs_points_2025": 582
@@ -3835,7 +3812,7 @@
    "one_day": 1307,
    "hills": 1217
   },
-  "form_2026": 59.0,
+  "form_2026": 58.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 319,
   "pcs_points_2025": 640

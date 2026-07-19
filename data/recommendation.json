@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-18T06:49:30.748623+00:00",
+ "generated_utc": "2026-07-19T01:11:11.004217+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-14"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-15"
  ],
- "active_stage": 14,
+ "active_stage": 15,
  "stage_type": "MOUNTAIN",
- "route": "Mulhouse -> Le Markstein Fellering",
- "deadline_utc": "2026-07-18T11:30:00.000Z",
+ "route": "Champagnole -> Plateau de Solaison",
+ "deadline_utc": "2026-07-19T11:20:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   14,
+   15,
    15
   ],
   "B": [
@@ -37,16 +37,18 @@
  "noted_form": [],
  "today": {
   "transfers_in": [
+   "Adam Yates",
    "Mathieu van der Poel"
   ],
   "transfers_out": [
+   "Ion Izagirre",
    "Luke Durbridge"
   ],
-  "sd": "TotalEnergies",
+  "sd": "Caja Rural - Seguros RGA",
   "sd_change": true,
   "team_after": [
+   "Adam Yates",
    "Baptiste Veistroffer",
-   "Ion Izagirre",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
@@ -60,18 +62,18 @@
   ],
   "cost": 100000000
  },
- "plan_E": 7525.7,
- "hold_E": 6079.2,
- "delta_vs_hold": 1446.5,
+ "plan_E": 6717.0,
+ "hold_E": 5308.3,
+ "delta_vs_hold": 1408.7,
  "future_waves": {
   "B": [
-   "Adam Yates",
    "Anthony Turgis",
+   "Ion Izagirre",
    "Lenny Martínez",
    "Matej Mohorič",
    "Remco Evenepoel",
    "SD:Red Bull - BORA - hansgrohe"
   ]
  },
- "transfers_needed_today": 2
+ "transfers_needed_today": 3
 }

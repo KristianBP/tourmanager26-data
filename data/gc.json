@@ -1,5 +1,5 @@
 {
- "after_stage": 13,
+ "after_stage": 14,
  "standings": [
   {
    "rank": 1,
@@ -10,235 +10,235 @@
   {
    "rank": 2,
    "name": "Vingegaard Jonas",
-   "gap_sec": 216,
+   "gap_sec": 270,
    "break_freedom": "bundet"
   },
   {
    "rank": 3,
    "name": "Evenepoel Remco",
-   "gap_sec": 246,
+   "gap_sec": 304,
    "break_freedom": "bundet"
   },
   {
    "rank": 4,
-   "name": "Pidcock Tom",
-   "gap_sec": 255,
+   "name": "Seixas Paul",
+   "gap_sec": 319,
    "break_freedom": "bundet"
   },
   {
    "rank": 5,
    "name": "Ayuso Juan",
-   "gap_sec": 262,
+   "gap_sec": 322,
    "break_freedom": "bundet"
   },
   {
    "rank": 6,
-   "name": "Seixas Paul",
-   "gap_sec": 275,
+   "name": "Lipowitz Florian",
+   "gap_sec": 344,
    "break_freedom": "bundet"
   },
   {
    "rank": 7,
-   "name": "Lipowitz Florian",
-   "gap_sec": 284,
+   "name": "del Toro Isaac",
+   "gap_sec": 350,
    "break_freedom": "bundet"
   },
   {
    "rank": 8,
-   "name": "Skjelmose Mattias",
-   "gap_sec": 308,
-   "break_freedom": "bundet"
+   "name": "Pidcock Tom",
+   "gap_sec": 455,
+   "break_freedom": "delvis"
   },
   {
    "rank": 9,
-   "name": "del Toro Isaac",
-   "gap_sec": 345,
-   "break_freedom": "bundet"
+   "name": "Skjelmose Mattias",
+   "gap_sec": 479,
+   "break_freedom": "delvis"
   },
   {
    "rank": 10,
    "name": "Martinez Lenny",
-   "gap_sec": 394,
+   "gap_sec": 505,
    "break_freedom": "delvis"
   },
   {
    "rank": 11,
-   "name": "Jegat Jordan",
-   "gap_sec": 626,
+   "name": "Bernal Egan",
+   "gap_sec": 955,
    "break_freedom": "fri"
   },
   {
    "rank": 12,
-   "name": "Bernal Egan",
-   "gap_sec": 735,
+   "name": "Jegat Jordan",
+   "gap_sec": 963,
    "break_freedom": "fri"
   },
   {
    "rank": 13,
    "name": "Van Wilder Ilan",
-   "gap_sec": 763,
+   "gap_sec": 983,
    "break_freedom": "fri"
   },
   {
    "rank": 14,
-   "name": "Piganzoli Davide",
-   "gap_sec": 818,
+   "name": "Johannessen Tobias Halland",
+   "gap_sec": 1000,
    "break_freedom": "fri"
   },
   {
    "rank": 15,
-   "name": "Johannessen Tobias Halland",
-   "gap_sec": 890,
+   "name": "Carapaz Richard",
+   "gap_sec": 1151,
    "break_freedom": "fri"
   },
   {
    "rank": 16,
-   "name": "Quinn Sean",
-   "gap_sec": 908,
+   "name": "Piganzoli Davide",
+   "gap_sec": 1155,
    "break_freedom": "fri"
   },
   {
    "rank": 17,
    "name": "Voisard Yannis",
-   "gap_sec": 936,
+   "gap_sec": 1156,
    "break_freedom": "fri"
   },
   {
    "rank": 18,
-   "name": "Debruyne Ramses",
-   "gap_sec": 973,
+   "name": "Yates Adam",
+   "gap_sec": 1326,
    "break_freedom": "fri"
   },
   {
    "rank": 19,
-   "name": "Yates Adam",
-   "gap_sec": 1063,
+   "name": "McNulty Brandon",
+   "gap_sec": 1472,
    "break_freedom": "fri"
   },
   {
    "rank": 20,
-   "name": "Carapaz Richard",
-   "gap_sec": 1106,
+   "name": "Kuss Sepp",
+   "gap_sec": 2148,
    "break_freedom": "fri"
   },
   {
    "rank": 21,
-   "name": "McNulty Brandon",
-   "gap_sec": 1111,
+   "name": "Quinn Sean",
+   "gap_sec": 2507,
    "break_freedom": "fri"
   },
   {
    "rank": 22,
-   "name": "Kuss Sepp",
-   "gap_sec": 1252,
+   "name": "Benoot Tiesj",
+   "gap_sec": 2792,
    "break_freedom": "fri"
   },
   {
    "rank": 23,
-   "name": "Castrillo Pablo",
-   "gap_sec": 1819,
+   "name": "Prodhomme Nicolas",
+   "gap_sec": 3149,
    "break_freedom": "fri"
   },
   {
    "rank": 24,
-   "name": "Benoot Tiesj",
-   "gap_sec": 1997,
+   "name": "Hindley Jai",
+   "gap_sec": 3769,
    "break_freedom": "fri"
   },
   {
    "rank": 25,
-   "name": "Prodhomme Nicolas",
-   "gap_sec": 2548,
+   "name": "Verona Carlos",
+   "gap_sec": 3877,
    "break_freedom": "fri"
   },
   {
    "rank": 26,
-   "name": "Tejada Harold",
-   "gap_sec": 2797,
+   "name": "Castrillo Pablo",
+   "gap_sec": 3972,
    "break_freedom": "fri"
   },
   {
    "rank": 27,
-   "name": "Verona Carlos",
-   "gap_sec": 2813,
+   "name": "Arensman Thymen",
+   "gap_sec": 4291,
    "break_freedom": "fri"
   },
   {
    "rank": 28,
    "name": "Van Eetvelt Lennert",
-   "gap_sec": 2913,
+   "gap_sec": 4324,
    "break_freedom": "fri"
   },
   {
    "rank": 29,
-   "name": "Arensman Thymen",
-   "gap_sec": 3008,
+   "name": "Gee-West Derek",
+   "gap_sec": 4387,
    "break_freedom": "fri"
   },
   {
    "rank": 30,
-   "name": "Hindley Jai",
-   "gap_sec": 3144,
+   "name": "Simmons Quinn",
+   "gap_sec": 4868,
    "break_freedom": "fri"
   },
   {
    "rank": 31,
-   "name": "Vauquelin Kévin",
-   "gap_sec": 3526,
+   "name": "Jorgenson Matteo",
+   "gap_sec": 4999,
    "break_freedom": "fri"
   },
   {
    "rank": 32,
-   "name": "Hermans Quinten",
-   "gap_sec": 3774,
+   "name": "Tejada Harold",
+   "gap_sec": 5023,
    "break_freedom": "fri"
   },
   {
    "rank": 33,
-   "name": "Vacek Mathias",
-   "gap_sec": 3786,
+   "name": "Vauquelin Kévin",
+   "gap_sec": 5125,
    "break_freedom": "fri"
   },
   {
    "rank": 34,
-   "name": "Jorgenson Matteo",
-   "gap_sec": 3935,
+   "name": "Rubio Einer",
+   "gap_sec": 5228,
    "break_freedom": "fri"
   },
   {
    "rank": 35,
-   "name": "Parra José Félix",
-   "gap_sec": 4079,
+   "name": "Hermans Quinten",
+   "gap_sec": 5442,
    "break_freedom": "fri"
   },
   {
    "rank": 36,
-   "name": "Simmons Quinn",
-   "gap_sec": 4151,
+   "name": "Großschartner Felix",
+   "gap_sec": 5745,
    "break_freedom": "fri"
   },
   {
    "rank": 37,
-   "name": "Gee-West Derek",
-   "gap_sec": 4167,
+   "name": "Paret-Peintre Valentin",
+   "gap_sec": 5913,
    "break_freedom": "fri"
   },
   {
    "rank": 38,
-   "name": "Izagirre Ion",
-   "gap_sec": 4273,
+   "name": "Vacek Mathias",
+   "gap_sec": 5919,
    "break_freedom": "fri"
   },
   {
    "rank": 39,
-   "name": "García Pierna Raúl",
-   "gap_sec": 4398,
+   "name": "O'Connor Ben",
+   "gap_sec": 5936,
    "break_freedom": "fri"
   },
   {
    "rank": 40,
    "name": "Hirschi Marc",
-   "gap_sec": 4498,
+   "gap_sec": 6097,
    "break_freedom": "fri"
   }
  ]

@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 15,
+ "fetched": "2026-07-19",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-15-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Thymen Arensman",
@@ -53,5 +56,6 @@
    "name": "Valentin Paret-Peintre",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }

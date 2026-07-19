@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "e93fcf2e-44e0-4461-a90e-88ba5cd91d52",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 15",
+  "number": 15,
+  "startsAt": "2026-07-19T11:20:00.000Z",
+  "endsAt": "2026-07-19T20:00:00.000Z",
+  "deadlineAt": "2026-07-19T11:20:00.000Z",
+  "stageType": "MOUNTAIN",
+  "startCity": "Champagnole",
+  "finishCity": "Plateau de Solaison",
+  "distanceKm": 184,
+  "createdAt": "2026-06-05T21:52:16.580Z",
+  "updatedAt": "2026-07-11T12:00:00.370Z"
+ },
+ "effectiveDeadline": "2026-07-19T11:20:00.000Z",
+ "configuredDeadline": "2026-07-19T11:20:00.000Z",
+ "secondsRemaining": 36528,
+ "isLocked": false,
+ "serverNow": "2026-07-19T01:11:11.226Z"
+}
