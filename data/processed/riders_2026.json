@@ -63,7 +63,7 @@
    "one_day": 6129,
    "hills": 2593
   },
-  "form_2026": 221.5,
+  "form_2026": 221.1,
   "giro_2026_stages": 0,
   "pcs_points_2026": 1055,
   "pcs_points_2025": 1248
@@ -109,7 +109,7 @@
    "one_day": 8836,
    "hills": 4570
   },
-  "form_2026": 199.7,
+  "form_2026": 196.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 995,
   "pcs_points_2025": 1621
@@ -201,7 +201,7 @@
    "one_day": 855,
    "hills": 1820
   },
-  "form_2026": 68.4,
+  "form_2026": 68.3,
   "giro_2026_stages": 21,
   "pcs_points_2026": 273,
   "pcs_points_2025": 407
@@ -477,7 +477,7 @@
    "one_day": 797,
    "hills": 1398
   },
-  "form_2026": 24.2,
+  "form_2026": 22.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 123,
   "pcs_points_2025": 157
@@ -500,7 +500,7 @@
    "one_day": 2865,
    "hills": 2807
   },
-  "form_2026": 108.0,
+  "form_2026": 104.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 530,
   "pcs_points_2025": 754
@@ -1972,7 +1972,7 @@
    "one_day": 974,
    "hills": 700
   },
-  "form_2026": 77.1,
+  "form_2026": 73.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 351,
   "pcs_points_2025": 535
@@ -2022,29 +2022,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 49,
   "pcs_points_2025": 144
- },
- {
-  "tm_id": "c86bc84f-77b3-4bdc-8705-2a482e4795a4",
-  "name": "Tom Van Asbroeck",
-  "position": "DOMESTIQUE",
-  "price": 4500000,
-  "team": "NSN Cycling Team",
-  "team_code": "NSN",
-  "is_available": true,
-  "pcs_url": "rider/tom-van-asbroeck",
-  "age": 36,
-  "speciality": {
-   "climber": 155,
-   "gc": 537,
-   "sprint": 2152,
-   "time_trial": 21,
-   "one_day": 3300,
-   "hills": 874
-  },
-  "form_2026": 11.9,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 58,
-  "pcs_points_2025": 130
  },
  {
   "tm_id": "ef2af029-5058-4bd5-9ee4-5f28c61a96da",
@@ -2202,7 +2179,7 @@
    "one_day": 1331,
    "hills": 1141
   },
-  "form_2026": 38.6,
+  "form_2026": 29.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 70,
   "pcs_points_2025": 251
@@ -2507,29 +2484,6 @@
   "pcs_points_2025": 179
  },
  {
-  "tm_id": "e3c11ef6-18a1-43ce-9634-6a9b7c4f49c2",
-  "name": "Tim Merlier",
-  "position": "SPRINTER",
-  "price": 11800000,
-  "team": "Soudal Quick-Step",
-  "team_code": "SOQ",
-  "is_available": true,
-  "pcs_url": "rider/tim-merlier",
-  "age": 33,
-  "speciality": {
-   "climber": 4,
-   "gc": 144,
-   "sprint": 6208,
-   "time_trial": 3,
-   "one_day": 4562,
-   "hills": 561
-  },
-  "form_2026": 81.8,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 413,
-  "pcs_points_2025": 1275
- },
- {
   "tm_id": "0b6eb779-7817-4753-af8a-3f4d629ebc95",
   "name": "Valentin Paret-Peintre",
   "position": "YOUNG_RIDER",
@@ -2685,7 +2639,7 @@
    "one_day": 8292,
    "hills": 7814
   },
-  "form_2026": 22.2,
+  "form_2026": 21.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 109,
   "pcs_points_2025": 841
@@ -2869,7 +2823,7 @@
    "one_day": 2746,
    "hills": 1990
   },
-  "form_2026": 7.8,
+  "form_2026": 6.9,
   "giro_2026_stages": 21,
   "pcs_points_2026": 33,
   "pcs_points_2025": 235
@@ -2942,29 +2896,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 48,
   "pcs_points_2025": 178
- },
- {
-  "tm_id": "759d2cb2-6fd9-4911-bf76-7c9b323645fa",
-  "name": "Jonas Vingegaard",
-  "position": "CAPTAIN",
-  "price": 11100000,
-  "team": "Team Visma | Lease a Bike",
-  "team_code": "TVL",
-  "is_available": true,
-  "pcs_url": "rider/jonas-vingegaard",
-  "age": 29,
-  "speciality": {
-   "climber": 6142,
-   "gc": 6706,
-   "sprint": 35,
-   "time_trial": 2384,
-   "one_day": 320,
-   "hills": 2153
-  },
-  "form_2026": 377.7,
-  "giro_2026_stages": 21,
-  "pcs_points_2026": 1579,
-  "pcs_points_2025": 2399
  },
  {
   "tm_id": "e267c9b1-65fc-4a52-9867-64b8c15a74b9",
@@ -3076,7 +3007,7 @@
    "one_day": 821,
    "hills": 694
   },
-  "form_2026": 53.9,
+  "form_2026": 53.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 253,
   "pcs_points_2025": 578
@@ -3611,29 +3542,6 @@
   "pcs_points_2025": 53
  },
  {
-  "tm_id": "5443f59c-c667-410a-a656-ea295eb65d96",
-  "name": "Anthon Charmig",
-  "position": "DOMESTIQUE",
-  "price": 4700000,
-  "team": "Uno-X Mobility",
-  "team_code": "UXM",
-  "is_available": true,
-  "pcs_url": "rider/anthon-charmig",
-  "age": 28,
-  "speciality": {
-   "climber": 338,
-   "gc": 772,
-   "sprint": 17,
-   "time_trial": 69,
-   "one_day": 264,
-   "hills": 560
-  },
-  "form_2026": 55.3,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 240,
-  "pcs_points_2025": 200
- },
- {
   "tm_id": "37ab6a93-87ea-48b0-884d-51492e6d3383",
   "name": "Jonas Abrahamsen",
   "position": "DOMESTIQUE",
@@ -3651,7 +3559,7 @@
    "one_day": 1275,
    "hills": 633
   },
-  "form_2026": 56.2,
+  "form_2026": 55.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 267,
   "pcs_points_2025": 582
@@ -3674,7 +3582,7 @@
    "one_day": 1701,
    "hills": 2864
   },
-  "form_2026": 46.8,
+  "form_2026": 41.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 159,
   "pcs_points_2025": 482

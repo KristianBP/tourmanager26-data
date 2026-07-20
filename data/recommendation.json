@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-19T07:17:27.793478+00:00",
+ "generated_utc": "2026-07-20T01:14:17.388125+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-15"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-16"
  ],
- "active_stage": 15,
- "stage_type": "MOUNTAIN",
- "route": "Champagnole -> Plateau de Solaison",
- "deadline_utc": "2026-07-19T11:20:00.000Z",
+ "active_stage": 16,
+ "stage_type": "INDIVIDUAL_TIME_TRIAL",
+ "route": "Évian-les-Bains -> Thonon-les-Bains",
+ "deadline_utc": "2026-07-21T11:00:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,10 +16,6 @@
  },
  "blocks": {
   "A": [
-   15,
-   15
-  ],
-  "B": [
    16,
    21
   ]
@@ -28,52 +24,43 @@
   "Baptiste Veistroffer",
   "Isaac del Toro",
   "Jasper Philipsen",
-  "Jonas Vingegaard",
   "Mathias Vacek",
   "Mattias Skjelmose",
-  "Tadej Pogačar",
-  "Tim Merlier"
+  "Tadej Pogačar"
  ],
  "noted_form": [],
  "today": {
   "transfers_in": [
-   "Adam Yates",
-   "Mathieu van der Poel"
+   "Anthony Turgis",
+   "Mathieu van der Poel",
+   "Remco Evenepoel"
   ],
   "transfers_out": [
-   "Ion Izagirre",
-   "Luke Durbridge"
+   "Jonas Vingegaard",
+   "Silvan Dillier",
+   "Tim Merlier"
   ],
-  "sd": "Caja Rural - Seguros RGA",
+  "sd": "UAE Team Emirates - XRG",
   "sd_change": true,
   "team_after": [
-   "Adam Yates",
+   "Anthony Turgis",
    "Baptiste Veistroffer",
+   "Ion Izagirre",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
-   "Jonas Vingegaard",
+   "Luke Durbridge",
    "Mathias Vacek",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
-   "Silvan Dillier",
-   "Tadej Pogačar",
-   "Tim Merlier"
-  ],
-  "cost": 100000000
- },
- "plan_E": 6717.0,
- "hold_E": 5308.3,
- "delta_vs_hold": 1408.7,
- "future_waves": {
-  "B": [
-   "Anthony Turgis",
-   "Ion Izagirre",
-   "Lenny Martínez",
-   "Matej Mohorič",
    "Remco Evenepoel",
-   "SD:Red Bull - BORA - hansgrohe"
-  ]
+   "Tadej Pogačar"
+  ],
+  "cost": 99300000
  },
- "transfers_needed_today": 3
+ "plan_E": 5763.3,
+ "hold_E": null,
+ "delta_vs_hold": null,
+ "future_waves": {},
+ "transfers_needed_today": 4
 }
