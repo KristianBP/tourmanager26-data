@@ -1,21 +1,21 @@
 {
   "_hvordan_oppdatere": "Etter at du har gjort bytter i tourmanager-appen: svar i morgenbrief-chatten (agenten oppdaterer via git), eller rediger denne filen manuelt på github.com.",
   "riders": [
-    "Baptiste Veistroffer",
-    "Ion Izagirre",
+    "Anthony Turgis",
+    "Ben Healy",
+    "Clément Russo",
+    "Florian Lipowitz",
     "Isaac del Toro",
     "Jakub Otruba",
-    "Jasper Philipsen",
-    "Jonas Vingegaard",
-    "Luke Durbridge",
-    "Mathias Vacek",
+    "Mathieu van der Poel",
     "Mattias Skjelmose",
+    "Remco Evenepoel",
     "Silvan Dillier",
     "Tadej Pogačar",
-    "Tim Merlier"
+    "Valentin Paret-Peintre"
   ],
-  "sport_director": "Soudal Quick-Step",
-  "transfers_used": 7,
+  "sport_director": "UAE Team Emirates - XRG",
+  "transfers_used": 15,
   "transfer_reserve": 5,
-  "planned_waves_note": "GJENSTÅENDE BYTTE (avtalt 13/7; SD Alpecin->Soudal utført 16/7) — 1 AVKLART (venter på Kristian), 1 ÅPENT valg. AVKLART: Izagirre(62p, død slot)->Sean Quinn (4,7M bruddklatrer, EF, delvis GC-fri). ÅPENT — URYTTER-SLOT (Vacek ut?): del Toro er ANKER/safe sanker på den andre YR-slotten, så DENNE kan være høyvarians bruddspill. Kandidater, ALLE frie til brudd: 1) VALENTIN PARET-PEINTRE (VPP): ren klatrer, 5% eid=maks differensial, uttalt klatretrøyemål, UTVETYDIG GC-FRI (utenfor topp40) -> mest sikker på å komme i brudd. Oraklet tipper ham topp-15 i morgen OG han er nesten eneste ikke-GC-rytter på lista. Holder HELE fjellblokka (14-20), INGEN churn. 2) Lenny Martinez: tippet 2* cyclingstage et.10+14, 12% klatretrøye-vinn, MEN GC-BUNDET nr.9 +4:57 (kan holdes tilbake tross intervju). 3) Alex Baudin: mest bevist (708p), allsidig, 8% eid. 4) BEHOLD VACEK: hans siste store dag er et.13 (kupert 2*), men tak ~120 (mistet hvit trøye til del Toro). SEKVENSERING: bytte til klatrer NÅ gir et.10 (fjell KOM-pott 99); beholde Vacek gir et.13 (kupert KOM 36). Nesten jevnt (~160 vs ~140), lite overtak til å bytte nå. VIKTIG: favorittlistene predikerer ETAPPEVINNERE (GC-ryttere i front), IKKE klatretrøyejegere i bruddet -> undervurderer frie klatrere som VPP. Bruk news.json + oracle + gc.json bruddfrihet i morgen; presenter VPP vs Martinez vs Baudin vs behold-Vacek med fersk data og la Kristian velge. SENERE: Alpe-bølge 18/7 (Merlier->billig spurter -> MVDP for Paris et.21, Evenepoel-vindu, SD Soudal->UAE). Paris-SD 26/7. DNF-buffer siste uke. RANG-LÆRDOM: rang-spill, dekning mot >40%-eide favoritter rang-vektes."
+  "planned_waves_note": "STATUS 20/7 (synkronisert manuelt fra app-skjermbilde, 10/25 overganger igjen): Kristian gjorde en stor bølge selv, delvis avvikende fra avtalt plan. DNF-tvang: Vingegaard->Evenepoel, Merlier->Turgis (som anbefalt). AVVIK fra avtalt 13/7-plan: Izagirre-slotten gikk til Lipowitz (Red Bull-Bora, klatrer) i stedet for avtalte Sean Quinn. URYTTER-valget (Vacek ut) ble løst med Valentin Paret-Peintre (VPP), ikke Martinez/Baudin. I tillegg, utenfor tidligere plan: Philipsen->Russo (spurter), Veistroffer+Durbridge->Healy+van der Poel (hjelperyttere). Alpe-bølgen (SD Soudal->UAE, MVDP inn) er dermed utført, tidligere enn opprinnelig \"senere/18-7\"-plan. INGEN gjenstående avtalte bytter — vent på nye instrukser fra Kristian i morgenbrief-svar. RANG-LÆRDOM: rang-spill, dekning mot >40%-eide favoritter rang-vektes."
 }
