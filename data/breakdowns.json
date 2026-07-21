@@ -1,10 +1,9 @@
 {
- "Jasper Philipsen": {
+ "Mathieu van der Poel": {
   "stage": 15,
-  "points": 52,
+  "points": 8,
   "notes": [
-   "Målgang 159. plass: 1p",
-   "Spurt: Saint-Laurent-en-Grandvaux 1.: 25p"
+   "Målgang 91. plass: 2p"
   ]
  },
  "Silvan Dillier": {
@@ -21,19 +20,18 @@
    "Målgang 77. plass: 2p"
   ]
  },
- "Ion Izagirre": {
+ "Ben Healy": {
   "stage": 15,
-  "points": 6,
+  "points": 12,
   "notes": [
-   "Målgang 60. plass: 2p"
+   "Målgang 44. plass: 3p"
   ]
  },
- "Mathias Vacek": {
+ "Clément Russo": {
   "stage": 15,
-  "points": 8,
+  "points": 4,
   "notes": [
-   "Målgang 140. plass: 1p",
-   "Spurt: Saint-Laurent-en-Grandvaux 15.: 1p"
+   "Målgang 56. plass: 2p"
   ]
  },
  "Mattias Skjelmose": {
@@ -43,25 +41,36 @@
    "Målgang 7. plass: 32p"
   ]
  },
- "Baptiste Veistroffer": {
+ "Florian Lipowitz": {
+  "stage": 15,
+  "points": 186,
+  "notes": [
+   "Målgang 5. plass: 40p",
+   "Plateau de Solaison (mål) (HC) 5.: 12p",
+   "Lagkamerat vant etappen (×3): 30p"
+  ]
+ },
+ "Remco Evenepoel": {
+  "stage": 15,
+  "points": 320,
+  "notes": [
+   "Målgang 1. plass: 100p",
+   "Plateau de Solaison (mål) (HC) 1.: 60p"
+  ]
+ },
+ "Valentin Paret-Peintre": {
+  "stage": 15,
+  "points": 32,
+  "notes": [
+   "Målgang 79. plass: 2p",
+   "Côte des Rousses (K3) 1.: 6p"
+  ]
+ },
+ "Anthony Turgis": {
   "stage": 15,
   "points": 4,
   "notes": [
-   "Målgang 127. plass: 1p"
-  ]
- },
- "Soudal Quick-Step": {
-  "stage": 12,
-  "points": 160,
-  "notes": [
-   "Lagets beste: 1. på etappen → 160p (SD, ganges ikke)"
-  ]
- },
- "Luke Durbridge": {
-  "stage": 15,
-  "points": 4,
-  "notes": [
-   "Målgang 102. plass: 1p"
+   "Målgang 87. plass: 2p"
   ]
  },
  "Isaac del Toro": {
@@ -79,6 +88,13 @@
   "notes": [
    "Målgang 2. plass: 80p",
    "Plateau de Solaison (mål) (HC) 2.: 48p"
+  ]
+ },
+ "UAE Team Emirates - XRG": {
+  "stage": 15,
+  "points": 100,
+  "notes": [
+   "Lagets beste: 2. på etappen → 100p (SD, ganges ikke)"
   ]
  },
  "Mads Pedersen": {
@@ -100,19 +116,12 @@
    "Mest offensive rytter (×4): 100p"
   ]
  },
- "Remco Evenepoel": {
+ "Jasper Philipsen": {
   "stage": 15,
-  "points": 320,
+  "points": 52,
   "notes": [
-   "Målgang 1. plass: 100p",
-   "Plateau de Solaison (mål) (HC) 1.: 60p"
-  ]
- },
- "UAE Team Emirates - XRG": {
-  "stage": 15,
-  "points": 100,
-  "notes": [
-   "Lagets beste: 2. på etappen → 100p (SD, ganges ikke)"
+   "Målgang 159. plass: 1p",
+   "Spurt: Saint-Laurent-en-Grandvaux 1.: 25p"
   ]
  },
  "Paul Seixas": {
@@ -131,28 +140,12 @@
    "Spurt: Saint-Laurent-en-Grandvaux 4.: 14p"
   ]
  },
- "Florian Lipowitz": {
-  "stage": 15,
-  "points": 186,
-  "notes": [
-   "Målgang 5. plass: 40p",
-   "Plateau de Solaison (mål) (HC) 5.: 12p",
-   "Lagkamerat vant etappen (×3): 30p"
-  ]
- },
  "Lenny Martínez": {
   "stage": 15,
   "points": 168,
   "notes": [
    "Målgang 6. plass: 36p",
    "Plateau de Solaison (mål) (HC) 6.: 6p"
-  ]
- },
- "Mathieu van der Poel": {
-  "stage": 15,
-  "points": 8,
-  "notes": [
-   "Målgang 91. plass: 2p"
   ]
  },
  "Alex Baudin": {
@@ -162,12 +155,11 @@
    "Målgang 35. plass: 3p"
   ]
  },
- "Valentin Paret-Peintre": {
+ "Baptiste Veistroffer": {
   "stage": 15,
-  "points": 32,
+  "points": 4,
   "notes": [
-   "Målgang 79. plass: 2p",
-   "Côte des Rousses (K3) 1.: 6p"
+   "Målgang 127. plass: 1p"
   ]
  }
 }

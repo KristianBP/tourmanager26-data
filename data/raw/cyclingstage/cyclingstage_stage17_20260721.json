@@ -1,0 +1,65 @@
+{
+ "source": "cyclingstage",
+ "stage": 17,
+ "fetched": "2026-07-21",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-17-contenders-tdf-2026/",
+ "favorites": [
+  {
+   "name": "Mathieu van der Poel",
+   "stars": 3
+  },
+  {
+   "name": "Mads Pedersen",
+   "stars": 3
+  },
+  {
+   "name": "Dorian Godon",
+   "stars": 3
+  },
+  {
+   "name": "Mauro Schmid",
+   "stars": 3
+  },
+  {
+   "name": "Olav Kooij",
+   "stars": 2
+  },
+  {
+   "name": "Jasper Philipsen",
+   "stars": 2
+  },
+  {
+   "name": "Kasper Asgreen",
+   "stars": 2
+  },
+  {
+   "name": "Quinn Simmons",
+   "stars": 2
+  },
+  {
+   "name": "Jasper Stuyven",
+   "stars": 2
+  },
+  {
+   "name": "Filippo Ganna",
+   "stars": 1
+  },
+  {
+   "name": "Victor Campenaerts",
+   "stars": 1
+  },
+  {
+   "name": "Maxim Van Gils",
+   "stars": 1
+  },
+  {
+   "name": "Alex Baudin",
+   "stars": 1
+  },
+  {
+   "name": "Søren Wærenskjold",
+   "stars": 1
+  }
+ ],
+ "published": true
+}
