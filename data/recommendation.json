@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-21T07:23:17.157446+00:00",
+ "generated_utc": "2026-07-22T01:07:33.948339+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-16"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-17"
  ],
- "active_stage": 16,
- "stage_type": "INDIVIDUAL_TIME_TRIAL",
- "route": "Évian-les-Bains -> Thonon-les-Bains",
- "deadline_utc": "2026-07-21T11:00:00.000Z",
+ "active_stage": 17,
+ "stage_type": "FLAT",
+ "route": "Chambery -> Voiron",
+ "deadline_utc": "2026-07-22T11:35:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   16,
+   17,
    21
   ]
  },
@@ -36,7 +36,7 @@
  "today": {
   "transfers_in": [
    "Jasper Philipsen",
-   "Luke Durbridge"
+   "Kamil Gradek"
   ],
   "transfers_out": [
    "Ben Healy",
@@ -50,7 +50,7 @@
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
-   "Luke Durbridge",
+   "Kamil Gradek",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
    "Remco Evenepoel",
@@ -58,11 +58,11 @@
    "Tadej Pogačar",
    "Valentin Paret-Peintre"
   ],
-  "cost": 99900000
+  "cost": 99800000
  },
- "plan_E": 5291.7,
- "hold_E": 4465.5,
- "delta_vs_hold": 826.2,
+ "plan_E": 4906.4,
+ "hold_E": 4078.5,
+ "delta_vs_hold": 827.9,
  "future_waves": {},
  "transfers_needed_today": 2
 }

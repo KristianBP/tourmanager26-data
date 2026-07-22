@@ -1,165 +1,146 @@
 {
  "Mathieu van der Poel": {
-  "stage": 15,
+  "stage": 16,
   "points": 8,
   "notes": [
-   "Målgang 91. plass: 2p"
+   "Målgang 96. plass: 2p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 15,
+  "stage": 16,
   "points": 4,
   "notes": [
-   "Målgang 103. plass: 1p"
+   "Målgang 155. plass: 1p"
   ]
  },
  "Jakub Otruba": {
-  "stage": 15,
-  "points": 6,
+  "stage": 16,
+  "points": 9,
   "notes": [
-   "Målgang 77. plass: 2p"
+   "Målgang 28. plass: 3p"
   ]
  },
  "Ben Healy": {
-  "stage": 15,
-  "points": 12,
+  "stage": 16,
+  "points": 4,
   "notes": [
-   "Målgang 44. plass: 3p"
+   "Målgang 118. plass: 1p"
   ]
  },
  "Clément Russo": {
-  "stage": 15,
-  "points": 4,
+  "stage": 16,
+  "points": 6,
   "notes": [
-   "Målgang 56. plass: 2p"
+   "Målgang 45. plass: 3p"
   ]
  },
  "Mattias Skjelmose": {
-  "stage": 15,
-  "points": 96,
+  "stage": 16,
+  "points": 198,
   "notes": [
-   "Målgang 7. plass: 32p"
+   "Målgang 3. plass: 60p",
+   "Côte de Larringes (K2) 3.: 6p"
   ]
  },
  "Florian Lipowitz": {
-  "stage": 15,
-  "points": 186,
+  "stage": 16,
+  "points": 39,
   "notes": [
-   "Målgang 5. plass: 40p",
-   "Plateau de Solaison (mål) (HC) 5.: 12p",
+   "Côte de Larringes (K2) 4.: 3p",
    "Lagkamerat vant etappen (×3): 30p"
   ]
  },
  "Remco Evenepoel": {
-  "stage": 15,
-  "points": 320,
+  "stage": 16,
+  "points": 230,
   "notes": [
    "Målgang 1. plass: 100p",
-   "Plateau de Solaison (mål) (HC) 1.: 60p"
+   "Côte de Larringes (K2) 1.: 15p"
   ]
  },
  "Valentin Paret-Peintre": {
-  "stage": 15,
-  "points": 32,
+  "stage": 16,
+  "points": 8,
   "notes": [
-   "Målgang 79. plass: 2p",
-   "Côte des Rousses (K3) 1.: 6p"
+   "Målgang 64. plass: 2p"
   ]
  },
  "Anthony Turgis": {
-  "stage": 15,
-  "points": 4,
+  "stage": 16,
+  "points": 2,
   "notes": [
-   "Målgang 87. plass: 2p"
+   "Målgang 131. plass: 1p"
   ]
  },
  "Isaac del Toro": {
-  "stage": 15,
-  "points": 464,
+  "stage": 16,
+  "points": 160,
   "notes": [
-   "Målgang 3. plass: 60p",
-   "Plateau de Solaison (mål) (HC) 3.: 36p",
-   "Trøyeovertagelse (×4): 80p"
+   "Målgang 5. plass: 40p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 15,
-  "points": 256,
+  "stage": 16,
+  "points": 178,
   "notes": [
    "Målgang 2. plass: 80p",
-   "Plateau de Solaison (mål) (HC) 2.: 48p"
+   "Côte de Larringes (K2) 2.: 9p"
   ]
  },
  "UAE Team Emirates - XRG": {
-  "stage": 15,
+  "stage": 16,
   "points": 100,
   "notes": [
    "Lagets beste: 2. på etappen → 100p (SD, ganges ikke)"
   ]
  },
  "Mads Pedersen": {
-  "stage": 15,
-  "points": 42,
+  "stage": 16,
+  "points": 4,
   "notes": [
-   "Målgang 141. plass: 1p",
-   "Spurt: Saint-Laurent-en-Grandvaux 2.: 20p"
+   "Målgang 69. plass: 2p"
   ]
  },
  "Quinn Simmons": {
-  "stage": 15,
-  "points": 352,
+  "stage": 16,
+  "points": 12,
   "notes": [
-   "Målgang 10. plass: 21p",
-   "Spurt: Saint-Laurent-en-Grandvaux 7.: 9p",
-   "Le Salève - Col de la Croisette (K1) 1.: 30p",
-   "Côte du Mont (K3) 2.: 3p",
-   "Mest offensive rytter (×4): 100p"
-  ]
- },
- "Jasper Philipsen": {
-  "stage": 15,
-  "points": 52,
-  "notes": [
-   "Målgang 159. plass: 1p",
-   "Spurt: Saint-Laurent-en-Grandvaux 1.: 25p"
+   "Målgang 47. plass: 3p"
   ]
  },
  "Paul Seixas": {
-  "stage": 15,
-  "points": 148,
+  "stage": 16,
+  "points": 100,
   "notes": [
-   "Målgang 4. plass: 50p",
-   "Plateau de Solaison (mål) (HC) 4.: 24p"
+   "Målgang 4. plass: 50p"
+  ]
+ },
+ "Jasper Philipsen": {
+  "stage": 16,
+  "points": 2,
+  "notes": [
+   "Målgang 153. plass: 1p"
   ]
  },
  "Biniam Girmay": {
-  "stage": 15,
-  "points": 30,
+  "stage": 16,
+  "points": 2,
   "notes": [
-   "Målgang 163. plass: 1p",
-   "Spurt: Saint-Laurent-en-Grandvaux 4.: 14p"
+   "Målgang 162. plass: 1p"
   ]
  },
  "Lenny Martínez": {
-  "stage": 15,
-  "points": 168,
+  "stage": 16,
+  "points": 12,
   "notes": [
-   "Målgang 6. plass: 36p",
-   "Plateau de Solaison (mål) (HC) 6.: 6p"
+   "Målgang 20. plass: 3p"
   ]
  },
  "Alex Baudin": {
-  "stage": 15,
-  "points": 12,
+  "stage": 16,
+  "points": 8,
   "notes": [
-   "Målgang 35. plass: 3p"
-  ]
- },
- "Baptiste Veistroffer": {
-  "stage": 15,
-  "points": 4,
-  "notes": [
-   "Målgang 127. plass: 1p"
+   "Målgang 74. plass: 2p"
   ]
  }
 }

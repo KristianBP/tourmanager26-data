@@ -12,6 +12,7 @@
  "favourites_stage14.json",
  "favourites_stage15.json",
  "favourites_stage16.json",
+ "favourites_stage17.json",
  "oracle_stage04.json",
  "oracle_stage05.json",
  "oracle_stage06.json",
@@ -25,6 +26,7 @@
  "oracle_stage14.json",
  "oracle_stage15.json",
  "oracle_stage16.json",
+ "oracle_stage17.json",
  "points_20260707.json",
  "points_20260708.json",
  "points_20260709.json",
@@ -39,5 +41,6 @@
  "points_20260718.json",
  "points_20260719.json",
  "points_20260720.json",
- "points_20260721.json"
+ "points_20260721.json",
+ "points_20260722.json"
 ]
