@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 18,
+ "fetched": "2026-07-23",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-18-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Thymen Arensman",
@@ -65,5 +68,6 @@
    "name": "Einer Rubio",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }

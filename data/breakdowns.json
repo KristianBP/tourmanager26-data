@@ -1,45 +1,48 @@
 {
  "Mathieu van der Poel": {
-  "stage": 16,
-  "points": 8,
+  "stage": 17,
+  "points": 136,
   "notes": [
-   "Målgang 96. plass: 2p"
+   "Målgang 11. plass: 18p",
+   "Col des Prés (K3) 1.: 6p",
+   "Lagkamerat vant etappen (×4): 40p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 16,
-  "points": 4,
+  "stage": 17,
+  "points": 48,
   "notes": [
-   "Målgang 155. plass: 1p"
+   "Målgang 78. plass: 2p",
+   "Lagkamerat vant etappen (×4): 40p"
   ]
  },
  "Jakub Otruba": {
-  "stage": 16,
-  "points": 9,
+  "stage": 17,
+  "points": 3,
   "notes": [
-   "Målgang 28. plass: 3p"
+   "Målgang 130. plass: 1p"
   ]
  },
  "Ben Healy": {
-  "stage": 16,
-  "points": 4,
+  "stage": 17,
+  "points": 76,
   "notes": [
-   "Målgang 118. plass: 1p"
+   "Målgang 35. plass: 3p",
+   "Spurt: Colombe 3.: 16p"
   ]
  },
  "Clément Russo": {
-  "stage": 16,
-  "points": 6,
+  "stage": 17,
+  "points": 72,
   "notes": [
-   "Målgang 45. plass: 3p"
+   "Målgang 6. plass: 36p"
   ]
  },
  "Mattias Skjelmose": {
-  "stage": 16,
-  "points": 198,
+  "stage": 17,
+  "points": 6,
   "notes": [
-   "Målgang 3. plass: 60p",
-   "Côte de Larringes (K2) 3.: 6p"
+   "Målgang 62. plass: 2p"
   ]
  },
  "Florian Lipowitz": {
@@ -51,40 +54,39 @@
   ]
  },
  "Remco Evenepoel": {
-  "stage": 16,
-  "points": 230,
+  "stage": 17,
+  "points": 4,
   "notes": [
-   "Målgang 1. plass: 100p",
-   "Côte de Larringes (K2) 1.: 15p"
+   "Målgang 57. plass: 2p"
   ]
  },
  "Valentin Paret-Peintre": {
-  "stage": 16,
-  "points": 8,
+  "stage": 17,
+  "points": 16,
   "notes": [
-   "Målgang 64. plass: 2p"
+   "Målgang 148. plass: 1p",
+   "Côte de Bassa (K4) 1.: 3p"
   ]
  },
  "Anthony Turgis": {
-  "stage": 16,
+  "stage": 17,
   "points": 2,
   "notes": [
-   "Målgang 131. plass: 1p"
+   "Målgang 102. plass: 1p"
   ]
  },
  "Isaac del Toro": {
-  "stage": 16,
-  "points": 160,
+  "stage": 17,
+  "points": 8,
   "notes": [
-   "Målgang 5. plass: 40p"
+   "Målgang 52. plass: 2p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 16,
-  "points": 178,
+  "stage": 17,
+  "points": 4,
   "notes": [
-   "Målgang 2. plass: 80p",
-   "Côte de Larringes (K2) 2.: 9p"
+   "Målgang 50. plass: 2p"
   ]
  },
  "UAE Team Emirates - XRG": {
@@ -95,52 +97,63 @@
   ]
  },
  "Mads Pedersen": {
-  "stage": 16,
-  "points": 4,
+  "stage": 17,
+  "points": 156,
   "notes": [
-   "Målgang 69. plass: 2p"
-  ]
- },
- "Quinn Simmons": {
-  "stage": 16,
-  "points": 12,
-  "notes": [
-   "Målgang 47. plass: 3p"
-  ]
- },
- "Paul Seixas": {
-  "stage": 16,
-  "points": 100,
-  "notes": [
-   "Målgang 4. plass: 50p"
+   "Målgang 8. plass: 28p",
+   "Spurt: Colombe 1.: 25p",
+   "Mest offensive rytter (×2): 50p"
   ]
  },
  "Jasper Philipsen": {
-  "stage": 16,
-  "points": 2,
+  "stage": 17,
+  "points": 218,
   "notes": [
-   "Målgang 153. plass: 1p"
+   "Målgang 1. plass: 100p",
+   "Spurt: Colombe 7.: 9p"
+  ]
+ },
+ "Quinn Simmons": {
+  "stage": 17,
+  "points": 44,
+  "notes": [
+   "Målgang 21. plass: 3p",
+   "Spurt: Colombe 8.: 8p"
+  ]
+ },
+ "Paul Seixas": {
+  "stage": 17,
+  "points": 4,
+  "notes": [
+   "Målgang 59. plass: 2p"
+  ]
+ },
+ "Mauro Schmid": {
+  "stage": 17,
+  "points": 320,
+  "notes": [
+   "Målgang 2. plass: 80p"
   ]
  },
  "Biniam Girmay": {
-  "stage": 16,
-  "points": 2,
+  "stage": 17,
+  "points": 4,
   "notes": [
-   "Målgang 162. plass: 1p"
+   "Målgang 91. plass: 2p"
+  ]
+ },
+ "Olav Kooij": {
+  "stage": 17,
+  "points": 120,
+  "notes": [
+   "Målgang 3. plass: 60p"
   ]
  },
  "Lenny Martínez": {
-  "stage": 16,
-  "points": 12,
-  "notes": [
-   "Målgang 20. plass: 3p"
-  ]
- },
- "Alex Baudin": {
-  "stage": 16,
+  "stage": 17,
   "points": 8,
   "notes": [
-   "Målgang 74. plass: 2p"
+   "Målgang 68. plass: 2p"
   ]
  }
 }

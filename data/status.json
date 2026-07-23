@@ -1,5 +1,7 @@
 {
- "fetched_at_utc": "2026-07-22T07:26:01.076315+00:00",
- "errors": [],
- "active_stage": 17
+ "fetched_at_utc": "2026-07-23T01:12:48.257882+00:00",
+ "errors": [
+  "gc: Cloudflare protection detected. Install 'cloudscraper': pip install cloudscraper"
+ ],
+ "active_stage": 18
 }

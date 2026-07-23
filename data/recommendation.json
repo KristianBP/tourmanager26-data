@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-22T07:26:23.706860+00:00",
+ "generated_utc": "2026-07-23T01:13:17.389473+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-17"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-18"
  ],
- "active_stage": 17,
- "stage_type": "FLAT",
- "route": "Chambery -> Voiron",
- "deadline_utc": "2026-07-22T11:35:00.000Z",
+ "active_stage": 18,
+ "stage_type": "MOUNTAIN",
+ "route": "Voiron -> Orcières-Merlette",
+ "deadline_utc": "2026-07-23T10:50:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   17,
+   18,
    21
   ]
  },
@@ -31,12 +31,13 @@
  ],
  "noted_form": [
   "Anthony Turgis",
+  "Ben Healy",
   "Clément Russo"
  ],
  "today": {
   "transfers_in": [
    "Jasper Philipsen",
-   "Kamil Gradek"
+   "Luke Durbridge"
   ],
   "transfers_out": [
    "Ben Healy",
@@ -50,7 +51,7 @@
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
-   "Kamil Gradek",
+   "Luke Durbridge",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
    "Remco Evenepoel",
@@ -58,11 +59,11 @@
    "Tadej Pogačar",
    "Valentin Paret-Peintre"
   ],
-  "cost": 99800000
+  "cost": 99900000
  },
- "plan_E": 4906.4,
- "hold_E": 4078.5,
- "delta_vs_hold": 827.9,
+ "plan_E": 3920.5,
+ "hold_E": 3544.4,
+ "delta_vs_hold": 376.1,
  "future_waves": {},
  "transfers_needed_today": 2
 }
