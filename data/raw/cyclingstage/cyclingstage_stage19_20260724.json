@@ -1,5 +1,8 @@
 {
+ "source": "cyclingstage",
  "stage": 19,
+ "fetched": "2026-07-24",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-19-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Tadej Pogacar",
@@ -49,5 +52,6 @@
    "name": "Davide Piganzoli",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }

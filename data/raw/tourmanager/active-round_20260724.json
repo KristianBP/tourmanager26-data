@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "833692f4-1789-4766-91e1-11be96daa8bf",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 19",
+  "number": 19,
+  "startsAt": "2026-07-24T12:15:00.000Z",
+  "endsAt": "2026-07-24T20:00:00.000Z",
+  "deadlineAt": "2026-07-24T12:15:00.000Z",
+  "stageType": "MOUNTAIN",
+  "startCity": "Gap",
+  "finishCity": "Alpe d'Huez",
+  "distanceKm": 128,
+  "createdAt": "2026-06-05T21:52:17.132Z",
+  "updatedAt": "2026-07-11T12:00:00.474Z"
+ },
+ "effectiveDeadline": "2026-07-24T12:15:00.000Z",
+ "configuredDeadline": "2026-07-24T12:15:00.000Z",
+ "secondsRemaining": 39922,
+ "isLocked": false,
+ "serverNow": "2026-07-24T01:09:37.627Z"
+}

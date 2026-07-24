@@ -414,29 +414,6 @@
   "pcs_points_2025": 133
  },
  {
-  "tm_id": "59d29d1c-2146-4764-9bc7-468bf2f24f5c",
-  "name": "Jose Felix Parra",
-  "position": "CLIMBER",
-  "price": 5000000,
-  "team": "Caja Rural - Seguros RGA",
-  "team_code": "CJR",
-  "is_available": true,
-  "pcs_url": "rider/jose-felix-parra",
-  "age": 29,
-  "speciality": {
-   "climber": 502,
-   "gc": 617,
-   "sprint": 0,
-   "time_trial": 0,
-   "one_day": 178,
-   "hills": 122
-  },
-  "form_2026": 41.4,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 178,
-  "pcs_points_2025": 207
- },
- {
   "tm_id": "f4c08327-5c5f-45b0-ba95-e82ac543e11b",
   "name": "Sebastian Berwick",
   "position": "CAPTAIN",
@@ -560,7 +537,7 @@
   "team_code": "COF",
   "is_available": true,
   "pcs_url": "rider/hugo-page",
-  "age": 24,
+  "age": 25,
   "speciality": {
    "climber": 53,
    "gc": 192,
@@ -1449,29 +1426,6 @@
   "pcs_points_2025": 153
  },
  {
-  "tm_id": "602558a2-9392-4c87-a88a-da2f616292a3",
-  "name": "Lars Craps",
-  "position": "YOUNG_RIDER",
-  "price": 4800000,
-  "team": "Lotto Intermarché",
-  "team_code": "LIM",
-  "is_available": true,
-  "pcs_url": "rider/lars-craps",
-  "age": 24,
-  "speciality": {
-   "climber": 128,
-   "gc": 186,
-   "sprint": 26,
-   "time_trial": 4,
-   "one_day": 50,
-   "hills": 119
-  },
-  "form_2026": 13.6,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 56,
-  "pcs_points_2025": 74
- },
- {
   "tm_id": "adb05235-294f-44c0-a9d1-fbb9010d38d5",
   "name": "Lennert Van Eetvelt",
   "position": "YOUNG_RIDER",
@@ -2087,7 +2041,7 @@
    "one_day": 1066,
    "hills": 1592
   },
-  "form_2026": 42.2,
+  "form_2026": 35.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 200,
   "pcs_points_2025": 652
@@ -2183,29 +2137,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 70,
   "pcs_points_2025": 251
- },
- {
-  "tm_id": "f48a23ed-8300-4772-9e24-ec0d51996865",
-  "name": "Florian Lipowitz",
-  "position": "CLIMBER",
-  "price": 8000000,
-  "team": "Red Bull - BORA - hansgrohe",
-  "team_code": "RBH",
-  "is_available": true,
-  "pcs_url": "rider/florian-lipowitz",
-  "age": 25,
-  "speciality": {
-   "climber": 1760,
-   "gc": 2210,
-   "sprint": 4,
-   "time_trial": 663,
-   "one_day": 81,
-   "hills": 424
-  },
-  "form_2026": 297.8,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 1002,
-  "pcs_points_2025": 1173
  },
  {
   "tm_id": "394e56db-e439-44dd-be1a-9b46ea45d396",
@@ -2662,7 +2593,7 @@
    "one_day": 3743,
    "hills": 2017
   },
-  "form_2026": 28.2,
+  "form_2026": 28.1,
   "giro_2026_stages": 16,
   "pcs_points_2026": 172,
   "pcs_points_2025": 226
@@ -2754,7 +2685,7 @@
    "one_day": 216,
    "hills": 170
   },
-  "form_2026": 8.2,
+  "form_2026": 7.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 40,
   "pcs_points_2025": 71
@@ -3333,29 +3264,6 @@
   "giro_2026_stages": 3,
   "pcs_points_2026": 390,
   "pcs_points_2025": 846
- },
- {
-  "tm_id": "17dcb924-296c-4640-9a5e-2f396f8de95c",
-  "name": "Brandon McNulty",
-  "position": "TIME_TRIALIST",
-  "price": 7100000,
-  "team": "UAE Team Emirates - XRG",
-  "team_code": "UAE",
-  "is_available": true,
-  "pcs_url": "rider/brandon-mcnulty",
-  "age": 28,
-  "speciality": {
-   "climber": 2398,
-   "gc": 3073,
-   "sprint": 60,
-   "time_trial": 2517,
-   "one_day": 1407,
-   "hills": 1288
-  },
-  "form_2026": 102.4,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 268,
-  "pcs_points_2025": 1338
  },
  {
   "tm_id": "7240096d-6c00-432c-bf94-fb4adf5c11e7",

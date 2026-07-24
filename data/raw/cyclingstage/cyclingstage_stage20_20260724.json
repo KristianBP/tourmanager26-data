@@ -1,5 +1,8 @@
 {
- "stage": 19,
+ "source": "cyclingstage",
+ "stage": 20,
+ "fetched": "2026-07-24",
+ "url": "https://www.cyclingstage.com/tour-de-france-2026-favourites/stage-20-contenders-tdf-2026/",
  "favorites": [
   {
    "name": "Tadej Pogacar",
@@ -10,15 +13,7 @@
    "stars": 3
   },
   {
-   "name": "Isaac del Toro",
-   "stars": 3
-  },
-  {
    "name": "Thymen Arensman",
-   "stars": 2
-  },
-  {
-   "name": "Richard Carapaz",
    "stars": 2
   },
   {
@@ -26,28 +21,29 @@
    "stars": 2
   },
   {
-   "name": "Remco Evenepoel",
+   "name": "Richard Carapaz",
    "stars": 2
+  },
+  {
+   "name": "Isaac del Toro",
+   "stars": 1
   },
   {
    "name": "Paul Seixas",
    "stars": 1
   },
   {
-   "name": "Matteo Jorgenson",
+   "name": "Remco Evenepoel",
    "stars": 1
   },
   {
-   "name": "Harold Tejada",
+   "name": "Adam Yates",
    "stars": 1
   },
   {
-   "name": "Valentin Paret-Peintre",
-   "stars": 1
-  },
-  {
-   "name": "Davide Piganzoli",
+   "name": "Einer Rubio",
    "stars": 1
   }
- ]
+ ],
+ "published": true
 }
