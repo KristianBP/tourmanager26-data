@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-24T07:21:16.025570+00:00",
+ "generated_utc": "2026-07-25T01:10:43.632487+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-19"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-20"
  ],
- "active_stage": 19,
+ "active_stage": 20,
  "stage_type": "MOUNTAIN",
- "route": "Gap -> Alpe d'Huez",
- "deadline_utc": "2026-07-24T12:15:00.000Z",
+ "route": "Le Bourg d'Oisans -> Alpe d'Huez",
+ "deadline_utc": "2026-07-25T09:30:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,7 +16,7 @@
  },
  "blocks": {
   "A": [
-   19,
+   20,
    21
   ]
  },
@@ -35,24 +35,24 @@
  ],
  "today": {
   "transfers_in": [
-   "Adam Yates",
+   "Ion Izagirre",
    "Jasper Philipsen",
-   "Jasper Stuyven"
+   "John Degenkolb"
   ],
   "transfers_out": [
    "Ben Healy",
    "Clément Russo",
    "Florian Lipowitz"
   ],
-  "sd": "EF Education - EasyPost",
-  "sd_change": true,
+  "sd": "UAE Team Emirates - XRG",
+  "sd_change": false,
   "team_after": [
-   "Adam Yates",
    "Anthony Turgis",
+   "Ion Izagirre",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
-   "Jasper Stuyven",
+   "John Degenkolb",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
    "Remco Evenepoel",
@@ -60,11 +60,11 @@
    "Tadej Pogačar",
    "Valentin Paret-Peintre"
   ],
-  "cost": 99900000
+  "cost": 99400000
  },
- "plan_E": 3489.1,
+ "plan_E": 2100.1,
  "hold_E": null,
  "delta_vs_hold": null,
  "future_waves": {},
- "transfers_needed_today": 4
+ "transfers_needed_today": 3
 }

@@ -592,7 +592,7 @@
    "one_day": 1590,
    "hills": 710
   },
-  "form_2026": 29.0,
+  "form_2026": 27.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 172,
   "pcs_points_2025": 323
@@ -1420,7 +1420,7 @@
    "one_day": 171,
    "hills": 159
   },
-  "form_2026": 24.8,
+  "form_2026": 20.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 81,
   "pcs_points_2025": 153
@@ -1470,29 +1470,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 202,
   "pcs_points_2025": 58
- },
- {
-  "tm_id": "6a17cdb2-0e8e-4315-9b3a-e3ba1e797f98",
-  "name": "Einer Rubio",
-  "position": "CLIMBER",
-  "price": 5900000,
-  "team": "Movistar Team",
-  "team_code": "MOV",
-  "is_available": true,
-  "pcs_url": "rider/einer-rubio",
-  "age": 28,
-  "speciality": {
-   "climber": 1927,
-   "gc": 1638,
-   "sprint": 6,
-   "time_trial": 64,
-   "one_day": 214,
-   "hills": 378
-  },
-  "form_2026": 25.2,
-  "giro_2026_stages": 21,
-  "pcs_points_2026": 103,
-  "pcs_points_2025": 412
  },
  {
   "tm_id": "71112608-919e-4286-ae7f-595a0b78cd9d",
@@ -1687,7 +1664,7 @@
   "team_code": "INS",
   "is_available": true,
   "pcs_url": "rider/filippo-ganna",
-  "age": 29,
+  "age": 30,
   "speciality": {
    "climber": 312,
    "gc": 1106,
@@ -1995,7 +1972,7 @@
    "one_day": 697,
    "hills": 459
   },
-  "form_2026": 31.4,
+  "form_2026": 29.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 180,
   "pcs_points_2025": 208
@@ -2317,7 +2294,7 @@
    "one_day": 2725,
    "hills": 1526
   },
-  "form_2026": 13.6,
+  "form_2026": 11.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 48,
   "pcs_points_2025": 158
@@ -2806,29 +2783,6 @@
   "pcs_points_2025": 606
  },
  {
-  "tm_id": "27714157-628f-4b5a-89d7-d4642a0e4966",
-  "name": "Edoardo Affini",
-  "position": "TIME_TRIALIST",
-  "price": 6100000,
-  "team": "Team Visma | Lease a Bike",
-  "team_code": "TVL",
-  "is_available": true,
-  "pcs_url": "rider/edoardo-affini",
-  "age": 30,
-  "speciality": {
-   "climber": 15,
-   "gc": 314,
-   "sprint": 212,
-   "time_trial": 2303,
-   "one_day": 177,
-   "hills": 140
-  },
-  "form_2026": 10.8,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 48,
-  "pcs_points_2025": 178
- },
- {
   "tm_id": "e267c9b1-65fc-4a52-9867-64b8c15a74b9",
   "name": "Matteo Jorgenson",
   "position": "CLIMBER",
@@ -2869,7 +2823,7 @@
    "one_day": 684,
    "hills": 348
   },
-  "form_2026": 65.6,
+  "form_2026": 56.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 336,
   "pcs_points_2025": 112

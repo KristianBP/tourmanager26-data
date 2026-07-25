@@ -1,0 +1,22 @@
+{
+ "round": {
+  "id": "b3348dcd-baca-4b64-ae20-980a6111b2c3",
+  "tournamentId": "9b6d66c3-7350-41f2-8e4e-76d39fba0a49",
+  "name": "Etappe 20",
+  "number": 20,
+  "startsAt": "2026-07-25T09:30:00.000Z",
+  "endsAt": "2026-07-25T20:00:00.000Z",
+  "deadlineAt": "2026-07-25T09:30:00.000Z",
+  "stageType": "MOUNTAIN",
+  "startCity": "Le Bourg d'Oisans",
+  "finishCity": "Alpe d'Huez",
+  "distanceKm": 171,
+  "createdAt": "2026-06-05T21:52:17.263Z",
+  "updatedAt": "2026-07-11T12:00:00.507Z"
+ },
+ "effectiveDeadline": "2026-07-25T09:30:00.000Z",
+ "configuredDeadline": "2026-07-25T09:30:00.000Z",
+ "secondsRemaining": 29955,
+ "isLocked": false,
+ "serverNow": "2026-07-25T01:10:44.993Z"
+}
