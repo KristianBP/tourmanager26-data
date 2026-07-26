@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-07-25T07:05:46.179435+00:00",
+ "generated_utc": "2026-07-26T01:15:22.636591+00:00",
  "errors": [
-  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-20"
+  "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-21"
  ],
- "active_stage": 20,
- "stage_type": "MOUNTAIN",
- "route": "Le Bourg d'Oisans -> Alpe d'Huez",
- "deadline_utc": "2026-07-25T09:30:00.000Z",
+ "active_stage": 21,
+ "stage_type": "FLAT",
+ "route": "Thoiry -> Paris Champs-Élysées",
+ "deadline_utc": "2026-07-26T14:25:00.000Z",
  "is_locked": false,
  "dnf_in_team": [],
  "pot": {
@@ -16,11 +16,12 @@
  },
  "blocks": {
   "A": [
-   20,
+   21,
    21
   ]
  },
  "locked_in_form_today": [
+  "Ben Healy",
   "Isaac del Toro",
   "Mathieu van der Poel",
   "Mattias Skjelmose",
@@ -30,41 +31,40 @@
  ],
  "noted_form": [
   "Anthony Turgis",
-  "Ben Healy",
   "Clément Russo"
  ],
  "today": {
   "transfers_in": [
-   "Ion Izagirre",
    "Jasper Philipsen",
-   "John Degenkolb"
+   "John Degenkolb",
+   "Nicolas Breuillard"
   ],
   "transfers_out": [
-   "Ben Healy",
    "Clément Russo",
-   "Florian Lipowitz"
+   "Florian Lipowitz",
+   "Silvan Dillier"
   ],
-  "sd": "UAE Team Emirates - XRG",
-  "sd_change": false,
+  "sd": "Alpecin - Premier Tech",
+  "sd_change": true,
   "team_after": [
    "Anthony Turgis",
-   "Ion Izagirre",
+   "Ben Healy",
    "Isaac del Toro",
    "Jakub Otruba",
    "Jasper Philipsen",
    "John Degenkolb",
    "Mathieu van der Poel",
    "Mattias Skjelmose",
+   "Nicolas Breuillard",
    "Remco Evenepoel",
-   "Silvan Dillier",
    "Tadej Pogačar",
    "Valentin Paret-Peintre"
   ],
-  "cost": 99400000
+  "cost": 99900000
  },
- "plan_E": 2100.1,
+ "plan_E": 884.5,
  "hold_E": null,
  "delta_vs_hold": null,
  "future_waves": {},
- "transfers_needed_today": 3
+ "transfers_needed_today": 4
 }

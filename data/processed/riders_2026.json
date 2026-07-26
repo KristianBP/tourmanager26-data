@@ -385,7 +385,7 @@
    "one_day": 65,
    "hills": 160
   },
-  "form_2026": 16.3,
+  "form_2026": 14.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 33,
   "pcs_points_2025": 74
@@ -500,7 +500,7 @@
    "one_day": 649,
    "hills": 478
   },
-  "form_2026": 16.8,
+  "form_2026": 12.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 32,
   "pcs_points_2025": 47
@@ -1075,7 +1075,7 @@
    "one_day": 385,
    "hills": 348
   },
-  "form_2026": 50.8,
+  "form_2026": 50.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 226,
   "pcs_points_2025": 312
@@ -1213,7 +1213,7 @@
    "one_day": 142,
    "hills": 482
   },
-  "form_2026": 128.3,
+  "form_2026": 122.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 496,
   "pcs_points_2025": 731
@@ -1282,7 +1282,7 @@
    "one_day": 623,
    "hills": 564
   },
-  "form_2026": 159.1,
+  "form_2026": 155.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 302,
   "pcs_points_2025": 461
@@ -1581,7 +1581,7 @@
    "one_day": 72,
    "hills": 286
   },
-  "form_2026": 49.5,
+  "form_2026": 45.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 144,
   "pcs_points_2025": 415
@@ -1650,7 +1650,7 @@
    "one_day": 1229,
    "hills": 1419
   },
-  "form_2026": 104.7,
+  "form_2026": 103.2,
   "giro_2026_stages": 21,
   "pcs_points_2026": 483,
   "pcs_points_2025": 841
@@ -1673,7 +1673,7 @@
    "one_day": 1254,
    "hills": 1164
   },
-  "form_2026": 88.1,
+  "form_2026": 84.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 454,
   "pcs_points_2025": 956
@@ -1742,7 +1742,7 @@
    "one_day": 4752,
    "hills": 3612
   },
-  "form_2026": 23.3,
+  "form_2026": 19.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 55,
   "pcs_points_2025": 221
@@ -1765,7 +1765,7 @@
    "one_day": 67,
    "hills": 604
   },
-  "form_2026": 137.0,
+  "form_2026": 134.0,
   "giro_2026_stages": 21,
   "pcs_points_2026": 601,
   "pcs_points_2025": 985
@@ -1788,7 +1788,7 @@
    "one_day": 145,
    "hills": 359
   },
-  "form_2026": 122.1,
+  "form_2026": 118.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 218,
   "pcs_points_2025": 184
@@ -2087,7 +2087,7 @@
    "one_day": 44,
    "hills": 86
   },
-  "form_2026": 15.4,
+  "form_2026": 13.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 38,
   "pcs_points_2025": 56
@@ -2133,7 +2133,7 @@
    "one_day": 535,
    "hills": 921
   },
-  "form_2026": 112.9,
+  "form_2026": 108.7,
   "giro_2026_stages": 21,
   "pcs_points_2026": 492,
   "pcs_points_2025": 714
@@ -2179,7 +2179,7 @@
    "one_day": 783,
    "hills": 749
   },
-  "form_2026": 12.4,
+  "form_2026": 11.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 63,
   "pcs_points_2025": 182
@@ -2300,29 +2300,6 @@
   "pcs_points_2025": 158
  },
  {
-  "tm_id": "c8557359-cb29-4145-a5f5-36588ac8a809",
-  "name": "Ilan Van Wilder",
-  "position": "CLIMBER",
-  "price": 6700000,
-  "team": "Soudal Quick-Step",
-  "team_code": "SOQ",
-  "is_available": true,
-  "pcs_url": "rider/ilan-van-wilder",
-  "age": 26,
-  "speciality": {
-   "climber": 1540,
-   "gc": 1923,
-   "sprint": 26,
-   "time_trial": 1112,
-   "one_day": 540,
-   "hills": 833
-  },
-  "form_2026": 104.7,
-  "giro_2026_stages": 0,
-  "pcs_points_2026": 232,
-  "pcs_points_2025": 668
- },
- {
   "tm_id": "bdd72e61-bff0-4efc-8343-89b9ce2c7df5",
   "name": "Jasper Stuyven",
   "position": "DOMESTIQUE",
@@ -2432,7 +2409,7 @@
    "one_day": 795,
    "hills": 1026
   },
-  "form_2026": 71.8,
+  "form_2026": 71.4,
   "giro_2026_stages": 21,
   "pcs_points_2026": 314,
   "pcs_points_2025": 675
@@ -2551,29 +2528,6 @@
   "giro_2026_stages": 0,
   "pcs_points_2026": 109,
   "pcs_points_2025": 841
- },
- {
-  "tm_id": "97935d9f-15a7-4f67-b3ae-a13c349fb971",
-  "name": "Pascal Ackermann",
-  "position": "SPRINTER",
-  "price": 8700000,
-  "team": "Team Jayco AlUla",
-  "team_code": "JAY",
-  "is_available": true,
-  "pcs_url": "rider/pascal-ackermann",
-  "age": 32,
-  "speciality": {
-   "climber": 134,
-   "gc": 380,
-   "sprint": 3922,
-   "time_trial": 68,
-   "one_day": 3743,
-   "hills": 2017
-  },
-  "form_2026": 28.1,
-  "giro_2026_stages": 16,
-  "pcs_points_2026": 172,
-  "pcs_points_2025": 226
  },
  {
   "tm_id": "466dc0c6-9ff9-41d1-9a3e-b15adf8a3c13",
@@ -2754,7 +2708,7 @@
    "one_day": 127,
    "hills": 264
   },
-  "form_2026": 25.4,
+  "form_2026": 23.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 76,
   "pcs_points_2025": 376
@@ -2777,7 +2731,7 @@
    "one_day": 418,
    "hills": 338
   },
-  "form_2026": 102.9,
+  "form_2026": 101.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 459,
   "pcs_points_2025": 606
@@ -3145,7 +3099,7 @@
    "one_day": 978,
    "hills": 599
   },
-  "form_2026": 104.9,
+  "form_2026": 103.7,
   "giro_2026_stages": 21,
   "pcs_points_2026": 443,
   "pcs_points_2025": 1142
@@ -3182,7 +3136,7 @@
   "team_code": "TUD",
   "is_available": true,
   "pcs_url": "rider/yannis-voisard",
-  "age": 27,
+  "age": 28,
   "speciality": {
    "climber": 566,
    "gc": 833,
@@ -3191,7 +3145,7 @@
    "one_day": 124,
    "hills": 325
   },
-  "form_2026": 61.7,
+  "form_2026": 61.1,
   "giro_2026_stages": 0,
   "pcs_points_2026": 226,
   "pcs_points_2025": 260
@@ -3628,7 +3582,7 @@
    "one_day": 154,
    "hills": 222
   },
-  "form_2026": 86.9,
+  "form_2026": 85.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 336,
   "pcs_points_2025": 139
