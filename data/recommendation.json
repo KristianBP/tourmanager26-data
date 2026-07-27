@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-07-26T07:26:08.508025+00:00",
+ "generated_utc": "2026-07-27T01:19:09.124029+00:00",
  "errors": [
   "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-21"
  ],
  "active_stage": 21,
  "stage_type": "FLAT",
  "route": "Thoiry -> Paris Champs-Élysées",
- "deadline_utc": "2026-07-26T14:25:00.000Z",
- "is_locked": false,
+ "deadline_utc": "2026-07-26T15:50:00.000Z",
+ "is_locked": true,
  "dnf_in_team": [],
  "pot": {
   "left": 10,
@@ -62,7 +62,7 @@
   ],
   "cost": 99900000
  },
- "plan_E": 884.5,
+ "plan_E": 884.9,
  "hold_E": null,
  "delta_vs_hold": null,
  "future_waves": {},

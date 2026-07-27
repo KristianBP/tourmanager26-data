@@ -1,86 +1,83 @@
 {
  "Mathieu van der Poel": {
-  "stage": 20,
-  "points": 8,
+  "stage": 21,
+  "points": 424,
   "notes": [
-   "Målgang 80. plass: 2p"
+   "Målgang 1. plass: 100p",
+   "Côte de la Butte Montmartre (2) (K4) 1.: 3p",
+   "Côte de la Butte Montmartre (3) (K4) 1.: 3p"
   ]
  },
  "Silvan Dillier": {
-  "stage": 20,
-  "points": 4,
+  "stage": 21,
+  "points": 44,
   "notes": [
-   "Målgang 131. plass: 1p"
-  ]
- },
- "Jakub Otruba": {
-  "stage": 20,
-  "points": 3,
-  "notes": [
-   "Målgang 136. plass: 1p"
-  ]
- },
- "Ben Healy": {
-  "stage": 20,
-  "points": 76,
-  "notes": [
-   "Målgang 31. plass: 3p",
-   "Spurt: Saint-Julien-Mont-Denis 10.: 6p",
+   "Målgang 147. plass: 1p",
    "Lagkamerat vant etappen (×4): 40p"
   ]
  },
- "Clément Russo": {
-  "stage": 20,
-  "points": 4,
+ "Jakub Otruba": {
+  "stage": 21,
+  "points": 3,
   "notes": [
-   "Målgang 77. plass: 2p"
+   "Målgang 156. plass: 1p"
+  ]
+ },
+ "Ben Healy": {
+  "stage": 21,
+  "points": 12,
+  "notes": [
+   "Målgang 37. plass: 3p"
+  ]
+ },
+ "Clément Russo": {
+  "stage": 21,
+  "points": 42,
+  "notes": [
+   "Målgang 10. plass: 21p"
   ]
  },
  "Mattias Skjelmose": {
-  "stage": 20,
-  "points": 84,
+  "stage": 21,
+  "points": 48,
+  "notes": [
+   "Målgang 65. plass: 2p",
+   "Spurt: Paris - Haut des Champs-Élysées 4.: 14p"
+  ]
+ },
+ "Remco Evenepoel": {
+  "stage": 21,
+  "points": 6,
+  "notes": [
+   "Målgang 32. plass: 3p"
+  ]
+ },
+ "Valentin Paret-Peintre": {
+  "stage": 21,
+  "points": 8,
+  "notes": [
+   "Målgang 83. plass: 2p"
+  ]
+ },
+ "Anthony Turgis": {
+  "stage": 21,
+  "points": 56,
   "notes": [
    "Målgang 8. plass: 28p"
   ]
  },
- "Remco Evenepoel": {
-  "stage": 20,
-  "points": 184,
-  "notes": [
-   "Målgang 2. plass: 80p",
-   "Col de Sarenne (HC) 5.: 12p"
-  ]
- },
- "Valentin Paret-Peintre": {
-  "stage": 20,
-  "points": 220,
-  "notes": [
-   "Målgang 46. plass: 3p",
-   "Spurt: Saint-Julien-Mont-Denis 12.: 4p",
-   "Col de la Croix de Fer (HC) 2.: 48p"
-  ]
- },
- "Anthony Turgis": {
-  "stage": 20,
-  "points": 2,
-  "notes": [
-   "Målgang 115. plass: 1p"
-  ]
- },
  "Isaac del Toro": {
-  "stage": 20,
-  "points": 184,
+  "stage": 21,
+  "points": 4,
   "notes": [
-   "Målgang 5. plass: 40p",
-   "Col de Sarenne (HC) 6.: 6p"
+   "Målgang 140. plass: 1p"
   ]
  },
  "Tadej Pogačar": {
-  "stage": 20,
-  "points": 148,
+  "stage": 21,
+  "points": 6,
   "notes": [
-   "Målgang 4. plass: 50p",
-   "Col de Sarenne (HC) 4.: 24p"
+   "Målgang 30. plass: 3p"
   ]
  },
  "UAE Team Emirates - XRG": {
@@ -91,71 +88,62 @@
   ]
  },
  "Richard Carapaz": {
-  "stage": 20,
-  "points": 606,
+  "stage": 21,
+  "points": 6,
   "notes": [
-   "Målgang 1. plass: 100p",
-   "Spurt: Saint-Julien-Mont-Denis 11.: 5p",
-   "Col de la Croix de Fer (HC) 1.: 60p",
-   "Col du Télégraphe (K1) 1.: 30p",
-   "Col du Galibier (HC) 1.: 60p",
-   "Col de Sarenne (HC) 2.: 48p"
-  ]
- },
- "Lenny Martínez": {
-  "stage": 20,
-  "points": 144,
-  "notes": [
-   "Målgang 6. plass: 36p"
-  ]
- },
- "Mauro Schmid": {
-  "stage": 20,
-  "points": 8,
-  "notes": [
-   "Målgang 53. plass: 2p"
+   "Målgang 39. plass: 3p"
   ]
  },
  "Mads Pedersen": {
-  "stage": 20,
-  "points": 52,
-  "notes": [
-   "Målgang 124. plass: 1p",
-   "Spurt: Saint-Julien-Mont-Denis 1.: 25p"
-  ]
- },
- "Quinn Simmons": {
-  "stage": 20,
-  "points": 16,
-  "notes": [
-   "Målgang 19. plass: 4p"
-  ]
- },
- "Sepp Kuss": {
-  "stage": 20,
-  "points": 624,
+  "stage": 21,
+  "points": 150,
   "notes": [
    "Målgang 3. plass: 60p",
-   "Spurt: Saint-Julien-Mont-Denis 13.: 3p",
-   "Col de la Croix de Fer (HC) 6.: 6p",
-   "Col du Télégraphe (K1) 5.: 6p",
-   "Col du Galibier (HC) 2.: 48p",
-   "Col de Sarenne (HC) 1.: 60p",
-   "Mest offensive rytter (×3): 75p"
+   "Spurt: Paris - Haut des Champs-Élysées 5.: 12p",
+   "Côte de la Butte Montmartre (1) (K4) 1.: 3p"
+  ]
+ },
+ "Lenny Martínez": {
+  "stage": 21,
+  "points": 4,
+  "notes": [
+   "Målgang 116. plass: 1p"
+  ]
+ },
+ "Mauro Schmid": {
+  "stage": 21,
+  "points": 4,
+  "notes": [
+   "Målgang 127. plass: 1p"
   ]
  },
  "Jasper Philipsen": {
-  "stage": 20,
-  "points": 2,
+  "stage": 21,
+  "points": 180,
   "notes": [
-   "Målgang 138. plass: 1p"
+   "Målgang 2. plass: 80p",
+   "Lagkamerat vant etappen (×2): 20p"
+  ]
+ },
+ "Quinn Simmons": {
+  "stage": 21,
+  "points": 4,
+  "notes": [
+   "Målgang 152. plass: 1p"
+  ]
+ },
+ "Sepp Kuss": {
+  "stage": 21,
+  "points": 3,
+  "notes": [
+   "Målgang 124. plass: 1p"
   ]
  },
  "Paul Seixas": {
-  "stage": 20,
-  "points": 42,
+  "stage": 21,
+  "points": 6,
   "notes": [
-   "Målgang 10. plass: 21p"
+   "Målgang 47. plass: 3p"
   ]
  }
 }

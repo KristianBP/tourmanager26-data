@@ -201,7 +201,7 @@
    "one_day": 855,
    "hills": 1820
   },
-  "form_2026": 68.3,
+  "form_2026": 64.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 273,
   "pcs_points_2025": 407
@@ -339,7 +339,7 @@
    "one_day": 127,
    "hills": 92
   },
-  "form_2026": 13.0,
+  "form_2026": 12.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 48,
   "pcs_points_2025": 158
@@ -675,7 +675,7 @@
   "team_code": "DEC",
   "is_available": true,
   "pcs_url": "rider/cees-bol",
-  "age": 30,
+  "age": 31,
   "speciality": {
    "climber": 39,
    "gc": 592,
@@ -960,7 +960,7 @@
    "one_day": 3084,
    "hills": 2032
   },
-  "form_2026": 65.0,
+  "form_2026": 55.4,
   "giro_2026_stages": 19,
   "pcs_points_2026": 313,
   "pcs_points_2025": 119
@@ -3260,7 +3260,7 @@
    "one_day": 2419,
    "hills": 1481
   },
-  "form_2026": 51.4,
+  "form_2026": 47.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 213,
   "pcs_points_2025": 117
@@ -3306,7 +3306,7 @@
    "one_day": 4255,
    "hills": 3134
   },
-  "form_2026": 41.2,
+  "form_2026": 39.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 155,
   "pcs_points_2025": 675
