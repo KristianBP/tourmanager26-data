@@ -86,7 +86,7 @@
    "one_day": 845,
    "hills": 90
   },
-  "form_2026": 15.2,
+  "form_2026": 12.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 35,
   "pcs_points_2025": 82
@@ -201,7 +201,7 @@
    "one_day": 855,
    "hills": 1820
   },
-  "form_2026": 64.1,
+  "form_2026": 62.6,
   "giro_2026_stages": 21,
   "pcs_points_2026": 273,
   "pcs_points_2025": 407
@@ -385,7 +385,7 @@
    "one_day": 65,
    "hills": 160
   },
-  "form_2026": 14.5,
+  "form_2026": 12.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 33,
   "pcs_points_2025": 74
@@ -408,7 +408,7 @@
    "one_day": 270,
    "hills": 309
   },
-  "form_2026": 26.4,
+  "form_2026": 23.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 83,
   "pcs_points_2025": 133
@@ -776,7 +776,7 @@
    "one_day": 1917,
    "hills": 1146
   },
-  "form_2026": 31.4,
+  "form_2026": 27.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 112,
   "pcs_points_2025": 1161
@@ -845,7 +845,7 @@
    "one_day": 665,
    "hills": 569
   },
-  "form_2026": 129.5,
+  "form_2026": 128.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 540,
   "pcs_points_2025": 255
@@ -914,7 +914,7 @@
    "one_day": 1691,
    "hills": 1528
   },
-  "form_2026": 11.3,
+  "form_2026": 11.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 65,
   "pcs_points_2025": 178
@@ -1167,7 +1167,7 @@
    "one_day": 1865,
    "hills": 1804
   },
-  "form_2026": 172.3,
+  "form_2026": 168.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 779,
   "pcs_points_2025": 1108
@@ -1213,7 +1213,7 @@
    "one_day": 142,
    "hills": 482
   },
-  "form_2026": 122.1,
+  "form_2026": 116.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 496,
   "pcs_points_2025": 731
@@ -1259,7 +1259,7 @@
    "one_day": 5072,
    "hills": 3776
   },
-  "form_2026": 87.7,
+  "form_2026": 87.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 490,
   "pcs_points_2025": 2233
@@ -1282,7 +1282,7 @@
    "one_day": 623,
    "hills": 564
   },
-  "form_2026": 155.0,
+  "form_2026": 151.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 302,
   "pcs_points_2025": 461
@@ -1397,7 +1397,7 @@
    "one_day": 1280,
    "hills": 842
   },
-  "form_2026": 52.5,
+  "form_2026": 52.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 302,
   "pcs_points_2025": 254
@@ -1650,7 +1650,7 @@
    "one_day": 1229,
    "hills": 1419
   },
-  "form_2026": 103.2,
+  "form_2026": 102.9,
   "giro_2026_stages": 21,
   "pcs_points_2026": 483,
   "pcs_points_2025": 841
@@ -1765,7 +1765,7 @@
    "one_day": 67,
    "hills": 604
   },
-  "form_2026": 134.0,
+  "form_2026": 133.5,
   "giro_2026_stages": 21,
   "pcs_points_2026": 601,
   "pcs_points_2025": 985
@@ -1903,7 +1903,7 @@
    "one_day": 974,
    "hills": 700
   },
-  "form_2026": 73.1,
+  "form_2026": 71.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 351,
   "pcs_points_2025": 535
@@ -2018,7 +2018,7 @@
    "one_day": 1066,
    "hills": 1592
   },
-  "form_2026": 35.6,
+  "form_2026": 33.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 200,
   "pcs_points_2025": 652
@@ -2032,7 +2032,7 @@
   "team_code": "Q36",
   "is_available": true,
   "pcs_url": "rider/quinten-hermans",
-  "age": 30,
+  "age": 31,
   "speciality": {
    "climber": 713,
    "gc": 784,
@@ -2041,7 +2041,7 @@
    "one_day": 1292,
    "hills": 1455
   },
-  "form_2026": 49.8,
+  "form_2026": 48.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 258,
   "pcs_points_2025": 397
@@ -2133,7 +2133,7 @@
    "one_day": 535,
    "hills": 921
   },
-  "form_2026": 108.7,
+  "form_2026": 106.9,
   "giro_2026_stages": 21,
   "pcs_points_2026": 492,
   "pcs_points_2025": 714
@@ -2225,7 +2225,7 @@
    "one_day": 499,
    "hills": 684
   },
-  "form_2026": 20.6,
+  "form_2026": 18.7,
   "giro_2026_stages": 21,
   "pcs_points_2026": 81,
   "pcs_points_2025": 241
@@ -2294,7 +2294,7 @@
    "one_day": 2725,
    "hills": 1526
   },
-  "form_2026": 11.7,
+  "form_2026": 11.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 48,
   "pcs_points_2025": 158
@@ -2432,7 +2432,7 @@
    "one_day": 524,
    "hills": 504
   },
-  "form_2026": 33.3,
+  "form_2026": 29.3,
   "giro_2026_stages": 6,
   "pcs_points_2026": 120,
   "pcs_points_2025": 283
@@ -2731,7 +2731,7 @@
    "one_day": 418,
    "hills": 338
   },
-  "form_2026": 101.1,
+  "form_2026": 99.9,
   "giro_2026_stages": 21,
   "pcs_points_2026": 459,
   "pcs_points_2025": 606
@@ -2800,7 +2800,7 @@
    "one_day": 247,
    "hills": 612
   },
-  "form_2026": 68.2,
+  "form_2026": 58.6,
   "giro_2026_stages": 21,
   "pcs_points_2026": 268,
   "pcs_points_2025": 527
@@ -2869,7 +2869,7 @@
    "one_day": 2774,
    "hills": 1242
   },
-  "form_2026": 59.7,
+  "form_2026": 58.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 312,
   "pcs_points_2025": 338
@@ -2915,7 +2915,7 @@
    "one_day": 212,
    "hills": 180
   },
-  "form_2026": 25.1,
+  "form_2026": 23.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 90,
   "pcs_points_2025": 314
@@ -3053,7 +3053,7 @@
    "one_day": 5416,
    "hills": 2508
   },
-  "form_2026": 31.2,
+  "form_2026": 30.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 99,
   "pcs_points_2025": 756
@@ -3099,7 +3099,7 @@
    "one_day": 978,
    "hills": 599
   },
-  "form_2026": 103.7,
+  "form_2026": 103.0,
   "giro_2026_stages": 21,
   "pcs_points_2026": 443,
   "pcs_points_2025": 1142
@@ -3122,7 +3122,7 @@
    "one_day": 643,
    "hills": 558
   },
-  "form_2026": 37.4,
+  "form_2026": 36.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 174,
   "pcs_points_2025": 345
@@ -3191,7 +3191,7 @@
    "one_day": 630,
    "hills": 1592
   },
-  "form_2026": 77.1,
+  "form_2026": 74.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 218,
   "pcs_points_2025": 468
@@ -3260,7 +3260,7 @@
    "one_day": 2419,
    "hills": 1481
   },
-  "form_2026": 47.4,
+  "form_2026": 46.3,
   "giro_2026_stages": 0,
   "pcs_points_2026": 213,
   "pcs_points_2025": 117
@@ -3352,7 +3352,7 @@
    "one_day": 309,
    "hills": 266
   },
-  "form_2026": 23.0,
+  "form_2026": 18.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 60,
   "pcs_points_2025": 53
@@ -3375,7 +3375,7 @@
    "one_day": 1275,
    "hills": 633
   },
-  "form_2026": 55.3,
+  "form_2026": 53.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 267,
   "pcs_points_2025": 582
@@ -3398,7 +3398,7 @@
    "one_day": 1701,
    "hills": 2864
   },
-  "form_2026": 41.4,
+  "form_2026": 39.6,
   "giro_2026_stages": 0,
   "pcs_points_2026": 159,
   "pcs_points_2025": 482
