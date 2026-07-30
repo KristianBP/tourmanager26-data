@@ -201,7 +201,7 @@
    "one_day": 855,
    "hills": 1820
   },
-  "form_2026": 62.6,
+  "form_2026": 61.4,
   "giro_2026_stages": 21,
   "pcs_points_2026": 273,
   "pcs_points_2025": 407
@@ -1213,7 +1213,7 @@
    "one_day": 142,
    "hills": 482
   },
-  "form_2026": 116.1,
+  "form_2026": 113.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 496,
   "pcs_points_2025": 731
@@ -1650,7 +1650,7 @@
    "one_day": 1229,
    "hills": 1419
   },
-  "form_2026": 102.9,
+  "form_2026": 101.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 483,
   "pcs_points_2025": 841
@@ -1765,7 +1765,7 @@
    "one_day": 67,
    "hills": 604
   },
-  "form_2026": 133.5,
+  "form_2026": 131.4,
   "giro_2026_stages": 21,
   "pcs_points_2026": 601,
   "pcs_points_2025": 985
@@ -2055,7 +2055,7 @@
   "team_code": "Q36",
   "is_available": true,
   "pcs_url": "rider/tom-pidcock",
-  "age": 26,
+  "age": 27,
   "speciality": {
    "climber": 2836,
    "gc": 1671,
@@ -2133,7 +2133,7 @@
    "one_day": 535,
    "hills": 921
   },
-  "form_2026": 106.9,
+  "form_2026": 102.7,
   "giro_2026_stages": 21,
   "pcs_points_2026": 492,
   "pcs_points_2025": 714
@@ -2731,7 +2731,7 @@
    "one_day": 418,
    "hills": 338
   },
-  "form_2026": 99.9,
+  "form_2026": 99.2,
   "giro_2026_stages": 21,
   "pcs_points_2026": 459,
   "pcs_points_2025": 606
@@ -2846,7 +2846,7 @@
    "one_day": 821,
    "hills": 694
   },
-  "form_2026": 53.6,
+  "form_2026": 53.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 253,
   "pcs_points_2025": 578
@@ -3099,7 +3099,7 @@
    "one_day": 978,
    "hills": 599
   },
-  "form_2026": 103.0,
+  "form_2026": 102.1,
   "giro_2026_stages": 21,
   "pcs_points_2026": 443,
   "pcs_points_2025": 1142
