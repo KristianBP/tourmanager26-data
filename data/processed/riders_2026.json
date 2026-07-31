@@ -776,7 +776,7 @@
    "one_day": 1917,
    "hills": 1146
   },
-  "form_2026": 27.8,
+  "form_2026": 24.2,
   "giro_2026_stages": 0,
   "pcs_points_2026": 112,
   "pcs_points_2025": 1161
@@ -1259,7 +1259,7 @@
    "one_day": 5072,
    "hills": 3776
   },
-  "form_2026": 87.2,
+  "form_2026": 85.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 490,
   "pcs_points_2025": 2233
@@ -2570,7 +2570,7 @@
    "one_day": 6519,
    "hills": 3345
   },
-  "form_2026": 14.4,
+  "form_2026": 13.0,
   "giro_2026_stages": 0,
   "pcs_points_2026": 73,
   "pcs_points_2025": 58
@@ -2998,7 +2998,7 @@
   "team_code": "TEN",
   "is_available": true,
   "pcs_url": "rider/thibault-guernalec",
-  "age": 28,
+  "age": 29,
   "speciality": {
    "climber": 46,
    "gc": 512,
