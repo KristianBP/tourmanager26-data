@@ -1466,7 +1466,7 @@
    "one_day": 209,
    "hills": 200
   },
-  "form_2026": 59.2,
+  "form_2026": 58.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 202,
   "pcs_points_2025": 58
@@ -3596,7 +3596,7 @@
   "team_code": "AST",
   "is_available": true,
   "pcs_url": "rider/sergio-higuita",
-  "age": 28,
+  "age": 29,
   "speciality": {
    "climber": 2670,
    "gc": 2605,
