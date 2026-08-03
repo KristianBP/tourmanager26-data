@@ -123,7 +123,7 @@
   "team_code": "APT",
   "is_available": true,
   "pcs_url": "rider/silvan-dillier",
-  "age": 35,
+  "age": 36,
   "speciality": {
    "climber": 296,
    "gc": 997,
@@ -1098,7 +1098,7 @@
    "one_day": 2631,
    "hills": 1809
   },
-  "form_2026": 58.5,
+  "form_2026": 57.5,
   "giro_2026_stages": 0,
   "pcs_points_2026": 225,
   "pcs_points_2025": 613
@@ -1204,7 +1204,7 @@
   "team_code": "LTK",
   "is_available": true,
   "pcs_url": "rider/derek-gee",
-  "age": 28,
+  "age": 29,
   "speciality": {
    "climber": 1382,
    "gc": 1337,
@@ -1880,7 +1880,7 @@
    "one_day": 862,
    "hills": 696
   },
-  "form_2026": 24.2,
+  "form_2026": 22.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 106,
   "pcs_points_2025": 96
@@ -2892,7 +2892,7 @@
    "one_day": 557,
    "hills": 590
   },
-  "form_2026": 48.4,
+  "form_2026": 47.7,
   "giro_2026_stages": 0,
   "pcs_points_2026": 241,
   "pcs_points_2025": 634
@@ -2984,7 +2984,7 @@
    "one_day": 166,
    "hills": 171
   },
-  "form_2026": 32.0,
+  "form_2026": 31.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 150,
   "pcs_points_2025": 201
