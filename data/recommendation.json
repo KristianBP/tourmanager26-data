@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-05T07:27:28.575335+00:00",
+ "generated_utc": "2026-08-06T01:06:05.001376+00:00",
  "errors": [
   "orakel: 403 Client Error: Forbidden for url: https://www.cyclingoracle.com/nl/blog/tour-de-france-2026-voorspelling-etappe-21"
  ],
@@ -62,7 +62,7 @@
   ],
   "cost": 99900000
  },
- "plan_E": 889.3,
+ "plan_E": 889.7,
  "hold_E": null,
  "delta_vs_hold": null,
  "future_waves": {},
