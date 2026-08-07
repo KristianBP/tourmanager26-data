@@ -615,7 +615,7 @@
    "one_day": 1250,
    "hills": 392
   },
-  "form_2026": 55.0,
+  "form_2026": 44.8,
   "giro_2026_stages": 0,
   "pcs_points_2026": 277,
   "pcs_points_2025": 645
@@ -845,7 +845,7 @@
    "one_day": 665,
    "hills": 569
   },
-  "form_2026": 128.4,
+  "form_2026": 122.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 540,
   "pcs_points_2025": 255
@@ -1719,7 +1719,7 @@
    "one_day": 824,
    "hills": 1155
   },
-  "form_2026": 125.6,
+  "form_2026": 125.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 473,
   "pcs_points_2025": 1331
@@ -1811,7 +1811,7 @@
    "one_day": 3519,
    "hills": 2211
   },
-  "form_2026": 79.6,
+  "form_2026": 72.4,
   "giro_2026_stages": 0,
   "pcs_points_2026": 417,
   "pcs_points_2025": 867
@@ -2478,7 +2478,7 @@
    "one_day": 255,
    "hills": 458
   },
-  "form_2026": 139.4,
+  "form_2026": 138.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 530,
   "pcs_points_2025": 516
@@ -2869,7 +2869,7 @@
    "one_day": 2774,
    "hills": 1242
   },
-  "form_2026": 56.1,
+  "form_2026": 51.9,
   "giro_2026_stages": 0,
   "pcs_points_2026": 312,
   "pcs_points_2025": 338
@@ -3159,7 +3159,7 @@
   "team_code": "UAE",
   "is_available": true,
   "pcs_url": "rider/adam-yates",
-  "age": 33,
+  "age": 34,
   "speciality": {
    "climber": 7690,
    "gc": 7403,
